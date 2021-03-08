@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Eu falei com os necromantes Arlo. Eu sei sobre o seu acordo com eles e sei quem eu realmente sou."/>
+    <dia npc="0" str="Já disse, rapaz, para parar de bisbilhotar! Por que você não parou?"/>
+    <dia pl="1" str="Não importa. Teria acontecido eventualmente. Eles planejaram isso o tempo todo. Eles mataram os Packs."/>
+    <dia npc="1" str="É minha culpa. Pensei que se eu os prendesse lá, eles não poderiam nos prejudicar. Achei que fossem apenas bruxas malucas. Kyler e Leonard tentaram me avisar, mas eu não dei ouvidos. Darkwood foi ideia minha. Só tentei proteger você e os outros. Eu fui um tolo. Não mereço usar a armadura do rei. Eu não mereço viver."/>
+    <dia pl="2" str="Você fez o que tinha que fazer. Todos esses anos vivemos em harmonia. Você nos salvou. É minha vez de proteger as aldeias dos necromantes."/>
+    <dia npc="2" str="O que eles disseram? O que eles vão fazer?"/>
+    <dia pl="3" str="Tenho que levar seus restos mortais para Darkwood. Eles me disseram que eu sou o único que pode encontrá-los. Eles não farão mal a ninguém. Eles vão esperar meu retorno."/>
+    <dia npc="3" str="Receio que seja verdade. O Rei Triston escondeu seus restos em locais selados magicamente. Apenas os descendentes da linhagem real podem entrar neles. Só você pode realizar esta tarefa. Vamos torcer para que os necromantes mantenham sua promessa. Vou falar com Kyler e cuidaremos das aldeias. O que você vai fazer agora?"/>
+    <dia pl="4" str="Tenho que deixar Darkwood e começar a busca pelos restos mortais. Você sabe alguma coisa sobre o paradeiro deles? Por onde devo começar?"/>
+    <dia npc="4" str="Eu não faço ideia. Leonard deve saber de algo. A guilda dos magos selou os esconderijos e Leonard era um membro da guilda. Quando os rebeldes invadiram o reino, as guildas se dispersaram. Espero que ao longo dos anos os magos tenham encontrado uma maneira de manter a guilda viva. Se você encontrar os membros restantes da guilda dos guerreiros, diga a eles que eu te enviei e diga as palavras 'Guardiões da luz', mas não diga a eles que você é o príncipe! Você nunca sabe quem pode estar ouvindo e os rebeldes ficaram realmente loucos quando não puderam encontrar você, porque isso significava que eles não poderiam acabar com sua linhagem."/>
+    <dia pl="5" str="Por que os rebeldes invadiram o reino? Meu pai era um governante ruim? Por que eles nos odeiam?"/>
+    <dia npc="5" str="Não sabemos, filho. Seu pai era um rei justo. Eles começaram seus ataques logo após lidarmos com as hordas de mortos-vivos perto de nossas fronteiras. Depois de nossas batalhas com os mortos-vivos, estávamos exaustos e os rebeldes se aproveitaram disso. Não revele sua identidade para ninguém, garoto!"/>
+    <dia pl="6" str="Cuide de todos, Arlo. Fique atento, porque o portal da cidade está aberto. Eles tornaram as runas inúteis."/>
+    <dia npc="6" str="Nós faremos nosso melhor. Desejo-lhe boa sorte em sua jornada. Agora vá falar com Leonard."/>
+	<dia pl="7" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

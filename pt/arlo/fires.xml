@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Eu ouvi sobre as tochas. Acredite em mim, Aron não tem nada a ver com os incêndios. A tocha que usamos em casa não começou o fogo porque está em uma parede que não foi queimada."/>
+    <dia npc="0" str="As tochas são a única explicação. Eu tive problemas com as minhas próprias tochas."/>
+    <dia pl="1" str="Como você pode dizer isso? Eu te disse que a nossa tocha em casa não tem nada a ver com os incêncidos. Outra coisa começou."/>
+    <dia npc="1" str="Calma, criança. Me diga o que você acha? Como o incêndio começou na sua casa?"/>
+    <dia pl="2" str="Não sei. Mas vou descobrir." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

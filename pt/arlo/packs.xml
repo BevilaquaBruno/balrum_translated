@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Nenhuma notícia sobre os pacotes?"/>
+    <dia npc="0" str="Infelizmente, nenhuma. Se eles estão na floresta eu temo pelas suas vidas. Todos os tipos de monstros vivem em Darkwood. Fox viu um Troll outro dia. Vamos esperar o melhor para sua família."/>
+    <dia pl="1" str="Eles deixaram a floresta? Eles querem o mundo de volta governado por bandidos? Porque eles deixariam esta vila segura? Eles seriam tão cruéis a ponto de arriscar uma vida pior por seu filho?"/>
+    <dia npc="1" str="Se eles saíram da vila para voltarem às suas vidas antigas, a decisão é deles. Não sabemos nada com certeza, criança. Duvido que eles tenham saído sem qualquer aviso. Vamos torcer para que sejam encontrados."/>
+    <dia pl="2" str="Fim." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

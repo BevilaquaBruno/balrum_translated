@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Eu sei que você falou com os necromantes, Arlo."/>
+    <dia npc="0" str="Do que você está falando?"/>
+    <dia pl="1" str="Encontrei uma carta no topo da velha torre. Necromantes estavam falando sobre você nele."/>
+    <dia npc="1" str="Que bobagem você está tagarelando? Como você entrou na torre?"/>
+    <dia pl="2" str="Leonard me deu a chave. Eu sei que você fez algo, Arlo, e vou descobrir o que foi!"/>
+    <dia npc="2" str="Pare! O que quer que você esteja fazendo, tem que parar!"/>
+    <dia pl="3" str="Diga-me, Arlo, o que aconteceu quando as pessoas entraram na floresta!"/>
+    <dia npc="3" str="Deixe-me, seu garoto insolente. Não vou ouvir mais essa bobagem!"/>
+	<dia pl="4" str="Bom. Vamos pelo caminho mais difícil, Arlo. Eu retornarei." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

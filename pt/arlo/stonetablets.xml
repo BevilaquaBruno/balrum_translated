@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Você sabe alguma coisa sobre tábuas de pedra?"/>
+    <dia npc="0" str="Do que você está falando?"/>
+    <dia pl="10" str="Thurza encontrou uma tábua de pedra na casa dos Pack"/>
+    <dia pl="11" str="Eu encontrei uma tábua de pedra na casa dos Pack."/>
+    <dia npc="1" str="O que? Que tipo de tábua? Tem algo escrito nela?"/>
+    <dia pl="2" str="Há algo esculpido na pedra. Estamos tentando traduzi-lo."/>
+    <dia npc="2" str="Assim que você tiver qualquer notícia, venha me contar garoto! para o bem da família Pack"/>
+    <dia pl="3" str="Farei, Arlo." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>
