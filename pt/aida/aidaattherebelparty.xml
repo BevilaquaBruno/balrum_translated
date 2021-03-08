@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Curtindo a festa?"/>
+    <dia npc="0" str="Eu não tinha visto você aqui, você é novo, não é?"/>
+    <dia pl="1" str="Sim, eu sou. Prazer em conhecê-lo."/>
+    <dia npc="1" str="O prazer é meu. É bom ver um novo rosto. Essas festas precisam de mais jovens como você. Os rebeldes são burros e fedorentos. Você é exatamene o oposto. Ultimamente, por alguma razão misteriosa, há cada vez menos pessoas aparecendo nesta festa."/>
+    <dia pl="2" str="Obrigado. Você beberia algo comigo?"/>
+    <dia npc="2" str="Eu temia que você nunca perguntasse."/>
+	<dia pl="3" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>
