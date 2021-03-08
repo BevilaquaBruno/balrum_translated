@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Como estão as coisas?"/>
+    <dia npc="0" str="Bem-vindo, meu jovem. Meu nome é Artie. As coisas estão melhores, garoto. As coisas estão melhores."/>
+    <dia pl="1" str="Os rebeldes dificultam sua vida?"/>
+    <dia npc="1" str="Sim, eles fazem. Para ser sincero, não posso reclamar porque eles não precisam de mim para nada. Eu sou muito velho. Os mais jovens não têm tanta sorte. Sempre que precisam de algo, têm que trabalhar para eles - sem remuneração, é claro."/>
+    <dia pl="2" str="Você pode me falar sobre os velhos tempos antes dos rebeldes?"/>
+    <dia npc="2" str="Aqueles foram os dias, eu lhe digo. As pessoas viviam em harmonia. O rei Eduardo era um bom rei. Ele manteve tudo em equilíbrio. Havia comida suficiente para todos. Havia festivais anuais em que todos eram convidados, não importando sua posição. Claro, havia uma grande diferença entre a vida dos nobres e dos plebeus, mas é assim que a vida funciona, garoto. O rei Edward manteve os mortos-vivos à distância e deu uma chance justa para todo jovem se tornar um cavaleiro. Quando era jovem, sonhava em ser cavaleiro. Às vezes, eles chamavam o rei de Kind Edward. Esses dias estão longe agora, garoto."/>
+	<dia pl="3" str="Obrigado." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

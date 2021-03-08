@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Precisa de alguma coisa?"/>
+    <dia npc="0" str="Bem, jovem, obrigado por perguntar. Se você não se importa, seria ótimo se você pudesse pegar alguns frascos de remédio de Ivo para mim. Suas garrafas aliviam minha dor."/>
+    <dia pl="1" str="Você está com dor?"/>
+    <dia npc="1" str="Não se preocupe, garoto. Eu vivi toda minha vida com dor. Minhas pernas, você sabe. Eles foram a razão pela qual eu não poderia me tornar um cavaleiro. Eu acho que poderia ter sido pior. Você apenas tem que olhar ao seu redor e ver que não importa o quão ruim as coisas pareçam, sempre há alguém que tem uma vida pior do que a sua."/>
+    <dia pl="2" str="Acho que você está certo. Quantos você precisa?"/>
+    <dia npc="2" str="Quatro bastarão, meu filho. Aqui, pegue esse dinheiro. Deve ser o suficiente para o velho Ivo. Fique com todas as moedas que ele te devolver. Diga a ele que eles são para mim. Ele só dá as coisas boas para algumas pessoas. Os rebeldes bebem alguma coisa barata diluída. he he..."/>
+	<dia pl="3" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>
