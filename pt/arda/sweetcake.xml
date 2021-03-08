@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Precisa de alguma ajuda em casa, Arda?"/>
+    <dia npc="0" str="É apenas mais um dia chato. Nada para fazer realmente. Mas talvez eu consiga adoçar o dia com um lindo bolo, não acha? Nem me lembro da última vez que fiz um bolo de melão. Todos na aldeia adoram. Não admira, está cheio de açúcar! Tenho todos os ingredientes, menos um. Eu não tenho melancias. Você poderia me trazer 3 melancias? Em retorno e te darei dois grandes pedações do bolo!"/>
+    <dia pl="10" str="É um acordo! Temos uma melancia madura em nossos campos em casa, então só preciso encontrar mais duas!" jumpNPCd= "1" jumpPlayerd = '2'/>
+    <dia pl="11" str="Faça três fatias grandes e temos um acordo." jumpNPCd= "2" jumpPlayerd = '2'/>
+    <dia npc="1" str="Ótimo! Eu estou indo preparar tudo. "/>
+	<dia npc="2" str="Tudo bem. É um acordo. Eu estou indo preparar tudo."/>
+	<dia pl="2" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>
