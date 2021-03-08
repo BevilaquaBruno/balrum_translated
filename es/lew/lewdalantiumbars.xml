@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Aquí están algunos minerales de dalantium."/>
+    <dia npc="0" str="Esto necesitara mucho calor. Solo las mejores maderas de pino pueden quemar a temperaturas suficientemente altas. Por suerte tenemos un montón aquí. Espera un poco y estará listo."/>
+    <dia pl="1" str="..."/>
+    <dia npc="1" str="Aquí tienes. No es una belleza? Tráeme más y con mucho gusto haré más barras para ti."/>
+    <dia pl="2" str="Gracias." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

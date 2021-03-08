@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="He matado a la garrapata gigantesca que vivía en las cuevas de los golem de piedra!"/>
+    <dia npc="0" str="Esas garrapatas son criaturas horribles! Has hecho un gran favor a los muchachos de la aldea! Toma una recompensa joven!"/>
+    <dia pl="1" str="Gracias!" jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

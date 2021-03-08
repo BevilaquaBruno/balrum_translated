@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="What are you doing here?"/>
+    <dia npc="0" str="Get out now!"/>
+   	<dia pl="1" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

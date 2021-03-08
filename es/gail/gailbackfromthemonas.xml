@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="He vuelto de las ruinas."/>
+    <dia npc="0" str="Estoy realmente sorprendido. Encontraste a alguno de los reclutas?"/>
+    <dia pl="1" str="Encontré un cuerpo. La daga estaba a su lado. El llevaba ropas sencillas, debería tener unos 20 años."/>
+    <dia npc="1" str="Ahh Si... Burt. Marcaré su nombre en la lista. Gracias. Dame la daga."/>
+    <dia pl="2" str="... Toma, aquí tienes."/>
+    <dia npc="2" str="Si, esta es la daga. Las pobres almas ni siquiera saben el poco valor que tiene. Es una daga sencilla, llena de gemas sin valor."/>
+	<dia pl="3" str="..."/>
+    <dia npc="3" str="Por qué me miras de esa manera? La tarea era simple. Solo tenías que permanecer en las sombras. Los no.muertos apenas te pueden ver en la oscuridad. Todos los reclutas podrían haber evitado eso fácilmente. Supongo que has descubierto esto. Enhorabuena!"/>
+    <dia pl="4" str="Qué pasa ahora? Puedo ser del clan?"/>
+    <dia npc="4" str="A partir de ahora eres uno de los nuestros. Te has ganado el titulo de sombra. Si hablas del clan a una persona ajena, vamos a darte caza."/>
+	<dia pl="5" str="Ahora el clan me ayudara a encontrar las ruinas de los nigromantes del bosque oscuro?"/>
+    <dia npc="5" str="Te ayudaremos! Habla con Knox. Ahora si no te importa tenemos otras cosas que atender y no te olvides de hablar con los demás. De ahora en adelante comerciaran y te enseñaran cosas."/>
+	<dia pl="6" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

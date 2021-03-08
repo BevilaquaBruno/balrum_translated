@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Donde puedo comprar materiales?"/>
+    <dia npc="0" str="Vas a necesitar clavos, madera, y una maneta para la puerta. La madera la puedes encontrar en cualquier sitio, pero una maneta y unos clavos resistentes los tiene que hacer un herrero. Ves a ver Aron. El te venderá lo que necesitas. Si quieres, puedes visitar al carpintero, el maestro Jones. El puede ayudarte con los trabajos mas delicados."/>
+	<dia pl="1" str="Gracias, abuelo. Me pondré a recoger la madera que necesito y visitaré Aron para los materiales." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

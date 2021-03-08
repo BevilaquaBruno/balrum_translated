@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I'm here for the teleportation rune, Daralis."/>
+    <dia npc="0" str="It's complete. I'm certain that I managed to perfectly calibrate the rune. You see, the large holes in the rune are filled with magical energy. The ratio between the magical energy level determines where the user will be teleported. I had to ask around the guild to get an accurate picture of where the mages' library is located. Thankfully, a few of our members have already broken into their tower a few times. I advise you to use it at night, when most of the mages are asleep. Good luck with your mission, shadow."/>
+	<dia pl="1" str="Thank you." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

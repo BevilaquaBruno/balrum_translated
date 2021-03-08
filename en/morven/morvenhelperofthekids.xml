@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Are you the one who hid the children underground?"/>
+    <dia npc="0" str="What did you do to them? If you harmed any one of them, we will hunt you down."/>
+    <dia pl="1" str="Calm down. None of them were harmed. I just stumbled across them. I spoke to Max. He gave me this rune."/>
+    <dia npc="1" str="Let me be the judge of that."/>
+	<dia pl="2" str="..." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

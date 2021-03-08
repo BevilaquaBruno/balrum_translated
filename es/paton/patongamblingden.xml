@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Qué es este sitio?"/>
+    <dia npc="0" str="Quién te ha dejado entrar? Eres amigo o enemigo? Habla deprisa!"/>
+    <dia pl="1" str="Ninguno de los dos, pero te puedo decir que no estoy con los rebeldes."/>
+    <dia npc="1" str="Si dices que no estas con los rebeldes eso indica que probablemente estas con los rebeldes."/>
+    <dia pl="2" str="Como puedo demostrártelo?"/>
+    <dia npc="2" str="Ya has visto lo que esta pasando aquí. Los ricos vienen aquí a apostar. Esto es lo único divertido que tienen y que los rebeldes no conocen. De aquí puedes sacar una buena cantidad de dinero, pareces alguien que puede permitírselo. Entonces creeré tu historia."/>
+    <dia pl="3" str="Cuanto cuesta?"/>
+    <dia npc="3" str="Mil thalers serán."/>
+	<dia pl="4" str="Tengo que pensármelo." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

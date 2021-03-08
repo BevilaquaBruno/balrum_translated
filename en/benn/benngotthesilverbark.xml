@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I found all three of the material you need Benn!"/>
+    <dia npc="0" str="Fascinating! Come back tomorrow I should be ready with your bow by then."/>
+    <dia pl="1" str="Thank you Benn. I will be back." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

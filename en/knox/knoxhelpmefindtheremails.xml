@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Gail told me to talk to you. I need to find the remains of the Darkwood necromancers."/>
+    <dia npc="0" str="A newcomer with an interesting mission. Why do you seek the remains?"/>
+    <dia pl="1" str="I have my reasons. I would keep them to myself."/>
+    <dia npc="1" str="Fair enough. Our guild has no library, for obvious reasons. We don't like to keep records of our endeavors. What you seek is secret knowledge. Only the mages' guild knows where the remains are hidden. I think we can make something happen here."/>
+    <dia pl="2" str="I'm listening."/>
+    <dia npc="2" str="You must know by now that most of our members use teleportation devices. We could make you a device which would teleport you into the mages' library. There you would find the information you seek."/>
+	<dia pl="3" str="Can you make me such a device?"/>
+    <dia npc="3" str="I could with the help of Daralis. But it won't be easy to convince Daralis to help a newcomer."/>
+    <dia pl="4" str="I will speak to Daralis. I have to convince her to help."/>
+    <dia npc="4" str="Good luck."/>
+	<dia pl="5" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

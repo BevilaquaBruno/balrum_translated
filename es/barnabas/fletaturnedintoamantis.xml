@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="A ocurrido algo horrible! Fleta se bebió la poción y se transformo en una mantis gigante!"/>
+    <dia npc="0" str="Que? 'Barnabas mira sus pociones..' Oh no, me temo que te he dado la poción equivocada. Lo siento, estoy tan avergonzado. Mi querido amor me dejo por esto, por que soy muy olvidadizo. 'Barnabas esta quieto y pensativo' Oh, pero al menos se curarla. No tendrá una muerte horrible!"/>
+    <dia pl="10" str="Rápido dame la poción! Todavía tenemos la oportunidad de salvarla!"  jumpNPCd= "2" jumpPlayerd = '3'/>
+    <dia pl="11" str="Es demasiado tarde. La maté porque me intento atacar. Tuve que protegerme."/>
+    <dia npc="1" str="Lo entiendo chico. No tenias otra opción. La culpa es mía. Si no te hubiera dado la poción equivocada, nada de esto habría sucedido."/>
+    <dia pl="2" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia npc="2" str="Podemos girar la historia todavía! He creado un hechizo con la poción. Podrás usarlo solo una vez así que ten cuidado."/>
+    <dia pl="3" str="Espero que no sea demasiado tarde." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

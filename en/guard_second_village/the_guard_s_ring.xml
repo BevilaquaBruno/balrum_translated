@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I'm back."/>
+    <dia npc="0" str="I'll be honest with you. I thought you would come running back crying. But I have to say there's more in you than meets the eye."/>
+    <dia pl="10" str="Here is your ring. The spiders were no match for me." jumpNPCd= "1" jumpPlayerd = '2'/> 
+    <dia pl="11" str="I killed a lot of them, but they overcame me." jumpNPCd= "2" jumpPlayerd = '2'/>
+    <dia npc="1" str="Thank you! I won't forget this. You have proven that you are trustworthy! You are free to go and see Kyler."/> 
+    <dia npc="2" str="Thank you for trying. I see the many scars that those beasts left on your body. None of my friends would help me, but you did. This proves that you are trustworthy! You are free to go and see Kyler."/>
+	<dia pl="2" str="I'll be on my way." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

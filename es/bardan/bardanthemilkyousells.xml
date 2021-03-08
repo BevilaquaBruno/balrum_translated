@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="He oído que la leche que esta vendiendo está agria. Las personas están exigiendo un reembolso."/>
+    <dia npc="0" str="Qué? Yo no vendo leche agria! Mi leche esta perfecta! No tengo la culpa de que los campesinos sean imbéciles y dejen la leche bajo el sol y se la beban demasiado tarde. Quien se quejó?"/>
+    <dia pl="1" str="Varios de tus clientes se quejaron. Tres de ellos para ser exactos."/>
+    <dia npc="1" str="No me lo puedo creer. Entonces deben estar diciendo la verdad. Te daré el reembolso. 150 thalers para tres de mis clientes. Espero que pueda confiar en ti dandote el dinero. Si lo haces te daré un poco más por tu tiempo. Si tienes algo de tiempo libre ves hablar con mi hijo, Garett. El es el responsable de llenar los cubos con leche. Habla con el sobre esto. Espero por su bien que no haya hecho alguna estupidez."/>
+	<dia pl="2" str="Voy hacer lo que me pides. Gracias." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

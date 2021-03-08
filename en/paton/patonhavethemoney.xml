@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Here take the money."/>
+    <dia npc="0" str="Good. The rebel scum would never let go of such an amount. That proves that I can trust you. You are free to look around. If you speak of this place we will find out. You look like a smart kid, so you can imagine what would happen to you."/>
+    <dia pl="1" str="Yes I can."/>
+    <dia npc="2" str="And by the way. I usually ask for five hundread thalers. So don't think you are 'that' smart. And if you meet good looking young ladies, feel free to tell them about this place. I might have a job or two for them. Like serving food and singing at one of our parties."/>
+	<dia pl="2" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

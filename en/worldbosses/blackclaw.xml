@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I have slain the giant black bear Black Claw!"/>
+    <dia npc="0" str="You killed the bear by yourself? Now that is impressive! Please accept this gift for your troubles."/>
+    <dia pl="1" str="Thank you!" jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

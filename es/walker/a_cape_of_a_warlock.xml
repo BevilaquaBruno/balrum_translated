@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+   <dia pl="0" str="Tengo una capa!"/>
+   <dia npc="0" str="Maravilloso! 'Harry te coge la capa de las manos.' Gracias por hacer el trabajo duro por mi. Mi creación finalmente ha concluido! Finalmente! Mira ahora, niño! Mira lo que has hecho! 'Harry rompe un pedazo de la capa y la tira en una botella llena de liquido negro y se la bebe.'"/>
+   <dia pl="1" str="Fin." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

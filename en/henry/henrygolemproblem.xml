@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="How are things?"/>
+    <dia npc="0" str="These golems. They make our life a misery."/>
+    <dia pl="1" str="Why?"/>
+    <dia npc="1" str="Their numbers are increasing every day. My men have been trying to fight them but we might have to close the mine because the situation is becoming impossible. They are coming from every direction. I fear we have found their underground cave and angered them. I don't know what to do."/>
+    <dia pl="2" str="You should ask for help."/>
+    <dia npc="2" str="Many years ago the mages helped us with the golems. One of them needed their essence. The mage who was experimenting with the golems used powerful spells against the beasts. At least this is what I have been told."/>
+    <dia pl="3" str="They needed their essence?"/>
+    <dia npc="3" str="Really powerful golems all have stone essences inside them. The mage was trying to control them somehow."/>
+    <dia pl="4" str="How did you fight the golems when the mages were not there to help?"/>
+    <dia npc="4" str="My father told me tales about a group of miners whose job was to defeat such beasts. They are only a legend now."/>
+    <dia pl="5" str="Where can I find a really powerful golem?"/>
+    <dia npc="5" str="Don't be reckless boy! Those creatures are dangerous! You can search the mines here, but if you try to find one you are putting yourself in great danger. Here take this sword. You don't stand a chance against them without it."/>
+    <dia pl="6" str="Thank you." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

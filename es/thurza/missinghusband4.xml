@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Me encontré a Robert cerca de la guarida de osos. Ya estaba muerto cuando llegué ahí."/>
+    <dia npc="0" str="'Por un momento Thurza parece aliviada.' Qué voy ha hacer ahora. Yo... Por favor déjame en paz."/>
+    <dia pl="1" str="Lo siento mucho Thurza." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

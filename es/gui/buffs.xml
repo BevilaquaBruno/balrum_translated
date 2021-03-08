@@ -1,0 +1,378 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--%data% data-->
+<!--%n% new line-->
+<!--%l% line skip-->
+<buffs>
+
+<buff id="36" type="NAME" n="Enfurecido" />
+<buff id="36" type="MODIFY_OUTGOING_PHISICAL_DAMAGE" n="El daño incrementa un %data%." />
+<buff id="38" type="NAME" n="Cuero duro" />
+<buff id="38" type="MODIFY_ARMOR" n="La armadura incrementa un %data%." />
+<buff id="39" type="NAME" n="Enfurecido" />
+<buff id="39" type="MODIFY_OUTGOING_PHISICAL_DAMAGE" n="El daño incrementa un %data%." />
+<buff id="43" type="NAME" n="Graznido potente" />
+<buff id="43" type="MODIFY_CRIT_CHANCE_WEAPON" n="Suerte crítico incrementa un %data%%." />
+<buff id="63" type="NAME" n="Enfurecido" />
+<buff id="63" type="MODIFY_OUTGOING_PHISICAL_DAMAGE" n="El daño incrementa un %data%." />
+<buff id="107" objid="298" type="NAME" />
+<buff id="107" type="LORE1" n="Esto aumenta el uso de las herramientas fabricadas en oportunidad crítica un 15% (Mesa de alquimia)." />
+<buff id="108" objid="308" type="NAME" />
+<buff id="108" type="LORE1" n="Esto aumenta el uso de las herramientas fabricadas en oportunidad crítica un 15% (Yunque)." />
+<buff id="114" type="NAME" n="Cuero duro" />
+<buff id="114" type="MODIFY_ARMOR" n="La armadura incrementa un  %data%." />
+<buff id="118" type="NAME" n="Enfurecido" />
+<buff id="118" type="MODIFY_OUTGOING_PHISICAL_DAMAGE" n="El daño incrementa un %data%." />
+
+<buff id="79" objid="632" type="NAME" />
+<buff id="61" type="NAME" n="Rugido de Troll" />
+<buff id="61" type="MODIFY_OUTGOING_PHISICAL_DAMAGE" n="El daño incrementa un %data% y tus atributos son mucho mayores." />
+
+<buff id="0" type="NAME" n="Hemorragia" />
+<buff id="0" type="LORE1" n="Hemorragia de una herida profunda." />
+<buff id="1" type="NAME" n="Hemorragia" />
+<buff id="1" type="LORE1" n="Hemorragia causada por un golpe crítico." />
+<buff id="2" type="NAME" n="Ver poción invisible de Buck." />
+<buff id="3" type="NAME" n="Quemar" />
+<buff id="3" type="LORE1" n="Quema de una piroexplisión." />
+<buff id="3" type="DAMAGE" n="Quema el objetivo por %data%-%data% daño cada turno!" />
+<buff id="4" type="NAME" n="Quemada de lluvia de fuego" />
+<buff id="4" type="DAMAGE" n="Quema el objetivo por %data%-%data% daño cada turno!" />
+<buff id="5" type="NAME" n="Ardiente" />
+<buff id="5" type="DAMAGE" n="Quema el objetivo por %data%-%data% daño cada turno!" />
+<buff id="6" objid="335" type="NAME" />
+<buff id="6" type="LORE1" n="Estoy protegido contra el frío de menor importancia." />
+<buff id="8" type="NAME" n="Criminal!" />
+<buff id="9" type="NAME" n="Voy borracho!" />
+<buff id="10" type="NAME" n="Cargado electricamente" />
+<buff id="11" type="NAME" n="Temor" />
+<buff id="11" type="TURN" n="Teme al objetivo por %data% turnos." />
+<buff id="12" type="NAME" n="Congelado" />
+<buff id="12" type="TURN" n="Congelado en el sitio por %data% turnos." />
+<buff id="13" type="NAME" n="Barriga llena!" />
+<buff id="13" type="LORE1" n="La salud se regenera lentamente. La salud se regenera más rápido aunque no estes en combate." />
+<buff id="14" type="NAME" n="Buena acción!" />
+<buff id="15" type="NAME" n="Codicioso!" />
+<buff id="16" type="NAME" n="Esperanzado!" />
+<buff id="17" type="NAME" n="Estoy hambriento!" />
+<buff id="18" type="NAME" n="Mentiroso!" />
+<buff id="19" type="NAME" n="Anochecer" />
+<buff id="19" type="DAMAGE" n="Daña al objetivo por %data% a %data% daño de las sombras cada turno!" />
+<buff id="20" type="NAME" n="Sin fe." />
+<buff id="21" type="NAME" n="No digno de confianza!" />
+<buff id="22" type="NAME" n="Polimirfo" />
+<buff id="22" type="TURN" n="Convierte al objetivo en un cerdo por %data% turnos." />
+<buff id="23" type="NAME" n="Sobredosis de poción!" />
+<buff id="23" type="LORE1" n="No puedes beber más pociones." />
+<buff id="24" type="NAME" n="Lanzador de claridad" />
+<buff id="25" type="NAME" n="Sigilo" />
+<buff id="26" type="NAME" n="Aturdir" />
+<buff id="26" type="LORE1" n="Aturdido" />
+<buff id="27" type="NAME" n="Objetivo ha esquivado!" />
+<buff id="28" type="NAME" n="Objetivo a parado!" />
+<buff id="29" type="NAME" n="Estoy muy deshidratado!" />
+<buff id="30" type="NAME" n="Estoy cansado!" />
+<buff id="31" type="NAME" n="Confiable!" />
+<buff id="32" type="NAME" n="Generoso!" />
+<buff id="33" type="NAME" n="Dormido bastante bien" />
+<buff id="34" type="NAME" n="Dormido bien" />
+<buff id="35" type="NAME" n="Aturdido" />
+<buff id="35" type="LORE1" n="Aturdido en el sitio." />
+<buff id="37" type="NAME" n="Rugido de oso" />
+<buff id="37" type="LORE1" n="Asustado por el rugido del oso." />
+<buff id="40" type="NAME" n="Hemorragia" />
+<buff id="40" type="LORE1" n="Hemorragia causada por un golpe crítico." />
+<buff id="41" type="NAME" n="Cegado" />
+<buff id="41" type="LORE1" n="Cegado por pequeños fragmentos de cristal." />
+<buff id="42" type="NAME" n="Fragmentos de cristal" />
+<buff id="42" type="LORE1" n="Hemorragia por muchas pequeñas heridas." />
+<buff id="44" type="NAME" n="Veneno de rana" />
+<buff id="44" type="LORE1" n="El sufrimiento del poderoso veneno de una rana del bosque." />
+<buff id="45" type="NAME" n="Aturdido" />
+<buff id="45" type="LORE1" n="Aturdido en el sitio." />
+<buff id="46" type="NAME" n="Grito de guerra" />
+<buff id="46" type="LORE1" n="Aumenta atributos!" />
+<buff id="47" type="NAME" n="Presencia fantasma" />
+<buff id="47" type="DAMAGE" n="Sufres %data%-%data% daños por escarcha cada turno!" />
+<buff id="47" type="LORE1" n="Este efecto solo se elimina si te encuentras a una distancia segura de la presencia que la emite." />
+<buff id="48" type="NAME" n="Aura helada" />
+<buff id="49" type="NAME" n="Saliva de larva" />
+<buff id="49" type="LORE1" n="El sufrimiento del veneno de la saliva de larva." />
+<buff id="50" type="NAME" n="Sangrante" />
+<buff id="51" type="NAME" n="Veneno de mantis" />
+<buff id="51" type="LORE1" n="El sufrimiento del poderoso veneno de la mantis humanoide." />
+<buff id="52" type="NAME" n="Veneno de mantis" />
+<buff id="52" type="LORE1" n="Estas sufriendo el potente veneno de la mantis gigante." />
+<buff id="53" type="NAME" n="Enfermedad de rata" />
+<buff id="53" type="LORE1" n="Tienes la peste de una rata gigante." />
+<buff id="54" type="NAME" n="Adrenalina" />
+<buff id="54" type="LORE1" n="Probabilidad de esquivar y la destreza de la rata son mucho mayores." />
+<buff id="55" type="NAME" n="Rabia" />
+<buff id="55" type="LORE1" n="Estás infectado con la rabia." />
+<buff id="56" type="NAME" n="Veneno" />
+<buff id="56" type="LORE1" n="El sufrimiento del veneno de una serpiente." />
+<buff id="57" type="NAME" n="Hipnotizado" />
+<buff id="57" type="LORE1" n="Hipnotizado." />
+<buff id="58" type="NAME" n="Telaraña" />
+<buff id="58" type="LORE1" n="Pegado en el sitio." />
+<buff id="59" type="NAME" n="Paralisis de araña" />
+<buff id="59" type="LORE1" n="Paralizado" />
+<buff id="60" type="NAME" n="Sangre infectada" />
+<buff id="60" type="LORE1" n="Sangre envenenada." />
+<buff id="62" type="NAME" n="Aplastado" />
+<buff id="62" type="LORE1" n="Aturdido en el sitio." />
+<buff id="64" type="NAME" n="Adrenalina" />
+<buff id="64" type="LORE1" n="La probabilidad de esquivar aumenta considerablemente." />
+<buff id="65" type="NAME" n="Aullido del lobo" />
+<buff id="65" type="LORE1" n="Asustado por el aullido de un lobo." />
+<buff id="66" type="NAME" n="Rabia" />
+<buff id="66" type="LORE1" n="Infectado con rabia." />
+<buff id="67" objid="553" type="NAME" />
+<buff id="68" objid="546" type="NAME" />
+<buff id="69" type="NAME" n="La ley de Adacus" />
+<buff id="70" objid="551" type="NAME" />
+<buff id="71" objid="550" type="NAME" />
+<buff id="72" objid="555" type="NAME" />
+<buff id="73" objid="556" type="NAME" />
+<buff id="74" objid="554" type="NAME" />
+<buff id="75" objid="618" type="NAME" />
+<buff id="76" objid="613" type="NAME" />
+<buff id="77" objid="631" type="NAME" />
+<buff id="78" objid="643" type="NAME" />
+<buff id="80" objid="611" type="NAME" />
+<buff id="81" objid="623" type="NAME" />
+<buff id="82" objid="627" type="NAME" />
+<buff id="83" objid="616" type="NAME" />
+<buff id="87" objid="633" type="NAME" />
+<buff id="88" objid="641" type="NAME" />
+<buff id="89" objid="646" type="NAME" />
+<buff id="94" type="NAME" n="Transformado" />
+<buff id="95" type="NAME" n="Dormí como un niño." />
+<buff id="96" type="NAME" n="Reflejar" />
+<buff id="96" type="LORE1" n="Reflejando todos los daños." />
+<buff id="97" type="NAME" n="Prisión de hielo" />
+<buff id="97" type="LORE1" n="Todo el daño recibido se absorbe." />
+<buff id="98" type="NAME" n="Terremoto" />
+<buff id="99" type="NAME" n="Invisible" />
+<buff id="100" type="NAME" n="Invisible" />
+<buff id="101" objid="401" type="NAME" />
+<buff id="101" type="DAMAGE" n="Envenena al objetivo por %data%-%data% daño cada turno!" />
+<buff id="102" type="NAME" n="Grito de guerra" />
+<buff id="103" type="NAME" n="Preparación!" />
+<buff id="103" type="LORE1" n="Garantiza golpe crítico para la próxima habilidad." />
+<buff id="104" type="NAME" n="Ciego" />
+<buff id="104" type="TURN" n="Ciega al objetivo por %data% turnos." />
+<buff id="105" type="NAME" n="Caníbal" />
+<buff id="106" type="NAME" n="Estás muriendo!" />
+<buff id="106" type="LORE1" n="Tu tiempo es limitado!" />
+<buff id="109" objid="297" type="NAME" />
+<buff id="109" type="LORE1" n="Tu visibilidad se redujo ligeramente." />
+<buff id="110" type="NAME" n="Doble turno" />
+<buff id="111" type="NAME" n="Me duelen los dedos al tratar de forzar la cerradura." />
+<buff id="112" type="NAME" n="Domando" />
+<buff id="112" type="LORE1" n="Estoy tratando de domar a este animal." />
+<buff id="112" type="LORE2" n="Una vez desaparezca el efecto domar tengo una pequeña posibilidad de que la criatura me vea como su líder de la manada." />
+<buff id="113" type="NAME" n="Aturdido" />
+<buff id="113" type="LORE1" n="Aturdido en el sitio." />
+<buff id="115" type="NAME" n="Temor" />
+<buff id="115" type="TURN" n="Teme al objetivo por %data% turnos." />
+<buff id="116" type="NAME" n="Telaraña" />
+<buff id="116" type="LORE1" n="Pegado en el sitio." />
+<buff id="117" type="NAME" n="Aullido de lobo" />
+<buff id="117" type="LORE1" n="Asustado por el aullido de los lobos." />
+<buff id="119" type="NAME" n="Enfoque esquivar" />
+<buff id="119" type="LORE1" n="La probabilidad esquivar aumenta considerablemente." />
+<buff id="120" type="NAME" n="Contra golpe arcano" />
+<buff id="120" type="LORE1" n="No puede lanzar hechizos." />
+<buff id="121" type="NAME" n="Desgracia minera" />
+<buff id="121" type="LORE1" n="Me lesioné mientras picaba." />
+<buff id="122" type="NAME" n="Mahoka!" />
+<buff id="125" type="NAME" n="Envenenado" />
+<buff id="125" type="DAMAGE" n="Daña al objetivo por %data%-%data% daño por turno!" />
+<buff id="126" type="NAME" n="Disminuir visibilidad" />
+<buff id="127" objid="474" type="NAME" />
+<buff id="127" type="LORE1" n="Sientes una presencia profana." />
+<buff id="128" objid="464" type="NAME" />
+<buff id="128" type="LORE1" n="Una vez perteneció a un héroe sin nombre." />
+<buff id="129" objid="510" type="NAME" />
+<buff id="129" type="LORE1" n="Un amigo leal en un largo viaje." />
+<buff id="130" objid="362" type="NAME" />
+<buff id="130" type="LORE1" n="Ojos vigilantes de Adacus." />
+<buff id="132" type="NAME" n="Náusea" />
+<buff id="133" type="NAME" n="Maldición infernal" />
+<buff id="133" type="DAMAGE" n="Daña al objetivo por %data%-%data% daño por tuno!" />
+<buff id="134" type="NAME" n="..." />
+<buff id="135" objid="515" type="NAME" />
+<buff id="135" type="LORE1" n="Tu visibilidad se redujo considerablemente." />
+<buff id="136" objid="524" type="NAME" />
+<buff id="136" type="LORE1" n="Estas regenerando lentamente salud." />
+<buff id="137" type="NAME" n="Transformado" />
+<buff id="138" type="NAME" n="Sensación de depredador" />
+<buff id="139" type="NAME" n="Cuenta atrás enfurecer" />
+<buff id="139" type="LORE1" n="Va a enfurecer!" />
+<buff id="140" type="NAME" n="Enfurecido" />
+<buff id="141" type="NAME" n="Oscuridad ligera" />
+<buff id="142" type="NAME" n="Oscuridad extrema" />
+<buff id="143" type="NAME" n="Poción de velocidad" />
+<buff id="144" type="NAME" n="La luz obedece" />
+<buff id="144" type="LORE1" n="Tengo el control total de la luz." />
+<buff id="145" type="NAME" n="Lunas llenas" />
+<buff id="145" type="LORE1" n="Ambas lunas están brillando. Sucede cada cinco días por lo que es un fenómeno común." />
+<buff id="146" type="NAME" n="Distraído" />
+<buff id="147" type="NAME" n="Sigilo" />
+<buff id="148" type="NAME" n="Turnos adicionales" />
+<buff id="149" type="NAME" n="Teleport Inmunidad" />
+<buff id="149" type="LORE1" n="Inmune a todos los daños." />
+<buff id="150" type="NAME" n="Evento efecto especial alquimia" />
+<buff id="150" type="LORE1" n="Los efectos especiales de alquimia estan sucediendo." />
+<buff id="151" type="NAME" n="Armadura añicos" />
+<buff id="152" type="NAME" n="Enfurecido" />
+<buff id="152" type="LORE1" n="Todos los atributos y los daños aumentan en gran medida." />
+<buff id="153" type="NAME" n="Va a ser enfurecido" />
+<buff id="153" type="LORE1" n="Estará enfurecido cuando este efecto desvanezca." />
+<buff id="154" type="NAME" n="No tiene en cuenta las amenazas" />
+<buff id="154" type="LORE1" n="Los valores de amenaza se restablecerán cuando este efecto desvanezca." />
+<buff id="155" type="NAME" n="Hueso fracturado" />
+<buff id="155" type="LORE1" n="Una férula se puede utilizar para ayudar en la curación de la fractura. Los efectos de aumento de velocidad no se pueden utilizar." />
+<buff id="156" type="NAME" n="Enfermo" />
+<buff id="156" type="LORE1" n="Una enfermedad debilita tu cuerpo. Tu cuerpo se deshidrata más rápido." />
+<buff id="157" type="NAME" n="Explosión de sangre" />
+<buff id="157" type="LORE1" n="Una explosión ocurrirá cuando este efecto desvanezca." />
+<buff id="158" type="NAME" n="Curación debilitado" />
+<buff id="158" type="LORE1" n="Todos los efectos de curación se reducen en un 50%." />
+<buff id="160" type="NAME" n="Toque de la muerte" />
+<buff id="160" type="LORE1" n="Los ataques enemigos cuerpo a cuerpo provocaran que huyan de miedo." />
+<buff id="161" objid="624" type="NAME" />
+<buff id="162" type="NAME" n="Envenenado" />
+<buff id="163" type="NAME" n="Impulsa experiencia en daño crítico" />
+<buff id="163" type="LORE1" n="Experiencia en daño crítico es de 300%." />
+<buff id="164" type="NAME" n="Pasos ardientes" />
+<buff id="165" type="NAME" n="Inmune a los efectos de aturdimiento" />
+<buff id="166" type="NAME" n="Supresión de aturdimeiento" />
+<buff id="166" type="LORE1" n="Seras inmune a aturdir durante 3 aturdimientos." />
+<buff id="167" type="NAME" n="Efecto inmune al aturdimiento" />
+<buff id="168" type="NAME" n="Completamente hidratado!" />
+<buff id="168" type="LORE1" n="La salud se regenera lentamente. La salud se regenera más rápido si no estás en combate." />
+<buff id="169" type="NAME" n="Silenciado" />
+<buff id="169" type="LORE1" n="No se pueden lanzar hechizos." />
+<buff id="171" type="NAME" n="Gas venenoso" />
+<buff id="172" type="NAME" n="Regenerar rosa mosqueta" />
+<buff id="173" type="NAME" n="Regenerar blueberry" />
+<buff id="174" type="NAME" n="Anillo fénix" />
+<buff id="174" type="LORE1" n="Despues de que este efecto desvanezca el poder del anillo será utilizable de nuevo." />
+<buff id="175" type="NAME" n="Anillo de pánico" />
+<buff id="175" type="LORE1" n="Este efecto desvanecerá cuando tu salud se ponga por encima del 15%." />
+<buff id="177" type="NAME" n="Tiro limpio sangrador" />
+<buff id="178" type="NAME" n="Sigilo" />
+<buff id="179" type="NAME" n="Enfermedad de Sabrina" />
+<buff id="180" type="NAME" n="Calor extremo!" />
+<buff id="180" type="LORE1" n="Es extremadamente caliente. Esto deshidrata muy rápido." />
+<buff id="181" type="NAME" n="Silencio" />
+<buff id="181" type="LORE1" n="No se puede lanzar hechizos." />
+<buff id="182" type="NAME" n="No puedes beber pociones!" />
+<buff id="182" type="LORE1" n="No se pueden beber pociones mientras dure este efecto." />
+<buff id="183" type="NAME" n="Uso doble de maná!" />
+<buff id="183" type="LORE1" n="Los hechizos usan doble mana mientras dure este efecto." />
+<buff id="184" type="NAME" n="Curación debilitada" />
+<buff id="184" type="LORE1" n="Los efectos de curación se reducen en un 90%." />
+<buff id="185" type="NAME" n="Maldición negra" />
+<buff id="185" type="LORE1" n="La maldición de los antiguos inmortales." />
+<buff id="186" type="NAME" n="Lepra" />
+<buff id="187" type="NAME" n="Toque le los Wisps" />
+<buff id="187" type="LORE1" n="Todos los efectos curativos se incrementan un 25%." />
+<buff id="188" type="NAME" n="Canción del druida" />
+<buff id="188" type="LORE1" n="Mientras que el efecto esta activo se regenerá una pequeña cantidad de salud cada turno." />
+<buff id="189" type="NAME" n="Sigilo" />
+<buff id="189" type="LORE1" n="La visibilidad se redujo." />
+<buff id="190" type="NAME" n="Sensación de depredador" />
+<buff id="191" type="NAME" n="Dormir" />
+<buff id="191" type="LORE1" n="La persona afectada por este efecto caerá en un sueño profundo. Cualquier daño interrumpirá el sueño." />
+<buff id="192" type="NAME" n="Anochecer" />
+<buff id="192" type="DAMAGE" n="Daña al objetivo por %data% a %data% daño de las sombras cada turno!" />
+<buff id="193" type="NAME" n="Hemorragia de heridas graves mejorada." />
+<buff id="194" type="NAME" n="Colocado!" />
+<buff id="195" type="NAME" n="Flecha de la miseria" />
+<buff id="195" type="LORE1" n="Cada turno la salud es robada por los que están afectados por este efecto." />
+<buff id="196" type="NAME" n="Tiro limpio sangrador mejorado" />
+<buff id="197" type="NAME" n="Enfurecido" />
+<buff id="198" type="NAME" n="Porbabilidad crítica en arma adicional" />
+<buff id="199" type="NAME" n="Probabilidad crítica en hechizo adicional" />
+<buff id="200" type="NAME" n="Inmunidad al aturdimiento" />
+<buff id="201" type="NAME" n="Inmunidad al miedo" />
+<buff id="204" type="NAME" n="Antiguo yunque" />
+<buff id="204" type="LORE1" n="Al utilizar este yunque aumenta la probabilidad de crítico en la fabricación un 25%." />
+<buff id="205" type="NAME" n="Mesa de alquimia antigua" />
+<buff id="205" type="LORE1" n="Al utilizar esta mesa de alquimia la probabilidad de crítico en la fabricación un 25%." />
+<buff id="207" type="NAME" n="Congelado" />
+<buff id="207" type="TURN" n="Congelado en el sitio." />
+<buff id="208" type="NAME" n="Hemorragia" />
+<buff id="208" type="LORE1" n="Hemorragia causada por un golpe crítico. Utiliza una férula para detener la hemorragia." />
+<buff id="209" type="NAME" n="Inmune a las sombras" />
+<buff id="210" type="NAME" n="Inmune al fuego" />
+<buff id="211" type="NAME" n="Inmune a la escarcha" />
+<buff id="212" type="NAME" n="Inmune al veneno" />
+<buff id="213" type="NAME" n="Inmune al arcano" />
+<buff id="214" type="NAME" n="Lloviendo" />
+<buff id="215" type="NAME" n="Inmune al aturdimiento" />
+<buff id="216" type="NAME" n="Guantes de curación" />
+<buff id="216" type="LORE1" n="Aumenta los efectos curativos un 10%." />
+<buff id="217" type="NAME" n="Quitina de escarabajo" />
+<buff id="218" type="NAME" n="Resistencia al fuego" />
+<buff id="219" type="NAME" n="Sifón de maná" />
+<buff id="219" type="LORE1" n="Algo esta robando toda tu regeneración de maná." />
+<buff id="220" type="NAME" n="Sifón de vida" />
+<buff id="220" type="LORE1" n="Algo esta robando toda tu regeneración de salud." />
+<buff id="221" type="NAME" n="Aturdido" />
+<buff id="221" type="LORE1" n="Aturdido en el sitio." />
+<buff id="222" type="NAME" n="Cansado" />
+<buff id="222" type="LORE1" n="Combate de larga duración te estas cansando." />
+<buff id="223" type="NAME" n="Engañar a la muerte" />
+<buff id="223" type="LORE1" n="Engañaste a la muerte! Burlar a la muerte no puede ocurrir otra vez hasta que desvanezca este efecto." />
+<buff id="224" type="NAME" n="Fragmento de armadura mejorado" />
+<buff id="225" type="NAME" n="Fallo crítico cuerpo a cuerpo" />
+<buff id="225" type="LORE1" n="No puedes utilizar habilidades cuerpo a cuerpo mientras estes bajo estos efectos." />
+<buff id="226" type="NAME" n="Fallo crítico arco" />
+<buff id="226" type="LORE1" n="No puedes utilizar habilidades que requieren un arma a distancia hasta que desvanezca este efecto." />
+<buff id="227" type="NAME" n="Silencio" />
+<buff id="227" type="LORE1" n="No se pueden lanzar hechizos mientras dure este efecto." />
+<buff id="228" type="NAME" n="Absorber escudo" />
+<buff id="229" type="NAME" n="Inmune a la hemorragia" />
+<buff id="230" type="NAME" n="Meditando" />
+<buff id="230" type="LORE1" n="Incapaz de actuar durante la meditación." />
+<buff id="231" type="NAME" n="Aliento de fuego" />
+<buff id="231" type="LORE1" n="Una explosión ocurrirá después de que este efecto se desvanezca." />
+<buff id="232" type="NAME" n="Resistir la magia" />
+<buff id="233" type="NAME" n="Resistir el fuego" />
+<buff id="234" type="NAME" n="Cinturón de confianza" />
+<buff id="235" type="NAME" n="No más manos frías." />
+<buff id="236" type="NAME" n="Fragmentos de cristal carmesí" />
+<buff id="237" type="NAME" n="Ardor de Armageddon" />
+<buff id="238" type="NAME" n="Libro maldito" />
+<buff id="238" type="LORE1" n="No puedo dejar de leer este libro. Tengo que leerlo!" />
+<buff id="239" type="NAME" n="La quema de la inmolación de Palverz" />
+<buff id="240" type="NAME" n="Inmolación de Palverz" />
+<buff id="240" type="LORE1" n="El casco esta muy caliente. Tengo la sensación de que tiene energías mágicas." />
+<buff id="241" type="NAME" n="Martillo forja del infierno" />
+<buff id="241" type="LORE1" n="Aumenta la fuerza de la luz de mi antorcha." />
+<buff id="242" type="NAME" n="La espada de la niebla" />
+<buff id="242" type="LORE1" n="La espada espectral disminuye la visibilidad." />
+<buff id="243" type="NAME" n="La espada de la niebla" />
+<buff id="243" type="LORE1" n="La espada crea una pared espesa de niebla entre mi enemigo y yo. El poder de la espada va desapareciendo lentamente en combate." />
+<buff id="244" type="NAME" n="La espada de la niebla" />
+<buff id="245" type="NAME" n="Ladrillo extraño" />
+<buff id="246" type="NAME" n="Runa amicus" />
+<buff id="246" type="LORE1" n="El vinculo entre yo y mi compañero se incrementa." />
+<buff id="247" type="NAME" n="Convocado" />
+<buff id="248" type="NAME" n="Bastón del nigromante" />
+<buff id="248" type="LORE1" n="Este bastón se ve sin terminar. Cuando lo toco siento una energía fría que emana de el. La energía de repente se convierte mucho más potente. Este es un bastón inestable y peligroso." />
+<buff id="249" type="NAME" n="Dedos rápidos" />
+<buff id="250" type="NAME" n="Carne skvader" />
+<buff id="251" type="NAME" n="Rosa de los sueños retorcidos" />
+<buff id="251" type="LORE1" n="Sembrado de semilla amor %n%Pérdida llevó la maldición %n%Nada puede mantenerlos separados %n%sin enbargo, nunca estrán juntos de nuevo. %n%Este curso no puede ser eliminado por magia." />
+<buff id="252" type="NAME" n="Rosa de los sueños retorcidos acuerdo oscuro" />
+<buff id="252" type="LORE1" n="El daño hecho mientras estaba bajo una maldición cura al portador. Atacar consecutivamente mejora la maldición. En cada turno si no infliges daño causara daño a la persona que está maldita. %n%Una vez que la maldición esta completamente cargada (5) la salud de los enemigos cercanos se desvía lentamente hacia el portador de la maldición. %n%Este curso no puede ser eliminado con magia." />
+<buff id="253" type="NAME" n="Muerte" />
+<buff id="253" type="LORE1" n="Morirás si este efecto no se retira." />
+<buff id="254" type="NAME" n="Enfermedad de las catacumbas" />
+<buff id="255" type="NAME" n="Fragmentos de cuchilla de las sombras" />
+<buff id="256" type="NAME" n="El poder de los escarabajos" />
+</buffs>

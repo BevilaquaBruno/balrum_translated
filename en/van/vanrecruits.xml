@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I want to become a member of the mages' guild."/>
+    <dia npc="0" str="Ahh, another lost soul. Why do you want to join our society, if I may ask?"/>
+    <dia pl="1_0" str="I always wanted to become a member of the guild."/>
+    <dia pl="1_1" str="I'm on an important mission and the only way I can fulfil my task is if I am accepted into your guild." jumpNPCd= "2" jumpPlayerd = '3'/>
+    <dia npc="1" str="You are a bad liar. The guild doesn't need liars."/>
+    <dia pl="2" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia npc="2" str="You need the guild. Does the guild need you?"/>
+	<dia pl="3" str="Magic runs through my veins. I'm capable of casting powerful spells and I'm not even a member of the guild. I would be a worthy addition."/>
+    <dia npc="3" str="Ha ha! Insolence is a virtue of a great mage. Fine, you have my attention. All initiates have to find the gold coin of our guild. This time the coin has been hidden somewhere in the undead lands. Bring me the coin from the land of the undead. It should be a simple task for such a skilful mage as you. You will find the undead land just south west of this tower. I await your return."/>
+    <dia pl="4" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

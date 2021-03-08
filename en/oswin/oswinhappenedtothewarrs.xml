@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="What happened to the guild? Why are you in this camp?"/>
+    <dia npc="0" str="The rebels took away our barracks. Many years ago it was once again time to push the undead hordes back from our borders. The undead are harmless if they are far from the living, but they manage to wander near our borders sometimes. We pushed the hordes far back but we lost a lot of men and we were exhausted. The bloody rebels came out of nowhere. While we were recovering from the battle they attacked the capital. We had no chance. For years we had to live in these camps. One day we will take revenge on those filthy rebels."/>
+	<dia pl="1" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

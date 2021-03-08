@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--%data% data-->
+<!--%n% new line-->
+<!--%l% line skip-->
+<spells>    
+    <spell n="Torreta arcana" />
+    <spell n="Torreta de fuego" />
+    <spell n="Fuegonova" />
+    <spell n="Tierra ardiente" />
+    <spell n="Saliva de larva" />
+    <spell n="Trampa antigua" />
+</spells>

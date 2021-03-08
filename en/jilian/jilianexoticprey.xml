@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Are you one of the hunters?"/>
+    <dia npc="0" str="Because I'm a woman, right? You find it hard to believe that a woman can be a hunter?"/>
+    <dia pl="1_0" str="To be honest, you don't look like someone who can handle a weapon."/>
+    <dia pl="1_1" str="I'm sorry, I didn't mean to upset you. I'm just looking around." jumpNPCd= "2" jumpPlayerd = '3'/>
+    <dia npc="1" str="Get out."/>
+    <dia pl="2" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia npc="2" str="Looking around?"/>
+    <dia pl="3" str="I'm looking for work."/>
+    <dia npc="3" str="Great! You seem alright. You see, every ten years we hunters participate in a grand challenge. Whoever brings the most impressive trophy wins. The others all have something impressive. Diego has found the biggest brown bear in years. I have to outdo him somehow."/>
+    <dia pl="4" str="If I see or find something, I will tell you."/>
+    <dia npc="4" str="Thank you, stranger. If you can help me out I will teach you a thing or two about hunting."/>
+	<dia pl="5" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

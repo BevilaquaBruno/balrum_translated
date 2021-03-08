@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Tengo los cuatro restos. Tenemos que destruirlos tan pronto como sea posible!"/>
+    <dia npc="0" str="Adelante mis hermanos! Vamos a necesitar todos nuestros poderes para hacer frente a tal brujería. Un pasó atrás sangre real. No sabemos que va a pasar."/>
+    <dia pl="1" str="..." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

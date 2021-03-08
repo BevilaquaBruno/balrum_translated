@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="He encontrado algo para ti!"/>
+    <dia npc="0" str="Habla chico! Qué es?"/>
+    <dia pl="1" str="Vuelves a la vieja arena. Hay una palanca mágica. Si tiras de la palanca aparece una copia de ti mismo y empieza la lucha."/>
+    <dia npc="1" str="Puedo luchar yo? por supuesto! Con un rival digno de mi. Gracias chico! Puede que hayas salvado la vida de un luchador!"/>
+	<dia pl="2" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="What are you making here?"/>
+    <dia npc="0" str="Don't tell me you need more. I simply cannot make enough for you. You have to wait."/>
+    <dia pl="1" str="I'm not here for anything. I'm just looking for work."/>
+    <dia npc="1" str="Than you are not one of them. The rebels take away all my bottles. They sometimes even take whole casks of my good old spirit. You are looking for work, you say. Fine, I have something for you."/>
+    <dia pl="2" str="I'm not one of them. What do you need?"/>
+    <dia npc="2" str="I'm looking for something new. A new taste for my new creation. I have been making the same spirit for decades, now it's time for a new one. Bring me all kinds of ingredients. I will examine them, taste them and decide what to use."/>
+	<dia pl="3" str="Alright. I will be back with a few ingredients." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

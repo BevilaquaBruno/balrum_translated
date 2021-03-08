@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Saludos!"/>
+    <dia npc="0" str="Eres igual que yo cuando era joven. Tus ojos están llenos de expectativa. Eres un aventurero, verdad?"/>
+    <dia pl="1" str="Podemos decir que si. Y tu? Quien eres?"/>
+    <dia npc="1" str="Me llamo Ewald. Vengo de una tierra lejana. Debo decir que cometí un grave error al venir aquí, no sabía que hay tanta miseria. Mis padres me contaban historias de Balrum y estaba intrigado. Puede que hace algún tiempo había un poderoso reino, pero ahora ya no estoy tan seguro."/>
+    <dia pl="2" str="De donde vienes?"/>
+    <dia npc="2" str="No puedo decírtelo. Sobre todo ahora que he visto lo que a pasado aquí. Se que es cruel, pero mis tierras ya no pueden acoger más almas perdidas. Tenemos nuestros propios problemas, ya sabes."/>
+    <dia pl="3" str="Me puedes explicar algo acerca de los demás reinos?"/>
+    <dia npc="3" str="No se mucho acerca de ellos. Hay cuatro reinos que han sido descubiertos. Cada uno separados a meses de distancia por mar y déjame decirte que no es solo agua el mar es un ser vivo en si. Apuras penas llegamos vivos. Un reino es un desierto implacable. Balrum y mis tierras son los únicos que están hechos para nuestra especie."/>
+    <dia pl="4" str="Gracias Ewald. Continuaré mi camino."/>
+    <dia npc="4" str="Mantén los ojos abiertos, joven viajero."/>
+	<dia pl="5" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

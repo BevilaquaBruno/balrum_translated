@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Your brother sent me. I need your help."/>
+    <dia npc="0" str="Ahh. Your smell is particular. You're no ordinary mortal. You are a specimen of the royal bloodline."/>
+    <dia pl="1" str="Yes, I am. Both of your brothers agreed to help me. I need to destroy the remains of the Darkwood Necromancers. Otherwise many innocent people will die."/>
+    <dia npc="1" str="Why do you need my help?"/>
+    <dia pl="2" str="Only the power of the dragons can destroy the remains."/>
+    <dia npc="2" str="I cannot simply enter your world, mortal. I will need a small sacrifice from you."/>
+    <dia pl="3" str="I will do anything to help my people."/>
+    <dia npc="3" str="I need a part of your mortality. What can you offer me?"/>
+    <dia pl="4" str="I offer you my vitality."/>
+    <dia npc="4" str="Ahh yes. Sweet mortality. I will help you now, mortal. Tell me, where are my brothers?"/>
+    <dia pl="5" str="They are underground in the Royal Crypts near Erdal. Thank you, dragon. Please take us to your brothers. We need to hurry."/>
+    <dia npc="5" str="Prepare yourself, royal mortal."/>
+	<dia pl="6" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

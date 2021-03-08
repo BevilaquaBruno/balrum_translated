@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--%data% data--> 
+<!--%n% new line-->
+<!--%l% line skip-->
+<layer1>
+ <layer1 id="0" type="NAME" n="Vieja capilla" />
+ <layer1 id="2" type="NAME" n="Gran Amanita" />
+ <layer1 id="2" type="LORE1" n="Venenoso." />
+ <layer1 id="3" type="NAME" n="Amanitas" />
+ <layer1 id="3" type="LORE1" n="Venenoso." />
+ <layer1 id="9" type="NAME" n="Puerta quemada, para reparar:" />
+ <layer1 id="9" type="LORE2" n="4x madera o 4x madera de pino, 2x clavos, 1x maneta de puerta" />
+ <layer1 id="10" type="NAME" n="Pared quemada, para reparar:" />
+ <layer1 id="10" type="LORE2" n="3x madera o 3x madera de pino, 2x clavos" />
+ <layer1 id="16" type="NAME" n="Seta fantasma joven" />
+ <layer1 id="16" type="LORE1" n="Emite una luz azul débil." />
+ <layer1 id="17" type="NAME" n="Qué es oro sin su brillo?" />
+ <layer1 id="19" type="NAME" n="Cama sucia." />
+ <layer1 id="30" type="NAME" n="Seta desconocida" />
+ <layer1 id="32" type="NAME" n="Valla rota, para reparar:" />
+ <layer1 id="32" type="LORE2" n="2x madera o 2x medera de pino, 2x clavos" />
+ <layer1 id="36" type="NAME" n="Las personas que no tengan ningún miedo que entren. Los artículos hechos por mortales no te protegeran!" />
+ <layer1 id="37" type="NAME" n="Una tienda simple." />
+ <layer1 id="38" type="NAME" n="Una tienda robusta y gruesa." />
+ <layer1 id="43" type="NAME" n="Tu cama." />
+ <layer1 id="44" type="NAME" n="Zanahoria joven" />
+ <layer1 id="45" type="NAME" n="Zanahoria casi crecida" />
+ <layer1 id="46" type="NAME" n="Zanahoria crecida" />
+ <layer1 id="47" type="NAME" n="Maíz joven" />
+ <layer1 id="48" type="NAME" n="Maíz casi crecido" />
+ <layer1 id="49" type="NAME" n="Maíz crecido" />
+ <layer1 id="50" type="NAME" n="Baya hoja corta joven" />
+ <layer1 id="52" type="NAME" n="Baya hoja corta casi crecida" />
+ <layer1 id="53" type="NAME" n="Ortiga joven" />
+ <layer1 id="55" type="NAME" n="Ortiga casi crecida" />
+ <layer1 id="56" type="NAME" n="Planta de vida joven" />
+ <layer1 id="58" type="NAME" n="Planta de vida crecida" />
+ <layer1 id="59" type="NAME" n="Lilac joven" />
+ <layer1 id="61" type="NAME" n="Lilac crecida" />
+ <layer1 id="62" type="NAME" n="Melón joven" />
+ <layer1 id="63" type="NAME" n="Melón casi crecido" />
+ <layer1 id="64" type="NAME" n="Melón crecido" />
+ <layer1 id="65" type="NAME" n="Seta oreja de cerdo joven" />
+ <layer1 id="67" type="NAME" n="Seta oreja de cerdo crecida" />
+ <layer1 id="68" type="NAME" n="Patata joven" />
+ <layer1 id="69" type="NAME" n="Patata casi crecida" />
+ <layer1 id="70" type="NAME" n="Patata crecida" />
+ <layer1 id="71" type="NAME" n="Calabaza joven" />
+ <layer1 id="72" type="NAME" n="Calabaza casi crecida" />
+ <layer1 id="73" type="NAME" n="Calabaza crecida" />
+ <layer1 id="74" type="NAME" n="Trigo joven" />
+ <layer1 id="75" type="NAME" n="Trigo casi crecido" />
+ <layer1 id="76" type="NAME" n="Trigo crecido" />
+ <layer1 id="77" type="NAME" n="Este campo esta seco." />
+ <layer1 id="78" type="NAME" n="Este campo esta normal." />
+ <layer1 id="79" type="NAME" n="Este campo esta bien hidratado." />
+ <layer1 id="80" type="NAME" n="%data% está durmiendo." />
+ <layer1 id="81" type="NAME" n="Mesilla de noche quemada, para reparar:" />
+ <layer1 id="81" type="LORE2" n="3x madera o 3x madera de pino, 2x clavos" />
+ <layer1 id="21" type="NAME" n="Comedero de cerdos" />
+ <layer1 id="21" type="SPECIAL" n="Los cerdos comen zanahorias, calabazas, trigo, melones, patatas y maíz. Así mismo, no se apartan de las verduras podridas." />
+ <layer1 id="21" type="LORE3" n="Un máximo de 15 cerdos pueden estar en el corral. (%data%/15)" />
+ <layer1 id="21" type="COMMENT" n="Cada día un cerdo come una hortaliza. Actualmente hay suficiente comida para %data% día(s)." />
+ <layer1 id="21" type="SPECIAL" n="Un mínimo de dos animales adultos y la abundante comida son necesarios para la cría." />
+ <layer1 id="21" type="SPECIAL" n="Los animales jóvenes para crecer necesitan una alimentación adecuada." />
+ <layer1 id="21" type="SPECIAL" n="Los animales comenzarán a morir de hambre después de dos días sin comida." />
+ <layer1 id="86" type="NAME" n="%data%" />
+ <layer1 id="87" type="NAME" n="Comedero de gallinas" />
+ <layer1 id="87" type="SPECIAL" n="Los pollos comen todo tipo de semillas." />
+ <layer1 id="87" type="LORE3" n="Un máximo de 15 pollos pueden estar en el corral. (%data%/15)" />
+ <layer1 id="87" type="COMMENT" n="Cada día una gallina come un solo puñado de semillas. Actualmente hay comida suficiente para %data% día(s)." />
+ <layer1 id="87" type="SPECIAL" n="Un mínimo de dos animales adultos y la comida abundante son necesarios para la cría." />
+ <layer1 id="87" type="SPECIAL" n="Los animales jóvenes necesitan una alimentación adecuada para crecer." />
+ <layer1 id="87" type="SPECIAL" n="Los animales comenzarán a morir de hambre después de dos días sin comida." />
+ <layer1 id="88" type="NAME" n="Comedero de arañas" />
+ <layer1 id="88" type="SPECIAL" n="Las arañas comen casi todo tipo de carne." />
+ <layer1 id="88" type="LORE3" n="Un máximo de 15 arañas pueden estar en el corral. (%data%/15)" />
+ <layer1 id="88" type="COMMENT" n="Cada día una araña come una sola pieza de carne. Actualmente hay comida suficiente para %data% día(s)." />
+ <layer1 id="88" type="SPECIAL" n="Un mínimo de dos animales adultos y la comida abundante son necesarios para la cría." />
+ <layer1 id="88" type="SPECIAL" n="Los animales jóvenes necesitan una alimentación adecuada para crecer." />
+ <layer1 id="88" type="SPECIAL" n="Los animales comenzarán a morir de hambre después de dos días sin comida." />
+ <layer1 id="89" type="NAME" n="Barril para cerdos" />
+ <layer1 id="89" type="LORE1" n="El estiércol se colocara en este barril cuando los cerdos están bien alimentados." />
+ <layer1 id="90" type="NAME" n="Barril para gallinas" />
+ <layer1 id="90" type="LORE1" n="Los huevos se colocaran en este barril cuando las gallinas están bien alimentadas." />
+ <layer1 id="91" type="NAME" n="Barril para arañas" />
+ <layer1 id="91" type="LORE1" n="Las telas se colocaran en este barril cuando las arañas están bien alimentadas." />
+ <layer1 id="92" type="NAME" n="Planta mágica joven" />
+ <layer1 id="93" type="NAME" n="Planta mágica casi crecida" />
+ <layer1 id="94" type="NAME" n="Planta mágica crecida" />
+ 
+ <layer1 id="95" type="NAME" n="Joven arbusto de rosa mosqueta" />
+ <layer1 id="96" type="NAME" n="Joven arbusto de endrino" />
+ <layer1 id="97" type="NAME" n="Joven arbusto de grosella" />
+ <layer1 id="98" type="NAME" n="Joven arbusto de bayas de sol" />
+ <layer1 id="99" type="NAME" n="Noroeste bosque oscuro" />
+ <layer1 id="100" type="NAME" n="Noreste bosque oscuro" />
+ <layer1 id="101" type="NAME" n="Sureste bosque oscuro" />
+ <layer1 id="102" type="NAME" n="Suroeste bosque oscuro" />
+
+<layer1 id="1" objid="60" type="NAME" type2="LORE1" />
+<layer1 id="4" objid="1209" type="NAME" type2="LORE1" />
+<layer1 id="5" objid="1293" type="NAME" type2="LORE1" />
+<layer1 id="6" objid="1322" type="NAME" type2="LORE1"/>
+<layer1 id="7" objid="1212" type="NAME" type2="LORE1"/>
+<layer1 id="8" objid="61" type="NAME" type2="LORE1"/>
+<layer1 id="11" objid="1201" type="NAME" type2="LORE1"/>
+<layer1 id="12" objid="80" type="NAME" type2="LORE1"/>
+<layer1 id="13" objid="1221" type="NAME" type2="LORE1"/> 
+<layer1 id="14" objid="1295" type="NAME" type2="LORE1"/>
+<layer1 id="15" objid="59" type="NAME" type2="LORE1"/>
+<layer1 id="18" objid="1323" type="NAME" type2="LORE1"/>
+<layer1 id="20" objid="1324" type="NAME" type2="LORE1"/>
+<layer1 id="22" objid="79" type="NAME" type2="LORE1"/>
+<layer1 id="23" objid="1211" type="NAME" type2="LORE1"/>
+<layer1 id="24" objid="1207" type="NAME" type2="LORE1"/>
+<layer1 id="25" objid="1210" type="NAME" type2="LORE1"/>
+<layer1 id="26" objid="1291" type="NAME" type2="LORE1"/>
+<layer1 id="27" objid="1292" type="NAME" type2="LORE1"/>
+<layer1 id="28" objid="1325" type="NAME" type2="LORE1"/>
+<layer1 id="29" objid="1206" type="NAME" type2="LORE1"/>
+<layer1 id="31" objid="63" type="NAME" type2="LORE1"/>
+<layer1 id="33" objid="58" type="NAME" type2="LORE1"/>
+<layer1 id="34" objid="1213" type="NAME" type2="LORE1"/>
+<layer1 id="35" objid="1223" type="NAME" type2="LORE1"/>
+<layer1 id="39" objid="1204" type="NAME" type2="LORE1"/>
+<layer1 id="40" objid="57" type="NAME" type2="LORE1"/>
+<layer1 id="41" objid="1208" type="NAME" type2="LORE1"/>
+<layer1 id="42" objid="1222" type="NAME" type2="LORE1"/>
+<layer1 id="66" layer1id="65" type="NAME" />
+<layer1 id="51" layer1id="50" type="NAME"/>
+<layer1 id="54" layer1id="53" type="NAME"/>
+<layer1 id="57" layer1id="56" type="NAME"/>
+<layer1 id="60" layer1id="59" type="NAME"/>
+
+
+
+
+ <layer1 id="103" type="NAME" n="Yunque, para costruir:" />
+ <layer1 id="103" type="LORE2" n="3x madera o 3x madera de pino, 2x barra de hierro, 2x clavos" />
+ <layer1 id="104" type="NAME" n="Horno de fundición, para construir:" />
+ <layer1 id="104" type="LORE2" n="3x madera o 3x madera de pino, 2x barra de hierro, 2x clavos" />
+ <layer1 id="105" type="NAME" n="Pared, para construir:" />
+ <layer1 id="105" type="LORE2" n="3x madera o 3x madera de pino, 2x clavos" />
+ <layer1 id="106" type="NAME" n="Mi marido amoroso." />
+ <layer1 id="107" type="NAME" n="Solo el fuego te permitira pasar." />
+ <layer1 id="108" type="NAME" n="Barril para vacas" />
+ <layer1 id="108" type="LORE1" n="La leche se colocará en este barril cuando las vacas están bien alimentadas." />
+ <layer1 id="109" type="NAME" n="Comedero de vacas" />
+ <layer1 id="109" type="SPECIAL" n="Las vacas comen zanahorias, calabazas, trigo, melones, patatas y maíz." />
+ <layer1 id="109" type="LORE3" n="Un máximo de 6 vacas podrán estar en el corral. (%data%/6)" />
+ <layer1 id="109" type="COMMENT" n="Cada día un vaca come una hortaliza. Actualmente hay suficiente comida para %data% día(s)." />
+ <layer1 id="109" type="SPECIAL" n="Un mínimo de dos animales adultos y la comida abundante son necesarios para la cría." />
+ <layer1 id="109" type="SPECIAL" n="Los animales jóvenes necesitan una alimentación adecuada para crecer." />
+ <layer1 id="109" type="SPECIAL" n="Los animales comenzarán a morir de hambre después de dos días sin comida." />
+ 
+ <layer1 id="110" type="NAME" n="Noroeste Balrum" />
+ <layer1 id="111" type="NAME" n="Noreste Balrum" />
+ <layer1 id="112" type="NAME" n="Sureste Balrum" />
+ <layer1 id="113" type="NAME" n="Suroeste Balrum" />
+
+ <layer1 id="114" type="NAME" n="Pila de suciedad" />
+ <layer1 id="115" type="NAME" n="Arbusto extraño" />
+ <layer1 id="116" type="NAME" n="Grosellas" /> 
+ <layer1 id="117" type="NAME" n="Rosa mosqueta" /> 
+ <layer1 id="118" type="NAME" n="Bayas de sol" /> 
+ <layer1 id="119" type="NAME" n="Bayas de endrino" /> 
+ <layer1 id="120" type="NAME" n="Bayas nightmare" />
+ <layer1 id="121" type="NAME" n="Señor Benedict" />
+ 
+ <layer1 id="122" type="NAME" n="Desierto abrasador" />
+ <layer1 id="123" type="NAME" n="Llanuras olvidadas" />
+ <layer1 id="124" type="NAME" n="Viejos pastos" />
+ <layer1 id="125" type="NAME" n="Pinos brumosos" />
+ <layer1 id="126" type="NAME" n="Hay una gran cantidad de ceniza." />
+ <layer1 id="127" type="NAME" n="La mujer de la pintura esta usando ropas negras. Su cara esta casi totalmente a la sombra de su gran sombrero, puedo ver que sus ojos son un extraño amarillo." />
+ 
+ <layer1 id="128" type="NAME" n="Hierba de la vida joven" />
+ <layer1 id="130" type="NAME" n="Hierba de la vida crecida" />
+ <layer1 id="131" type="NAME" n="Seta fantasma joven" />
+ <layer1 id="133" type="NAME" n="Seta fantasma crecida" />
+ <layer1 id="134" type="NAME" n="Storn joven" />
+ <layer1 id="136" type="NAME" n="Storn crecido" />
+ <layer1 id="129" layer1id="128" type="NAME"/>
+ <layer1 id="132" layer1id="131" type="NAME"/>
+ <layer1 id="135" layer1id="134" type="NAME"/>
+ <layer1 id="137" type="NAME" n="Rosa de los sueños retorcida" />
+ <layer1 id="138" type="NAME" n="Esperé y esperé su regreso, pero nunca lo hizo. Thilda" />
+ 
+ <layer1 id="139" type="NAME" n="Arbusto de rosa mosqueta recogido" />
+ <layer1 id="140" type="NAME" n="Arbusto de endrino recogido" />
+ <layer1 id="141" type="NAME" n="Arbusto de grosella recogido" />
+ <layer1 id="142" type="NAME" n="Arbusto bayas de sol recogido" />
+</layer1>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Guardianes de la luz."/>
+    <dia npc="0" str="Como conoces esas palabras joven?"/>
+    <dia pl="1" str="Me las dijo Arlo. El era un miembro del gremio hace mucho tiempo."/>
+    <dia npc="1" str="Arlo? No he sabido nada de ese bastardo desertor desde hace años. Seguro que esta en algún lugar escondido disfrazado de campesino, mientras nosotros luchamos para mantener lo que queda de la alianza. Apuesto a que la vida lo ha hecho gordo y lento. Qué quieres de nosotros?"/>
+    <dia pl="2" str="Necesito encontrar los restos de los nigromantes del bosques oscuros."/>
+    <dia npc="2" str="Ahora, por que un hombre joven desea encontrar esos restos? No son mis asuntos, verdad? No te puedo ayudar con eso. Solo los magos saben donde ocultó Triston los restos. Los miembros del gremio de magos deben permitirte echar un vistazo a sus viejos documentos. Te deseo buena suerte."/>
+	<dia pl="3" str="Gracias." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

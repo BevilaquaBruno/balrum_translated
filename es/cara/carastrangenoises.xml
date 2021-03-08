@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Estoy buscando trabajo."/>
+    <dia npc="0" str="Bienvenido, joven. No necesito ninguna ayuda de momento, gracias. Te puedo explicar algo curioso, si estas interesado?"/>
+    <dia pl="1" str="Te escucho."/>
+    <dia npc="1" str="He estado escuchando ruidos últimamente. Cada vez que me acerco a las casas abandonadas escucho ruidos."/>
+    <dia pl="2" str="Qué clase de ruidos?"/>
+    <dia npc="2" str="No lo sé, la verdad. Puede ser que sean sonidos de una rata o una criatura similar, pero de donde vienen los sonidos?"/>
+	<dia pl="3" str="No tengo ni idea."/>
+    <dia npc="3" str="Y si te digo, que hay algo subterráneo allí. La gente siempre hablaba de un pasadizo secreto debajo de la ciudad, dicen que los utilizaban los nobles para escapar. Apuesto a que los sonidos vienen de allí."/>
+	<dia pl="4" str="Puede que tengas razón." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

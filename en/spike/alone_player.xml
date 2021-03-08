@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Why did you build your house in between the two villages, Spike?"/>
+    <dia npc="0" str="I don't belong to either village. I happened to be at my sister's home when the village leaders showed up at her house. Her name was Posy. They told her they were going to escape into the woods for protection against the bandits. My sister wanted me to go with them. I was scared so I decided to join. After a few days in the woods my sister died when she gave birth to her son. That bastard of a husband she had, ran away when he realised he would have to raise the child alone. I don't feel comfortable living amongst the others, so this is why I live here alone."/>
+    <dia pl="1" str="What happened to your sister's son?"/>
+    <dia npc="1" str="I..  I don't know. I'm ashamed, but I simply could not take him in. I was not prepared for a small child. One of the town leaders took him in. I think Kyler is the name they mentioned. I haven't heard of him since."/>
+    <dia pl="2" str="End." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

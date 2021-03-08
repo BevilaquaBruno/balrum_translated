@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Tienes un buen hogar aquí."/>
+    <dia npc="0" str="De echo si, extranjero. La casa pertenecía a los gordos nobles. Era un juego de niños asustarlos, pero eso fue hace muchos años."/>
+    <dia pl="1" str="Sabes lo que ocurrió?"/>
+    <dia npc="1" str="Ni idea. No me importa realmente. Se merecen experimentar una vida más difícil."/>
+    <dia pl="2" str="Por qué?"/>
+    <dia npc="2" str="Las personas nos odian por invadir sus tierras, pero merecemos estar al cargo. Tu rey nos desterro hasta morir."/>
+	<dia pl="3" str="Estas desterrado?"/>
+    <dia npc="3" str="Cuando la gente de la ciudad decidió esconderse bajo tierra sabían que no había suficiente espacio ahí abajo. Por supuesto, solo los que eran suficientemente ricos estaban en las listas. Nuestros pobres antepasados campesinos fueron dejados atrás quemados."/>
+    <dia pl="4" str="Quemados?"/>
+    <dia npc="4" str="El dios loco comenzó a quemar todo Balrum. Llamó a los meteoros e incinero los hogares de las personas, solo por diversión. En ese momento el Consejo decidió trasladarse a la ciudad subterránea."/>
+    <dia pl="5" str="Donde estaba la ciudad que el rey loco no consiguió destruir?"/>
+    <dia npc="5" str="La ciudad fue construida hace siglos en el bosque oscuro. Las leyendas dicen que el bosque enterro las ruinas de la ciudad. Ya no queda nada de ella. Solo la ciudad subterránea permanece como un recordatorio de lo sucedido."/>
+	<dia pl="6" str="Iré a ver si la encuentro." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

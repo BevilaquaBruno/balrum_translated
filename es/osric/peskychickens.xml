@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Algo más en lo que pueda ayudarte Osric?"/>
+    <dia npc="0" str="Los pollos vuelven a estar revoltosos. Algunos de ellos lograron salir de la zanja. Puedes buscarlos y traermelos de nuevo? A veces se esconden en los arbustos."/>
+    <dia pl="10" str="No tengo tiempo para ir persiguiendo pollos." jumpNPCd= "1" jumpPlayerd = '2'/>
+    <dia pl="11" str="De acuerdo Osric. Los encontraré." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia npc="1" str="Tienes alguna pregunta?"/>
+    <dia pl="2" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

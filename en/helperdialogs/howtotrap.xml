@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Can you tell me how to use traps?"/>
+    <dia npc="0" str="Why do you need traps boy? Anyway listen carefully."/>
+    <dia pl="1" str="..."/>
+    <dia npc="1" str="Seting up a trap is easy. You simply grab your trap and place it on the ground, easy right? Disarming a trap is another thing. Sometimes even I fail to disarm a trap so you should only try to disarm one when there is a really good reason to do so!"/>
+	<dia pl="2" str="Thank you." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

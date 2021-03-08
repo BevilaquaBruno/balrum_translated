@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I'm looking for work."/>
+    <dia npc="0" str="I'm looking for work, too."/>
+    <dia pl="1" str="How so?"/>
+    <dia npc="1" str="There is not much to do lately. I'm a carpenter and since I was a child I have been making bows. Would you like to buy one of my bows? Or maybe I could make you a new one?"/>
+    <dia pl="2_0" str="I don't need a bow." jumpNPCd= "5" jumpPlayerd = '6'/>
+    <dia pl="2_1" str="What kind of bow could you make?"/>
+    <dia npc="2" str="I want to make something really special. The old woodcutters told me about materials that were like shiny silver. They say that these things have been touched by the gods. If I could get enough of it I might be able to make a bow out of that substance. There are all kinds of things that have that strange silver material on them. Rocks, trees even bushes. What do you say?"/>
+    <dia pl="3" str="Where can I find some and how many do you need?"/>
+    <dia npc="3" str="That is the hard part. I haven't found any in all my years. And the more you can get the better, since I don't know the material. I don't know how much it would take to create a bow. I think you should bring me at least three pieces."/>
+    <dia pl="4" str="Fine. If I find them, I will bring them to you."/>
+    <dia npc="4" str="Great! I don't expect you to come back with them soon. It won't be an easy task gathering them all, but I think it will be worth your time."/>
+	<dia pl="5" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia npc="5" str="As you wish."/>
+    <dia pl="6" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

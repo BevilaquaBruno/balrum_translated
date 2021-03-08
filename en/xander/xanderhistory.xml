@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="You have a nice home here."/>
+    <dia npc="0" str="Indeed, stranger. The house belonged to fat nobles. It was child's play to scare them away, but that was many years ago."/>
+    <dia pl="1" str="Do you know what happened to them?"/>
+    <dia npc="1" str="No idea. I don't care really. They deserve to experience a harder life."/>
+    <dia pl="2" str="Why?"/>
+    <dia npc="2" str="The people hate us for invading your lands but we deserve to be in charge. Your kind's king banished us to die."/>
+	<dia pl="3" str="Banished you?"/>
+    <dia npc="3" str="When the people of the city decided to hide underground they knew there was not enough space down there. Of course, only the ones who were wealthy enough made the list. Our poor peasant ancestors were left behind to burn."/>
+    <dia pl="4" str="To burn?"/>
+    <dia npc="4" str="The mad god started to burn up Balrum. He summoned meteors and incinerated people's homes, just for fun. At that time the council decided to move the city underground."/>
+    <dia pl="5" str="Where was this city that the mad god destroyed?"/>
+    <dia npc="5" str="The city was built centuries ago in Darkwood. Legends say that the forest reclaimed the ruins of the city. There is nothing left of it. Only the underground city remain as a reminder of what happened."/>
+	<dia pl="6" str="I'll be on my way." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

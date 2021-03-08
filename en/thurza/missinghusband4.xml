@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I found Robert near the bear's den. He was already dead when I got there."/>
+    <dia npc="0" str="'For a moment Thursa seems relieved.' What am I going to do now. I'm.. Please leave me alone now."/>
+    <dia pl="1" str="I'm really sorry Thurza." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Saludos. Estoy buscando trabajo. Necesitas ayuda?"/>
+    <dia npc="0" str="Siempre buscamos ayuda. Ese bastardo de Gosfrid no tiene piedad de nosotros, nos hace trabajar muy duro todos los días. Si algo se rompe lo tenemos que solucionar corriendo si todo esta tranquilo nos necesita para trabajar en los campos, talar madera y picar piedra en la mina durante todo el día. Nunca podemos descansar. El era nuestro jefe en el exterior y lo es en el bosque también. Pensábamos que tendríamos otra oportunidad en el bosque oscuro, pero no fue así."/>
+   <dia pl="1" str="Como puedo ayudaros?"/>
+   <dia npc="1" str="Al principio el trabajo no era tan duro. Es decir, estábamos acostumbrados a ello. Pero ahora, años más tarde estamos envejeciendo. No podemos hacer el mismo trabajo que hace diez años. Si realmente buscas algo que hacer, tendrías que tratar de convencer a Gosfrid para que trabajemos menos y así poder descansar más. No te podemos pagar nada ahora, solo podemos darte nuestro agradecimiento sincero"/>
+   <dia pl="20" str="Que tenga un buen día." jumpNPCd= "0" jumpPlayerd = "0"/>
+   <dia pl="21" str="Trataré de hablar con Gosfrid." jumpNPCd= "2" jumpPlayerd = "3"/>
+   <dia npc="2" str="Gracias, joven. Le contaré a los chicos tu amabilidad."/>
+   <dia pl="3" str="Fin." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

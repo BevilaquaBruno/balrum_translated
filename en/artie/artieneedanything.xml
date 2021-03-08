@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Do you need anything?"/>
+    <dia npc="0" str="Well, young man, thank you for asking. If you don't mind it would be great if you could fetch a few bottles of medicine from Ivo for me. His bottles ease my pain."/>
+    <dia pl="1" str="You are in pain?"/>
+    <dia npc="1" str="Don't worry, boy. I've lived all my life in pain. My legs, you know. They were the reason why I couldn't become a knight. I guess it could have been worse. You just have to look around you and see that no matter how bad things look, there is always someone who has a worse life than you."/>
+    <dia pl="2" str="I guess you are right. How many do you need?"/>
+    <dia npc="2" str="Four will do, my boy. Here, take this money. It should be enough for old Ivo. Keep every coin he gives you back. Tell him they are for me. He only gives the good stuff to a few people. The rebels drink some watered down cheap stuff. He he..."/>
+	<dia pl="3" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

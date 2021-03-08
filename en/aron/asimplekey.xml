@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I found an old locked door with a keyhole shaped like a triangle. Can you make a key for it?"/>
+    <dia npc="0" str="I sure can kid, but why do you need to open that door? It was closed for a reason. You might get into trouble."/>
+    <dia pl="1" str="It's going to be fine. Most likely it's just an old empty crypt."/>
+    <dia npc="1" str="All the more reason not to go in there! But if you want it I can make it for you. How big was the triangle exactly?"/>
+    <dia pl="2" str="It was half the length of my thumb. Thank you for making it, Aron."/>
+    <dia npc="2" str="Here you go. Don't even ask, it wasn't any trouble work for me, so you don't owe me anything."/>
+	<dia pl="3" str="Thanks." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

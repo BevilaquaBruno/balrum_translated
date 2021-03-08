@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Has averiguado algo sobre el árbol de plata?"/>
+    <dia npc="0" str="Es fascinante! La muestra que me trajiste esta llena de la esencia de la vida, es increíble. Y también muy peligroso. En las manos equivocadas podría ser utilizado como un arma. Todas las clases de pociones pueden cocerse con este ingrediente. Espera. Que me estabas preguntando?"/>
+	<dia pl="1" str="Te estaba preguntando sobre la corteza que te di."/>
+    <dia npc="1" str="Si, si. Es el sueño de cualquier alquimista encontrar una substancia como esta. Nunca había leído o oído nada igual. Es tan puro que podría decir que es un árbol santo."/>
+    <dia pl="2" str="Que utilidad tiene este material?"/>
+    <dia npc="2" str="Todavía tengo que experimentar más. El tiempo dirá de lo que es capaz, Pero yo creo que sera capaz de curar enfermedades graves, incluso!"/>
+	<dia pl="3" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

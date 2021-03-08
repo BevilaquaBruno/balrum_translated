@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I'm a novice. I'm looking for work."/>
+    <dia npc="0" str="Nice to meet you. My name is Fay. I'm the alchemist here. So, you want to become a member of our guild. I remember when I was a novice. Those were the good days. Now the undead are crawling closer and closer to us. But I digress. I have a job for you! There is a cave near our tower. I have been hearing reports that in that cave an old member of ours is conducting experiments. The old man was kicked out of the guild because of his fascination with transforming potions. Rumor has it he transformed a few peasants into monsters. Your task is to find out if this is true."/>
+    <dia pl="1" str="If that man is in the cave will he try to harm me?"/>
+    <dia npc="1" str="When he was still a member he was always quiet. You could only see him with a book or two. He never harmed any one of us but he did transform a few of the guild's animals. It's always better to be prepared for the worst. Here, take these potions."/>
+    <dia pl="2" str="Thank you. I'll be on my way." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

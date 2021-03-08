@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Aquí están las cervezas, Lyre!"/>
+    <dia npc="0" str="Gracias novato! Chicos! El novato trajo la cerveza para nosotros! A qué es buen chico! Tienes mi palabra, hablare con Bolt sobre ti. Le diré que eres de gran ayuda."/>
+	<dia pl="1" str="Gracias. Disfruta la cerveza, Lyre." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

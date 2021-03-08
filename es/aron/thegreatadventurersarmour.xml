@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Un aventurero llamado Fleming me dio su armadura para que la repares."/>
+    <dia npc="0" str="Enséñame la armadura, chico.. Ah, una fina armadura de metal. Todo me dice que su dueño la hizo hace siglos, aunque es una verdadera armadura pesada. Solo los guerreros mas fuertes pueden soportar su peso. debo decir, que esta en unas condiciones horribles. Hay grandes manchas de oxido en los espinilleras y en el vambrace izquierdo."/>
+    <dia pl="1" str="vambrace?"/>
+    <dia npc="1" str="El vambrace es la pieza de la armadura que protege el antebrazo. Esta armadura requiere limpieza y atención regular. El actual propietario debería saberlo."/>
+    <dia pl="20" str="Se puede reparar, Aron? Fleming es un pobre hombre. Tenía la esperanza de que podrías hacer el trabajo gratis." jumpNPCd= "2" jumpPlayerd = '3'/>
+	<dia pl="21" str="La puedes reparar? Fleming me ha dado thalers para repararla." jumpNPCd= "3" jumpPlayerd = '4'/>
+	<dia pl="22" str="Le dije a Fleming que se lo harías gratis ya que hoy en día no haces casi armas y armaduras, por lo que reparar su armadura tan famosa puede ser un regalo para ti." jumpNPCd= "4" jumpPlayerd = '5'/>
+    <dia npc="2" str="Tu amigo esta de mala suerte. No puedo realizar el trabajo. Toma esta armadura fina y llévasela a otra persona. Dile a tu amigo Fleming que no espere que gente extraña le repare la armadura gratis."/>
+	<dia pl="3" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia npc="3" str="Si, muchacho. Es una armadura muy interesante. Pero tengo que reponer el suministro de hierro, me estoy quedando sin. Tráeme 10 trozos de hierro y reparare la armadura de Fleming. Guárdate los thalers chico."/>
+    <dia pl="4" str="Gracias Aron! Te voy a traer lo que necesitas. Cuando estaras listo?" jumpNPCd= "5" jumpPlayerd = '6'/>
+    <dia npc="4" str="Querido muchacho, No deberías haberle dicho que iba hacer el trabajo gratis. Las reparaciones ocupan mucho tiempo. Pero si tu haces mi trabajo mientras yo lo reparo quizás hagamos un trato! Se me esta acabando el mineral de hierro. Tráeme 10 trozos de hierro y reparare la armadura. hasta entonces seguire trabajando."/>
+	<dia pl="5" str="Te traeré lo que necesitas. Cuando estaras listo?"/>
+	<dia npc="5" str="La reparación tardara mas de un día. cuando me traigas los minerales que necesito, necesitaré al menos un día para reparar la armadura."/>
+	<dia pl="6" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

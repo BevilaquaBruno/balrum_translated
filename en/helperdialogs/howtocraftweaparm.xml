@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Tell me how to craft weapons and armor."/>
+    <dia npc="0" str="Haven't I told you a few times already? Fine, but pay close attention this time!"/>
+    <dia pl="1" str="Please continue."/>
+    <dia npc="1" str="You have to have the necessary materials on you. Most likely you will need processed iron. You can make iron bars using the smelters. Of course you might want to use other materials as the base of your creation. Once you have decided what to use as your main component you should experiment with mixing your main material with additional materials to see what kind of effect you get. If looks are important to you you should take your time and shape your creation to your desire."/>
+    <dia pl="2" str="..."/>
+    <dia npc="2" str="Don't try to create dalantium armor as your first craft. You have to practice to be skilled enough for such an object!"/>
+	<dia pl="3" str="Thank you for your time." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

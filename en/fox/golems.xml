@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I heard you have defeated a golem once Fox!"/>
+    <dia npc="0" str="I once was ordered to hunt down a golem. The golem wandered too close to a village and started killing people who got in its way. There was nothing special about the hunt except one thing."/>
+    <dia pl="1" str="What was the special thing?"/>
+    <dia npc="1" str="I was not able to harm the creature. None of my weapons could harm it."/>
+    <dia pl="2" str="Then how did you defeat it?"/>
+    <dia npc="2" str="At the time I was an apprentice of a great hunter. He told me that a long time ago a young blacksmith figured out how to wound these creatures. Your weapon needs to have certain crystals forged into it. It's a really quite simple procedure. I have a feeling that you are after those stone golems which roam these woods. It would be irresponsible of me to not give you a weapon since I know once you get something in your head.. Here take this, but be really careful. It's a really old weapon, it isn't worth much."/>
+	<dia pl="3" str="You are correct Fox, as always. Thank you for the weapon." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

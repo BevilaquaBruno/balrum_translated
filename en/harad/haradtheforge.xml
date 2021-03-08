@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="What are you making here?"/>
+    <dia npc="0" str="Not much, young man. Ever since my master left, this forge here is not being used."/>
+    <dia pl="1" str="Where is your master?"/>
+    <dia npc="1" str="The rebels demanded too much. He left the realm a long time ago. I keep this place clean and sometimes even try to make something. Just when I started to learn the art of blacksmithing the rebels invaded the city."/>
+	<dia pl="2" str="Sad to hear that. Take care." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

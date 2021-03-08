@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Tu hermano esta muerto."/>
+    <dia npc="0" str="Qué? Tu lo has matado? Gracias Nasrus por este día! Pensé que nunca más tendría paz en mi vida. Gracias. Aquí tienes. Te lo has ganado."/>
+	<dia pl="1" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

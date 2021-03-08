@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Tienes muchísimas pinturas aquí."/>
+    <dia npc="0" str="Bienvenido, joven! No te puedes creer lo feliz que estoy de verte por aquí. Si se puede saber, tienes el cadáver de un troll?"/>
+    <dia pl="1" str="El cadáver de un troll? Por que necesitas uno? Qué harías?"/>
+    <dia npc="1" str="Me gustaría pintarlo, por supuesto! Mira a tu alrededor. Estoy fascinado por los trolls. Ya sabes, no todos ellos son tontos y agresivos. Hay trolls amorosos y inteligentes por ahí. Cuando era joven, solía acercarme a los trolls sigilosamente y los pintaba. Un día cuando estaba pintando un troll dormido se despertó y empezó a golpearme casi hasta la muerte. No tomaba ninguna precaución."/>
+    <dia pl="2" str="Así que ahora solo pintas trolls muertos?"/>
+    <dia npc="2" str="Me inspiro en ellos. Si encuentras algún troll muerto, por favor tráeme su cuerpo. Te recompensare con una de mis pinturas!"/>
+	<dia pl="3" str="Mantendré los ojos abiertos." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

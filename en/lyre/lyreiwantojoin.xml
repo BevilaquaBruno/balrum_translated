@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I want to join your guild. Bolt told me I have to earn the trust of a few of you to be able to join."/>
+    <dia npc="0" str="A rookie! I have absolutely no problem with you joining. We have to grow our numbers so we stand a chance against the rebels. One day there will be order again in Balrum! Bards will sing about how we drove out the filthy rebels from Erdal. Do me one favor. Bring me a couple of beers. Bring four! That's all I need from you. We rarely get to drink beer here. It will make the boys really happy! Ha ha! You have to appreciate the small things in life! Especially now."/>
+	<dia pl="1" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

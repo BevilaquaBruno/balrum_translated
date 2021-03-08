@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I'm back from the ruins."/>
+    <dia npc="0" str="I'm genuinely surprised. Have you found any of the other recruits?"/>
+    <dia pl="1" str="I found one body. The dagger was on him. He was wearing simple clothes. He must have been in his twenties."/>
+    <dia npc="1" str="Ahh yes... Burt. I will cross his name from the list. Thank you. Show me the dagger."/>
+    <dia pl="2" str="... Here, take it."/>
+    <dia npc="2" str="Yes, Yes. This is the dagger. The poor souls didn't even know how worthless it is. It is a simple dagger you see, filled with worthless gems."/>
+	<dia pl="3" str="..."/>
+    <dia npc="3" str="Why are you looking at me like that? The task was simple. You only had to stay in the shadows. The undead can barely see in the dark. Each and every recruit could have easily avoided them. I assume you figured this out. Congratulations!"/>
+    <dia pl="4" str="What happens now? Can I join the guild?"/>
+    <dia npc="4" str="From now on you are one of us. You earned the shadow title. If you talk to our guild to an outsider we will hunt you down."/>
+	<dia pl="5" str="Will the guild help me find the remains of the Darkwood necromancers?"/>
+    <dia npc="5" str="Certainly! Talk to Knox. Now if you don't mind, I have other things to attend to. And don't forget to talk to the others. From now on they will trade with you and teach you."/>
+	<dia pl="6" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

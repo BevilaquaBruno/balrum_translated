@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="He oído que te encontraste con un oso pardo gigante."/>
+    <dia npc="0" str="Saludos, pequeño. De echo, he encontrado el oso más grande de la historia. Ganaré el desafió del cazador estoy seguro. Gané el último desafio y si gano este también será un nuevo récord."/>
+    <dia pl="1" str="Donde está la guarida del oso?"/>
+    <dia npc="1" str="Ha! Buen intento! Jilian te ha enviado? Dile que nunca le diré donde esta el oso."/>
+    <dia pl="2" str="Solo era por curiosidad."/>
+    <dia npc="2" str="Pues no lo sabrás. Ese oso es mio. Ahora si me disculpas tengo que prepararme para la poderosa bestia."/>
+	<dia pl="3" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

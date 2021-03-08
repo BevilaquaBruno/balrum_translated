@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Is this the letter you were looking for?"/>
+    <dia npc="0" str="Could it be? 'Lona takes a look at the letter and smiles.' It is! How did you find it? Thank you so much. 'Lona bursts into tears but I can see they are tears of joy.' I lost everything I loved. You brought back a piece of him to me. Thank you."/>
+	<dia pl="1" str="You are welcome Lona." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Here are the melons, Arda."/>
+    <dia npc="0" str="Thank you! They look just right. All of them are a nice ripe green. Come back tomorrow, it should be ready by then."/>
+	<dia pl="1" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

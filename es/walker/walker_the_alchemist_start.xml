@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+   <dia pl="0" str="Señor, tienes un buen laboratorio aquí."/>
+   <dia npc="0" str="Gracias. Veo que tu no eres de los que piensan que mis botellas están llenas de vino."/>
+   <dia pl="1" str="Se un poco de alquimia."/>
+   <dia npc="1" str="Sabes? Te gustaría aprender un poco más?"/>
+   <dia pl="2" str="Brown me está enseñando. Todavía estoy aprendiendo."/>
+   <dia npc="2" str="Brown. El es un buen alquimista, pero seguro que el solo te enseña las llamadas pociones 'seguras'. Yo te podría enseñar la alquimia verdadera. La alquimia que puede aumentar permanentemente tu fuerza o tu inteligencia. Pero por supuesto, nada es gratis en este mundo, ya sabes."/>
+   <dia pl="3" str="Enséñame."/>
+   <dia npc="3" str="No tan rápido. Primero, vas a tener que hacer algunas tareas para mi."/>
+   <dia pl="4" str="Qué necesitas que haga?"/>
+   <dia npc="4" str="Tráeme una blindweed negra. Eso es lo que tienes que hacer por ahora."/>
+   <dia pl="5" str="Fin." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

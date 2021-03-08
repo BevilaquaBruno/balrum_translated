@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="What are you doing down here?"/>
+    <dia npc="0" str="I live here. What are you doing here?"/>
+    <dia pl="1" str="Why do you live down here? You could live in one of the villages. It would be a better life. Not to mention it would be much safer."/>
+    <dia npc="1" str="I don't like people. I lived here all my life. Well there was a time when I lived with my husband. But that was long ago."/>
+    <dia pl="2" str="Don't the wild animals scare you? I saw a giant spider here and a few larvae."/>
+    <dia npc="2" str="Why would they scare me? They are my children."/>
+    <dia pl="3" str="Your children? What do you mean?"/>
+    <dia npc="3" str="'The woman in black smiles at you.' I told you they are my children. You look a little too old but you will do! "/>
+	<dia pl="4" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

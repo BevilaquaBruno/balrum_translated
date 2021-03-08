@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Soy nuevo. Estoy buscando trabajo."/>
+    <dia npc="0" str="Un novato! No habíamos tenido un novato en décadas. Tengo que advertirte. Me gusta divertirme con los novatos. Todavía estas interesado en hacer un trabajo para mi, novato?"/>
+    <dia pl="1" str="Tengo elección?"/>
+    <dia npc="1" str="Si y no. Ha ha! perdona, no quería reírme. Pero lo hice, me reí fuerte y duro. Escúchame atentamente. Ves a ese hombre de las batas rojas? Se llama Gar. Cuando Gar se vaya a dormir sigilosamente lo despiertas! Simple, verdad? Eso es todo lo que necesito de ti!"/>
+    <dia pl="2" str="Si hago esto para ti, le dirás a Van que soy una buena elección para la alianza?"/>
+    <dia npc="2" str="Claro, claro! Por supuesto! Ahora ves! Déjame solo."/>
+	<dia pl="3" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

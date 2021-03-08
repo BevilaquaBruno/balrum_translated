@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="He encontrado al mago."/>
+    <dia npc="0" str="Qué a pasado? Los rumores son ciertos? A transformado a gente en monstruos?"/>
+    <dia pl="1" str="El está muerto. He encontrado su diario. Quería convertirse en un maestro de la transformación. Los miembros de la alianza se burlaban de el por que sus primeros experimentos no funcionaban, entonces el decidió irse a las cuevas para continuar su investigación en paz. Había un escarabajo gigante cerca de su cadáver y creo que a debido ser un intento de transformación."/>
+    <dia npc="1" str="La magia de transformación es complicada. Los demás no se burlaban de el o no deberían hacerlo. Lo siento por el y gracias por tu ayuda."/>
+	<dia pl="2" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

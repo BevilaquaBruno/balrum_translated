@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Como están las cosas?"/>
+    <dia npc="0" str="Bueno joven, las cosas no van bien."/>
+    <dia pl="1" str="Cual es el problema?"/>
+    <dia npc="1" str="Los rebeldes. Sus demandas son exageradas, cada vez necesitan más y más trigo. Moulton ya no puede mantener el ritmo."/>
+    <dia pl="2" str="Como puedo ayudar?"/>
+    <dia npc="2" str="No creo que puedas ayudarnos, querido. La única forma de poder seguir el ritmo es hacer crecer el trigo más rápido."/>
+    <dia pl="3" str="Puede haber una manera. Has oído hablar de los wisps del bosque? Cuando el wisps está cerca de las plantas las hace crecer mas rápido y las mantiene saludables."/>
+    <dia npc="3" str="Que demonios. Wisps del bosque en mi granja? Estas criaturas son pacíficas? Que pasa si atacan a uno de mis trabajadores?"/>
+    <dia pl="4" str="Si no les molestan no hay problemas. Entonces que me dices? Traigo uno a tu granja?"/>
+    <dia npc="4" str="Tienes una especie de aura a tu alrededor. Confió en ti, muchacho! Si vamos a traerlo!"/>
+	<dia pl="5" str="Volveré con un wisp." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

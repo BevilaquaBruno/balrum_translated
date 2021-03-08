@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Ulger necesita un aprendiz en su nueva fragua."/>
+    <dia npc="0" str="Una herrería nueva? Interesante! Dime donde esta."/>
+    <dia pl="1" str="Déjame ver tu mapa te marcaré la ubicación."/>
+    <dia npc="1" str="Excelente! Prepararé las cosas y me pondré en camino. Gracias."/>
+	<dia pl="2" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

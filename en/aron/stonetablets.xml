@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Do you know anything about stone tablets Aron?"/>
+    <dia npc="0" str="All through my life I've worked with metal and stone, but I have never heard of a stone tablet. Sorry, I cannot tell you anything about them."/>
+	<dia pl="1" str="Thanks anyway, Aron." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

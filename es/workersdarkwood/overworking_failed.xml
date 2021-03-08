@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+   <dia pl="0" str="Lo siento, no pude convencer a Gosfrid."/>
+   <dia npc="0" str="No pasa nada, chico. Al menos lo intentastes. Gracias. Tenemos que volver al trabajo."/>
+   <dia pl="1" str="Fin." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

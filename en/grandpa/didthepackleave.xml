@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Did the Packs leave the woods?"/>
+    <dia npc="0" str="If so, they made a bad decision. The world out there is still in chaos. I doubt much has changed in the twenty years since we fled to the woods. I don't understand why would they risk their lives this way."/>
+    <dia pl="1" str="Is the outside world really that bad, Grandpa?"/>
+    <dia npc="1" str="Long ago undead hordes were swarming out of the unknown lands into the world of the people. The kings sent their armies against the hordes but the power of the undead had been greatly underestimated. No one survived the battles. Without the kings' armies, chaos overcame the world. Large bandit clans formed and started to live by their own rules. Soon the kings of Balrum had fallen. It was at this time when our village and Kyler's people decided to flee into the woods for protection against the madness. As you know, Son, no-one dares to enter the woods because of the dark history it has. It was a hard decision but we've lived in peace for many years here. The woods protect us from the outside world. I fear that it's impossible to restore order in Balrum. Men are capable of horrible things when there is no-one to avenge the wrong they do. The things that I saw, my boy, I will not talk about."/>
+    <dia pl="2" str="It's been twenty years Grandpa. The world might have changed."/>
+    <dia npc="2" str="We cannot know that. No one has left the woods - ever since we settled here. We have a good life here. The Packs haven't told anyone they were leaving. Not even a letter. That really bothers me."/>
+    <dia pl="3" str="You never told me the history of the woods, Grandpa."/>
+    <dia npc="3" str="Not now my boy. Some day I will tell you everything."/>
+	<dia pl="4" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

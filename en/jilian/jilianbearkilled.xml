@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I have slain Diego's bear."/>
+    <dia npc="0" str="What? Why? Why did you do that? What are we going to do?"/>
+    <dia pl="1" str="I have its fur. You can have it."/>
+    <dia npc="1" str="Get it out of here. I don't want it."/>
+    <dia pl="2" str="I thought you wanted to win this time?"/>
+    <dia npc="2" str="There is a thing called honor, you know... but we have to respect the beast. I cannot make a trophy out of it. The others - and especially Diego - would be furious. Hmm. What if we change its fur to black?"/>
+	<dia pl="3" str="What?"/>
+    <dia npc="3" str="If Diego sees the brown bear he will most certainly recognize it. We have to dye it."/>
+    <dia pl="4_0" str="That's not really an honorable thing to do." jumpNPCd= "5" jumpPlayerd = '6'/>
+    <dia pl="4_1" str="How can we dye its fur?"/>
+    <dia npc="4" str="Give it to me. I can make its fur black. Thank you for your help. Although I must say, my conscience is telling me that this is not right. On the other hand, we have to honor the great bear. I promised you my knowledge. From now on I will teach you everything I know."/>
+	<dia pl="5" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia npc="5" str="You are right. We cannot do this. Keep the trophy. Now please leave."/>
+	<dia pl="6" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

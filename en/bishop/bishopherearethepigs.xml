@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I'm back with the pigs."/>
+    <dia npc="0" str="Would you look at that! You came back and with the pigs. Good work boy. Here take this money. You've earned it. Let's hope these pigs will spice up the tempers in the pen."/>
+	<dia pl="1" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

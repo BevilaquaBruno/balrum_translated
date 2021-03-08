@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Any news about the Packs?"/>
+    <dia npc="0" str="Sadly, nothing. If they are in the woods I fear for their lives. All kinds of monsters live in Darkwood. Fox saw a troll the other day. Let's hope for the best for their family."/>
+    <dia pl="1" str="Did they leave the woods? They went back to the world ruled by bandits? Why would they leave this safe village? Would they be so cruel as to risk a worse life for their child?"/>
+    <dia npc="1" str="If they left the village to go back to their old lives, then that is their decision. We don't know anything for certain, child. I doubt they would have left without any warning. Let's hope they'll be found."/>
+    <dia pl="2" str="End." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

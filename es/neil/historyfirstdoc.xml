@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+   <dia pl="0" str="He encontrado otro documento!"/>
+   <dia npc="0" str="'Neil empieza a leer el papel que le diste, su cara se pone pálida.' Es una lista de las personas, su edad y su sexo. Tengo una horrible sensación de que se trata de personas inocentes atraídas al bosque por los nigromantes. Los deben haber utilizado para sus rituales. Si encuentras cualquier otra cosa, tráemelo!"/>
+   <dia pl="1" str="Lo haré Neil." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

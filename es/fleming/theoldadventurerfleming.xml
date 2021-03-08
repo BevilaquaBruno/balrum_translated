@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Quién eres?"/>
+    <dia npc="0" str="Mi nombre es Fleming, soy un gran aventurero. Seguro que has oído hablar de mi."/>
+    <dia pl="1" str="Nunca he oído hablar de ti, Fleming. Lo siento."/>
+    <dia npc="1" str="Eso no puede ser. Pues bien, Has oído hablar de mi padre Linwood?" />
+    <dia pl="2" str="El caballero que mató a un oso gigante?"/>
+    <dia npc="2" str="Si. Si! Ves, si me conoces despues de todo."/>   
+    <dia pl="3" str="Solo se lo de tu padre. Qué estás haciendo aquí?"/>
+    <dia npc="3" str="Vengo de la aldea de Kyler y estoy en una gran aventura. Igual que mi padre."/>
+    <dia pl="4" str="Tu armadura se ve un poco floja, parece que ha empezado a oxidarse."/>
+    <dia npc="4" str="Mi padre era mucho mas grande que yo, pero yo me siento mas grande cada día. Algún día seré aún más grande que el. Pero no tengo tiempo de ir a un herrero. Tal vez tu me puedas ayudar. Conoces algún buen herrero? Porque solo de dejaría la armadura de mi padre a un maestro herrero.."/>
+    <dia pl="5" str="Conozco a uno, su nombre es Aron. El es el mejor herrero que te puedes encontrar en el bosque. El hacía a mano finas armas y armaduras antes de que nos instalaramos en el bosque oscuro." />
+    <dia npc="5" str="Ya veo. Entonces el debe de servir. Entonces le llevarías mi armadura a Aron?"/>
+    <dia pl="6" str="Si, pero no creo que sea barato arreglar una armadura en tan malas condiciones."/>
+    <dia npc="6" str="Por supuesto. Una armadura fina como esta necesita un atención especial, y no es barato. Qué piensas. Cuanto cuesta?"/>
+    <dia pl="70" str="100 thalers serían suficientes."  jumpNPCd = "7" jumpPlayerd = "8"/> 
+    <dia pl="71" str="200 thalers serían suficientes."  jumpNPCd = "8" jumpPlayerd = "8"/> 
+    <dia pl="72" str="Un segundo, estaba pensando que el podría reparar tu famosa armadura gratis. " jumpNPCd = "9" jumpPlayerd = "8"/>
+    <dia npc="7" str="Aquí esta. Estaré por aquí. Por favor trátala con especial cariño. Esta armadura significa mucho para mí."/>
+    <dia npc="8" str="Bien. Esperó que el herrero sea dignó de ello. Por favor trátala con especial cariño. Esta armadura significa mucho para mí."/>
+    <dia npc="9" str="Eso es lo que estaba pensando yo también. Cualquier herrero se sentiría orgulloso de trabajar mi armadura gratis. Toma, por favor trátala con especial cariño. Esta armadura significa mucho para mí. I aquí van 50 thalers por tu tiempo, compañero de aventuras."/>    
+    <dia pl="8" str="Fin." jumpNPCd = "0" jumpPlayerd = "0"/>
+</dialogs>

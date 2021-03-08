@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Creo que he encontrado el oso pardo de Diego."/>
+    <dia npc="0" str="Lo tienes? No quiero saberlo. No soy una tramposa. El encontró ese oso, el debe darle caza."/>
+    <dia pl="1_0" str="Pensé que querías ganar esta vez?"  jumpNPCd= "2" jumpPlayerd = '3'/>
+    <dia pl="1_1" str="Entiendo. Te deseo suerte con el desafió."/>
+    <dia npc="1" str="Gracias."/>
+    <dia pl="2" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia npc="2" str="Tengo mi propio honor, ya sabes. Ahora déjame, tengo cosas que hacer."/>
+	<dia pl="3" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

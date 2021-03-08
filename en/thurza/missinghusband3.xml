@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Robert's dead. He wandered too close to the bears."/>
+    <dia npc="0" str="Poor Robert. A child might have pushed him back to the right track. When we spoke I always tried to get it out of him why he drinks that much, but he never told me. His wife is an amazing loving woman and they have everything they need. Still he looked for peace at the bottom of the mug."/>
+    <dia pl="10" str="If Thursa is really pregnant her child is better off without a father like that."/>
+    <dia pl="11" str=He might have changed for the better."/>
+    <dia npc="1" str="It doesn't matter now."/>
+    <dia pl="2" str="I found a letter on his body. He writes about leaving his parents behind and having nightmares about them being tortured. What could he mean?"/>
+    <dia npc="2" str="This explains why he was drunk every single night lately. Lots of strange things are happening in this village lately."/>
+    <dia pl="3" str="I'm going to go and tell Thurza." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

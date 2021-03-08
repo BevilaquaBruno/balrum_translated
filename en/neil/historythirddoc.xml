@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I have found another document, Neil!"/>
+    <dia npc="0" str="'Neil reads the document and stares at you..' I can't do this anymore. I don't want to know what happened in these woods. They were doing dark and evil things to get the attention of the Mad God. We have to stop. Thank Adacus for King Triston and his soldiers. They stopped them. That's what matters. They cannot do horrible things to anyone else. That's what matters. Not the past. Thank you for your help, boy. Here, take these gloves. I found them in a crypt. You will make better use of it than I have."/>
+	<dia pl="1" str="This place is evil. Let's hope that the necromancers won't walk the grounds of Balrum ever again." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

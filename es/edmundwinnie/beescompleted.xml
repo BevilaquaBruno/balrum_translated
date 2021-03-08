@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Aquí tienes las abejas."/>
+    <dia npc="0" str="Las voy a introducir en los panales inmediatamente! Gracias por tu ayuda, mi hijo!"/>
+	<dia pl="1" str="Me alegro de poder ayudar." jumpNPCd = "0" jumpPlayerd = "0"/>
+</dialogs>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Sabes algo sobre los Pack, Thurza?"/>
+    <dia npc="0" str="Cosas terribles han ocurridó. Escuche a un niño chillar, salí corriendo y vi las llamas. Entonces fui a buscar ayuda. Han desaparecido. No han encontrado sus cuerpos. Cuando el humo se desvaneció entre en los escombros. No se lo he dicho a nadie pero encontré algo."/>
+    <dia pl="1" str="Que has encontrado, Thurza? Por que no se lo has enseñado a todo el mundo?"/>
+    <dia npc="1" str="Mi marido esta de caza. Se lo enseñare a el primero. El se enfadará si se lo muestro a los demás antes que a el."/>
+    <dia pl="2" str="Pero la vida de los Pack podría estar en peligro! Si has encontrado algo, deberías enseñármelo."/>
+    <dia npc="2" str="Pero Robert se enfadará."/>
+    <dia pl="3" str="Entiendes que el tiempo es esencial ahora. Por favor Thurza!"/>
+    <dia npc="3" str="Pesa un poco. Tiene una escritura pero no puedo leerla. Parece una escritura antigua. Si ayuda, puedes llevartela. No le digas a mi marido que te lo he dado, por favor."/>
+    <dia pl="4" str="Que puede ser esto? Se lo enseñare al abuelo, el a lo mejor lo sabe. No le diré a nadie que lo has encontrado. Solo espero que esto nos ayude a encontrarlos."/>
+    <dia npc="4" str="Yo también lo espero."/>
+	<dia pl="5" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

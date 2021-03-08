@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="How are things, father?"/>
+    <dia npc="0" str="It's a fine day isn't it, dear son. I haven't seen your face before. I welcome you to our church."/>
+    <dia pl="1" str="I'm looking for work."/>
+    <dia npc="1" str="You could help me in something. I suspect that it is a rather sensitive case. Can I trust you with such a matter?"/>
+    <dia pl="2" str="I will handle this delicately, father. You can trust me."/>
+    <dia npc="2" str="Lately I have been hearing... well... noises. How can I say this to you son. Noises... Noises of pleasure, I assume. Noises of great pleasure."/>
+    <dia pl="3" str="I'm sorry father but I don't understand. Can you be more specific?"/>
+    <dia npc="3" str="You know when a woman and a man..."/>
+    <dia pl="4" str="I understand now father."/>
+    <dia npc="4" str="This kind of activity is banned amongst our members. What makes matters worse is that I strongly suspect the women involved are... you know... working."/>
+	<dia pl="5" str="What do I need to do, father?"/>
+    <dia npc="5" str="I've got it all planned out. Listen carefully. Tell my brothers that you have heard that there are rumors about newborns without fathers. And you are really scared because you have been to the brothel a few times. One of the children might be yours. Ask them what to do. I think that will scare them enough. What do you think?"/>
+    <dia pl="6" str="Sounds like a good plan, father."/>
+    <dia npc="6" str="Now you don't have to speak to the girls. Simply tell my little story to my brothers, alright?"/>
+	<dia pl="7" str="What will I get in return?"/>
+    <dia npc="7" str="I will teach you what I have learned over the years. I know quite a few spells, you know. What do you say?"/>
+    <dia pl="8" str="I will talk to them, father."/>
+    <dia npc="8" str="Thank you, my son. Now off you go."/>
+	<dia pl="9" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

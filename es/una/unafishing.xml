@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="El olor a pescado es muy fuerte aquí."/>
+    <dia npc="0" str="No me digas."/>
+    <dia pl="1" str="Ha ocurrido algo interesante últimamente?"/>
+    <dia npc="1" str="No mucho."/>
+    <dia pl="2" str="Puedo ayudarte en algo?"/>
+    <dia npc="2" str="Si que puedes. Necesito un poco de lino de buena calidad para mi red. Ya esta envejeciendo y los agujeros cada vez son más grandes."/>
+	<dia pl="3" str="Dónde puedo conseguir el lino que necesitas?"/>
+    <dia npc="3" str="Justo al sur de aquí se encuentra la gran granja de lino. Ahí deben de tener un montón de lino. Pregunta por ahí si tienes problemas para encontrar algo de lino diles ques es para mi. No te puedo dar nada a cambio."/>
+    <dia pl="4_0" str="Veré lo que puedo hacer." jumpNPCd= "5" jumpPlayerd = '6'/>
+    <dia pl="4_1" str="No me interesan tus redes."/>
+    <dia npc="4" str="Deberías por que estas redes ponen comida en las mesas de muchas personas."/>
+    <dia pl="5" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia npc="5" str="Es muy noble por tu parte ayudarme gratuitamente! Miraré por aquí. Estoy seguro que puedo encontrar algo digno para ti."/>
+    <dia pl="6" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

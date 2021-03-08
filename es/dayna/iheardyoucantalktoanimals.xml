@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="He oído que puede hablar con los animales."/>
+    <dia npc="0" str="Tal vez eso sea lo que has escuchado, pero crees que es verdad? Puedo hablar con los animales?"/>
+	<dia pl="1" str="No lo sé, nunca te he visto ni oído hablando con ellos."/>
+	<dia npc="1" str="Entonces ya tienes tu respuesta."/>
+	<dia pl="2" str="Entonces eso significa que no puede."/>
+	<dia npc="2" str="No , no puedo."/>
+	<dia pl="3" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

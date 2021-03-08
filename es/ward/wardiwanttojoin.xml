@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Quiero unirme a tu alianza. Tengo que ganarme la confianza de algunos de vosotros. Necesitas alguna ayuda?"/>
+    <dia npc="0" str="Bienvenido! Recuerdo cuando yo era un novato, hace ya muchos años. Nunca pensé que esto sería en lo que se ha convertido el gremio de guerreros. Miranos estamos escondidos en el bosque, en un pequeño y patético campamento. Algún día recuperaremos la capital. Un día lo haremos!"/>
+    <dia pl="1" str="Necesitas alguna ayuda?"/>
+    <dia npc="1" str="Como puedes ver, estoy bastante viejo. Soy uno de los miembros más antiguos de la Alianza. Me duele todo y estoy cansado. Mis huesos me duelen con cada paso que hago. Esta armadura pesada ya empieza a hacer su efecto en mi cuerpo. Acércate más chico."/>
+    <dia pl="2" str="'Acérquese usted'."/>
+    <dia npc="2" str="Vamos a mantener nuestras voces bien bajas, de acuerdo? Por casualidad no tienes un poco de hierba? Eso ayuda con el dolor sabes!"/>
+	<dia pl="3" str="No, yo no tengo nada. Se permite fumar en el campamento?"/>
+    <dia npc="3" str="Baja la voz muchacho! No, no esta permitido. Por eso estoy susurrando. Me puedes conseguir un poco? Si lo haces puedes estar seguro que le diré a Bolt que puedes unirte a nosotros!"/>
+    <dia pl="4" str="Muy bien, te conseguiré alguna para aliviarte el dolor."/>
+    <dia npc="4" str="Gracias , muchacho! Las granjas de hierba están al noroeste de aquí. Espera, te lo marcaré en el mapa. No le hables de esto a nadie!"/>
+	<dia pl="5" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

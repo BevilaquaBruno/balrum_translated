@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <diastr s="I would like to learn."/>
+	<diastr s="I'm seeking new abilities."/>
+	<diastr s="I want to know more."/>
+	<diastr s="Can you teach me more?"/>
+</dialogs>

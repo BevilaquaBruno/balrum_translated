@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Barnabas! A woman is awfully sick. Her eyes are turning yellow. She's so weak she cannot move. She needs a special potion to heal her!"/>
+    <dia npc="0" str="Yellow eyes? There's no cure for that I'm afraid. Wait! The bark that you collected for me might help her. It's worth a try! Here, give this potion to her. Let's hope it will work."/>
+    <dia pl="1" str="Thank you." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

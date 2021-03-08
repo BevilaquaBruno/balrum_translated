@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I could not find Murray. I looked everywhere."/>
+    <dia npc="0" str="That blasted thing. I will have to find another servant, then. You would make a good one, young man. But I have a feeling that you might be helpful for me again someday and, as I have already told you, my methods are not yet perfected. If only I could talk to the Architect. He could answer so many of my questions."/>
+    <dia pl="1" str="Who is this Architect?"/>
+    <dia npc="1" str="It was his idea to build the underground city thousands of years ago. He controlled dozens of giant stone golems to aid him with the digging and building. Legends say that he was a great necromancer. He somehow managed to be the king's consultant. I think he only designed the underground city for his own evil reasons. A truly great necromancer he was. Now! I don't have time to talk about legends. Leave."/>
+	<dia pl="2" str="End" jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

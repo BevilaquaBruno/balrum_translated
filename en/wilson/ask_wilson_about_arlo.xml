@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I know that Arlo had been talking to the necromancers."/>
+    <dia npc="0" str="Keep your voice down, boy! I knew one day someone would find that out."/>
+    <dia pl="1" str="I know that you are a loyal soldier, Wilson. But lives are at stake. We might be able to help the Packs if we act now. Tell me everything you know!"/>
+    <dia npc="1" str="When we fled to the woods twenty years ago Kyler's and Arlo's people started to build a large village together. Something happened between them, and one day Kyler announced that his people would leave the village and build a second village on the other side of the woods. Arlo never talked about it."/>
+    <dia pl="2" str="What could have happened?"/>
+    <dia npc="2" str="I already told you more than I should have. This is all I know. If you listen to me you should go and visit Kyler in the other village. You might find answers to your questions there."/>
+	<dia pl="3" str="Thank you, Wilson. I'll get to the bottom of this." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

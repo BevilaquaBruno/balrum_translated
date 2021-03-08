@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="La bestia está fuera de combate."/>
+    <dia npc="0" str="Gracias viajero. Aquí tienes la llave. Nunca nos hemos atrevido a ir allí."/>
+    <dia pl="1" str="Gracias Chief."/>
+    <dia npc="1" str="Ten cuidado cuando vaya ahí abajo. Mi abuelo me dijo que había escuchado ruidos extraños y a veces notamos pequeños terremotos procedentes del lugar."/>
+    <dia pl="2" str="Me acercaré a ver." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

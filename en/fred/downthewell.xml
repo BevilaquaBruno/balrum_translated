@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="The well leads to an underground place, Fred! Hugo might have died because he found it!"/>
+    <dia npc="0" str="What are you talking about? An underground area? What did you see? I can't believe it, you might be right, kid!"/>
+    <dia pl="1" str="Not much. There were large stone walls and a few iron doors. All of them were locked; I couldn't get any further. I should show you!"/>
+    <dia npc="1" str="Do not go down there again kid. If you're right, then by going down there you might put your own life in danger, too. I'm not going down there! Did anyone see you?"/>
+    <dia pl="2" str="I don't think so. Who could have killed him and why? What could there be down there that he shouldn't have seen?"/>
+    <dia npc="2" str="I have no idea kid. You should stop poking around. This is too much for me. Hugo is dead. He might have been murdered because of the place you found. But I can think of no one in this village or in the whole of the woods who would kill him for that. If I were you, I would leave this be."/>
+	<dia pl="3" str="But someone might have murdered him. Don't you want to know who and why?"/>
+    <dia npc="3" str="Of course I want to know. But will it make anything better? It might very well make things even worse."/>
+    <dia pl="4" str="You might be right, Fred. I will keep an eye out."/>
+    <dia npc="4" str="Be careful, kid."/>
+	<dia pl="5" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

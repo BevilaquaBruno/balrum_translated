@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Why are you living here?"/>
+    <dia npc="0" str="Welcome young man. My name is Orran. I haven't seen a single soul for years. What can I help you with? And to answer your question I wanted piece. The desert keeps the rebels away."/>
+    <dia pl="1" str="What do you do here?"/>
+    <dia npc="1" str="Not much. I used to be a sailor. Well if I think about it, I still am a sailor. You want to leave Balrum? That's why you sought me out?"/>
+    <dia pl="2" str="Where can you take me?"/>
+    <dia npc="2" str="I cannot go on long trips any more. I'm too old. But I can sail you to the nearest island if you want to. Crocodile Island is the name of the place. I must say it is a fitting name."/>
+	<dia pl="3" str="Sail me there Orran."/>
+	<dia npc="3" str="Not so fast young adventurer! I will need some compensation. At my age even a short trip can be really dangerous. I will need two thousand thalers from you boy. No more. No less."/>
+	<dia pl="4" str="I will think about it." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

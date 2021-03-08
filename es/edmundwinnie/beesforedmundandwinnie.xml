@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Necesitas ayuda?"/>
+    <dia npc="0" str="Ahora que lo preguntas. Ya sebes que lo poco que tenemos, es gracias a nuestras abejas. Vendemos la miel que hacen."/>
+	<dia pl="1" str="Si, lo sé."/>
+    <dia npc="1" str="Bien, resulta que todas las abejas han muerto. Alguna enfermedad las a ido matando. Podrías traermé unas cuantas abejas para formar una nueva colonia?"/>
+    <dia pl="2" str="Por supuesto que te ayudaré. Volveré cuando tenga algunas!" jumpNPCd= "0" jumpPlayerd = "0"/>
+    <dia npc="3" str="Gracias, mi chico."/>
+    <dia pl="3" str="Fin" jumpNPCd = "0" jumpPlayerd = "0"/>
+</dialogs>

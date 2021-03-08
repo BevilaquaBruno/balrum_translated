@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Robert a muerto. El se acerco demasiado a los osos."/>
+    <dia npc="0" str="Pobre Robert. Un niño podría haberle empujado de nuevo por el camino correcto. Cuando hablaba con el intentaba sacarle por que bebe tanto, pero nunca me lo dijo. Su esposa es una increíble ama de casa y tienen todo lo que necesitan."/>
+    <dia pl="10" str="Si Thurza realmente esta embarazada, el hijo estará mejor sin un padre como el."/>
+    <dia pl="11" str="El podría haber cambiado para bien."/>
+    <dia npc="1" str="No importa ahora."/>
+    <dia pl="2" str="He encontrado una carta en su cuerpo. El ha escrito que dejo a sus padres atrás, que tenia pesadillas de ellos por que lo torturaban. Qué puede significar?"/>
+    <dia npc="2" str="Esto explica por que se emborrachaba todas las noches últimamente. Un montón de cosas extrañas están sucediendo últimamente en este pueblo."/>
+    <dia pl="3" str="Voy a ir a decírselo a Thurza." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <diastr s="Me gustaría echar un vistazo a tu inventario."/>
+	<diastr s="He venido a ver si tienes lo que necesito."/>
+	<diastr s="Necesito suministros."/>
+	<diastr s="Necesito algunos suministros."/>
+	<diastr s="Estoy aquí para ver que tienes en el inventario."/>
+	<diastr s="Que tienes en venta?"/>
+	<diastr s="Me gustaría ver lo que tienes a la venta."/>
+	<diastr s="Me gustaría echar un vistazo a tu mercancía."/>
+	<diastr s="Me enseñas tu mercancía."/>
+	<diastr s="Muéstrame tus bienes."/>
+</dialogs>

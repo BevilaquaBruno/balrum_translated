@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I'm here to buy four bottles for Artie."/>
+    <dia npc="0" str="There you go, boy. Be careful now, don't break them. You would be surprised if you knew how many bottles don't survive the first few steps from here."/>
+	<dia pl="1" str="Thank you." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

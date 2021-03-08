@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Disfrutando de la fiesta?"/>
+    <dia npc="0" str="No te he visto por aquí nunca. Eres nuevo, no es cierto?"/>
+    <dia pl="1" str="Si. Encantado de conocerte."/>
+    <dia npc="1" str="El gusto es mio. Es agradable ver una cara nueva. Estas fiestas necesitan más hombres jóvenes como tu. Los rebeldes son tontos y malolientes. Tu eres todo lo contrario. Ultimamente, por alguna misteriosa razón, vienen menos personas a esta fiesta."/>
+    <dia pl="2" str="Gracias. Te gustaría beber algo conmigo?"/>
+    <dia npc="2" str="Pensaba que nunca me lo pedirías."/>
+	<dia pl="3" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

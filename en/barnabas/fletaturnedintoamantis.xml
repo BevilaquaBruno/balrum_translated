@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="The most horrible thing happened! Fleta drank the potion and she turned into a giant mantis!"/>
+    <dia npc="0" str="What? 'Barnabas takes a look at his shelf of potions..' Oh no, I must have given you the wrong potion. I'm so sorry. I'm so ashamed. My dear love left me because of this. Because I'm so forgetful. 'Barnabas stands still and stares ahead' Oh, but at least she is cured now. She won't die a horrible death!"/>
+    <dia pl="10" str="Quickly give me a potion! We still have a chance to save her!"  jumpNPCd= "2" jumpPlayerd = '3'/>
+    <dia pl="11" str="It's too late. I killed her. She attacked me. I had to protect myself."/>
+    <dia npc="1" str="I understand boy. You had no other choice. The fault is mine. If I hadn't given you the wrong potion none of this would have happened."/>
+    <dia pl="2" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia npc="2" str="You might be able to turn her back! I created a spell from the potion. You will be able to use it only once so be careful."/>
+    <dia pl="3" str="I hope it's not too late." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

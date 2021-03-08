@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Here is your ring Cardew."/>
+    <dia npc="0" str="My ring! My blue ring! Thank you thank you!"/>
+    <dia pl="1" str="You're welcome, and you were right. Rhys took your ring but he gave it back without hesitation, so don't be mad at him."/>
+    <dia npc="1" str="My magical ring! Look how sparkly it is! "/>
+    <dia pl="2" str="What kind of magical powers does your ring have?"/>
+    <dia npc="2" str="I'll tell you, but don't tell anyone else! My ring can take me to a place. A place of peace. I shall put my ring in my casket here so Rhys won't be able to steal it from me again!"/>
+	<dia pl="3" str="All right Cardew." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

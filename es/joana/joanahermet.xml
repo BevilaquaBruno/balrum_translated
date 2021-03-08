@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Encantado de conocerte."/>
+    <dia npc="0" str="Parece que tendré que aumentar el numero de trampas alrededor de la casa. Qué deseas?"/>
+    <dia pl="1" str="Por que vives aquí sola?"/>
+    <dia npc="1" str="Como sabes que estoy sola?"/>
+    <dia pl="2" str="No lo sé."/>
+    <dia npc="2" str="Exactamente, no lo sabes. Para tu información no estoy aquí sola. Mi marido y yo vivimos aquí juntos. Muy lejos de la suciedad de la ciudad."/>
+	<dia pl="3" str="He estado en la ciudad y no esta tan mal."/>
+    <dia npc="3" str="Me alegro por ti. Permíteme que te pregunte de nuevo. Qué deseas?"/>
+    <dia pl="4" str="Estoy buscando trabajo, y también, podrías decirme donde esta el camino?"/>
+    <dia npc="4" str="Por el desierto. Es una tierra dura e implacable. Al principio se ve un precioso oasis, pero a medida que te vayas adentrando solo encontraras arena. No tengo ni idea de por que alguien eligiría vivir ahí."/>
+    <dia pl="5" str="Quien vive ahí?"/>
+    <dia npc="5" str="Orran. El viejo marinero no esta muy fino pero tiene herramientas en el cobertizo. Decidió huir de la ciudad cuando los rebeldes se hicieron con el cargo. Aunque no creo que siga vivo. Has dicho que buscabas trabajo. Tengo algo para ti, todavía estas interesado?"/>
+	<dia pl="6" str="Podría ir a visitar a Orran. Espero que no este muerto. En que te puedo ayudar?"/>
+    <dia npc="6" str="Me gustaría tener algunas bayasllama! Es gracioso que acabamos de hablar del desierto, estas bayas solo se pueden encontrar ahí. Tráeme cinco bayasllama. Te puedo pagar algo, por las molestias."/>
+    <dia pl="7_0" str="Volveré con esas bayas." jumpNPCd= "0" jumpPlayerd = '0'/>
+	<dia pl="7_1" str="No voy a ir al desierto para traer una cuantas bayas." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

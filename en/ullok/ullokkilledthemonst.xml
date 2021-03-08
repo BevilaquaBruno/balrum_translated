@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="The monster is dead, Ullok!"/>
+    <dia npc="0" str="Finally, we can once again row our boats safely on the lake. Thank you, traveller. Here is the ring I promised."/>
+	<dia pl="1" str="Thank you." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

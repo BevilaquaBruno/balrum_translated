@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Enjoying the party?"/>
+    <dia npc="0" str="I haven't seen you here. You are new, aren't you?"/>
+    <dia pl="1" str="Yes I am. Nice to meet you."/>
+    <dia npc="1" str="My pleasure. It's nice to see a new face. These parties need more young men like yourself. The rebels are dumb and smelly. You are quite the opposite. Lately, for some mysterious reason there are fewer and fewer people showing up at this party."/>
+    <dia pl="2" str="Thank you. Would you drink something with me?"/>
+    <dia npc="2" str="I feared you would never ask."/>
+	<dia pl="3" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Traigo más ingredientes, Ivo. Es una especie de planta."/>
+    <dia npc="0" str="'Ivo huele y prueba todos los ingredientes que le parecen interesantes. Cierra los ojos y respira profundamente.' Creo que tenemos algo aquí, joven. Esta planta seca es extraordinaria. Sin duda lo intentaré. Dónde lo encontraste?"/>
+    <dia pl="1" str="No lo recuerdo por algún lugar de por aquí."/>
+    <dia npc="1" str="Gracias por tu ayuda. Toma una botella de mi espíritu más antigua. Te lo has ganado. Y déjame decirte un secreto sobre mi comercio. El secreto esta en la edad del espíritu de estos toneles de aquí. Y el secreto más grande es que la que le doy a los rebeldes solo ha envejecido dos semanas. Los idiotas son tan poco sofisticados que no saben diferenciarla. Tengo que añadir un poco de color al producto para obtener este maravilloso rojo oscuro así parece que ha envejecido durante años. Algún día intentare darles una sin color añadido. Seguro que son tan estúpidos que ni se dan cuenta."/>
+	<dia pl="2" str="Cuídate, Ivo." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

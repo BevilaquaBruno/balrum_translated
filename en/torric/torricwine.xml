@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Here is your wine."/>
+    <dia npc="0" str="You're a good lad. I'm sorry I grunted at you."/>
+    <dia pl="1" str="You must be a fighter, right?"/>
+    <dia npc="1" str="I was an arena fighter. Those were the days I tell you. No one could beat me. No one! But those days are long forgotten. There is nothing to do now. Even when I was a young mercenary with not much experience life was more exciting."/>
+    <dia pl="2" str="..."/>
+    <dia npc="2" str="I was a champion! 'People in the inn shout: we know, we know.' The most fun I get now is when I teach the youngsters a few moves. If you are interested in the art of melee combat feel free to talk to me."/>
+    <dia pl="3" str="..."/>
+    <dia npc="3" str="I cannot go on like this. I'm slowly turning mad. I have to do something with my life."/>
+	<dia pl="4" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

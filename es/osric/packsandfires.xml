@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Sabes algo acerca de los Pack y de los incendios, Osric?"/>
+    <dia npc="0" str="No más que los demás, así que no mucho. Arlo piensa que las antorchas de Aron son las culpables. Los Pack no han dejado ni rastro es como si la tierra se los hubiera tragado. Yo conocia bien a los Pack. Nunca se hubieran ido de la aldea sin decir algo. Es muy extraño."/>
+    <dia pl="1" str="En nuestra casa el fuego se inició lejos de la antorcha que esta en la pared. No pueden culpar Aron por sus antorchas. La desaparición de los Pack es verdaderamente preocupante."/>
+    <dia npc="1" str="Yo tengo dos antorchas y estaba preocupado. Yo sabia que Aron nunca nos vendería algo que nos pudiera perjudicar. Me temo lo peor para los Pack. Esperemos que los encuentren pronto. Así que si las antorchas no fueron, entonces que provoco el incendió?"/>
+    <dia pl="2" str="No lo se todavía, Osric." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

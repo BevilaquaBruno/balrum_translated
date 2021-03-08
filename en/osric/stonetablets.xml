@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Do you know anything about stone tablets, Osric?"/>
+    <dia npc="0" str="I have no idea what in the name of the Gods are you talking about, Son."/>
+    <dia pl="10" str="Thurza found a stone tablet at the Packs' house."/>
+    <dia pl="11" str="I have found a stone tablet at the Packs' house."/>
+    <dia npc="1" str="Well I have no clue what that might be. Brown might know something. After all, he's a famous alchemist. The other day, when one of my pigs got sick he made me a special potion that cured my little piggy. If he doesn't know about that thing, than no one will."/>
+    <dia pl="2" str="Alright, Osric." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

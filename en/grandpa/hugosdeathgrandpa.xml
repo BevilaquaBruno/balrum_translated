@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+ 	<dia pl="0" str="How did Hugo die, Grandpa?"/>
+    <dia npc="0" str="Why are you asking, son? It was a horrible accident a long time ago."/>
+ 	<dia pl="1" str="I was just near the graveyard and I remembered that Hugo fell into the well he and the other workers were digging out. And if I remember correctly he fell into it in the middle of the night. Am I remembering things correctly, Grandpa?"/>
+    <dia npc="1" str="Yes, son, your memory serves you well. That poor Hugo did die at night. He was the only friend of Cardew. The two of them were close and Cardew was in a much healthier state when Hugo was alive."/>
+    <dia pl="2" str="How could he fall into the well he was working on? Now that I think of it, it is really strange."/>
+    <dia npc="2" str="At the time he died we didn't even think about how it happened. Everyone knew he liked to drink and thought he was drunk when he fell in. But you're right, it is strange. I guess we'll never really know."/>
+    <dia pl="3" str="I think I should ask around about Hugo. Who should I ask?"/>
+    <dia npc="3" str="Well, Hugo was a popular fellow but the only real friends he had were Cardew and the innkeeper, Fred."/>
+	<dia pl="4" str="I'll ask them about his death."/>
+    <dia npc="4" str="Do as you wish, son. Be careful with Fred, he can be a bit emotional you know."/>
+	<dia pl="5" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

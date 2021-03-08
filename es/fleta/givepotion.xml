@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Toma, bébete esta poción rápido. Es un nuevo invento. Barnabas acaba de descubrir sus poderes curativos, a lo mejor te cura!"/>
+    <dia npc="0" str="Fleta se bebe la poción sin dudar. Algo va mal... su piel empieza a ponerse verde. No puedo creer lo que estoy viendo..'"/>
+    <dia pl="1" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

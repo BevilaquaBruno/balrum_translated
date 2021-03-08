@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="You have a nice home here, Clay."/>
+    <dia npc="0" str="Do I know you? Who are you?"/>
+    <dia pl="1" str="I'm an orphan, just like you. My grandfather took me in when I was little."/>
+    <dia npc="1" str="I didn't know there was another orphan in the woods."/>
+    <dia pl="2" str="I learned that Father Hain raised you. Why did you leave him?"/>
+    <dia npc="2" str="It's none of your business."/>
+    <dia pl="3" str="I'm sorry, you are right. I somehow felt connected to you because we are both orphans."/>
+    <dia npc="3" str="No, I'm sorry. I have a problem with my temper. At least that's what Father Hain told me. I left him because when I was little he beat me every day. The smallest thing made him angry. If I did something wrong he would beat me until I stopped crying. I hate him. "/>    
+    <dia pl="4" str="That's horrible."/>
+    <dia npc="4" str="And that's not everything. He made me do everything around the church, even when I was small and weak. My childhood was horrible. He never let me play with the other kids. In his eyes I was nothing but one of his servants. He even told the people that I'm good for nothing. This is why I left him as soon as I could."/>
+    <dia pl="50" str="How could he do that? I think you need to know that you are not really an orphan." jumpNPCd= "5" jumpPlayerd = "6"/>
+    <dia pl="51" str="I should be going now. Thank you for telling me and I'm sorry you had to endure all that."  jumpNPCd= "0" jumpPlayerd = "0"/>
+    <dia npc="5" str="What are you talking about?"/>
+    <dia pl="6" str="Your father is alive, and your uncle too."/>
+    <dia npc="7" str="You are lying. My parents are dead."/>
+    <dia pl="7" str="It's true. I met your uncle. His name is Spike, but I don't know where your father is. "/>
+    <dia npc="8" str="You are telling me that my father is alive? "/>
+    <dia pl="8" str="Yes!"/>
+    <dia npc="9" str="Get out of here. Now!"/>
+    <dia pl="9" str="I'm sorry..!"/>
+    <dia npc="10" str="Leave now!"/>
+    <dia pl="10" str="End." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

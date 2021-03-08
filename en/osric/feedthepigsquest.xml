@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I've fed your pigs, Osric."/>
+    <dia npc="0" str="Thank you, boy. The world would be a better place with more lads like you. Here, take this smoked pork sausage. Yesterday I finished a batch, so it is nice and fresh. I know you like it. Oh, and take one for your grandfather, too."/>
+    <dia pl="1" str="Thank you Osric!" jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

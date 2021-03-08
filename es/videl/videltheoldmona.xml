@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Me puedes hablar sobre la historia de los monjes?"/>
+    <dia npc="0" str="La historia más fascinante para mi es la creación de la muerte. Estas interesado en ella?"/>
+    <dia pl="1" str="Si. por favor continua."/>
+    <dia npc="1" str="Cuando los antiguos dioses crearon el mundo no había muerte. Las personas que crearon eran inmortales pero cuando llegaron a ser muy viejos perdieron sus mentes. Los historiadores dicen que los muertos vivientes del sur son los pueblos antiguos creados por los dioses. Nasrus, es uno de los hijos de los dioses antiguos, sus padres lo trajeron a la vida. Nasrus los torturo y jugo con ellos. Los antiguos dioses estaban furiosos con Nasrus por haber torturado a sus creaciones. Ordenaron a Nasrus que solo jugara con los más antiguos ya que eran muy viejos y habian perdido sus mentes, los comúnmente conocidos como no-muertos. Los documentos antiguos dicen que en este momento fue cuando murieron los dioses antiguos. Dejaron a sus tres hijos, Adacus, Eogor y Nasrus, para gobrenar todos los reinos. Adacus y Eogor fueron los que en secreto planearon que la muerte tenia que ser creada."/>
+    <dia pl="2" str="..."/>
+    <dia npc="2" str="Tuvieron que crear la muerte para detener el crecimiento de la población de no.muertos. La creación de la muerte hizo enfadar a Nasrus. Mantenía la palabra de sus padres y ella solo torturaba a los no-muertos, pero ahora el numero de los no-muertos lentamente empezó a disminuir y cada vez quedaban menos humanos inmortales. Esto creo un conflicto entre los tres dioses. Adacus y Eogor con toda su colera le dijeron a Nasrus que su nacimiento fue no deseado y que su padre era el dios loco que fue desterrado en el vació antes. Nasrus entro en cólera. Ella se distanció de los dioses y comenzó a conjurar sus propias creaciones. Ella prometió la inmortalidad a sus creaciones sin llegar a la locura de la vejez. Las leyendas dicen que solo creo estas criaturas como seres vivos."/>
+	<dia pl="3" str="Fascinante. Gracias por contarme todo esto."/>
+    <dia npc="3" str="De nada, joven muchacho. Si estas interesado en la antigua historia deberías echar un vistazo en nuestra biblioteca."/>
+	<dia pl="4" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

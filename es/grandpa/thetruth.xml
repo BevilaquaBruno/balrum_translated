@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Quien eres tu? Me has estado engañando durante todos estos años!"/>
+    <dia npc="0" str="Lo siento, mi chico! Tenia que protegerte de todo esto. Yo era tu cuidador antes en el castillo. No soy tu abuelo de sangre. Eres el hijo del rey Edward. Quien te lo dijo?"/>
+    <dia pl="1" str="Me las arreglé para entrar a la antigua ciudad subterránea. Los espíritus de los nigromantes estában ahí. Ellos no fueron destruidos del todo. Me lo contaron todo ellos. Se que algunos de nosotros estabamos en el castillo antes. Se que nuestras vidas son todo una mentira."/>
+    <dia npc="1" str="Tienes que entenderlo, hijo. Tuvimos que hacer esto. Los rebeldes repugnantes nos hubieran matado a todos. Ellos mataron a tu padre y a tu madre. Yo apenas logre escapar con vosotros, hicieron cosas horribles y tuvimos que huir."/>
+    <dia pl="2" str="Se que tuviste que hacerlo. Lo siento. No se que hacer. He dejado a los nigromantes libres. Creo que mataron a los Pack. I... I..."/>
+    <dia npc="2" str="Tienes que calmarte. Solo estabas tratando de ayudar. Cuéntame lo que sucedió allí."/>
+    <dia pl="3" str="Tengo que traer los restos de los nigromantes al bosque oscuro. Si no lo consigo, todo el mundo moríra. Estaban planeando esto desde hace años. No tengo otra opción, tengo que ir."/>
+    <dia npc="3" str="Leonard sabia que algo no estaba bien en estos bosques. Seguía diciendo que sentía una presencia oscura y nosotros no lo escuchemos. Siento mucho haberte metido en esto. Es culpa nuestra y ahora tu y los demás estáis en peligro. Tenemos que mantener la calma y no tenemos que hablar con nadie sobre esto. Ellos no saben quien somos. Piensan que somos simples aldeanos como ellos. Habla con Arlo, el sabrá lo que tienes que hacer. No importa lo que tengas en la sangre, siempre seras mi nieto."/>
+	<dia pl="4" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

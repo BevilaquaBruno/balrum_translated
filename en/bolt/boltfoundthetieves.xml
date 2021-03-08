@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I have found the thieves. They are all young children."/>
+    <dia npc="0" str="Children you say? What else did you find out?"/>
+    <dia pl="1_0" str="The children have a caretaker. He's called Morven. They only steal what they need to survive. Their parents were killed by the rebels and they wandered the forests for a long time. Morven took them in and hid them underground." jumpNPCd= "1" jumpPlayerd = '3'/>
+    <dia pl="1_1" str="Their parents were killed by the rebels and they wandered the forests for a long time. They only steal what they need to survive."  jumpNPCd= "2" jumpPlayerd = '3'/>
+    <dia npc="1" str="Morven! He must be training the children to be thieves. Morven is a member of the thieves' clan. Thank you for bringing us this information. We will act immediately. We will bring the children to the mages. They won't be harmed."/>
+    <dia pl="2" str=" "/>
+    <dia npc="2" str="I understand. They do no harm to anyone down there. They need the food they steal to live. They are fighters, the little ones. Let's hope someday we will take the capital back. Until then they are safer down there."/>
+    <dia pl="3" str="I have finished the task you gave me. Will you allow me to join you?" jumpNPCd= "3" jumpPlayerd = '4'/>
+    <dia npc="3" str="Speak to the boys here. If you gain their trust we will welcome you into our guild!"/>
+    <dia pl="4" str=" End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

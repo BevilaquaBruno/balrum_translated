@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I found you a statue Mary! It's in the cave south of the village, where the giant rocks are."/>
+    <dia npc="0" str="Thank you, thank you! Oh my husband will be so happy! I'll ask the people to help me get the statue here. Here, take this for your trouble and thank you so much again!"/>
+    <dia pl="1" str="End." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

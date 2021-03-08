@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="The necromancers are still alive. Their spirits are weakened, but they are not dead. I know everything. I know why we are here in the woods and I know who I am."/>
+    <dia npc="0" str="You must be confused. This is a lot to bear. So you know that you are the heir to the throne. I assume the necromancers burnt down the Packs' home and kidnapped them. I always had a bad feeling about these woods. Arlo never listened to me. Thank the gods that no one else got hurt."/>
+    <dia pl="1" str="Yes. They killed them. They did it all to get to me. They need me to find their remains which King Triston scattered across Balrum. Only I can enter the sealed hiding places."/>
+    <dia npc="1" str="Yes, the mages made sure that only the royal bloodline may enter those places. This was the only option to truly hide the remains because they could not destroy them."/>
+    <dia pl="2" str="Do you know where the remains are?"/>
+    <dia npc="2" str="I only know about one. Do you really have to do this for them? They might be unstoppable if they regain their true form."/>
+    <dia pl="3" str="I have no choice. They will tell the rebels about Darkwood. Even the portal to the underground city is open now."/>
+    <dia npc="3" str="I see. I wouldn't want to be in your place boy. But I guess you are the only one who can do this task. They hid one on the last level of the royal crypts. The crypts are north east of Erdal, the capital of your father's kingdom. Try to find the remaining members of the mages' guild. They are the only ones who know where the other remains are. Have you talked to your grandfather?"/>
+    <dia pl="4" str="Grandpa knows everything. I have to go now. How can I get out of the woods?"/>
+    <dia npc="4" str="It is my job to guard the only easy entrance to the woods. My home was built on top of it. Climb down that hatch next to my bed. You will find your way out of Darkwood. Here take this map with you. I marked the crypt's entrance on it for you. I'm proud of you, son. You could have ran away, but no, you choose to help the people you love even when the help they need clearly puts your life in danger. You have the blood of kings, boy."/>
+	<dia pl="5" str="I have to go now. Wish me luck Leonard!" jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

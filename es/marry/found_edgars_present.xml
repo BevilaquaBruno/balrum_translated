@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Encontré una estatua Mary! Esta al sur de la aldea, donde las rocas son gigantes."/>
+    <dia npc="0" str="Gracias, gracias! Mi marido va a ser tan feliz! Le pediré a la gente que me ayude a traer la estatua aquí. Ten, coge esto por las molestias y muchas gracias de nuevo!"/>
+    <dia pl="1" str="Fin." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Padre Hain. Puedo preguntarle donde esta Clay?"/>
+    <dia npc="0" str="Por que preguntas por el, chico?"/>
+    <dia pl="1" str="He hablado con Spike, el tío de Clay. Me explico lo que le paso a la madre de Clay, solo he venido a conocerlo. Yo también perdí a mis padres. Mi abuelo a cuidado de mi."/>
+    <dia npc="1" str="Lo siento, mi niño. Se que es duro no tener a tus padres, pero tienes suerte de tener a tu abuelo. Clay no tuvo la misma suerte, no me he atrevido a decirle que su propio padre se aparto de el. Y menos despues de que su tío también lo hiciera. Ambos lo abandonaron. Como no tenía nadie y estaba totalmente solo, el pueblo decidió que yo debía cuidar a Clay. Y eso el que hice. El no sabe que su padre y su tío están aun vivos."/>
+    <dia pl="2" str="Kyler me dijo que Clay tienía prisa por irse de la aldea."/>
+    <dia npc="2" str="Nuestra relacion enpeoro a medida que yo me iba haciendo viejo. El era un niño difícil. "/>
+    <dia pl="3" str="Sabes donde vive ahora?"/>
+    <dia npc="3" str="Vive al sur del pueblo, cerca de las grandes rocas."/>
+    <dia pl="4" str="Fin." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

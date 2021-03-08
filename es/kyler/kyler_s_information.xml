@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Necesito hablar contigo!"/>
+    <dia npc="0" str="Quién eres tu? Como te a treves a entrar a mi casa de esta manera? Mis guardias no van a permitir que alguien venga así. Qué quieres?"/>
+    <dia pl="1" str="He venido desde el otro pueblo. Cosas horribles nos están sucediendo. Nuestras casas se queman y la gente está desapareciendo."/>
+    <dia npc="1" str="Ve más despacio! Por Adacus, no puedo oírte cuando hablas tan rápido. Creo que se de que estás hablando."/>
+    <dia pl="2" str="Tengo la sensación de que Arlo tiene algo que ver con las desapariciones de nuestra aldea. Pero se niega a decir nada. Me encontré con una vieja carta que fue escrita por un nigromante. En la carta menciona el nombre de Arlo. Como puede ser esto? Los nigromantes murieron hace mucho tiempo! Por qué Arlo se esconde de nosotros?"/>
+    <dia npc="2" str="Yo sabia que Arlo estaba cometiendo un grave error cuando accedió a hablar con los nigromantes. Está fue la razón de por que la mitad del pueblo decidió irse a vivir lejos de el. Arlo cree que los antiguos magos oscuros no pueden hacernos ningún daño. Traté de hablar con el, pero el accdedio hablar con los nigromantes de todos modos. Arlo es un buen hombre y un buen líder, pero el no tiene fe i simplemente ignóra lo que no puede ser entendido por un hombre mortal. Esto es lo que les ocurre a los infieles que no obedecen a los dioses. Una vez más, estaba en lo cierto. Alabado sea Adacus. Adacus protege a los suyos!"/>
+    <dia pl="3" str="Sabes lo que paso entre Arlo y los nigromantes?"/>
+    <dia npc="3" str="Arlo me dijo que teníamos que atender a los magos oscuros de la ciudad subterránea pero el se negaba a que yo fuera. Cuando regresó, parecía diferente, como si tubiera algo oscuro en su alma. Desgraciadamente no me explicó nada de lo que paso ahí abajo. En ese momento supe que teníamos que abandonar el pueblo y movernos. Traté de hablar con el, pero lo único que dijo es que lo tenia todo bajo control y que no tenemos que temer nada."/>
+    <dia pl="4" str="Donde está la ciudad subterránea?"/>
+    <dia npc="4" str="No se mucho sobre ese lugar. Lo único que se es que una ciudad fue construida hace mucho tiempo, cuando uno de los antiguos dioses estaba tratando de erradicar a los humanos de Balrum. Pero como puedes ver, los sagrados dioses protegieron a nuestros antepasados. Ahora responderé a tu pregunta, no se donde se encuentra la entrada... pero conozco a alguien que podría. Jorick, el era nuestro asesor y siempre estaba pendiente de Arlo. El podría saber dónde esta la entrada."/>
+    <dia pl="5" str="Donde puedo encontrar a Jorick?"/>
+    <dia npc="5" str="Jorick ahora vive una vida de ermitaño. El construyo su casa cerca de los cuatro monumentos de cristal carmesí. Te lo marco en el mapa. Me temo que no hablará contigo. Pero si le dices nuestras palabras secretas, sin ninguna duda hablará. La palabra es Anwen!"/>
+    <dia pl="6" str="Gracias por ayudarme Kyler. Espero que Jorick sepa donde esta la entrada."/>
+    <dia npc="6" str="Cuídate! Que Adacus te proteja en tu viaje."/>
+	<dia pl="7" str="Me pondré en marcha." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

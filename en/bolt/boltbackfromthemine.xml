@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+ 	<dia pl="0" str="I have found what was left of your man. He's dead. The cave is crawling with monsters. He could not locate the thieves but he wrote a note about the sounds he kept hearing coming from the caves walls."/>
+    <dia npc="0" str="A sad day. We will honor his death tonight. I think I can tell you what his mission was. He was looking for an underground passage that connects the capital with the surrounding establishments. We are looking for a band of thieves who's been looting the local farmers' barns. And, if we could find that passage we might have a secret way into the capital. You want to become a member. Take on his mission. Honor his death by locating the thieves. If you do this we will consider your acceptance. So he was hearing strange sounds coming from the walls? Interesting! Take this barrel. Its full of explosive material. Try to demolish the caves walls."/>
+	<dia pl="1" str="I will finish his mission." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

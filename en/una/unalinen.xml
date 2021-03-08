@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I have your linen Una!"/>
+    <dia npc="0" str="Wonderfull! Now I'm able to repair my nets. Thank you young man. Here take this as a reward for your troubles."/>
+    <dia pl="1" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

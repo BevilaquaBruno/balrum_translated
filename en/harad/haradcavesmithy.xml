@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Ulger needs an apprentice in his new smithy."/>
+    <dia npc="0" str="A smithy? Where? How did I miss this?"/>
+    <dia pl="1" str="I built a smithy for him in a cave nearby. Let me show you where it is on your map. He is a foreign blacksmith and he would very much like if you joined him."/>
+    <dia npc="1" str="Of course! Thank you! Thank you so much. I will go and join him as soon as possible."/>
+    <dia pl="2" str="Don't talk about this to anyone. If the rebels get hold of him they will kill him."/>
+    <dia npc="2" str="I understand."/>
+	<dia pl="3" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

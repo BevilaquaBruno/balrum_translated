@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Veo que necesitas ayuda."/>
+    <dia npc="0" str="No hay nada que pueda hacer. Nada puede cambiar el pasado. Todo habría sido mucho mejor, me gustaría ser un mago del gremio ahora. Me echaron debido a mi temperamento incontrolable. Les dije que eso era su culpa, no la mía. Todo es culpa suya."/>
+    <dia pl="1" str="De qué estás hablando?"/>
+    <dia npc="1" str="Mi hermano. Ronius Stockius. Nuestros padres murieron cuando éramos jóvenes. Cogió todo lo que pudo y me dejo solo, me dejo solo con la casa vacía. Nada. No dejo nada! imagínate lo que tenia que hacer para ganarme la vida? No he aprendido habilidades. Solo era un niño joven. Me jure que algún día iba a tener mi venganza."/>
+    <dia pl="2" str="Te ocurrió algo malo. Siento mucho lo que te paso. pero las cosas están bien ahora, no es cierto?"/>
+    <dia npc="2" str="Bien? Tu llamas a mi vida 'bien'? Yo estaba destinado a ser un gran mago! De una forma o de otra voy a obtener mi venganza! No pareces ser como aquellos imbéciles de la torre. Hmmm. Tu me podrías ayudar!"/>
+    <dia pl="3" str="Ayudarte a ti a qué?"/>
+    <dia npc="3" str="Con mi venganza! Coge todo lo que tiene. Lo único valioso para el son sus investigaciones. El nunca va a descubrir nada, el tonto! Pero sus papeles lo significan todo para el. Mejor aun! Mátalo! Si, Mátalo! Qué me dices?"/>
+     <dia pl="4" str="Creo que me voy a ir."/>
+    <dia npc="4" str="Sabía que no me ayudarías. Lárgate!"/>
+	<dia pl="5" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

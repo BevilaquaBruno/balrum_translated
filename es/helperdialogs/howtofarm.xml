@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Me puedes hablar acerca de la agricultura de nuevo?"/>
+    <dia npc="0" str="Por supuesto querido. Vamos a empezar."/>
+    <dia pl="1" str="Por favor continua."/>
+    <dia npc="1" str="Todo comienza con el campo. Sin un campo limpio tus plantas tendrán que luchar contra otras hierbas para su nutrición! Una vez que tengas un buen campo hay que colocar las semillas en el."/>
+    <dia pl="2" str="..."/>
+    <dia npc="2" str="Ahora lo que tienes que hacer es asegurarte de que el campo tiene las condiciones adecuadas para crecer. Eso significa que deben tener la fertilización y la hidratación correcta."/>
+	<dia pl="3" str="Gracias." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Here you go."/>
+    <dia npc="0" str="Thank you, young man. I have been like this for many years. Now I can have my revenge!"/>
+    <dia pl="1" str="Revenge?"/>
+    <dia npc="1" str="An old lunatic mage did this to me. He cursed me and seduced my lovely wife."/>
+    <dia pl="2" str="What's his name?"/>
+    <dia npc="2" str="His name is Lee. Now that I can speak again I will find him and give him what he deserves."/>
+	<dia pl="3" str="What are you going to do?"/>
+    <dia npc="3" str="Curse him, of course. Killing him wouldn't be enough of a punishment. I've thought about this for so long. At first I wanted to turn him into a pig, but someone might slaughter him then. I want him to suffer for decades. I'm going to turn him into a rat. A big fat smelly rat, the like he really is."/>
+    <dia pl="4" str="Are you sure of this?"/>
+    <dia npc="4" str="You would do the same. He took my freedom and took my wife."/>
+	<dia pl="5" str="Take care of yourself." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

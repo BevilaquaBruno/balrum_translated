@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="How can I use the smelter?"/>
+    <dia npc="0" str="Smelting is an art form. Often inexperienced craftsmen have no idea why their steel is brittle."/>
+    <dia pl="1" str="Please continue."/>
+    <dia npc="1" str="Make sure that you have enough raw materials before you try to smelt them. Also don't forget that you need heat! Ordinary materials will melt with the heat produced by wood but there are special ores that will need greater heat! As with everything smelting needs practice."/>
+    <dia pl="2" str="..."/>
+    <dia npc="2" str="A long time ago there were people who knew how to smelt dark iron. That knowledge has been lost. Maybe you will figure out how to smelt it? Ha ha.."/>
+	<dia pl="3" str="Thank you." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

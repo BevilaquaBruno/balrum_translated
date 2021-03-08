@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Hablé con los nigromantes Arlo. Ya se el trato que hiciste con ellos y se quién soy en realidad."/>
+    <dia npc="0" str="Ya te lo dije, chico, para de hurgar! Por qué no paras?"/>
+    <dia pl="1" str="Eso no importa. Habría sucedido con el tiempo igualmente. Lo han estado planeando todo este tiempo. Ellos han matado a los Pack."/>
+    <dia npc="1" str="Es mi culpa. Yo pensaba que si los encerraba ahí abajo no nos podrían hacer daño. penaba que solo eran unas brujas locas. Kyler y Leonard trataron de avisarme, pero no les hice caso. Venir al bosque oscuro fue mi idea. Yo solo trataba de protegerte a ti y a los demás. Fui un tonto. No merezco llevar una armadura real. No merezco vivir."/>
+    <dia pl="2" str="Hiciste lo que tenias que hacer. Hemos vivido todos estos años en armonía. Nos has salvado. Ha llegado el momento de proteger las aldeas de los nigromantes."/>
+    <dia npc="2" str="Qué te dijeron? Qué tienen pensado hacer?"/>
+    <dia pl="3" str="Tengo que devolverles sus restos del bosque oscuro. Me dijeron que soy el único que puede encontrarlos. También me dijeron que mientras esperaban mi regreso no harían daño a nadie."/>
+    <dia npc="3" str="Me temo que es cierto. El rey Triston escondió sus restos en lugares sellados con magia. Solo los descendientes de la línea de sangre real pueden entrar en ellos. Solo tu puedes llevar a cabo esta tarea. Esperemos que los nigromantes mantengan su promesa. Iré hablar con Kyler y cuidaremos las aldeas. Qué haras ahora?"/>
+    <dia pl="4" str="Tengo que dejar el bosque oscuro y empezar a buscar todos los restos. Sabes donde pueden estar? Alguna idea de donde empezar a buscar?"/>
+    <dia npc="4" str="No tengo ni idea. Leonard debe saber algo. El gremio de los magos se encargo de sellar los lugares donde se escondieron y Leonard era un miembro de la alianza. Cuando los rebeldes invadieron el reino los gremios se disolvieron. Espero que con los años los magos hayan encontrado una manera de mantener viva la alianza. Si encuentras a los que queden del gremio de guerreros diles que yo te envió y di las palabras 'Guardianes de la luz', pero no les digas que eres el príncipe! Nunca se sabe quién puede estar escuchando y los rebeldes se volvieron realmente locos cuando no nos pudieron encontrar. Por que significa que no han acabado con la línea de sangre real."/>
+    <dia pl="5" str="Por qué los rebeldes invadieron el reino? Mi padre era mal gobernante? Por qué nos odian?"/>
+    <dia npc="5" str="No lo sabemos, hijo. Tu padre era un rey justo. Ellos comenzaron sus ataques después de que nosotros nos ocuparamos de las hordas de muertos vivientes cerca de nuestras fronteras. Cuando acabemos las batallas con los no-muertos estábamos agotados y los rebeldes tomaron ventaja. No rebeles tu identidad a cualquier persona, chico!"/>
+    <dia pl="6" str="Hazte cargo de todo el mundo, Arlo. Estar atentos, por que el portal de la ciudad antigua esta abierto. Y las runas ya no sirven para volver a sellar el portal."/>
+    <dia npc="6" str="Haremos nuestro mejor esfuerzo. Te deseo suerte en tu viaje. Ahora ve a hablar con Leonard."/>
+	<dia pl="7" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

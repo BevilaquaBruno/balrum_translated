@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Do you need any help?"/>
+    <dia npc="0" str="I'm glad you asked. You know that what little we have, we have because of our bees. We sell the honey they make."/>
+	<dia pl="1" str="Yes I know."/>
+    <dia npc="1" str="Well, all of the bees are dead. Some disease must have killed them. Can you bring us a few bees so we can start a new colony?"/>
+    <dia pl="2" str="Of course I'll help. I'll come back with some!" jumpNPCd= "0" jumpPlayerd = "0"/>
+    <dia npc="3" str="Thank you, my boy."/>
+    <dia pl="3" str="End" jumpNPCd = "0" jumpPlayerd = "0"/>
+</dialogs>

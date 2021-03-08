@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Necesito tu ayuda, dragón."/>
+    <dia npc="0" str="Bienvenido, mortal. No eres como los seres humanos de está isla. Debes ser de la gran isla. Por qué necesitas mi ayuda?"/>
+    <dia pl="1" str="Tu hermano el dragón blanco me dijo que si me las arreglo para uniros a los tres podríamos ser capaces de destruir los restos de los nigromantes del bosque oscuro. La vida de las personas está en juego."/>
+    <dia npc="1" str="Ahora recuerdo por que me fui de esa isla. Ahí hay mortales como para destruir todo, incluyendo su propia especie y su propio mundo. Yo entiendo que la mortalidad es una carga pesada; Después de todo, nuestro hermano mas joven se volvió loco a causa de esto. Fue el primero y el ultimo dragón mortal. Cuando se dio cuenta de que sus días estaban contados su lado malvado tomo el control de el. El mataba y se comía todo lo que encontraba. Vivía para los placeres de esta vida limitada. Al final, la muerte trajo paz a su mente. Por que debería ayudarte?"/>
+    <dia pl="2" str="Mi gente está en peligro. Si no lo consigo, puede que todos sufran una muerte horrible."/>
+    <dia npc="2" str="Mi hermano desapareció durante siglos. El hizo todo lo que los seres humanos le pedían. El actuó como un conserje patético. No puedo entender por que era tan aficionado a tu especie. Mis muchas años en esta isla me mostraron algo. La gente de aquí no mata, ni se perjudican mutuamente. Ellos viven juntos en armonía. Es por eso que cogí los restos de los nigromantes de tu gente hace siglos. Estaba poniendo en peligro sus vidas. Entiendo que tu misión es para el bien de tu gente y por eso yo te ayudaré mortal. Yo te daré los restos de los nigromantes. Dime donde está mi hermano. Viajaré hasta el."/>
+	<dia pl="3" str="El está en las royal crypts cerca de Erdal. El mas joven? Como voy a ser capaz de encontrarlo? No podre agradecerte lo suficiente tu ayuda. Tenemos que darnos prisa."/>
+    <dia npc="3" str="Murió hace mucho tiempo, aunque el era un dragón. El tuvo poderes divinos. Forjo un pequeño trozo de la nada para si mismo. Ese reino espectral es su propio reino ahora. Solo yo puedo llegar hasta el."/>
+    <dia pl="4" str="Estoy listo. Envíame al reino de tu hermano."/>
+    <dia npc="4" str="Veo que realmente tienes prisa. Ahora. Paraté mortal, mi hermano esta enojado. Su lado malo esta todavía con el."/>
+	<dia pl="5" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

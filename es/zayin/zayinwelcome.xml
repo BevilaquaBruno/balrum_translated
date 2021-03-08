@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Eres músico?"/>
+    <dia npc="0" str="Si lo soy. Como te has dado cuenta? Ohh, tal vez sea por que tengo todos los instrumentos aquí,verdad? Lo siento, solo estaba bromeando. Qué puedo hacer por ti?"/>
+    <dia pl="1" str="Estaba apunto de hacer la misma pregunta."/>
+    <dia npc="1" str="Bien, siempre estoy buscando nuevos instrumentos. Si me traes una guitarra exótica te daré una de las viejas que no utilizo más unos thalers. Qué me dices?"/>
+    <dia pl="2" str="Si encuentro algo te lo traeré."/>
+    <dia npc="2" str="Tiene que estar en condiciones. Ohh, y como más vieja la guitarra mejor, pero no debe tener grandes grietas, pequeñas y finas. De madera madura ya sabes. La madera vieja puede tener connotaciones increíbles. Tal vez encuentres alguna con una forma rara hecha con madera de pino perfecta. Espero tu regreso!"/>
+	<dia pl="3" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

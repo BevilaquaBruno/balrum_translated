@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+     <dia pl="0" str="Aquí están los trozos de mineral, Aron!"/>
+     <dia npc="0" str="Gracias! Trabajar con esta armadura me ha traído muchos recuerdos. Algunos agradabes, otros no tanto. Hubo momentos en que me vi obligado a trabajar gratis. Por suerte esos días han terminado. Siempre quise ser un herrero al igual que mi padre. Tenía tu edad cuando me di cuenta que era mejor herrero que el. Padre estaba muy orgulloso de mí aunque a veces tenia celos. La armadura esta reparada. Pesa un poco mas que antes por que ajuste algunas partes y reforcé otras.."/>
+     <dia pl="0" str="Parece una armadura nueva! No deberías estar haciendo herramientas agrícolas, Aron. Gracias." jumpNPCd= '0' jumpPlayerd = '0'/>
+</dialogs>

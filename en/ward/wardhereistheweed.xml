@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Here is your weed, Ward. Don't smoke it all at once."/>
+    <dia npc="0" str="Thank you, boy!"/>
+    <dia pl="1" str="Will you tell Bolt that I helped you?"/>
+    <dia npc="1" str="I most certainly won't tell Bolt you got some weed for me. Ha ha! Sure, kid. I will tell him you are a good fellow."/>
+	<dia pl="2" str="Thanks." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

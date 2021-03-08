@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="What do you know about the Packs and the fires, Osric?"/>
+    <dia npc="0" str="No more than the others, so not much. Arlo thinks Aron's torches are to blame. The Packs left no trace. As if the earth swallowed them up. I knew Pack very well. He would never leave the village without saying something. Now he is gone with his whole family. It's really strange."/>
+    <dia pl="1" str="At our house the fire started far away from the torch on the wall. The wall that holds the torch wasn't burnt at all. So Aron's torches can't be at fault. The disappearance of the Packs is really disturbing."/>
+    <dia npc="1" str="I have two torches and I've been worrying about them. I knew Aron would never sell anything that could harm us. I fear the worst for the Packs. Let's hope they find them soon. So if not the torches, then what started the fire?"/>
+    <dia pl="2" str="No-one knows yet, Osric." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+   <dia pl="0" str="Look at this book, Harry."/>
+   <dia npc="0" str="'Harry looks at the book you have found and immediately drops it to the ground.' This book is evil! I think it might be a teleportation book."/>
+   <dia pl="1" str="A teleportation book?"/>
+   <dia npc="1" str="This is a book that, when read, will teleport the person holding it to an unknown place."/>
+   <dia pl="2" str="How do you know this?"/>
+   <dia npc="2" str="Because I saw a book like this once. Before we entered Darkwood my dear friend Otello found a teleportation book. And he read it. It was my fault. I told him to read it. I haven't seen him since that day. Books can be dangerous sometimes. Especially books that you find here in Darkwood. Do not read it under any circumstances, boy!"/>
+   <dia pl="3" str="End." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+	<dia pl="0" str="Creo que sus trabajadores necesitan descansar más. Se les ve agotados."/>
+    <dia npc="0" str="Como lo sabes? Se han quejado de mis métodos?"/>
+    <dia pl="10" str="Si, me dijeron que trabajan como esclavos." jumpNPCd = "1" jumpPlayerd = "2"/>
+    <dia pl="11" str="No, solo tienes que verlos en los campos, se les ve mal." jumpNPCd = "2" jumpPlayerd = "3"/>
+    <dia npc="1" str="Así que están con estas. Entonces les haré trabajar mas. Eso les enseñara a no quejarse tanto. Son una vergüenza para Adacus!"/>
+    <dia pl="2" str="Se ven débiles y viejos. Ellos no pueden trabajar igual que cuando eran jóvenes y fuertes. Es necesario darles mas tiempo de descanso." jumpNPCd = "3" jumpPlayerd = "4"/>
+	<dia npc="2" str="Qué piensas? Qué debería hacer?"/>
+	<dia pl="3" str="Si les das mas tiempo para descansar luego notaras que la calidad del trabajo mejorará. De esta manera puedes hacer los trabajos mas duros y estará bien visto por sus trabajadores." jumpNPCd = "4" jumpPlayerd = "4"/>
+	<dia npc="3" str="Solo los utilizo para este tipo de trabajo. Deberían estar contentos de tener un trabajo."/>
+    <dia npc="4" str="Puede que tengas razón. Últimamente se han distanciado de mi y les escucho hablar de mi a mis espaldas. Les reduciré la jornada de trabajo un poco."/>
+    <dia pl="4" str="Fin." jumpNPCd = "0" jumpPlayerd = "0"/>
+</dialogs>

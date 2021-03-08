@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Puedo subir arriba?"/>
+    <dia npc="0" str="Ni siquiera pienses en ello. Nadie está autorizado a subir  a los cuartos de la parte superior del castillo."/>
+	<dia pl="1" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

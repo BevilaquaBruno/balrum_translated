@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--%data% data-->
+<!--%n% new line-->
+<!--%l% line skip-->
+<spells>    
+    <spell n="Arcane Turret" />
+    <spell n="Fire Turret" />
+    <spell n="Firenova" />
+    <spell n="Burning Ground" />
+    <spell n="Larva Spit" />
+    <spell n="Ancient Trap" />
+</spells>

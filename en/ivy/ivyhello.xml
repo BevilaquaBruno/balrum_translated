@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="How are you?"/>
+    <dia npc="0" str="Nice to meet you, father."/>
+    <dia pl="1" str="I'm not a priest."/>
+    <dia npc="1" str="I have to confess, father. I did something bad."/>
+    <dia pl="2" str="Listen! I'm not a priest."/>
+    <dia npc="2" str="I did a really bad thing with Bretta."/>
+    <dia pl="3" str="..."/>
+    <dia npc="3" str="But she enjoyed it."/>
+    <dia pl="4" str="..."/>
+    <dia npc="4" str="I enjoyed it too, father!"/>
+	<dia pl="5" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

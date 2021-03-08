@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Fuiste tu el que escondió a los niños bajo tierra?"/>
+    <dia npc="0" str="Qué les has hecho? Quien perjudique a uno de esos chicos lo vamos a cazar."/>
+    <dia pl="1" str="Cálmate, ninguno de ellos a sido dañado. Me los encontré de casualidad y hable con Max. Me dio está runa."/>
+    <dia npc="1" str="Déjame ser el juez de eso."/>
+	<dia pl="2" str="..." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

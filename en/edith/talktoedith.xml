@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Hi Edith."/>
+    <dia npc="0" str="Hi there. How are you today?"/>
+    <dia pl="10" str="I'm fine thank you. I just wanted to make sure you're alright." jumpNPCd = "1" jumpPlayerd = "2"/>
+    <dia pl="11" str="I'm fine thank you. I was thinking about you, so here I am." jumpNPCd = "2" jumpPlayerd = "2"/>
+    <dia npc="1" str="As you see, everything is fine. Mother is preparing the fields for the second sowing. The weirdest thing happened last night. I had a dream, and you were in it."/>
+    <dia npc="2" str="That is kind of you. Last night I had a dream, and you were in it."/>
+    <dia pl="2" str="A dream? What kind of dream? What happened in it?" jumpNPCd = "3" jumpPlayerd = "3"/>   
+    <dia npc="3" str="We were eating honey bread; everything was beautiful, and suddenly Osric came of out of nowhere riding one of his big pigs."/>
+    <dia pl="3" str="That is a weird dream. Did anything else happen?"/>
+    <dia npc="4" str="Yes, there was more. I barely remember, but suddenly the flowers and plants around us rotted. That's it. What could it mean? What do you think?"/>
+    <dia pl="40" str="Dreams are sometimes completely illogical. I don't think that it meant anything." jumpNPCd = "5" jumpPlayerd = "5"/>   <dia pl="41" str="I think it meant that we should have a nice meal out in the forest. Just the two of us." jumpNPCd = "6" jumpPlayerd = "6" />
+    <dia npc="5" str="You might be right. Thinking back to the image of Osric riding a pig is really funny."/>
+    <dia pl="5" str="See you later." jumpNPCd = "0" jumpPlayerd = "0"/>
+    <dia npc="6" str="I was hoping that you would say that."/>
+    <dia pl="6" str="I have a few things to do right now Edith, but it would be lovely."/>
+    <dia npc="7" str="I know you are busy with a lot of things. Helping your grandfather is a noble thing to do. Maybe someday we will have a nice meal together."/>
+    <dia pl="7" str="Someday we will Edith. Take care." jumpNPCd = "0" jumpPlayerd = "0"/>
+</dialogs>

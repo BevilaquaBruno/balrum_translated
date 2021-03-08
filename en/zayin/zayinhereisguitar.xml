@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I have found a guitar."/>
+    <dia npc="0" str="Zayin takes a look at the old guitar I found. Slowly a huge smile appears on his face. You found it! You found my fathers guitar!"/>
+    <dia pl="1" str="The guitar belonged to your father?"/>
+    <dia npc="1" str="He was a superb musician. This was his first guitar. Secretly I was hoping you will find it and here it is. Thank you. Thank you very much young traveller. Where did you find it?"/>
+    <dia pl="2" str="It was laying on the ground in an abandoned house in the middle of Erdal."/>
+    <dia npc="2" str="It must have been our old home. I had to flee Erdal because of the rebels. They killed my father when I was little. I cannot give you much but here, take this. I hope it will aid you in your travels."/>
+	<dia pl="3" str="Thank you Zayin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

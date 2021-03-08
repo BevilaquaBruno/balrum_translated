@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Sabes algo acerca de las tablas de piedra?"/>
+    <dia npc="0" str="De qué estás hablando?"/>
+    <dia pl="10" str="Thurza encontró una tabla de piedra en casa de los Pack."/>
+    <dia pl="11" str="He encontrado una tabla de piedra en casa de los Pack."/>
+    <dia npc="1" str="Qué? Que tipo de tabla de piedra? Hay algo escrito en ella?"/>
+    <dia pl="2" str="Hay algo tallado. Estamos tratando de traducirla."/>
+    <dia npc="2" str="Tan pronto como sepas algo, házmelo saber chico! Por el bien de la familia Pack."/>
+    <dia pl="3" str="Lo haré, Arlo." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Necesito hablar con tu líder."/>
+    <dia npc="0" str="No eres uno de los nuestros. Quién eres?"/>
+    <dia pl="1" str="Soy de la otra aldea."/>
+    <dia npc="1" str="Otro infiel de la gente de Arlo. Qué quieres de los Kyler?"/>
+    <dia pl="2" str="Algo espantoso esta ocurriendo en nuestra aldea. Wilson, me dijo que los Kylers podrían darme respuestas. Hay vidas inocentes en peligro."/>
+    <dia npc="2" str="Te escucho chico y te creo. Tratar de ayudar a los demás es una cosa noble. Pero no puedo dejarte pasar asta que sepa con certeza que puedo confiar en ti."/>
+    <dia pl="3" str="Como puedo demostrarte qué soy digno de confianza?"/>
+    <dia npc="3" str="Bien. El otro día cuando estaba fuera de servicio fui a visitar la aldea. Pensé que podría encontrar algo de valor. En vez de encontrar algo útil y de valor acabe perdiendo el anillo de mi familia. Yo estaba en medio de las ruinas cuando empezaron a atacarme arañas gigantes. Había muchas de esas repugnates, tuve que luchar pero al final algunas acabaron escapando. Cuando llegue a casa me di cuenta que había perdido el anillo. Debería estar por ahí. Ese anillo a sido de mi familia durante muchas generaciones, transmitido de padres a hijos. No es un anillo valioso, pero es muy importante para mi. Tal vez tu podrías ayudarme a encontrarlo? Si traes de vuelta el anillo te dejaré entrar!"/>
+    <dia pl="4" str="No tengo tiempo para esto!"/>
+    <dia npc="4" str="Vale, si no me vas ayudar yo no te puedo ayudar."/>
+    <dia pl="5" str="No me dejas otra opción. Tendré que ir a buscar tu anillo. Pero si este retraso le cuesta la vida a alguien, tu seras el culpable."/>
+    <dia npc="5" str="Entonces date prisa. He marcado tu mapa!"/>
+	<dia pl="6" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

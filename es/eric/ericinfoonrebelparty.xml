@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Como va el día?"/>
+    <dia npc="0" str="Tu también estas invitado? Me llamo Eric. Estoy muy emocionado!"/>
+    <dia pl="1_0" str="Si, lo sé!" jumpNPCd= "2" jumpPlayerd = '3'/>
+    <dia pl="1_1" str="Invitado?"/>
+    <dia npc="1" str="Lo siento hablo demasiado. Por favor vete. Tengo cosas importantes que hacer."/>
+    <dia pl="2" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia npc="2" str="Lo sabía. Te estaba mirando. De donde eres? Oh lo siento, ese no es mi asunto, verdad? Espero que no tengamos que permanecer en el sótano de nuevo. Me gustaría ver los cuartos superiores del castillo. A ti no?"/>
+    <dia pl="3" str="Si, sería genial. Cuando vamos a ir? Soy tonto lo sé, no recuerdo donde esta la entrada."/>
+    <dia npc="4" str="Ohh eres tonto. Eres un hombre tonto. Acabamos de ir al castillo y nos han dicho que hacer. Tenemos que ir al atardecer. Qué no se te olvide de nuevo, bonito! Tengo una gran idea! Por qué no vamos juntos? Venimos aquí al atardecer y vamos juntos. Sería genial verdad?"/>
+	<dia pl="4" str="Bien, estaré aquí al atardecer." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

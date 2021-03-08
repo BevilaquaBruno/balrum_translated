@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Sabes algo sobre las desapariciones y los incendios, Jones?"/>
+    <dia npc="0" str="Se lo mismo que tu sabes muchacho. Aron cree ser mas buen herrero de lo que en realidad es. Siempre he dicho que Edwig del otro pueblo es mucho mejor herrero que Aron. Mis antorchas son de Edwig y nunca he tenido una razón para quejarme. No conozco muy bien a los Pack. Solo se que son gente decente. Es una pena, las cosas malas solo les pasan a las personas buenas."/>
+	<dia pl="1" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

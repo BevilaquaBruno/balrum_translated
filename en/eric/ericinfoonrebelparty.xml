@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="How are things today?"/>
+    <dia npc="0" str="Are you invited too? My name is Eric. I'm so excited!"/>
+    <dia pl="1_0" str="Yes I am!" jumpNPCd= "2" jumpPlayerd = '3'/>
+    <dia pl="1_1" str="Invited?"/>
+    <dia npc="1" str="I'm sorry I talk too much. Please leave. I have important things to do."/>
+    <dia pl="2" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia npc="2" str="I knew it. You have that look about you. Where are you from? Oh I'm sorry, it's none of my business, right? I hope we won't stay in the basement again. I would love to see the upper quarters of the castle. Wouldn't you?"/>
+    <dia pl="3" str="Yes, it would be great. When will we have to go? And I'm silly, I know, but I forgot where the entrance is."/>
+    <dia npc="4" str="Ohh you are silly. You silly man. We just go to the castle and they will tell us what to do next. We have to go at sundown. Now don't you forget again, you pretty face, you! I have a great idea! Why don't we go together? Come here at sundown and we will go together. How great is that?"/>
+	<dia pl="4" str="Alright. I will be here at sundown." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

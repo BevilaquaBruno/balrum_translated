@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Cuéntame la verdad sobre el bosque oscuro, abuelo."/>
+    <dia npc="0" str="Bien, hijo mio, Yo sabia que llegaría el momento de contarte la verdad. Magos malvados utilizaban este sitio. Los bosques los escondían del mundo exterior y aquí podían hacer sus conjuros. No te imaginas la cantidad de magia oscura que se ha utilizado. Ni siquiera yo lo se, pero se que sacrificaban gente inocente para realizar sus rituales. Obedecen a Nasrus el dios demente."/>
+    <dia pl="1" str="Por que eligieron este lugar?"/>
+    <dia npc="1" str="Este lugar fue tocado por los dioses en el pasado. Incluso a día de hoy su energía fluye por el bosque. Los magos oscuros utilizan esta energía para sus rituales. Barnabas dice que las plantas crecen mas rápido aquí."/>
+    <dia pl="2" str="Así que tocado por los dioses?"/>
+    <dia npc="2" str="No lo se a ciencia cierta, pero las leyendas dicen que hay muchos secretos en estos bosques. Tenía que haber una buena razón para que los dioses vinieran aquí abajo y interfirieran con los mortales."/>
+    <dia pl="3" str="Por que no a venido nadie despues de nosotros a los bosques?"/>
+    <dia npc="3" str="El rey Triston fue el único que tuvo valor de decir basta. El reunió a su ejercito rojo y mato a todos los que había aquí. O al menos eso dicen las leyendas, mataron incluso a los niños. La gente permanece lejos de aquí por que piensan que las malas acciones pueden volver otra vez. Despues de mucho tiempo la gente decía que el bosque a un olía a sangre de las matanzas."/>
+    <dia pl="4" str="Creo que ya he escuchado suficiente. Ahora lo entiendo. Como el mundo exterior teme al bosque, este lugar nos da protección al mismo tiempo."/>
+    <dia npc="4" str="Así es, mi chico. Esta es la razón por la que escogimos este lugar. Y nada malo a sucedido desde hace casi 20 años. Algo malo va a suceder, lo presiento."/>
+	<dia pl="5" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Qué estás haciendo aquí?"/>
+    <dia npc="0" str="Quién eres? Qué deseas? No soy quien piensas!"/>
+    <dia pl="1" str="Cálmate. De que estás hablando?"/>
+    <dia npc="1" str="Gracias Adacus. No eres uno de ellos. Vengo de tierras lejanas.  A los rebeldes no les gustan los extraños. Ellos sacrificaron a mi especie."/>
+    <dia pl="2" str="Siento que te pasara esto. Los rebeldes son una de las peores cosas que hay en Balrum. Qué estás haciendo aquí?"/>
+    <dia npc="2" str="Como ya sabes, estoy escondido de los rebeldes. Cuando llegue a Balrum tenia grandes esperanzas. Yo quería unirme a los famosos herreros de Erdal. Su conocimiento de los metales y mis técnicas extranjeras habrían producido algunas armaduras finas. Ahora solo puedo soñar en esculpir el brillante metal."/>
+	<dia pl="3" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Ten, aquí está el dinero."/>
+    <dia npc="0" str="Bien. La escoria rebelde nunca dejaría escapar dicha cantidad. Eso demuestra que puedo confiar en ti. Eres libre de mirar por donde quieras. Si hablas de este lugar lo averiguaremos, así que ya te puedes imaginar lo que te puede pasar."/>
+    <dia pl="1" str="Si, lo sé."/>
+    <dia npc="2" str="Y por cierto, suelo pedir quinientos thalers. Así que no creo que seas tan inteligente. Y si te encuentras con jovencitas que tengan buen aspecto, no dudes en hablarles de este lugar. Podría tener un trabajo para ellas. Al igual que servir comida y cantar en nuestras fiestas."/>
+	<dia pl="2" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

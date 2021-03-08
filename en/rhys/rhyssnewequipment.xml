@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Here is the wood, Rhys."/>
+    <dia npc="0" str="Nice work! So you want to learn? I can teach you how to become better at picking locks."/>
+	<dia pl="1" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

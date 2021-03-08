@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Qué es este sitio?"/>
+    <dia npc="0" str="Tienes suerte, joven viajero."/>
+    <dia pl="1" str="Por qué?"/>
+    <dia npc="1" str="Por lo general, me enfado con los visitantes. Terminan en mi hoyo con bastante rapidez. Pero necesito tu ayuda. Puede que gracias a Murray estés todavía vivo."/>
+    <dia pl="2_0" str="Conozco tu tipo. Eres un nigromante. Dile adiós a tu hoyo."  jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia pl="2_1" str="Así que matas a todos los que ves?"/>
+    <dia npc="2" str="Puede que haya exagerado un poco. Me ayudarás o no?"/>
+    <dia pl="3" str="Quién es Murray? Y si... yo te ayudaré. No quiero acabar en tu precioso hoyo."/>
+    <dia npc="3" str="Bien! Bien! Murray es mi obra maestra. Era un campesino desafortunado que merodeaba por estas tierras. El no-muerto vino aquí rápidamente y me encargue de el. Pensé que sería un buen servidor así que trate de resucitarlo. Lo hice volver de entre los muertos, pero tiene sus problemas. Desde que he estado tratando de perfeccionar mis metodos, el desapareció unas semanas. Si lo encuentras tráemelo y te recompensaré enormemente."/>
+    <dia pl="4" str="Si lo veo te lo traeré de vuelta."/>
+    <dia npc="4" str="Excelente! Ahora vete. Tengo cosas más importantes que hacer que hablar contigo."/>
+	<dia pl="5" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

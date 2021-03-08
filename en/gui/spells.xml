@@ -1,0 +1,260 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--%data% data-->
+<!--%n% new line-->
+<!--%l% line skip-->
+<spells>    
+    <spell id="0" type="NAME" n="Blinding Shot" />
+    <spell id="0" type="BUFF_TURN" n="Blinds the target for %data% turns." /> 
+    <spell id="1" type="NAME" n="Brutal Strike" /> 
+    <spell id="1" type="DAMAGE" n="A brutal attack that deals %data%-%data% plus weapon damage." />
+    <spell id="2" type="NAME" n="Deep Wounds" /> 
+    <spell id="2" type="BUFF_DAMAGE_AND_TURN" n="Causes the target to bleed for %data%-%data% physical damage for %data% turns. Deals 30% weapon damage." /> 
+    <spell id="3" type="NAME" n="Fear" /> 
+    <spell id="3" type="BUFF_TURN" n="Makes your enemy run in fear for %data% turns." /> 
+    <spell id="4" type="NAME" n="Fireball level 1" /> 
+    <spell id="4" type="DAMAGE" n="Inflicts %data%-%data% fire damage and has a 50% chance of burning the target afterwards." /> 
+    <spell id="4" type="LORE1" n="Burning targets suffer more damage." /> 
+    <spell id="5" type="NAME" n="Fireball level 2" /> 
+    <spell id="5" type="DAMAGE" n="Inflicts %data%-%data% fire damage and has a 50% chance of burning the target afterwards." />
+    <spell id="5" type="LORE1" n="Burning targets suffer more damage." /> 
+    <spell id="6" type="NAME" n="Forget Crime" /> 
+    <spell id="6" type="LORE1" n="Your target will forget all of your crimes." /> 
+    <spell id="7" type="NAME" n="Freeze" /> 
+    <spell id="7" type="BUFF_TURN" n="Freezes the target in place for %data% turns." /> 
+    <spell id="8" type="NAME" n="Silverbark Cure" /> 
+    <spell id="8" type="LORE1" n="Tries to cure Fleta." /> 
+    <spell id="8" type="LORE2" n="Removed on successful cast." /> 
+    <spell id="9" type="NAME" n="Heal level 1" /> 
+    <spell id="9" type="EXCEPTION" n="Heal yourself for %data%-%data% health." /> 
+    <spell id="9" type="COMMENT" n="Right-Click to cast on yourself." /> 
+    <spell id="10" type="NAME" n="Gift of the Forest" /> 
+    <spell id="10" type="LORE1" n="Summon a healing tree to aid you and your pet." /> 
+    <spell id="10" type="COMMENT" n="Right-Click to cast." />
+    <spell id="11" type="NAME" n="Multi Shot" /> 
+    <spell id="11" type="LORE1" n="Attack up to three enemies." />  
+    <spell id="12" type="NAME" n="Nightfall level 1" />  
+    <spell id="12" type="BUFF_DAMAGE_AND_TURN" n="Curses the target for %data%-%data% shadow damage each turn for %data% turns." /> 
+    <spell id="13" type="NAME" n="No Mercy" />  
+    <spell id="13" type="DAMAGE" n="If your %r%target's health is below 25%%r% you can perform a powerful finishing blow. Deals %data%-%data% plus weapon damage." /> 
+    <spell id="13" type="SPELL_REQUIRES_MELEE_WEAPON_SPECIAL" n="%r%Requires a melee weapon%r% and a %r%Rose Hip%r%." />  
+    <spell id="14" type="NAME" n="Opportunity" /> 
+    <spell id="14" type="DAMAGE" n="After %r%the target parried or dodged%r% you have the opportunity to strike back immediately. Deals %data%-%data% damage plus weapon damage." />  
+    <spell id="15" type="NAME" n="Perfect Shot" /> 
+    <spell id="15" type="LORE1" n="Perform a perfect shot that results in a critical hit. A percet shot never misses." />  
+    <spell id="16" type="NAME" n="Polymorph" /> 
+    <spell id="16" type="BUFF_TURN" n="Transforms your enemy into a pig. While the enemy is transformed it will wander around for %data% turns. Any damage will break the transformation." />    
+    <spell id="17" type="NAME" n="Pure" /> 
+    <spell id="17" type="LORE1" n="Your next spell will cost no mana. This spell has a random cooldown." /> 
+    <spell id="17" type="COMMENT" n="Right-Click to cast on yourself." /> 
+    <spell id="18" type="NAME" n="Pyroblast level 1" />
+    <spell id="18" type="LORE1" n="Burning targets suffer more damage." /> 
+    <spell id="18" type="DAMAGE" n="Inflicts %data%-%data% fire damage and has a 75% chance of seriously burning the target afterwards. Needs to be charged up. (this spell requires 2 turns)" />
+    <spell id="19" type="NAME" n="Rain of Fire" />
+    <spell id="19" type="LORE1" n="Burning targets suffer more damage." /> 
+    <spell id="19" type="DAMAGE" n="Unleash fiery rain that deals %data%-%data% fire damage to your enemies. Has a 50% chance of seriously burning the target afterwards." />
+    <spell id="20" type="NAME" n="Shoot" />
+    <spell id="21" type="NAME" n="Attack" />
+    <spell id="22" type="NAME" n="Slash" />
+    <spell id="22" type="DAMAGE" n="Slash up to three targets in front of you. Deals %data%-%data% plus weapon damage." />
+    <spell id="23" type="NAME" n="Strong Strike" />
+    <spell id="23" type="DAMAGE" n="A strong attack that deals %data%-%data% plus weapon damage." />
+    <spell id="24" type="NAME" n="Stun" />
+    <spell id="24" type="BUFF_TURN" n="Stuns your target for %data% turns." />
+    <spell id="25" type="NAME" n="Teleport Self" />
+    <spell id="25" type="LORE1" n="Cannot teleport while walking." />
+    <spell id="25" type="LORE2" n="Requires a %r%Nightmare Berry%r%." />
+    <spell id="25" type="LORE3" n="Usage: When selected you are able to specify where to teleport with a right click." />
+    <spell id="26" type="NAME" n="Voidball" />
+    <spell id="26" type="DAMAGE" n="Inflicts %data%-%data% shadow damage and has a 30% chance of cursing the target afterwards." />
+    <spell id="27" type="NAME" n="Water Arrow" />
+    <spell id="27" type="LORE1" n="It should be able to extinguish torches on walls and other small flames." />
+    <spell id="28" type="NAME" n="Roar" />
+    <spell id="29" type="NAME" n="Enrage" />
+    <spell id="30" type="NAME" n="Thick Hide" />
+    <spell id="31" type="NAME" n="Enrage Countdown" />
+    <spell id="32" type="NAME" n="Blind" />
+    <spell id="33" type="NAME" n="Deep Wounds" />
+    <spell id="34" type="NAME" n="Firenova" />
+    <spell id="35" type="NAME" n="Fireball" />
+    <spell id="36" type="NAME" n="Minor Poison" />
+    <spell id="37" type="NAME" n="Mighty Croak" />
+    <spell id="38" type="NAME" n="Stun" />
+    <spell id="39" type="NAME" n="Warcry" />
+    <spell id="40" type="NAME" n="Heal" />
+    <spell id="41" type="NAME" n="Vanish" />
+    <spell id="41" type="BUFF_TURN" n="Vanish from sight for %data% turns." />
+    <spell id="42" type="NAME" n="Larva Poison" />
+    <spell id="43" type="NAME" n="Larva Spit" />
+    <spell id="44" type="NAME" n="Mantis Humanoid Bleed" />
+    <spell id="45" type="NAME" n="Mantis Poison" />
+    <spell id="46" type="NAME" n="Mantis Strong Strike" />
+    <spell id="47" type="NAME" n="Poison" />
+    <spell id="48" type="NAME" n="Heal Other" />
+    <spell id="49" type="NAME" n="Mirror" />
+    <spell id="50" type="NAME" n="Drain Mana" />
+    <spell id="51" type="NAME" n="Fear" />
+    <spell id="52" type="NAME" n="Strong Strike" />
+    <spell id="53" type="NAME" n="Teleport Self" />
+    <spell id="55" type="NAME" n="Pyroblast" />
+    <spell id="56" type="NAME" n="Plague" />
+    <spell id="57" type="NAME" n="Rabies" />
+    <spell id="58" type="NAME" n="Adrenaline" />
+    <spell id="59" type="NAME" n="Reflect" />
+    <spell id="60" type="NAME" n="Ranged Attack" />
+    <spell id="61" type="NAME" n="Melee Attack" />
+    <spell id="63" type="NAME" n="Hypnotize" />
+    <spell id="64" type="NAME" n="Lay Egg" />
+    <spell id="65" type="NAME" n="Paralyze" />
+    <spell id="66" type="NAME" n="Web" />
+    <spell id="67" type="NAME" n="Infest Blood" />
+    <spell id="68" type="NAME" n="Parasitism" />
+    <spell id="71" type="NAME" n="Howl" />
+    <spell id="75" type="NAME" n="Bear Roar" />
+    <spell id="75" type="LORE1" n="Frightens the target, decreasing its defences." />
+    <spell id="76" type="NAME" n="Bear Thick Hide" />
+    <spell id="76" type="BUFF_TURN" n="Increases the bears defences for %data% turns." />
+    <spell id="77" type="NAME" n="Song of the Forest" />
+    <spell id="77" type="EXCEPTION" n="The deer heals you for %data%-%data% health." />
+    <spell id="78" type="NAME" n="Mantis Mana Drain" />
+    <spell id="79" type="NAME" n="Fear" />
+    <spell id="79" type="BUFF_TURN" n="Frighten the target for %data% turns." />
+    <spell id="80" type="NAME" n="Take Over" />
+    <spell id="80" type="LORE1" n="The pet tries to take the target's attention." />
+    <spell id="81" type="NAME" n="Shadow Spit" />
+    <spell id="81" type="LORE1" n="Hurls a ball of spit towards the target." />
+    <spell id="82" type="NAME" n="Spider Web" />
+    <spell id="82" type="BUFF_TURN" n="Covers the target in a sticky web for %data% turns." />
+    <spell id="83" type="NAME" n="Stun" />
+    <spell id="83" type="BUFF_TURN" n="Stuns the target for %data% turns." />
+    <spell id="84" type="NAME" n="Wolf Howl" />
+    <spell id="84" type="BUFF_TURN" n="Frightens the target, reducing its damage for %data% turns." />
+    <spell id="85" type="NAME" n="Wolf Enrage" />
+    <spell id="85" type="BUFF_TURN" n="Increases the wolf's damage for %data% turns." />
+    <spell id="86" type="NAME" n="Focus Dodge" />
+    <spell id="86" type="BUFF_TURN" n="Dodge chance is increased greatly for %data% turns." /> 
+    <spell id="87" type="NAME" n="Crystal Walls" />           
+    <spell id="87" type="LORE1" n="Summons large crystals around the caster, creating a protective barrier for 6 turns. Crystals will only appear if nothing is in the way." />  
+    <spell id="88" type="NAME" n="Pet Heal level 1" />           
+    <spell id="88" type="DAMAGE" n="Heals the pet for %data%-%data%." />  
+    <spell id="89" type="NAME" n="Anger Strike" />           
+    <spell id="89" type="DAMAGE" n="While %r%wounded%r%, use your anger to attack the target for %data%-%data% plus weapon damage." />  
+	<spell id="90" type="NAME" n="Come Here" />           
+    <spell id="90" type="LORE1" n="Pulls the target towards you. At least one free tile is needed around you." />
+	<spell id="91" type="NAME" n="Piercing Arrow" />           
+    <spell id="91" type="DAMAGE" n="Shoots through your enemies. Targets need to be in a line. A maximum of 3 enemies are affected. Deals %data%-%data% plus weapon damage. " />  
+	<spell id="92" type="NAME" n="Shatter Armour" />           
+    <spell id="92" type="EXCEPTION" n="Decrease the armour of your target by %data%. Stackable up to %data% times." />
+    <spell id="93" type="NAME" n="Blood Explode" />
+    <spell id="94" type="NAME" n="Arcance Ball" />
+    <spell id="95" type="NAME" n="Throw Rock" />
+    <spell id="96" type="NAME" n="Weakened Healing" />
+    <spell id="97" type="NAME" n="Touch of Death" />
+    <spell id="98" type="NAME" n="Poison Ball" />
+    <spell id="99" type="NAME" n="Disregard Threats" />
+    <spell id="100" type="NAME" n="Shadow Spit" />
+    <spell id="101" type="NAME" n="Rage" />
+    <spell id="102" type="NAME" n="Mass Stun" />
+    <spell id="103" type="NAME" n="Distract" />
+    <spell id="103" type="LORE1" n="Throw a stone towards the target attracting its attention. Only idle targets can be distracted!" />
+    <spell id="104" type="NAME" n="Weakened Healing (Melee)" />
+    <spell id="104" type="BUFF_TURN" n="Enemies affected by weakened healing receive a 50% penalty on every healing effect for %data% turns." />
+    <spell id="105" type="NAME" n="Silence" />
+    <spell id="105" type="BUFF_TURN" n="Cannot use spells while under this effect. Lasts %data% turns." />
+    <spell id="106" type="NAME" n="Teleport Target Away" />
+    <spell id="106" type="LORE1" n="Teleport the target to a random place nearby." />
+    <spell id="107" type="NAME" n="Weakened Healing (Spell)" />
+    <spell id="107" type="BUFF_TURN" n="Enemies affected by weakened healing receive a 50% penalty on every healing effect for %data% turns." />
+    <spell id="108" type="NAME" n="Lower Threat" />
+    <spell id="108" type="LORE1" n="Lowers the accumulated threat value towards the caster." />
+    <spell id="109" type="NAME" n="Blind" />
+    <spell id="109" type="BUFF_TURN" n="Blinds the target for %data% turns." />
+    <spell id="110" type="NAME" n="Frost Ball" />
+    <spell id="111" type="NAME" n="Pet Heal level 2" />           
+    <spell id="111" type="DAMAGE" n="Heals the pet for %data%-%data%." />
+    <spell id="112" type="NAME" n="Clean Shot" />           
+    <spell id="112" type="BUFF_DAMAGE_AND_TURN" n="Causes the target to bleed for %data%-%data% physical damage for %data% turns and deals 100% weapon damage." />  
+	<spell id="113" type="NAME" n="Chaos Fire" /> 
+	<spell id="113" type="LORE1" n="Burning targets suffer more damage." /> 
+    <spell id="113" type="DAMAGE" n="Unleash fiery rain that deals %data%-%data% fire damage to your enemies. Has a 100% chance of seriously burning the target afterwards." />
+	<spell id="114" type="NAME" n="Arrow of Misery" />
+    <spell id="114" type="BUFF_DAMAGE_AND_TURN" n="Causes the target to bleed for %data%-%data% physical damage for %data% turns and deals 100% weapon damage. The damage caused by the bleeding will heal you." />  
+	<spell id="115" type="NAME" n="Druid's Song" />
+	<spell id="115" type="LORE1" n="Sing the song of the druid's to recover 25% of your total health over 5 turns." />
+	<spell id="116" type="NAME" n="Fireball level 3" />
+	<spell id="116" type="LORE1" n="Burning targets suffer more damage." /> 
+	<spell id="116" type="DAMAGE" n="Inflicts %data%-%data% fire damage and has a 50% chance of burning the target afterwards." />
+	<spell id="117" type="NAME" n="Heal level 2" />
+	<spell id="117" type="DAMAGE" n="Heal yourself for %data%-%data% health." /> 
+	<spell id="118" type="NAME" n="Iceball" />
+	<spell id="118" type="DAMAGE" n="Inflicts %data%-%data% frost damage and has a 30% chance of freezing the target." />
+	<spell id="119" type="NAME" n="Improved Clean Shot" />
+	<spell id="119" type="BUFF_DAMAGE_AND_TURN" n="Causes the target to bleed for %data%-%data% physical damage for %data% turns and deals 110% weapon damage." /> 
+	<spell id="120" type="NAME" n="Improved Deep Wounds" />
+	<spell id="120" type="BUFF_DAMAGE_AND_TURN" n="Causes the target to bleed for %data%-%data% physical damage for %data% turns. Deals 40% weapon damage." />
+	<spell id="121" type="NAME" n="Meditation" />
+	<spell id="121" type="BUFF_TURN" n="Meditate for %data% turns. Every ability/spell has a 50% chance to reset it's cooldown." />
+	<spell id="122" type="NAME" n="Nightfall level 2" />
+	<spell id="122" type="BUFF_DAMAGE_AND_TURN" n="Curses the target for %data%-%data% shadow damage each turn for %data% turns." /> 
+	<spell id="123" type="NAME" n="Pet Heal level 3" />
+	<spell id="124" type="NAME" n="Predator Vision" />
+	<spell id="124" type="LORE1" n="See your prey in the dark." />
+	<spell id="125" type="NAME" n="Sleep (Spell)" />
+	<spell id="125" type="BUFF_TURN" n="Puts the target into a deep sleep for %data% turns." />
+	<spell id="126" type="NAME" n="Sleep (Melee)" />
+	<spell id="126" type="BUFF_TURN" n="Puts the target into a deep sleep for %data% turns." />
+	<spell id="127" type="NAME" n="Colossus Smash" />
+    <spell id="127" type="DAMAGE" n="A devastating attack that deals %data%-%data% plus weapon damage and has a 35% chance to stun the target." />
+	<spell id="128" type="NAME" n="Stealth" />
+	<spell id="128" type="LORE1" n="Significantly decreases your visibility." />
+	<spell id="129" type="NAME" n="Touch of the Wisps" />
+	<spell id="129" type="LORE1" n="While the effect is active all healing done to you is increased by 25%." />
+	<spell id="130" type="NAME" n="Black Curse" />
+	<spell id="131" type="NAME" n="Abdominal Strike" />
+	<spell id="132" type="NAME" n="Weakened Casting" />
+	<spell id="133" type="NAME" n="Leprosy" />
+	<spell id="134" type="NAME" n="Brain Freeze" />
+	<spell id="135" type="NAME" n="Throw Away" />
+	<spell id="136" type="NAME" n="Beetle Chitin" />
+	<spell id="137" type="NAME" n="Ranged Stun" />
+	<spell id="138" type="NAME" n="Fire Resistance" />
+	<spell id="139" type="NAME" n="Siphon Mana" />
+	<spell id="139" type="DAMAGE" n="Steal %data%-%data% mana from the target." />
+	<spell id="140" type="NAME" n="Siphon Life" />
+	<spell id="140" type="DAMAGE" n="Steal %data%-%data% life energy from the target." />
+	<spell id="141" type="NAME" n="Beetle Bomb" />
+	<spell id="142" type="NAME" n="Improved Shatter Armour" />           
+    <spell id="142" type="EXCEPTION" n="Decrease the armour of your target by %data%. Stackable up to %data% times." />
+    <spell id="143" type="NAME" n="Shield Slam" />
+    <spell id="143" type="BUFF_TURN" n="Silences the target for %data% turns." />
+    <spell id="144" type="NAME" n="Shield Absorb" />
+    <spell id="144" type="EXCEPTION" n="Raise your shield to absorb %data% magical damage." />
+    <spell id="145" type="NAME" n="Discover" />
+    <spell id="145" type="LORE1" n="Look into the distance to reveal unexplored areas." />
+    <spell id="146" type="NAME" n="Pet Cleanse" />
+    <spell id="146" type="LORE1" n="Removes basic harmful effects from your pet." />
+    <spell id="147" type="NAME" n="Close Shot" />
+    <spell id="147" type="DAMAGE" n="When an enemy is one or two tiles away from you deal %data%-%data% plus weapon damage." />
+    <spell id="148" type="NAME" n="Improvised Trap" />
+    <spell id="148" type="LORE1" n="Place down an improvised trap on the ground. Requires %r%one wood%r%." />
+    <spell id="149" type="NAME" n="Silencing Shot" />
+    <spell id="149" type="BUFF_TURN" n="Silences the target for %data% turns." />
+    <spell id="150" type="NAME" n="Weakened Healing (Ranged)" />
+    <spell id="150" type="BUFF_TURN" n="Enemies affected by weakened healing receive a 50% penalty on every healing effect for %data% turns." />
+    <spell id="151" type="NAME" n="Sleep (Ranged)" />
+    <spell id="151" type="BUFF_TURN" n="Puts the target into a deep sleep for %data% turns." />
+    <spell id="152" type="NAME" n="Improved Improvised Trap" />
+    <spell id="152" type="LORE1" n="Place down an improved improvised trap on the ground. Requires %r%one wood%r%." />
+    <spell id="153" type="NAME" n="Fire Breath" />
+    <spell id="154" type="NAME" n="Resist Magic" />
+    <spell id="155" type="NAME" n="Resist Fire" />
+    <spell id="156" type="NAME" n="Poison Spit" />
+    <spell id="157" type="NAME" n="Throw Mushroom" />
+    <spell id="158" type="NAME" n="Precise Cut" />
+    <spell id="158" type="DAMAGE" n="Perform a precise attack between the armour plates of your enemy resulting in a strike that will ignore armour rating. Deals %data%-%data% plus weapon damage." />
+    <spell id="159" type="NAME" n="Dirty Stab" />
+    <spell id="159" type="DAMAGE" n="An attack that can only be perforemd while the target is stunned. Deals %data%-%data% plus weapon damage." />
+    <spell id="160" type="NAME" n="Shadow Blade" />
+    <spell id="160" type="BUFF_DAMAGE_AND_TURN" n="Leaves a small shard of the blade in the body of the victim. The shard will cause %data%-%data% shadow damage after %data% turns. Using this ability will always decrease the durability of the used dagger." />
+    <spell id="161" type="NAME" n="Death" />
+    <spell id="162" type="NAME" n="Disease of the Catacombs" />
+</spells>

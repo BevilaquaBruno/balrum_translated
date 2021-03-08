@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Are you Murray?"/>
+    <dia npc="0" str="Mmmmmmmm"/>
+    <dia pl="1" str="Follow me, I need to take you back to your master."/>
+    <dia npc="1" str="MMmm MMMmmmm MmmMM"/>
+    <dia pl="2_0" str="You have no choice now, follow me." jumpNPCd= "3" jumpPlayerd = '4'/>
+    <dia pl="2_1" str="Alright, alright. I won't tell him where you are, but I think he will find you eventually."/>
+    <dia npc="2" str="Mmmmmmmmmmm Mm"/>
+    <dia pl="3" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia npc="3" str="Mmm"/>
+	<dia pl="4" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

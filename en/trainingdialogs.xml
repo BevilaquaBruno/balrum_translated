@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <diastr s="I need training in"/>
+	<diastr s="I want to increase my skill in"/>
+	<diastr s="I want to know more about"/>
+	<diastr s="I want to enrich my knowledge in"/>
+	<diastr s="I want to further sharpen my skill in"/>
+</dialogs>

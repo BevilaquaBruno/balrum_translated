@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Do you know anything about the disappearance and the fires, Jones?"/>
+    <dia npc="0" str="Only what you already know boy. Aron might not be as good a blacksmith as he thinks he is. I always said that Edwig from the other village is a much better master than Aron. My torches are from Edwig and I have no reason to complain about them. I didn't know the Packs very well. The only thing I know about them is that they're decent folk. A shame that bad things always seem to happen to good people."/>
+	<dia pl="1" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

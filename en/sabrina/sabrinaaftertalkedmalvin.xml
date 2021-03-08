@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I have heard that you girls are taking trips to the rectory. There's nothing wrong about that, I just want to tell you that father Malvin is angry about it."/>
+    <dia npc="0" str="Father Malvin is angry? What a joke! More often than not he shows up at our doorstep. What a hypocrite that priest is! He wants all of us for himself? Ha ha!"/>
+    <dia pl="1" str="I just wanted to inform you that he is up to something."/>
+    <dia npc="1" str="Thank you, but we can protect ourselves. If we lose a few costumers here, we will find new ones there."/>
+	<dia pl="2" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

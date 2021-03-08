@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="How are things?"/>
+    <dia npc="0" str="Welcome, young man. My name is Artie. Things have been better, boy. Things have been better."/>
+    <dia pl="1" str="The rebels make your lives hard?"/>
+    <dia npc="1" str="Yes they do. To be honest, I can't complain because they don't need me for anything. I'm too old. The younger ones are not so fortunate. Whenever they need something they have to work for them - without pay, of course."/>
+    <dia pl="2" str="Can you tell me about the old days before the rebels?"/>
+    <dia npc="2" str="Those were the days, I tell you. People lived in harmony. King Edward was a good king. He kept everything in balance. There was plenty of food for everyone. There were annual festivals where everyone was invited, no matter what their rank. Of course, there was a sharp difference between the lives of the nobles and the commoners, but that's just how life works, boy. King Edward kept the undead at bay and gave a fair chance for every young man to become a knight. When I was young I dreamed of being a knight. Sometimes they called the king Kind Edward. Those days are far away now, boy."/>
+	<dia pl="3" str="Thank you." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

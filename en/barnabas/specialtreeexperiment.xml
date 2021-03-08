@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Did you find out anything about the silver tree?"/>
+    <dia npc="0" str="It's fascinating! The sample that you gave me is filled with life essence. It's incredible. And also very dangerous. In the wrong hands it might act like a weapon. All kinds of potions can be brewed with this ingredient. Wait. What were you asking?"/>
+	<dia pl="1" str="I was asking you about the bark that I gave you."/>
+    <dia npc="1" str="Yes, yes. It is an alchemist's dream. To find a substance like this. I never even heard or read about anything like it. It's so pure I might almost say it's holy."/>
+    <dia pl="2" str="What use do we have for it?"/>
+    <dia npc="2" str="Right now I have to experiment more. Time will tell what it's capable of, but I think it will be able to heal even severe diseases!"/>
+	<dia pl="3" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

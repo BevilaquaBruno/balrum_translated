@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Can you teach me a new recipe Arda?"/>
+    <dia npc="0" str="I taught you a few recipes already. Why don't you try to cook something up on your own? Since we've been living in the woods I've created more than a dozen new recipes. It's really not that hard. You need to experiment a little. Try out different ingredients. Mix them together. And the outcome just might be something amazing. But be careful not to use anything that might be poisonous like the green berries around here! Feel free to use my furnace."/>
+    <dia pl="1" str="All right Arda. I will try to invent my own recipe!" jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

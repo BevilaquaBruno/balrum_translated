@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Quiero unirme a tu alianza. Bolt me dijo que me tengo que ganar la confianza de algunos de vosotros para poder unirme."/>
+    <dia npc="0" str="Un novato! No tengo absolutamente ningún problema con que te unas. Tenemos que crecer en numero así no tenemos ninguna posibilidad contra los rebeldes. Algún día volverá a ver orden en Balrum! Los Bardos contaran como fuimos contra los sucios rebeldes de Erdal. Hazme un favor. Tráeme un par de cervezas. Que sean cuatro! Es todo lo que necesito de ti. Alguna vez bebemos cerveza aquí. Esto hace a los chicos felices! Ha ha! Tienes que apreciar las pequeñas cosas de la vida! Especialmente ahora."/>
+	<dia pl="1" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

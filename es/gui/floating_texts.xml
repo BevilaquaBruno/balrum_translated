@@ -1,0 +1,299 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--%data% data-->
+<!--%n% new line-->
+<!--%l% line skip-->
+<floating_texts>
+         <miss id="0" n="Fallo" />
+         <dodge id="1" n="Esquivar" />
+         <block id="2" n="Bloquear" />
+         <criticalStrike id="3" n="Golpe crítico" />
+         <parry id="4" n="Parar" />
+         <resist id="5" n="Resistir" />
+         <immune id="6" n="Inmune" />
+         <maxDots id="7" n="No se puede aplicar más efectos de daño!" />
+         <alreadyDottedWithThat id="8" n="El efecto ya está activo!" />
+         <feared id="9" n="Temido!" />
+         <frozen id="10" n="Congelado!" />
+         <sapped id="11" n="Traspuesto!" />
+         <stunned id="12" n="Aturdido!" />
+         <polymorphed id="13" n="Polimorfia!" />
+         <reflected id="14" n="Reflejado!" />
+         <notYourTurn id="15" n="No es mi turno!" />
+         <trap id="16" n="Trampa activada!" />
+         <absorbed id="17" n="Absorbido!" />
+         <maxStack id="18" n="Has alcanzado el limite aplicable para este efecto!" />
+         <toofaraway id="19" n="Esta demasiado lejos!" />
+         <youarestuck id="20" n="Estoy atascado!" />
+         <youhaveMasteredThisSkillLevel id="21" n="He dominado este nivel de habilidad! %n%debería ir a visitar a un maestro." />
+         <wakeUP id="22" n="Despierta!" />
+         <spell_not_usable id="23" n="Hechizo no utilizable!" />
+         <fullBelly id="24" n="Barriga llena!" />
+         <potionOverdose id="25" n="No puedo beber pociones!" />
+         <youaredoingsomething id="26" n="Estoy ocupado!" />
+         <yourhealthhasIncreased id="27" n="Siento el calor. Mi salud a aumentado!" />
+         <youMagicalPowersIncreased id="28" n="Mis poderes mágicos han aumentado!" />
+         <youfeelMoreDexterous id="29" n="Soy más hábil!" />
+         <youfeelStronger id="30" n="Me siento más fuerte!" />
+         <youFeelTheEssenceOfMana id="31" n="Siento la esencia del maná!" />
+         <skillIncreased id="32" n="Mi habilidad aumento!" />
+         <skillProgress id="33" n="Mi habilidad a aumentado!" />
+         <lockpickBroken id="34" n="He roto una %r%ganzúa%r%." />
+         <noLockpicks id="35" n="No tengo ganzúas." />
+         <skillTooLow id="36" n="Mi habilidad es muy baja." />
+         <thisPlaceWillBeGoodForDayna id="37" n="Este lugar sería ideal para Dayna!" />
+         <rememberingHugosDeath id="38" n="Hugo murió hace unos años. %n%Como murió? %n%Debería preguntarle al abuelo!" />
+         <aronmightbeabletomakeakey id="39" n="Esta puerta necesita una llave! %n%La cerradura tiene forma de triangulo. %n%Aron podría ser capaz de hacer una llave que se ajuste aquí!" />
+         <repaired id="40" n="Reparado!" />
+         <foundEdgardAStatuePresent id="41" n="Esta estatua de una rana sería perfecta para Edgar!" />
+         <notEnoughMaterials id="42" n="Materiales insuficientes!" />
+         <no_empty_bottle id="43" n="Falta una botella vacía!" />
+         <no_alchemy_modifyer id="44" n="Falta modificador de alquimia!" />
+         <iSeeYou id="45" n="Te veo!" />
+         <thankYouTorture id="46" n="Gracias!" />
+         <noo_Torture id="47" n="Aahh, no, no te acerques! Por favor!" />
+         <requirement id="48" n="No cumple los requisitos!" />
+         <somethingIsInTheWay id="49" n="Algo esta en el medio!" />
+         <refilledWithWater id="50" n="Rellenando alguna cosa con agua." />
+         <helpThief id="51" n="Ayuda! Ladrón!" />
+         <levelUP id="52" n="He llegado a un nuevo nivel!" />
+         <youArenotSmartEnough id="53" n="No eres lo suficientemente inteligente!" />
+         <youArenotStrongEnough id="54" n="No eres lo suficiente fuerte!" />
+         <critical_miss id="55" n="Fallo crítico" />
+         <needShovel id="56" n="Necesito una pala!" />
+         <needPoleAxe id="57" n="Necesito un %r%Pico%r%!" />
+         <needWoodcutterAxe id="58" n="Necesito una %r%Hacha de leñador%r%!" />
+         <brokenPickAxe id="59" n="Un %r%Pico%r% se ha roto!" />
+         <brokenWoodcutterAxe id="60" n="Un %r%Hacha de leñador%r% se ha roto!" />
+         <brokenShovel id="61" n="Una %r%Pala%r% se ha roto!" />
+         <not_enough_space id="62" n="No hay más espacio en el inventario!" />
+         <not_enough_space_for_all id="63" n="Sin suficiente espacio!" />
+         <save_quick_save id="64" n="Guardado rápido!" />
+         <critical_success id="65" n="Éxito crítico!" />
+         <critical_fail id="66" n="Fallo crítico!" />
+         <cantDoThatRightNow id="67" n="No se puede hacer eso en este momento!" />
+         <lockpick_special id="68" n="He utilizado una ganzúa especial!" />
+         <tooFarAway id="69" n="Demasiado lejos!" />
+         <enemiesNearby id="70" n="Los enemigos están cerca!" />
+         <treasure_map_complete id="71" n="El mapa se ha completado!" />
+         <you_are_not_in_safe_place id="72" n="No estoy en el lugar seguro!" />
+         <youCannotTameThatAnimal id="73" n="No puedo domar a ese animal." />
+         <perfectCast id="74" n="Lanzamiento perfecto! No se utilizó mana." />
+         <craftingBuffMax id="75" n="No se pueden utilizar más mejoras!" />
+         <save_auto_save id="76" n="Auto guardado!" />
+         <cannotBeTamed id="77" n="No puede ser domesticado!" />
+         <huntingSkillToLow id="78" n="Habilidades de caza demasiado bajas!" />
+         <somethingIsEating id="79" n="Algo se está moviendo en la mochila!" />
+         <failedToDisrmTrap id="80" n="Fallo al desarmar!" />
+         <criticalCrafting id="81" n="Fabricación crítica!" />
+         <weapon_missing id="82" n="Falta arma!" />
+         <banned_words id="83" n="Escribí una palabra prohibida!" />
+         <hungry_bug_trading id="84" n="Me da mucha vergüenza mostrar mi mochila." />
+         <iPutMyPetAway id="85" n="Tuve que despedirme de mi mascota!" />
+         <ammoRequired id="86" n="Munición requerida!" />
+         <safeplaceTrinketMissing id="87" n="Falta abalorio lugar seguro! Debería hablar con el abuelo!" />
+         <save id="88" n="Juego guardado" />     
+         <caughtWisp id="89" n="Extraje la energía de un wisp!" />
+         <noWispNearby id="90" n="No hay wisps cercanos." />
+         <imInCombat id="91" n="En combate!" />
+         <cannotPitchTentIntheMiddelOfVillage id="92" n="No debería echar mi tienda aquí." />
+         <notEnoughBuildingMaterial id="93" n="No hay materiales de construcción suficientes!" />
+         <farmingSkilldoesntAllowMoreFileds id="94" n="Mi nivel de habilidad en cultivar no me permite más campos!" />      
+         <lootmore id="95" n="%data% %r%%data%%r% añadido al inventario." />  
+         <newspell id="96" n="%r%%data%%r% está disponible en el libro de hechizos." /> 
+         <newquest id="97" n="Una nueva %r%misión%r% se ha agregado a mi diario." />  
+         <excuse id="98" n="Disculpé!" />
+         <drunked id="99" n="Hip..hip." />
+         <filledbottles id="100" n="Volví a llenar unas cuantas botellas." />
+         <putontheground id="101" n="Tuve que poner %data% %r%%data%%r% en el suelo." />  
+         <lockpickingLeftCorrect id="102" n="Intentando una %r%izquierda%r% turno: Estoy más cerca de la combinación correcta." />    
+         <lockpickingRightCorrect id="103" n="Intentando una %r%derecha%r% turno: Estoy más cerca de la combinación correcta." />
+         <lockpickingLeftResets id="104" n="Intentando una %r%izquierda%r% turno: Este giro no es correcto. Se restablece el bloqueo." />
+         <lockpickingRightResets id="105" n="Intentando una %r%derecha%r% turno: Este giro no es correcto. Se restablece el bloqueo." />
+         <lockpickingRightResets id="106" n="Ya estoy bien hidratado!" />
+         <resistedCompletely id="107" n="Resistido por completo!" />  
+         <durability id="108" n="Esta roto. No puedo equiparlo." />    
+         <cannotUse id="109" n="No puedo usar %r%%data%%r% nunca más!  " /> 
+         <cannotSave id="110" n="No se puede guardar en combate!" />
+         <halfBodyCorpse id="111" n="Ayúdame!" />  
+         <wispnoenergy id="112" n="El wisp no tiene suficiente energía!" />
+         <getOutOfNightmareWall id="113" n="Diespierta! Es solo un sueño!" />
+         <oshouldmentionthix id="114" n="Debo decirle a alguien lo que pasó!" /> 
+         <cannotTheleportWhileWalking id="115" n="No puedes teletransportarte al caminar!" />   
+         <cannotUseSecialPotionWhileWalking id="116" n="No puedes utilizar poción especial al caminar!" />      
+         <reasonToClimbdown id="117" n="No tengo ninguna razón para bajar ahí." />
+         <rustyLever id="118" n="La palanca está atascada. Se ve muy vieja y oxidada." />
+         <blocked id="119" n="%data% ataque fue bloqueado." />
+         <missed id="120" n="%data% ataque fallado." />
+         <dodged id="121" n="%data%  ataque fue esquivado." />
+         <parried id="122" n="%data% ataque fue parado." />
+         <resistedCompletely id="123" n="%data% ataque fue resistido completamente." />
+         <npcPlayerYou id="124" n="a ti" />
+         <npcPlayerYour id="125" n="a el" />
+         <unknown id="126" n="Desconocido" />  
+         <hittypeArcane id="127" n="Arcano" /> 
+         <hittypeFire id="128" n="Fuego" /> 
+         <hittypeFrost id="129" n="Congelado" /> 
+         <hittypePhysical id="130" n="Físico" /> 
+         <hittypePoison id="131" n="Veneno" /> 
+         <hittypeShadow id="132" n="Sombra" /> 
+         <hittypeWater id="133" n="Agua" />  
+         <lootone id="134" n="%r%%data%%r% añadido al inventario." />     
+         <notEnoughMoneyPlayer id="135" n="Dinero insuficiente!" />  
+         <notEnoughMoneyTrader id="136" n="El comerciante no tiene suficiente dinero." />          
+         <safepalcetrinketnotusable id="137" n="Abalorio lugar seguro no se puede utilizar." />
+         <nowall id="138" n="Lo necesito para colocarlo en una pared." />    
+         <sameNearby id="139" n="Ya hay uno cerca!" />
+         <propertoolsno id="140" n="Mi habilidad de minería es demasiado baja!" />   
+         <needsakey id="141" n="Necesito una llave!" />  
+         <someoneimportantdied id="142" n="Alguien muy importante murió! Por favor, carga una partida guardada anterior." />
+         <ineedahoe id="143" n="Necesito una azada!" />
+         <brokenHoe id="144" n="Una %r%Azada%r% se ha roto!" />
+         <paralyzed id="145" n="Paralizado!" />
+         <iamstarving id="146" n="Estoy hambriento!" />
+         <iamextremelydehidrated id="147" n="Estoy muy deshidratado!" />
+         <farmingSkilldoesntAllowMoreBushes id="148" n="Mi nivel de habilidad de cultivar no permite más arbustos de bayas!" />
+         <distractwarn id="149" n="Solamente los objetivos inactivos pueden ser distraídos!" />
+         <fullyhydrated id="150" n="Completamente hidratado!" />
+         <questmarkeradded id="151" n="Hay una nueva marca en mi mapa!" />
+         <needtoLearnLockpicking id="152" n="No se como abrir cerraduras!" />
+         <noMeleeabilitySeleected id="153" n="Sin habilidad cuerpo a cuerpo seleccionada en la barra de ranura rápida!" />
+         <noRangedabilitySeleected id="154" n="Sin habilidad a distancia seleccionada en la barra de ranura rápida !" />
+         <targetnotvisible id="155" n="Objetivo apenas visible!" />
+         <imadealotofnoise id="156" n="Hice un montón de ruido!" />  
+         <someoneimportantisangry id="157" n="Una persona muy importante esta enfadada contigo!" />
+         <mapmessage id="158" n="Este mapa no es adecuado para esta área." />
+         <ialreadyknowthat id="159" n="Ya lo sabía." />
+         <toostrong id="160" n="Eres demasiado fuerte!" />
+         <toosmart id="161" n="Eres demasiado inteligente!" />
+         <abilitynotusable id="162" n="Habilidad no utilizable!" />
+         <icannoteatanymore id="163" n="Mi estomago esta lleno! Tengo náuseas!" />
+         <icannoteatrightnow id="164" n="Tengo náuseas! No puedo comer más." />
+		 <interrupted id="165" n="Interrumpido!" />
+		 <cannotgothere id="166" n="No puedo ir ahí." />
+		 <cannoautoin id="167" n="No puedes caminar auto en combate." />
+		 <foundnothing id="168" n="No encontré nada." />
+		 <nwdarkwood id="169" n="Noroeste Bosque oscuro" />	
+		 <neastdarkwood id="170" n="Noreste Bosque oscuro" />
+		 <swdarkwood id="171" n="Suroeste Bosque oscuro" />
+		 <sedarkwood id="172" n="Sureste Bosque oscuro" />
+		 <nightmare id="173" n="Pesadilla" />
+		 <safeplace id="174" n="Lugar seguro" />
+		 <cannotrecovermore id="175" n="Al máximo." />
+		 <itstoodark id="176" n="Demasiado oscuro!" />
+		 <safeplacetrinketmiss id="177" n="Falta abalorio lugar seguro!" />	
+		 <learnedanewrecipe id="178" n="Aprendí una nueva %r%receta%r%." />
+		 <needsplint id="179" n="Necesito una férula." />
+		 <bump id="180" n="Bump!" />
+		 <skilllevel id="181" n="Aprendí un nuevo nivel de habilidad." />
+		 <holstileAround id="182" n="Enemigo cerca del destino!" />
+		 <immunetodot id="183" n="Inmune al efecto del daño progresivo." />
+		 <webbed id="184" n="Lona!" />			
+		 <immune id="185" n="%data% es inmune a %data%." />
+		 <immunetoweapon id="186" n="Inmune al arma." />	
+		 <lprecieved id="187" n="Punto de aprendizaje recibido" />
+		 <shiftpressed id="188" n="Shift se presiona!" />
+		 <intro1 id="189" n="No puedo localizar a mis hermanos." />   
+		 <intro2 id="190" n="El gremio de magos tiene que averiguar algo!" />  
+		 <intro3 id="191" n="La destrucción de los restos esta más allá de nuestros poderes." />  
+		 <intro4 id="192" n="Entonces no tenemos otra opción. Tenemos que esconderlos." /> 
+		 <intro4 id="193" n="Hace cientos de años..." />
+		 <intro4 id="194" n="Me encontré con uno de los restos de los nigromantes!" />   	 		
+		 <goldengolemh id="195" n="He encontrado un libro! Dex necesita esencia de piedra para sus experimentos." /> 
+		 <needLibraryKey id="196" n="Necesito la runa de teletransporte a la biblioteca." />
+		 <wakeupgar id="197" n="Qué!! Deja de jugarme una mala pasada! Déjame solo!" /> 
+		 <joiningthemages id="198" n="He decidido unirme al gremio de los magos." /> 
+		 <joinedthemages id="199" n="Ahora soy un miembro del gremio de los magos!" />
+		 <joiningthewarrs id="200" n="He decidido unirme al gremio de los guerreros." />  
+		 <joinedthewarrs id="201" n="Ahora soy un miembro del gremio de los guerreros!" />
+		 <joinedthewarrs id="202" n="Espera! Me has engañado!" />   
+		 <riderdefeated id="203" n="Para! Tu ganas! Tu ganas!" />  
+		 <needfreespace id="204" n="Necesitas espacio libre!" />
+		 <morvenwonttele id="205" n="No creo que aparezca." />
+		 <joiningthethieves id="206" n="He decidido unirme al gremio de ladrones." /> 
+		 <joinedthethieves id="207" n="Ahora soy un miembro del gremio de ladrones!" />
+		 <tooclosetoerdal id="208" n="Max me dijo que no usara la runa cerca de Erdal." />
+		 <necremainsloc id="209" n="Ahora se donde Triston ocultó los restos de los nigromantes del bosque oscuro!" />
+		 <garettwake id="210" n="Qué!! Qué ha pasado! Hip.. No recuerdo nada! Hip." />	
+		 <labirinth id="211" n="Laberinto" />
+		 <topoftower id="212" n="Parte superior de la torre" />
+		 <crystalcave id="213" n="Cueva de cristal" />
+		 <excavation id="214" n="Excavación" />	
+		 <undcity id="215" n="Ciudad subterránea" />
+		 <cotw id="216" n="Cueva de los Wisps" />
+		 <bearcave id="217" n="Guarida de osos" />
+		 <wolfcave id="218" n="Cueva de lobos" />
+		 <stonegc id="219" n="Cueva de los golem de piedra" />
+		 <larvaec id="220" n="Cueva larva" />
+		 <spiderc id="221" n="Cueva araña" />
+		 <icansenseyou id="222" n="Puedo percibirlo!" />	
+		 <iwillfindyou id="223" n="Te encontraré!" />	
+		 <additilp id="224" n="+1 punto aprendizaje" />
+		 <elizawispfarm id="225" n="Debería liberar el wisp en la granja de Eliza." />	
+		 <nottamableroberta id="226" n="No es un animal amistoso! No puedo domesticarlo para Roberta!" />	
+		 <robertaclose id="227" n="Debería liberar la mascota de Roberta cerca de su casa!" />
+		 <nwbalrum id="228" n="Noroeste Balrum" />	
+		 <neastbalrum id="229" n="Noreste Balrum" />
+		 <swbalrum id="230" n="Suroeste Balrum" />
+		 <sebalrum id="231" n="Sureste Balrum" />
+		 <cisland id="232" n="Isla cocodrilo" />
+		 <searingd id="233" n="Desierto abrasador" />
+		 <forgplains id="234" n="Llanuras olvidadas" />
+		 <royalcrypts id="235" n="Royal Crypts" />
+		 <lwcrypts id="236" n="Criptas inferiores" />	
+		 <kingcrypts id="237" n="Criptas reyes" />
+		 <bplains id="238" n="Llanuras de Balrum" />
+		 <opastures id="239" n="Viejos pastos" />
+		 <mistypla id="240" n="Pinos brumosos" />
+		 <cata id="241" n="Catacumbas antiguas" />
+		 <beforered id="242" n="Debería ir a las royal crypts antes de entrar en esta cripta de aquí." />
+		 <wg1cs id="243" n="Hemos destruido los restos!" />
+		 <kotv1cs id="244" n="Y ahora está débil. %n%Estaba esperando un momento como este! %n%Me mataste! %n%Tendré mi venganza!" />
+		 <necromancerslast id="245" n="Qué le has hecho a mis maestros! %n%Yo soy el anfitrion de Nasrus! %n%No me puedes detener! %n%Voy a combertirme en un dios!" />
+		 <grandcs1 id="246" n="Abres los ojos y ves al abuelo. %n%El está mirando hacia abajo con lágrimas en los ojos. %n%Apenas puedes oír lo que está diciendo." />
+		 <grandcs2 id="247" n="Mi hijo! Has derrotado a los nigromantes. Nasrus no tiene al demonio que convocó para ella. %n%Hablé con el guardián blanco. Todo estará bien. Nos has salvado! %n%Nos has salvado a todos nosotros! Por favor, descansa ahora, has pasado por mucho. %n%Yo estaré aquí a tu lado, mi rey." />
+		 <endcs1 id="248" n="Quién eres tu?" />
+		 <endcs2 id="249" n="Soy tu padre, hijo." />
+		 <endcs3 id="250" n="Esto es solo otro sueño." />
+	     <endcs4 id="251" n="Si, lo es. He intentado ponerme en contacto contigo en tus sueños, pero fallé. Pero al fin lo he conseguido. %n%Yo te estaba causando esas extrañas pesadillas. Lo siento por eso, mi chico." />
+		 <endcs5 id="252" n="Por qué? Como?" />
+		 <endcs6 id="253" n="Has hecho bien mi chico. Yo queria decirte que hacer, pero te las has arreglado tu solo. %n% Estoy muy orgullose de ti, mi chico! Pero todavía tienes un largo camino por recorrer." />
+		 <endcs7 id="254" n="Tu reino te necesita. %n%Es necesario que recuperes el trono que es legítimamente tuyo." />
+		 <darkdung id="255" n="Una pesada oscuridad me rodea. %n%Parece que mi antorcha no funciona aquí. %n%Tengo que encontrar una manera de salir de esta oscuridad." />
+		 <gbjilian id="256" n="Vi un oso gigante en el bosque. Debo decirselo a Jilian." />
+		 <warrorerr id="257" n="Orientación de la pared inadecuada!" />
+		 <nospacewall id="258" n="No hay espacio en la pared!" />
+		 <notawall id="259" n="No es una pared!" />
+		 <erdal id="260" n="Erdal" /> 
+		 <cannotgotherestrange id="261" n="Tengo la sensación de que no debería ir ahí." /> 
+		 <mypetwont id="262" n="Mi mascota no quiere ir ahí!" /> 
+		 <co id="263" n="Capítulo 2" />
+		 <ct id="264" n="Capítulo 3" />
+		 <cth id="265" n="Capítulo 4" />
+		 <chf id="266" n="Capítulo 5" />
+		 <con id="267" n="Capítulo 1" />
+		 <sensestr id="268" n="Tengo la sensación de un poder extraño aquí." />   
+		 <newturnnott id="269" n="Nuevo turno no desencadenado!" />   
+		 <cheatdeath id="270" n="Engañar a la muerte" /> 
+		 <footsteps id="271" n="Oigo pasos haciendo eco aquí." />
+		 <learneddalantium id="272" n="Aprendí como fundir dalantium de Lew. %n%Solo el calor de la madera de pino perfecta puede fundirlo." />    
+		 <ancientlinen id="273" n="Aprendí a utilizar el lino antiguo para fabricar ropa." />
+		 <prism id="274" n="El aire es pesado aquí. Puedo oír las ratas por mis alrededores." />
+		 <crystal id="275" n="Fuertes pasos hacen eco en las paredes húmedas de esta cueva. %n%Hay grandes criaturas que viven aquí, estoy seguro." />
+		 <larva id="276" n="Se esta sorprendentemente caliente aquí abajo. %n%El aire se llena con la fragancia de los helechos del bosque." />
+		 <spider id="277" n="Muchos pasos rápidos y suaves hacen eco en esta cueva. %n%El suelo esta cubierto de un material pegagoso." />
+		 <bodyhalf id="278" n="Puedo oír gemidos en la distacia." />
+		 <dyna id="279" n="Hay una gran cantidad de pequeños insectos aquí. %n%Hacen un zumbido constante." />
+		 <expo id="280" n="Mientras subo, el aire se vuelve más y más frío. %n%El aire húmedo hace que tenga la sensación de más frío." />
+		 <lightsop id="281" n="El aire se llena con el olor a ceniza y el viejo cabrón húmedo." />
+		 <desert id="282" n="El aire es extremadamente seco aquí. %n%Las arenas interminables vibran al calor del sol. El hirizonte está lleno de espejismos." />
+		 <undead id="283" n="Los vientos son fuertes aquí. %n%Los árboles muertos no pueden amortiguar la fuerza. Hay un viejo olor ácido en el aire." />
+		 <islands id="284" n="El aire se llena con el aroma salado del océano. %n%Puedo ver cangrejos gigantes que se arrastran fuera del agua en la distancia." />
+		 <lower id="285" n="Apenas puedo respirar aquí, el aire es viejo. %n%Hay una gruesa capa de hongos en las paredes que emiten un olor desagradable eso hace aun más difícil la respiración." />
+		 <poisongas id="286" n="El aire se llena con gas venenoso aquí. %n%No me puedo quedar aquí por mucho tiempo." />
+		 <cataco id="287" n="Se está muy caliente y húmedo aquí. %n%El aire se parece al olor de ropa vieja pudriendose." />
+		 <nasry id="288" n="El ruido de pasos fuertes hacen eco en las paredes. %n%Puedo oler la sangre y la carne en descomposición en el aire. El aire caliente hace que el olor sea aun más fuerte." />
+		 <continuethegame id="289" n="Felicitaciones! Has completado la historia principal! Puedes seguir jugando y hacer todas las misiones secundarias sin terminar." />
+		 <desertmap id="290" n="No hay ningún mapa de los desiertos." />
+		 <cannotharvest id="291" n="No se puede cosechar aún." />
+		 <neededskilllevel id="292" n="Mi nivel de habilidad es demasiado bajo!" />
+</floating_texts>

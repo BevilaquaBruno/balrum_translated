@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I have earned the trust of Rod, Dex and Fay."/>
+    <dia npc="0" str="Have you? I've heard that you helped Fay and you also did Dex a huge favor. He was overjoyed. Something to do with his golems. But I haven't heard from anyone else."/>
+    <dia pl="1" str="I also helped Rod. He had an unusual task but I did it."/>
+    <dia npc="1" str="Ahh Rod. He doesn't like novices. I'm not surprised he didn't say anything. Well then. That makes three. You did well. From now on you are a member of the mages' guild! You have full access to the tower. I will tell the other members about your success. You were looking for answers from us when we first met. You will find what you are looking for in the old library. Take this rune. It will take you there. Every important event of the guild has been thoroughly documented. The books of our library possess great knowledge. Don't forget to put them back. And don't forget to talk to the others. From now on they will trade with you and teach you."/>
+    <dia pl="2" str="Thank you, Van!" jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

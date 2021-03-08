@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I stole your brother's research papers."/>
+    <dia npc="0" str="You did? I would give everything to see his face when he realises that all of his work is gone. Thank Nasrus for this day! I never thought I would have peace in my life once again. Thank you. Here take this. You earned it."/>
+	<dia pl="1" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Ha ocurrido algo?"/>
+    <dia npc="0" str="No te lo vas a creer! Durante años no ha pasado nada y ahora de repente he tenido que salir de la torre por que una bestia se acerco demasiado. Mi corazón latía con fuerza, pero logre matar a la bestia. Fue muy excitante!"/>
+	<dia pl="1" str="Bien por ti Pell." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

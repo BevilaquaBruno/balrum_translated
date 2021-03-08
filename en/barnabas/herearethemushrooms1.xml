@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Here are all of the mushrooms that Leonard needs."/>
+    <dia npc="0" str="Good work, my boy. I see you found the right mushrooms. Now go and take them to Leonard."/>
+	<dia pl="1" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

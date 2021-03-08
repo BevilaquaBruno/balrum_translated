@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I think I've found Diego's brown bear."/>
+    <dia npc="0" str="Have you? I don't want to know. I'm not a cheat. He found the bear, he should be the one who slays it."/>
+    <dia pl="1_0" str="I thought you wanted to win this time?"  jumpNPCd= "2" jumpPlayerd = '3'/>
+    <dia pl="1_1" str="I understand. I wish you luck with the challenge."/>
+    <dia npc="1" str="Thank you."/>
+    <dia pl="2" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia npc="2" str="I have honor, you know. Now please leave, I have things to do."/>
+	<dia pl="3" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

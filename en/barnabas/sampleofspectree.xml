@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I'm looking for work. Do you need anything?"/>
+    <dia npc="0" str="The other day I saw a tree that was different from all of the trees I've ever seen in my whole life. It was almost like silver. The whole tree was sparkling. Can you fetch me a sample of it's bark?"/>
+    <dia pl="10" str="Sure! Where can I find this tree Barnabas?" jumpNPCd= "1" jumpPlayerd = '2'/>
+    <dia pl="11" str="What's in it for me Barnabas?" jumpNPCd= "2" jumpPlayerd = '2'/>
+    <dia npc="1" str="Go straight south from my house. You can't miss it."/>
+    <dia npc="2" str="It's for all of us. My experiments will extend our lives by many years. This place is filled with life energy. But if you really want something, I can give you one of my potions."/>
+	<dia pl="2" str="I'm on my way." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

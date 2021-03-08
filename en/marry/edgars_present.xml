@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="How are you today?"/>
+    <dia npc="0" str="I'm fine thank you."/>
+   <dia pl="1" str="Do you need anything? I'm looking for work."/>
+   <dia npc="1" str="As a matter of fact yes, I do need help. A few days and we will be celebrating my husband's birthday. Edgar collects everything, but his passion for art is the strongest of all. Every year he surprises me with something great. This year I want to get him something fabulous! He loves statues and has always complained that he doesn't have a statue of an animal yet. Could you find me a statue of an animal?"/>
+   <dia pl="2" str="If I find a statue I'll tell you about it."/>
+   <dia npc="2" str="Thank you! He would be so happy."/>
+   <dia pl="3" str="End." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

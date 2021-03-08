@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Como están las cosas, padre?"/>
+    <dia npc="0" str="Hace un buen día, no crees, querido hijo. No he visto tu cara antes. Te doy la bienvenida a mi iglesia."/>
+    <dia pl="1" str="Estoy buscando trabajo."/>
+    <dia npc="1" str="Me podrías ayudar en algo. Sospecho que se trata de un caso muy sensible. Puedo confiar en ti con este asunto?"/>
+    <dia pl="2" str="Lo manejaré con delicadeza, padre. Puede confiar en mí."/>
+    <dia npc="2" str="Últimamente he estado escuchando... bien... ruidos. Como puedo decirte esto hijo. Ruidos... Ruidos de placer, supongo. Ruidos de gran placer."/>
+    <dia pl="3" str="Lo siento padre no te entiendo. Puedes ser mas específico?"/>
+    <dia npc="3" str="Ya sabes que cuando un hombre y una mujer..."/>
+    <dia pl="4" str="Ahora entiendo padre."/>
+    <dia npc="4" str="Este tipo de actividad esta prohibida entre nuestros miembros. Lo que empeora las cosas es que tengo la sospecha de que son las mujeres las que participan... ya sabes... trabajando."/>
+	<dia pl="5" str="Qué puedo hacer por ti, padre?"/>
+    <dia npc="5" str="Lo tengo todo planeado. Escúchame atentamente. Diles a mis hermanos que has oído rumores sobre los recién nacidos sin padre. Y les dices que estas muy asustado por que has estado en un burdel un par de veces, uno de los niños podría ser tuyo. Pregúntales qué hacer. Creo que los asustara lo suficiente. Qué piensas?"/>
+    <dia pl="6" str="Parece un buen plan, padre."/>
+    <dia npc="6" str="Ahora no hables con las chicas. Simplemente céntrate en explicarles la historia a mis hermanos, de acuerdo?"/>
+	<dia pl="7" str="Qué obtendré a cambio?"/>
+    <dia npc="7" str="Te enseñare lo que he aprendido a lo largo de los años. Conozco un buen numero de hechizos, ya sabes. Qué me dices?"/>
+    <dia pl="8" str="Iré hablar con ellos, padre."/>
+    <dia npc="8" str="Gracias, mi hijo. Ahora ves."/>
+	<dia pl="9" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

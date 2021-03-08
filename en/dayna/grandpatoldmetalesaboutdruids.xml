@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I figured it out! Grandpa told me tales about druids who could speak to animals. You are a druid!"/>
+    <dia npc="0" str="You can call me that. But please don't tell anyone. Let's keep this our secret."/>
+	<dia pl="1" str="So, can you talk to animals?"/>
+	<dia npc="1" str="Yes. Or to be more precise I was able to talk to them."/>
+	<dia pl="2" str="What happened?"/>
+	<dia npc="2" str="This place happened. Each day this place weakens my abilities. A few years ago I could talk to any creature and that way I could help them. But now I don't understand them and they don't understand me. Darkwood is evil. These woods resonate life energy and death at the same time. Today all my powers are gone."/>
+	<dia pl="3" str="I'm sad to hear that. Is there any way I can help you regain your powers?"/>
+	<dia npc="3" str="It's very kind of you, but the only way is if I leave this place, and you know that none of us can. "/>
+	<dia pl="4" str="Yes, I know." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

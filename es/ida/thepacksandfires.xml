@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Sabes algo sobre los Pack y los incendios Ida?"/>
+    <dia npc="0" str="Si mi querido chico. Es terrible. La familia Pack a desaparecido. No me lo puedo creer. Cómo a podido ocurrir algo así?"/>
+    <dia pl="1" str="No lo sé Ida. Esperemos que los encuentren pronto. No has visto u oído algo extraño?"/>
+    <dia npc="1" str="Que yo recuerde no. Pobre pequeña Audie. La he visto crecer y ahora esta perdida."/>
+	<dia pl="2" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

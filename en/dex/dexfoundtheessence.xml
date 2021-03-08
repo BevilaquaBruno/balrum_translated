@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I found a stone essence!"/>
+    <dia npc="0" str="Good job! I can continue my experiments."/>
+    <dia pl="1" str="What are you expecting to find out?"/>
+    <dia npc="1" str="A long time ago there was a member of our guild who learned how to control the golems. I think that if I ressurect a golem the creature will accept me as it's master. I will tell Van that you were really helpful. The guild needs more members like you."/>
+	<dia pl="2" str="Thank you Dex. Good luck with your experiments." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

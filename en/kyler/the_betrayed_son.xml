@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Spike told me you took in his sister's son."/>
+    <dia npc="0" str="Indeed. We took in the child many years ago. We decided that he should be raised by Father Hain."/>
+    <dia pl="1" str="What name did father Hain give the child?"/>
+    <dia npc="1" str="He named the child Clay. He is a grown man now. "/>
+    <dia pl="2" str="Where does Clay live?"/>
+    <dia npc="2" str="For a long time Clay lived with father Hain. But when he was old enough he left the village. He was very eager to leave. I don't know where he is now. Father Hain ought to know. Ask him."/>
+    <dia pl="3" str="I will. Who is Clay's father?"/>
+    <dia npc="3" str="All I know is that he lives near the swamp."/>
+    <dia pl="4" str="End." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

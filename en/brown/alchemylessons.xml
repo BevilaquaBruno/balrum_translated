@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I'm here for my lessons Brown."/>
+    <dia npc="0" str="Good, good, my dear boy. Now that you know a few recipes by heart, you should try and make some by yourself. Go and find all the ingredients for a Minor Healing Potion. You only need a few grown Life Plants and a Simple Bottle. You can find the plants everywhere in the woods, they are large plants with bulky dark green leaves."/>
+    <dia pl="1" str="I know, Brown. I will be back with the potions."/>
+    <dia npc="1" str="Feel free to use my alchemy table. If Sam starts to mumble, simply ignore him. He's been up for more than a hundred days."/>
+    <dia pl="2" str="I hope I won't make a mess like I did last time."/>
+    <dia npc="2" str="Practice makes perfect, boy."/>
+    <dia pl="3" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

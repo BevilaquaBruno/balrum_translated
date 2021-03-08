@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="What happened with Cory?"/>
+    <dia npc="0" str="He was a rebel spy! He attacked us! It had to be done."/>
+    <dia pl="1" str="We need to be really careful. If the rebels find out that there is a capable smith working again who might forge weapons they would search the whole city for us."/>
+    <dia npc="1" str="You are right. We need to stay low."/>
+    <dia pl="2" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

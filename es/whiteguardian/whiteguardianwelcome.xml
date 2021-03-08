@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="He venido aquí a buscar los restos del nigromante del bosque oscuro."/>
+    <dia npc="0" str="Por qué el rey busca los restos?"/>
+    <dia pl="1" str="No soy el rey. Tengo que encontrar a los cuatro nigromantes. Si no lo consigo mi gente morirá."/>
+    <dia npc="1" str="Tus antepasados hablaban de los restos, majestad. Triston me encargo una misión. Solo puedo permitir que sus descendientes entren a las cámaras secretas de la cripta. Ahora te pido... Es necesario adentrarte en las cámaras secretas?"/>
+    <dia pl="2" str="Tengo que hacerlo, mi gente me necesita."/>
+    <dia npc="2" str="Seras un buen rey. El cuidado de tu pueblo y tu reino se levantarán. El pasó esta abierto. Solo tu puedes entrar en las cámaras. Tu tiempo se esta acercando rápidamente, mi rey."/>
+	<dia pl="3" str="Voy a empezar mi camino."/>
+    <dia npc="3" str="Una cosa más majestad. No puedo permitir que perturbes las cámaras reales. Si profanáis a vuestros antepasados no importará que tengáis la sangre de reyes corriendo por vuestras venas."/>
+	<dia pl="4" str="Entiendo, dragón." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

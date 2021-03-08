@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="He vuelto de la torre del nigromante."/>
+    <dia npc="0" str="El chico modesto esta de vuelta! Sabía que serías capaz de hacerlo! Estaba convencido que lo harías. Cuando empezaste el entrenamiento ya sospeche que tenias un gran potencial."/>
+	<dia pl="1" str="Gracias por tus amables palabras, Leonard. Encontré algunos de los hombre que intentaron explorar la torre. Todos están muertos. Me abrí paso a través de los fantasmas y esqueletos y pase el laberinto."/>
+    <dia npc="1" str="Interesante. Has podido llegar al último piso?"/>
+    <dia pl="2" str="Fue difícil, pero me las arregle para llegar al tercer piso. Todo el tercer piso es una habitación. La habitación del señor Benedict. Luché contra el y me encontré una carta."/>
+    <dia npc="2" str="Una carta?"/>
+    <dia pl="3" str="La carta tiene el mismo tipo de escritura que la tabla de piedra. La puedes traducir?"/>
+    <dia npc="3" str="Pues claro. Encontré algo de ayuda en mis libros y ahora puedo traducirlo un poco mas rápido."/>
+    <dia pl="4" str="Aquí está la carta."/>
+    <dia npc="4" str="La carta dice: Arlo sera la mejor opción para nuestros planes. El no es religioso como Kyler, no nos tomara en serio. Arlo aceptará nuestras condiciones sin dudarlo. Tenemos que ser pacientes, hermanos. El quinto nigromante.'"/>
+    <dia pl="5" str="Arlo hablo con los nigromantes?"/>
+    <dia npc="5" str="Eso parece, hijo. No sé que hacer."/>
+    <dia pl="6" str="Tengo que ir a ver a Arlo ahora!"/>
+    <dia npc="6" str="Tengo curiosidad por lo que dirá. Parece que algo paso entre los nigromantes y Arlo cuando lleguemos a los bosques. No puedo entender que es. Están los nigromantes todavía en los bosques? Fueron sacrificados por los reyes hace mucho tiempo."/>
+    <dia pl="7" str="Los nigromantes fueron sacrificados?"/>
+    <dia npc="7" str="La gente le llama el bosque oscuro por esa razón. Ocurrieron cosas oscuras y malignas aquí hace mucho tiempo. Este lugar era utilizado por brujas y nigromantes, en el pasado realizaban sus rituales sangrientos para invocar a criaturas en nombre de Nasrus. Como nadie se atrevía a enfrentarse a ellos, estos rituales fueron tolerados durante cientos de años. Cuando los niños empezaron a desaparecer de las aldeas cercanas al bosque el rey Triston reunió a los más valientes y fuertes y los envió a los bosques. Los sacrificavan a todos sin piedad, sin juzgarlos y sin saber si son inocentes. Hubo una última mujer que sostenia los cuerpos sin vida de varios niños en sus brazos. Las leyendas dicen, que cuando la mataron su grito se escucho por todo Balrum."/>
+    <dia pl="8" str="Entonces vivimos en un bosque donde sacrificaron y asesinaron a personas en masa?"/>
+    <dia npc="8" str="Probablemente podríamos decir que en todas partes, hijo, Pero tienes razón. Este lugar no es un lugar sagrado, y esto es lo que tenemos para protegernos."/>
+    <dia pl="9" str="Por que no lo sabia todo esto? Nadie me hablo de los asesinatos ni de los nigromantes."/>
+    <dia npc="9" str="Para protegerte, hijo. Solo unos pocos sabemos realmente lo que sucedió aquí y los otros, simplemente piensan que el bosque es peligroso y que la magia oscura se esconde por ahí."/>  
+    <dia pl="10" str="Creo que sé lo suficiente. Voy a ir hablar con Arlo."/>
+    <dia npc="10" str="Lo siento, mi chico, No era mi intención que averiguaras la verdad de esta manera. Ten cuidado con Arlo, puede llegar a ser un poco tortuoso."/>
+	<dia pl="11" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

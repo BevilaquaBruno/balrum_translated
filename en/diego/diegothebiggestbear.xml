@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I have heard that you found a giant brown bear."/>
+    <dia npc="0" str="Greetings, little one. Indeed, I have found the largest bear in history. I'm going to win the hunters' challenge, I'm sure of it. I won the last challenge and if I win this too that would be a new record."/>
+    <dia pl="1" str="Where is the bear's lair?"/>
+    <dia npc="1" str="Ha! Nice try! Did Jilian send you? Tell her that I would never let her know where that bear is."/>
+    <dia pl="2" str="I'm only curious."/>
+    <dia npc="2" str="Well don't be. That bear is mine. Now, if you excuse me I need to prepare for the mighty beast."/>
+	<dia pl="3" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

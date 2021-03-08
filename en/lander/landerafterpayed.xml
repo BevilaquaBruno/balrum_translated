@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="You have a familiar looking armor. I saw armor like that somewhere."/>
+    <dia npc="0" str="I'm one of the bear hunters. Where did you see similar armor?"/>
+    <dia pl="1" str="I...(I should not tell him about Fox) I saw it many years ago on a traveler. I don't know his name."/>
+    <dia npc="1" str="Might have been one of us. Our clan dissolved a long time ago. Once we were proud hunters of the lands. We even protected the villages from all kinds of creatures like bears and golems. People loved us. Women loved us. Ha ha!"/>
+    <dia pl="2" str="What are you doing now?"/>
+    <dia npc="2" str="Nothing, as you see. The rebels keep things in order, if you can call their ways order. I spend most of my time down here with the lads. My hunting days are long gone."/>
+	<dia pl="3" str="Can you teach me?"/>
+    <dia npc="3" str="That I can do. What would you like to know?"/>
+	<dia pl="4" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

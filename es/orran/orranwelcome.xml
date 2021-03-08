@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Por qué vives aquí?"/>
+    <dia npc="0" str="Bienvenido joven. Me llamo Orran. No he visto una sola alma desde hace años. En qué te puedo ayudar? Y para responder a tu pregunta buscaba paz. El desierto mantiene a los rebeldes lejos."/>
+    <dia pl="1" str="Qué haces aquí?"/>
+    <dia npc="1" str="No mucho. Yo solía ser marinero. Bueno, si lo pienso, todavía soy un marinero. Quieres dejar Balrum? Es por eso que has venido a buscarme?"/>
+    <dia pl="2" str="Donde puedes llevarme?"/>
+    <dia npc="2" str="No puedo hacer viajes muy largos. Ya estoy viejo. Pero puedo navegar hasta la isla más cercana si lo deseas. Isla cocodrilo es el nombre del lugar. Debo decir que es un nombre apropiado."/>
+	<dia pl="3" str="Naveguemos hacia ahí Orran."/>
+	<dia npc="3" str="No tan rápido joven aventurero! Te tendré que pedir algún tipo de compensación. A mi edad, incluso un viaje corto puede ser muy peligroso. Voy a necesitar dos mil thalers tuyos chico, ni más ni menos."/>
+	<dia pl="4" str="Voy a pensar en ello." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

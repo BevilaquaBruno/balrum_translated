@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="El adorno que tuve que robar era inútil?"/>
+    <dia npc="0" str="Si lo era. Fue solo una prueba. Es el hipócrita más grande que he visto en está tierra."/>
+	<dia pl="1" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

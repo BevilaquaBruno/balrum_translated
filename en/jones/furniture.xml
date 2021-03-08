@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Our home almost burnt down. Grandpa is fine, but I need to repair the damage to the house. I'll need to create a small cupboard because the one we had burnt to ashes."/>
+    <dia npc="0" str="How could that happen? Two houses in the village caught fire on the same day. Your old man is a tough one. He can handle a little fire. You know how to build a cupboard. I've already taught you. You can buy wood from me, but we live in a forest so you can chop down a few trees and that's free. Please don't tell Selina I told you to chop down trees instead of buying them from me."/>
+    <dia pl="1" str="Thank you Jones. I won't tell Selina. When can we continue our lessons?"/>
+    <dia npc="1" str="Anytime boy! You are a good student. Next time I'll show you how to build sturdy chairs and tables."/>
+	<dia pl="2" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

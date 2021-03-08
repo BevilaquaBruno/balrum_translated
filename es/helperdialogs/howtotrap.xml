@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Me puedes decir como utilizar trampas?"/>
+    <dia npc="0" str="Para qué necesitas trampas niño? De todos modos escucha con atención."/>
+    <dia pl="1" str="..."/>
+    <dia npc="1" str="La creación de una trampa es fácil. Solo tienes que coger la trampa y colocarla en el suelo, fácil por ahora? El desarme de una trampa es otra cosa. A veces, incluso yo fallo desarmando trampas. Así que si tienes que desarmar una, hazlo cuando haya una muy buena razón para hacerlo!"/>
+	<dia pl="2" str="Gracias." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

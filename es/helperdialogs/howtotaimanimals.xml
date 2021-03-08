@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Cuéntame como domesticar animales."/>
+    <dia npc="0" str="Otra vez chico? Bien, pero presta mucha atención esta vez!"/>
+    <dia pl="1" str="Gracias! Lo haré!"/>
+    <dia npc="1" str="Lo primero es lo primero. Tienes que tener un par de trampas de domesticación. Sin esas trampas especiales no tienes ninguna oportunidad de domesticar a un animal salvaje. Entonces coloca una trampa en el suelo y atrae a los animales hacia ella. Es bastante simple en realidad. Una vez atrapes a una presa tendrás que luchar y despues de un tiempo ya te verán como su nuevo líder. Pero...esto podría no suceder en absoluto. Entonces tendrás que empezar de nuevo. La poción de domesticación es muy potente, pero a veces no es suficiente."/>
+    <dia pl="2" str="..."/>
+    <dia npc="2" str="Ahora no vayas a intentar domesticar un golem niño! No te acerques a las presas que son más poderosas que tu, no serás capaz de domarlas! No sobreestimes tus habilidades!"/>
+	<dia pl="3" str="No lo haré, gracias." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

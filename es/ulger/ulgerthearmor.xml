@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Estoy aquí por la armadura, Ulger."/>
+    <dia npc="0" str="No es tan buena como yo quería que fuera. Tantos años sin un martillo en mis manos lo demuestran. Necesito tiempo para recuperar mi talento. Toma, espero que encuentres mi armadura digna de su tiempo."/>
+	<dia pl="1" str="Gracias, Ulger." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

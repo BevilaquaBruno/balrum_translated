@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Como están las cosas por aquí?"/>
+    <dia npc="0" str="Bienvenido, joven. Mi nombre es Artie. A ido mejor, chico, a ido mejor."/>
+    <dia pl="1" str="Los rebeldes hos hacen la vida más dura verdad?"/>
+    <dia npc="1" str="Si así es. Si soy honesto no me puedo quejar por que no me necesitan para nada. Soy demasiado viejo. Los más jóvenes no son tan afortunados. Cada vez que necesitan algo lo tienen que trabajar ellos mismos - sin sueldo, por supuesto."/>
+    <dia pl="2" str="Me puedes explicar como era antes todo sin los rebeldes?"/>
+    <dia npc="2" str="Aquello eran otros días, la gente vivía en armonía. El rey Edward era un buen rey, se mantenía todo en equilibrio. Había un montón de comida para todos. Había festivales anuales donde todo el mundo era invitado sin importar su rango. Por supuesto que había una diferencia muy clara entre nobles y plebeyos, pero así es como funciona la vida, muchacho. El rey Edward mantenía a los no-muertos en la bahía y daba una oportunidad justa a todos los jóvenes para convertirse en caballero. Cuando era joven soñaba con ser un caballero. Esos días están muy lejos, muchacho."/>
+	<dia pl="3" str="Gracias." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

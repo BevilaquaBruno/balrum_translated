@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Es está la carta que buscabas?"/>
+    <dia npc="0" str="Podría ser? 'Lona le écha un vistazo a la letra y sonríe.' Es está! Como la encontraste? Muchas gracias. 'Lona rompe a llorar pero puedo ver que son lágrimas de alegría.' He perdido todo lo que amaba. Has traído un pedazo de el a mí. Gracias."/>
+	<dia pl="1" str="De nada Lona." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

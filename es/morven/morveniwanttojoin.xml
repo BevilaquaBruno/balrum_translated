@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Robé el adorno, Morven."/>
+    <dia npc="0" str="Yo sabia que eras uno de los nuestros. Ahora puedo hablar libremente. Soy un miembro del gremio de ladrones. Tu tienes lo que se necesita para ser miembro. Tu corazón esta en el lugar correcto y no te importa robarle a los ricos. Aquí, toma este teletransporte. Te llevara a nuestra base. Habla con Gail. Ella te ayudará en tu búsqueda. Una cosa más. No hables de los niños. Eres el único que sabe su escondite. Si la alianza se entera que están estos niños aquí, los vendrían a entrenar para ser posibles ladrones."/>
+	<dia pl="1" str="Tu secreto esta seguro conmigo, Morven. Gracias." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

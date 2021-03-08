@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Busco trabajo. Necesitas algo de ayuda?"/>
+    <dia npc="0" str="Puede que tenga algo para ti."/>
+    <dia pl="1" str="Qué tienes para mí?"/>
+    <dia npc="1" str="La leche que tengo de Bardan está mala. Esto a estado sucediendo hace días. Podrías llegar al fondo de todo esto? Le exijo un reembolso! Me debe 50 thalers! Si lo haces te daré la mitad del dinero. Norsa y Zane también recibieron leche agria. Esto es indignante. En estos tiempos todos los thaler cuentan; Los rebeldes no nos permiten tener una fortuna. Si alguien tiene una pequeña fortuna, los rebeldes vienen y se lo llevan todo. La granja de Bardan esta aquí arriba, hacia el norte chico."/>
+    <dia pl="2" str="Veré lo que puedo hacer. Cuídate." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

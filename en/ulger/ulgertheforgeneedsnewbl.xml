@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="What are you doing here?"/>
+    <dia npc="0" str="Who are you? What do you want? I'm not what you think I am!"/>
+    <dia pl="1" str="Calm down. What are you talking about?"/>
+    <dia npc="1" str="Thank Adacus. You are not one of them. I come from a distant land. The rebels don't like outsiders. They slaughtered my kind."/>
+    <dia pl="2" str="I'm sorry to hear that. The rebels are one of the worst things to happen to Balrum. What are you doing here?"/>
+    <dia npc="2" str="As you already know, I'm hiding from the rebels. When I came to Balrum I had high hopes. I wanted to join the famous blacksmiths of Erdal. Their knowledge of the metals and my foreign techniques would have produced some fine armors. Now I can only dream about sculpting the glowing metal."/>
+	<dia pl="3" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

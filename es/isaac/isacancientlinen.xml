@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Su hijo me dijo que tenia que hablar con usted si quería saber más acerca de como hacer ropas."/>
+    <dia npc="0" str="El estaba en lo correcto. Por desgracia, el no tiene la pasión que yo tengo por este arte. Incluso le he dicho que hay magos que utilizan mi ropa, pero el solo lee sus libros. El ayuda, por supuesto. Pero puedo ver en sus ojos que esto no es para el. De todos modos, qué es lo que te interesa?"/>
+    <dia pl="1" str="Quiero saber más de las ropas que has realizado para los magos."/>
+    <dia npc="1" str="Veo que estas interesado en trajes mágicos. Tengo que decirte de inmediato que no te hagas muchas ilusiones. El gremio de los magos me exigió tantas túnicas de esas que me he quedado sin esas viejas piezas de lino. Realmente las poderosas ropas mágicas solo se pueden hacer con las piezas de lino antiguo."/>
+    <dia pl="2" str="Y si te traigo algunos?"/>
+    <dia npc="2" str="Ahh... Un aventurero. Me gusta tu estilo. Si me traes algunas piezas de lino antiguo, te puedo enseñar como hacer la ropa fuera de aquí. Pero claro, no lo voy hacer de forma gratuita. Digamos que si me traes 5 piezas de lino antiguo te enseñare como hacerlo."/>
+	<dia pl="3" str="De acuerdo! Volveré con esas piezas de lino." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

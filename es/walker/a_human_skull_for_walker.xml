@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+   <dia pl="0" str="Me he encontrado una cráneo humano."/>
+   <dia npc="0" str="Lo tienes. Estoy orgulloso de ti. Pero necesito una última cosa de ti antes de empezar ha enseñarte."/>
+   <dia pl="1" str="Solo dime que tengo que hacer y que necesito hacer."/>
+   <dia npc="1" str="No seas grosero, o podría cambiar de opinión. Encuentra la capa de un brujo. Puede estar en mal estado no importa."/>
+   <dia pl="2" str="Donde debería empezar a buscar? "/>
+   <dia npc="2" str="Hay criptas en todo el alrededor de esta área. Los nigromantes han usado ese lugar durante cientos de años, por lo que no es una sorpresa. Tienen que estar entre los muertos también. Creo que tu mejor oportunidad esta en una de estas criptas."/>
+   <dia pl="3" str="Fin." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I have found another document Neil!"/>
+    <dia npc="0" str="They..."/>
+    <dia pl="1" str="What does it say Neil?"/>
+    <dia npc="1" str="They sacrificed everyone. They didn't even spare the children. Why would they do that? This makes no sense. These people were pure evil. How could the ancient gods allow this to happen? Than again, Adacus let the bandits take over Balrum. They are doing the same as the necromancers. You might say they're doing even more foul things now that they are in charge."/>
+	<dia pl="2" str="We'll find out why they did this. If I find anything else I'll bring it to you." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

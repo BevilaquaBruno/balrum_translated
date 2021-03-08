@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="What is this place?"/>
+    <dia npc="0" str="Greetings, young man. My name is Norcross. I'm the custodian of the old monastery."/>
+    <dia pl="1" str="Can you tell me about the monastery?"/>
+    <dia npc="1" str="I certainly can. The monastery was built centuries ago to please the old gods. These walls were home for many monks of the realm. The life of a monk is a life of serenity. A life of giving and healing. Countless times the monks of this monastery helped the people of the realm. They were there to help at every turning point in Balrum's history."/>
+    <dia pl="2" str="Can you tell me more?"/>
+    <dia npc="2" str="My memories have faded, my son. Feel free to look in the library if you are looking for documents about the history of this great monastery."/>
+	<dia pl="3" str="Thank you father."/>
+    <dia npc="3" str="Don't mistake us for priests. We are not priests, my son."/>
+	<dia pl="4" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

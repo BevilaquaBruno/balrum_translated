@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Saludos!"/>
+    <dia npc="0" str="Buen día tengas, hijo. En qué puedo ayudarte?"/>
+    <dia pl="1" str="Tienes un lugar agradable aquí. Como le va el negocio?"/>
+    <dia npc="1" str="El negocio ha ido mejor. Los rebeldes no reparan nada y seguro que no construyen edificios nuevos. Es un desastre para la ciudad está gestión. Al menos los dioses están contentos, no cortamos tantos árboles como antes."/>
+    <dia pl="2" str="Eso hace felices a los dioses?"/>
+    <dia npc="2" str="Las leyendas dicen que uno de los antiguos dioses creo los bosques. Cuando la gente empezó a talar todo el creo a los wisp. No lo sabemos muchos de nosotros, pero los wisp pueden resucitar a los árboles. Los antiguos dioses son cosas del pasado, pero dicen que no están muertos. Creo que están descansando en el vacío."/>
+    <dia pl="3" str="El vacío?"/>
+    <dia npc="3" str="Es un lugar en el centro de todo. Por qué un dios muerto? Disparates! Vaya, estoy hablando como un loco. Debería estar trabajando con mi hacha aburrida y no pensar en los viejos dioses olvidados."/>
+	<dia pl="4" str="Cuídate." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Sabrina me dijo que tienes una cura para..."/>
+    <dia npc="0" str="Sabrina otra vez? Joven, debes tener más cuidado. Se lo que necesitas. Tráeme cuatro glándulas de escarabajo y estarás bien en poco tiempo. Ahora ves; No quiero oír hablar de las actividades de Sabrina. Yo sabía que no tendría que haberle dejado tanta libertad. Espero que te sirva de elección a ti. A veces los niños necesitan más atención."/>
+	<dia pl="1" str="Gracias, Roberta. Volveré cuando tenga las glándulas." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

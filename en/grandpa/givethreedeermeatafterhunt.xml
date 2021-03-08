@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Here's the meat I've collected, Grandpa. I was hoping for more, but this will be enough for us and I can still give some to Edmund and Winnie."/>
+    <dia npc="0" str="Thank you, son. Edmund and Winnie will be really happy. It's sad to see such good people in distress. Never forget to help people less fortunate than yourself, boy!"/>
+	<dia pl="1" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

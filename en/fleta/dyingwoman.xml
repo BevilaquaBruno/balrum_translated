@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Can I help you? You look awfully sick. Your eyes are deep yellow."/>
+    <dia npc="0" str="Dear child, don't worry. A horrible disease is eating me away from inside. I think I have only a few days left. I'm dying."/>
+    <dia pl="1" str="There has to be something I can do! I'll ask my alchemy teacher, Brown; he might know a potion that can save you. I'll be back." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

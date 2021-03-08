@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Qué haces aquí?"/>
+    <dia npc="0" str="Creamos carbón de la madera. Las personas calientan sus hogares con el. Nosotros también fundimos mineral aquí. Estas interesado?"/>
+    <dia pl="1" str="Estoy buscando una armadura decente. Podrías hacer una para mi?"/>
+    <dia npc="1" str="No puedo hacerte una armadura, no soy un herrero. Pero puedo hacer barras de hierro especiales para ti. La armadura más resistente que puedes hacer tiene que ser de dalantium. Si me traes el mineral de dalantium, lo fundire para ti por 500 thalers. Cuando tengas suficiente tendrás que buscar a un maestro herrero que pueda hacerte una armadura."/>
+	<dia pl="2" str="Si encuentro alguna, la traeré. Gracias." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

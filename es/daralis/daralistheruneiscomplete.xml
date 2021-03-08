@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Has podido terminar la runa de teletransporte, Daralis."/>
+    <dia npc="0" str="Esta acabada. Estoy seguro de que he ajustado la runa perfectamente. Lo ves, los grandes agujeros de la runa están llenos de energía. El nivel de energía determina donde será teletransportado el portador. He tenido que pedirle a la alianza una descripción precisa de la ubicación de la biblioteca de los magos. Por fortuna, algunos de nuestros miembros ya han entrado en la torre un par de veces. Te aconsejo que la utilices por la noche, cuando la mayoría de magos están dormidos. Buena suerte con tu misión, se una sombra."/>
+	<dia pl="1" str="Gracias." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

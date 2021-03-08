@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I'm back with your pet, Roberta!"/>
+    <dia npc="0" str="Oh joy! Show me the creature, boy. 'You show Roberta the creature you captured for her.'"/>
+    <dia pl="1" str="What do you think?"/>
+    <dia npc="1" str="I love it. Thank you so much! Come here little one... well not so little one. What should I call you? Hmm... You look like a Margaret. Roberta and Margaret; doesn't it sound good?"/>
+    <dia pl="2" str="It does, Roberta. Take good care of her."/>
+    <dia npc="2" str="I will, and thank you. You made a crazy old woman really happy."/>
+	<dia pl="3" str="Take care, Roberta."/>
+    <dia npc="3" str="Wait a minute. I have something for you. My husband's old sword. Here take it. You deserve it, young man."/>
+	<dia pl="4" str="Thank you, Roberta." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

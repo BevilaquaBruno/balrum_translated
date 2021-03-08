@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I'm a novice. I'm looking for work."/>
+    <dia npc="0" str="Good, good! I have to make this work! I have to bring this golem to life! You need to help me. What do I need?"/>
+    <dia pl="1" str="What do you need?"/>
+    <dia npc="1" str="Yes! Yes! That is the question! What do I need? How can one resurrect an old golem? I have no time to read all the books around here! You do it! Read the books in the library and find out how to resurrect golems! Here take this rune it will allow you to use the teleporter to the library."/>
+    <dia pl="2" str="I will be back." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

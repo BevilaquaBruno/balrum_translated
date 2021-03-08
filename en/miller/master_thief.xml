@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Who are you?"/>
+    <dia npc="0" str="How did you get past my traps?"/>
+    <dia pl="1" str="It wasn't that hard. The blood and bones kind of gave away the traps. As for the other ones, you just had to look really close where not to step."/>
+    <dia npc="1" str="Finally someone with brains. Well, on second thoughts, this simply means you have more intelligence than the wild animals that came near my home. My name is Miller. What do you want?"/>
+    <dia pl="2" str="Why do you have all those statues outside your house?"/>
+    <dia npc="2" str="For fun. I stole them for fun. I love playing tricks on the crazy village."/>
+    <dia pl="3" str="Crazy village?"/>
+    <dia npc="3" str="The village to the far east. They are religious fools. They think that the gods will always help us and praying to them is the best thing that we can do while we are alive. Fools, if you ask me. Did they forget why we are living in this place?"/>
+     <dia pl="4" str="Why do you have a problem with people who have faith?"/>
+     <dia npc="4" str="Because where religion is strong there has to be someone who preaches. And usually the man or woman who preaches is immensely rich. In my type of work we like rich people."/>
+     <dia pl="5" str="So, you are a thief?"/>
+     <dia npc="5" str="See, I knew you can use your brains. Yes I'm a thief."/>
+     <dia pl="6" str="Can you teach me anything?"/>
+     <dia npc="6" str="I could teach you how to create lock picks. If you do me a favour. Do you know that imbecile Rhys? He tells everyone that he is such a great burglar, but in reality he couldn't even steal candy from a child. The only reason he is more interesting than a simple cow is because of his parents. His parents were true legends amongst the thieves."/>
+     <dia pl="7" str="I know him. He lives in our village. I have been suspicious of him, since he's never worked a day in his life."/> 
+     <dia npc="7" str="He has a book that he brags about. The book supposedly is written by a great thief with lots of useful tricks in it. Steal that book from him and bring it back to me. If you do this I will teach you."/> 
+      <dia pl="8" str="Where is this book?"/>
+      <dia npc="9" str="He keeps it somewhere in his house. It shouldn't be that difficult to locate it."/>
+      <dia pl="9" str="I'll bring you that book." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

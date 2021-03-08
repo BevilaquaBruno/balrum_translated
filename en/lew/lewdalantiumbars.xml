@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Here are a few nuggets of dalantium."/>
+    <dia npc="0" str="This will need great heat. Only the finest pinewood can burn at high enough temperatures. Luckily we have a lot of it here. Wait a little and I'll be done."/>
+    <dia pl="1" str="..."/>
+    <dia npc="1" str="Here you go. Aren't they a thing of beauty? Bring me more and I will gladly make new bars for you."/>
+    <dia pl="2" str="Thank you." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

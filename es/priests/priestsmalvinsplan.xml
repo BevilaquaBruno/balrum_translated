@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Puedo hablar contigo, padre?"/>
+    <dia npc="0" str="Claro, hijo. Tu alma no esta tranquila?"/>
+    <dia pl="1_0" str="El padre Malvin sabe acerca de las chicas que has estado trayendo del burdel." jumpNPCd= "2" jumpPlayerd = '3'/>
+    <dia pl="1_1" str="Tengo que confesar padre. He estado en el burdel más de una vez y he escuchado rumores sobre los niños recién nacidos. Uno podría ser mío? Qué debo hacer, padre?"/>
+    <dia npc="1" str="'Los ojos del hombre están abiertos y permanecen sin parpadear durante unos segundos'. Si uno se encuentra en una situación como está, Uno debe hacer las cosas honorablemente y criar al niño."/>
+    <dia pl="2" str="Gracias, padre. Haré lo que tenga que hacer." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia npc="2" str="El padre lo sabe? Qué hemos hecho? Nuestras necesidades animales se han apoderado de nuestra mente. Decirle al padre que vamos a dejar de hacerlo de una vez por todas."/>
+	<dia pl="3" str="Lo haré." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

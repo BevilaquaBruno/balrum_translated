@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Why were you so cruel to Clay?"/>
+    <dia npc="0" str="That boy had to be disciplined. He was wild. He did horrible things that I'm not going to tell you about."/>
+    <dia pl="1" str="Tell me, father."/>
+    <dia npc="1" str="No, now please leave me. I'm tired. I need to lie down."/>
+    <dia pl="2" str="End." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

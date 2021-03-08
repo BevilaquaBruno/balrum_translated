@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Busco trabajo, Jones. Necesitas ayuda con algo?"/>
+    <dia npc="0" str="Necesito preparar la madera para el invierno. Quiero marcar unos arboles para talarlos hoy. Si realmente buscas un trabajo, no busques más! Talar arboles y luego llevarlos a casa es un trabajo muy duro. Te hará fuerte, al menos. Te puedo dar algunos thalers si me traes 10 piezas de madera de pino."/>
+    <dia pl="1" str="Donde puedo encontrar los arboles de pino?"/>
+	<dia npc="1" str="Encontraras muchos al sur de aquí. No tiene perdida."/>
+	<dia pl="2" str="Voy a buscar la madera Jones."/>
+	<dia npc="2" str="Gracias. Asegúrate de llevar agua. Con el trabajo duro te deshidrataras muy rápido. También sería buena idea llevarte algo de comer."/>
+	<dia pl="3" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

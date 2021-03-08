@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Todas las ranas se han ido. Es seguro ahora, puedes explorar la cueva con seguridad."/>
+    <dia npc="0" str="Gracias! Si quieres aprender a construir una tienda de campaña mejorada o quieres aprender como sobrevivir en duras condiciones climatológicas no dudes en preguntar!"/>
+    <dia pl="1" str="Fin." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

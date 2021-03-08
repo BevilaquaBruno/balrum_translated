@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--%data% data--> 
+<!--%n% new line-->
+<!--%l% line skip-->
+<layer1>
+ <layer1 id="0" type="NAME" n="Old Shrine" />
+ <layer1 id="2" type="NAME" n="Large Amanita" />
+ <layer1 id="2" type="LORE1" n="Poisonous." />
+ <layer1 id="3" type="NAME" n="Amanitas" />
+ <layer1 id="3" type="LORE1" n="Poisonous." />
+ <layer1 id="9" type="NAME" n="Burnt door, to repair:" />
+ <layer1 id="9" type="LORE2" n="4x wood or 4x pine wood, 2x nails, 1x door handle" />
+ <layer1 id="10" type="NAME" n="Burnt wall, to repair:" />
+ <layer1 id="10" type="LORE2" n="3x wood or 3x pine wood, 2x nails" />
+ <layer1 id="16" type="NAME" n="Young Ghost Mushroom" />
+ <layer1 id="16" type="LORE1" n="Emits a faint blue light." />
+ <layer1 id="17" type="NAME" n="What is gold without its shine?" />
+ <layer1 id="19" type="NAME" n="Dirty bed." />
+ <layer1 id="30" type="NAME" n="Unknown Mushroom" />
+ <layer1 id="32" type="NAME" n="Broken fence, to repair:" />
+ <layer1 id="32" type="LORE2" n="2x wood or 2x pine wood, 2x nails" />
+ <layer1 id="36" type="NAME" n="Those who have no fear may enter. Mortal made items won't protect you!" />
+ <layer1 id="37" type="NAME" n="A simple tent." />
+ <layer1 id="38" type="NAME" n="A safe, sturdy tent." />
+ <layer1 id="43" type="NAME" n="Your own bed." />
+ <layer1 id="44" type="NAME" n="Young Carrot" />
+ <layer1 id="45" type="NAME" n="Almost Grown Carrot" />
+ <layer1 id="46" type="NAME" n="Grown Carrot" />
+ <layer1 id="47" type="NAME" n="Young Corn" />
+ <layer1 id="48" type="NAME" n="Almost Grown Corn" />
+ <layer1 id="49" type="NAME" n="Grown Corn" />
+ <layer1 id="50" type="NAME" n="Young Cutleaf Berry" />
+ <layer1 id="52" type="NAME" n="Grown Cutleaf Berry" />
+ <layer1 id="53" type="NAME" n="Young Land Nettle" />
+ <layer1 id="55" type="NAME" n="Grown Land Nettle" />
+ <layer1 id="56" type="NAME" n="Young Life Plant" />
+ <layer1 id="58" type="NAME" n="Grown Life Plant" />
+ <layer1 id="59" type="NAME" n="Young Lilac" />
+ <layer1 id="61" type="NAME" n="Grown Lilac" />
+ <layer1 id="62" type="NAME" n="Young Melon" />
+ <layer1 id="63" type="NAME" n="Almost Grown Melon" />
+ <layer1 id="64" type="NAME" n="Grown Melon" />
+ <layer1 id="65" type="NAME" n="Young Pig Ear Mushroom" />
+ <layer1 id="67" type="NAME" n="Grown Pig Ear Mushroom" />
+ <layer1 id="68" type="NAME" n="Young Potato" />
+ <layer1 id="69" type="NAME" n="Almost Grown Potato" />
+ <layer1 id="70" type="NAME" n="Grown Potato" />
+ <layer1 id="71" type="NAME" n="Young Pumpkin" />
+ <layer1 id="72" type="NAME" n="Almost Grown Pumpkin" />
+ <layer1 id="73" type="NAME" n="Grown Pumpkin" />
+ <layer1 id="74" type="NAME" n="Young Wheat" />
+ <layer1 id="75" type="NAME" n="Almost Grown Wheat" />
+ <layer1 id="76" type="NAME" n="Grown Wheat" />
+ <layer1 id="77" type="NAME" n="This field is dried out." />
+ <layer1 id="78" type="NAME" n="This field is normal." />
+ <layer1 id="79" type="NAME" n="This field is well hydrated." />
+ <layer1 id="80" type="NAME" n="%data% is sleeping." />
+ <layer1 id="81" type="NAME" n="Burnt nightstand, to repair:" />
+ <layer1 id="81" type="LORE2" n="3x wood or 3x pine wood, 2x nails" />
+ <layer1 id="21" type="NAME" n="Pig Trough" />
+ <layer1 id="21" type="SPECIAL" n="Pigs eat carrots, pumpkins, wheat, melons, potatoes and corn. They also don't shy away from rotten vegetables." />
+ <layer1 id="21" type="LORE3" n="A maximum of 15 pigs can be in the pen. (%data%/15)" />
+ <layer1 id="21" type="COMMENT" n="Each day a pig eats a single vegetable. Currently there is enough food for %data% day(s)." />
+ <layer1 id="21" type="SPECIAL" n="A minimum of two grown animals and plentiful food are needed for breeding." />
+ <layer1 id="21" type="SPECIAL" n="For young animals to grow adequate food is needed." />
+ <layer1 id="21" type="SPECIAL" n="Animals will start to starve after two days without food." />
+ <layer1 id="86" type="NAME" n="%data%" />
+ <layer1 id="87" type="NAME" n="Chicken Trough" />
+ <layer1 id="87" type="SPECIAL" n="Chickens eat all kinds of seeds." />
+ <layer1 id="87" type="LORE3" n="A maximum of 15 chickens can be in the pen. (%data%/15)" />
+ <layer1 id="87" type="COMMENT" n="Each day a chicken eats a single handful of seeds. Currently there is enough food for %data% day(s)." />
+ <layer1 id="87" type="SPECIAL" n="A minimum of two grown animals and plentiful food are needed for breeding." />
+ <layer1 id="87" type="SPECIAL" n="For young animals to grow adequate food is needed." />
+ <layer1 id="87" type="SPECIAL" n="Animals will start to starve after two days without food." />
+ <layer1 id="88" type="NAME" n="Spider Trough" />
+ <layer1 id="88" type="SPECIAL" n="Spiders eat almost all kinds of meats." />
+ <layer1 id="88" type="LORE3" n="A maximum of 15 spiders can be in the pen. (%data%/15)" />
+ <layer1 id="88" type="COMMENT" n="Each day a spider eats a single piece of meat. Currently there is enough food for %data% day(s)." />
+ <layer1 id="88" type="SPECIAL" n="A minimum of two grown animals and plentiful food are needed for breeding." />
+ <layer1 id="88" type="SPECIAL" n="For young animals to grow adequate food is needed." />
+ <layer1 id="88" type="SPECIAL" n="Animals will start to starve after two days without food." />
+ <layer1 id="89" type="NAME" n="Pig's Barrel" />
+ <layer1 id="89" type="LORE1" n="Manure will be placed in this barrel if the pigs are well fed." />
+ <layer1 id="90" type="NAME" n="Chicken's Barrel" />
+ <layer1 id="90" type="LORE1" n="Eggs will be placed in this barrel if the chickens are well fed." />
+ <layer1 id="91" type="NAME" n="Spider's Barrel" />
+ <layer1 id="91" type="LORE1" n="Webs will be placed in this barrel if the spiders are well fed." />
+ <layer1 id="92" type="NAME" n="Young Magical Chest" />
+ <layer1 id="93" type="NAME" n="Almost Grown Magical Chest" />
+ <layer1 id="94" type="NAME" n="Grown Magical Chest" />
+ 
+ <layer1 id="95" type="NAME" n="Young Rose Hip Bush" />
+ <layer1 id="96" type="NAME" n="Young Sloe Berry Bush" />
+ <layer1 id="97" type="NAME" n="Young Goose Berry Bush" />
+ <layer1 id="98" type="NAME" n="Young Sun Berry Bush" />
+ <layer1 id="99" type="NAME" n="Northwest Darkwood" />
+ <layer1 id="100" type="NAME" n="Northeast Darkwood" />
+ <layer1 id="101" type="NAME" n="Southeast Darkwood" />
+ <layer1 id="102" type="NAME" n="Southwest Darkwood" />
+
+<layer1 id="1" objid="60" type="NAME" type2="LORE1" />
+<layer1 id="4" objid="1209" type="NAME" type2="LORE1" />
+<layer1 id="5" objid="1293" type="NAME" type2="LORE1" />
+<layer1 id="6" objid="1322" type="NAME" type2="LORE1"/>
+<layer1 id="7" objid="1212" type="NAME" type2="LORE1"/>
+<layer1 id="8" objid="61" type="NAME" type2="LORE1"/>
+<layer1 id="11" objid="1201" type="NAME" type2="LORE1"/>
+<layer1 id="12" objid="80" type="NAME" type2="LORE1"/>
+<layer1 id="13" objid="1221" type="NAME" type2="LORE1"/> 
+<layer1 id="14" objid="1295" type="NAME" type2="LORE1"/>
+<layer1 id="15" objid="59" type="NAME" type2="LORE1"/>
+<layer1 id="18" objid="1323" type="NAME" type2="LORE1"/>
+<layer1 id="20" objid="1324" type="NAME" type2="LORE1"/>
+<layer1 id="22" objid="79" type="NAME" type2="LORE1"/>
+<layer1 id="23" objid="1211" type="NAME" type2="LORE1"/>
+<layer1 id="24" objid="1207" type="NAME" type2="LORE1"/>
+<layer1 id="25" objid="1210" type="NAME" type2="LORE1"/>
+<layer1 id="26" objid="1291" type="NAME" type2="LORE1"/>
+<layer1 id="27" objid="1292" type="NAME" type2="LORE1"/>
+<layer1 id="28" objid="1325" type="NAME" type2="LORE1"/>
+<layer1 id="29" objid="1206" type="NAME" type2="LORE1"/>
+<layer1 id="31" objid="63" type="NAME" type2="LORE1"/>
+<layer1 id="33" objid="58" type="NAME" type2="LORE1"/>
+<layer1 id="34" objid="1213" type="NAME" type2="LORE1"/>
+<layer1 id="35" objid="1223" type="NAME" type2="LORE1"/>
+<layer1 id="39" objid="1204" type="NAME" type2="LORE1"/>
+<layer1 id="40" objid="57" type="NAME" type2="LORE1"/>
+<layer1 id="41" objid="1208" type="NAME" type2="LORE1"/>
+<layer1 id="42" objid="1222" type="NAME" type2="LORE1"/>
+<layer1 id="66" layer1id="65" type="NAME" />
+<layer1 id="51" layer1id="50" type="NAME"/>
+<layer1 id="54" layer1id="53" type="NAME"/>
+<layer1 id="57" layer1id="56" type="NAME"/>
+<layer1 id="60" layer1id="59" type="NAME"/>
+
+
+
+
+ <layer1 id="103" type="NAME" n="Anvil, to build:" />
+ <layer1 id="103" type="LORE2" n="3x wood or 3x pine wood, 2x iron bar, 2x nails" />
+ <layer1 id="104" type="NAME" n="Smelter, to build:" />
+ <layer1 id="104" type="LORE2" n="3x wood or 3x pine wood, 2x iron bar, 2x nails" />
+ <layer1 id="105" type="NAME" n="Wall, to build:" />
+ <layer1 id="105" type="LORE2" n="3x wood or 3x pine wood, 2x nails" />
+ <layer1 id="106" type="NAME" n="My loving husband." />
+ <layer1 id="107" type="NAME" n="Only fire will let you through." />
+ <layer1 id="108" type="NAME" n="Cow's Barrel" />
+ <layer1 id="108" type="LORE1" n="Milk will be placed in this barrel if the cows are well fed." />
+ <layer1 id="109" type="NAME" n="Cow Trough" />
+ <layer1 id="109" type="SPECIAL" n="Cows eat carrots, pumpkins, wheat, melons, potatoes and corn." />
+ <layer1 id="109" type="LORE3" n="A maximum of 6 cows can be in the pen. (%data%/6)" />
+ <layer1 id="109" type="COMMENT" n="Each day a cow eats a single vegetable. Currently there is enough food for %data% day(s)." />
+ <layer1 id="109" type="SPECIAL" n="A minimum of two grown animals and plentiful food are needed for breeding." />
+ <layer1 id="109" type="SPECIAL" n="For young animals to grow adequate food is needed." />
+ <layer1 id="109" type="SPECIAL" n="Animals will start to starve after two days without food." />
+ 
+ <layer1 id="110" type="NAME" n="Northwest Balrum" />
+ <layer1 id="111" type="NAME" n="Northeast Balrum" />
+ <layer1 id="112" type="NAME" n="Southeast Balrum" />
+ <layer1 id="113" type="NAME" n="Southwest Balrum" />
+
+ <layer1 id="114" type="NAME" n="Dirt Pile" />
+ <layer1 id="115" type="NAME" n="Strange Bush" />
+ <layer1 id="116" type="NAME" n="Goose Berries" /> 
+ <layer1 id="117" type="NAME" n="Rose Hips" /> 
+ <layer1 id="118" type="NAME" n="Sun Berries" /> 
+ <layer1 id="119" type="NAME" n="Sloe Berries" /> 
+ <layer1 id="120" type="NAME" n="Nightmare Berries" />
+ <layer1 id="121" type="NAME" n="Lord Benedict" />
+ 
+ <layer1 id="122" type="NAME" n="Searing Desert" />
+ <layer1 id="123" type="NAME" n="Forgotten Plains" />
+ <layer1 id="124" type="NAME" n="Old Pastures" />
+ <layer1 id="125" type="NAME" n="Misty Pines" />
+ <layer1 id="126" type="NAME" n="There is a large amount of ash in it." />
+ <layer1 id="127" type="NAME" n="The woman in the painting is wearing black robes. Her face is almost entirely hidden with the shadow of her large hat but I can see that she has strange yellow eyes." />
+ 
+ <layer1 id="128" type="NAME" n="Young Life Herb" />
+ <layer1 id="130" type="NAME" n="Grown Life Herb" />
+ <layer1 id="131" type="NAME" n="Young Ghost Mushroom" />
+ <layer1 id="133" type="NAME" n="Grown Ghost Mushroom" />
+ <layer1 id="134" type="NAME" n="Young Sneezeweed" />
+ <layer1 id="136" type="NAME" n="Grown Sneezeweed" />
+ <layer1 id="129" layer1id="128" type="NAME"/>
+ <layer1 id="132" layer1id="131" type="NAME"/>
+ <layer1 id="135" layer1id="134" type="NAME"/>
+ <layer1 id="137" type="NAME" n="Twisted Rose of Dreams" />
+ <layer1 id="138" type="NAME" n="I waited and waited for you to come back, you never did. Thilda" />
+ 
+ <layer1 id="139" type="NAME" n="Picked Rose Hip Bush" />
+ <layer1 id="140" type="NAME" n="Picked Sloe Berry Bush" />
+ <layer1 id="141" type="NAME" n="Picked Goose Berry Bush" />
+ <layer1 id="142" type="NAME" n="Picked Sun Berry Bush" />
+</layer1>

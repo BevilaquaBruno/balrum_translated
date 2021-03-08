@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Necesito crear una runa de teletransportación especial. Knox me dijo que con tu ayuda podría hacer una piedra así."/>
+    <dia npc="0" str="Quién eres tu? Eres miembro de la alianza? Espero por tu bien que lo seas."/>
+    <dia pl="1" str="Soy un nuevo miembro de la alianza."/>
+    <dia npc="1" str="Bien. Por qué iba a ayudarte?"/>
+    <dia pl="2" str="Necesitas algo? Podría trabajar para ti, y ha cambio ayudaras a Knox en la creación de la runa."/>
+    <dia npc="2" str="Me gusta tu actitud. Por fin alguien que quiere utilizar mis habilidades sin pagar. Lo que me estás pidiendo no es una cosa simple. Ajustar la runa para teletransportarse exactamente donde quieres ir es un procedimiento tedioso y prolongado. Voy a tener que pedirte que completes un trabajo igual de difícil que el mio."/>
+	<dia pl="3" str="Cual sería el trabajo?"/>
+    <dia npc="3" str="Sabes donde esta el asilo? Si no es así, lo marcaré en tu mapa. Cerca del asilo hay un cementerio. Te necesito para desenterrar unas cuantas tumbas. Bueno si estas de suerte puede que no tengas que cavarlos todos. Actualmente soy el fabricante de runas de la alianza. Knox encanta las runas con energías mágicas para completarlas. Hace muchos años había un creador de runas famoso de nuestra alianza llamado Lester. Su cuerpo fue enterrado en el cementerio cerca del asilo. Las leyendas dicen que fue sepultado con algunas de sus runas sin terminar! No quiero ni imaginarme que tipo de runas poderosas encontraras. Tu trabajo es encontrar su cuerpo y traerme las runas sin terminar."/>
+    <dia pl="4" str="Excavar tumbas. Creo que no tengo otra opción. Le traeré las runas que encuentre."/>
+    <dia npc="4" str="Excelente! Espero con impaciencia tu regreso!"/>
+	<dia pl="5" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+   <dia pl="0" str="I found you a human skull."/>
+   <dia npc="0" str="You have indeed. I'm proud of you. But I need one last thing from you before I'll teach you."/>
+   <dia pl="1" str="Just tell me what do I need to do."/>
+   <dia npc="1" str="Don't be rude, or I might change my mind. Find me the cape of a warlock. It can be in bad condition, it does not matter."/>
+   <dia pl="2" str="Where should I start looking? "/>
+   <dia npc="2" str="There are crypts all around this area. Necromancers used this place for hundreds of years, so that is no surprise. They need to honour their dead, too. I think your best chance is in one of those crypts."/>
+   <dia pl="3" str="End." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

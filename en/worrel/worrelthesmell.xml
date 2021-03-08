@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Ketty cannot stand the smell of your outhouse any more."/>
+    <dia npc="0" str="Whatever, boy."/>
+    <dia pl="1" str="You should do something. At least for her sake."/>
+    <dia npc="1" str="I'm not moving my little finger. My outhouse is fine as it is."/>
+    <dia pl="2" str="You leave me no choice."/>
+    <dia npc="2" str="What are you going to do? Ha, don't make me laugh."/>
+	<dia pl="3" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

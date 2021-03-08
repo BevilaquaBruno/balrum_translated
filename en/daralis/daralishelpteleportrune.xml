@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I need to create a special teleport rune. Knox told me he could make such a stone for me with your help."/>
+    <dia npc="0" str="Who are you? Are you a member of the guild? I hope for your sake that you are."/>
+    <dia pl="1" str="I'm a new member of the guild."/>
+    <dia npc="1" str="Alright then. Why would I help you?"/>
+    <dia pl="2" str="Do you need anything? I could work for you and in return you would help Knox in creating the rune."/>
+    <dia npc="2" str="I like your attitude. Finally someone who doesn't want to use my skills without payment. What you are asking is not a simple thing. Adjusting a rune to teleport you exactly where you want to go is a tiresome and lengthy procedure. I will have to ask you to complete an equally difficult task for me."/>
+	<dia pl="3" str="What would that task be?"/>
+    <dia npc="3" str="Do you know where the old asylum is? If not, I will mark your map. Close to the asylum there is an old cemetery. I need you to dig up a few graves. Well, if you're out of luck you might have to dig them all up. Currently I'm the rune maker of this guild. Knox enchants the runes with magical energies, but I complete them. Many years ago there was a famous rune maker in our guild named Lester. His body was buried in that cemetery near the asylum. Legends say that he was buried with a few of his unfinished runes! I can't even imagine what kind of powerful runes they might be. Your task is to find his body and bring me back his unfinished runes."/>
+    <dia pl="4" str="Digging up graves. I guess I have no choice. I will bring back the runes."/>
+    <dia npc="4" str="Excellent! I eagerly await your return!"/>
+	<dia pl="5" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

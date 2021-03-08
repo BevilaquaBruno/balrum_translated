@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Here is the linen you asked for."/>
+    <dia npc="0" str="It's been so long since I had a few of these. Thank you, young man. Now it's time to complete my part of the deal right? Listen and look carefully, boy. This is the kind of knowledge that people get in trouble for. 'A few hours pass by. The old man knows his art. He is a good teacher. I now know how to make clothing out of ancient linen.'"/>
+    <dia pl="1" str="Thank you for sharing your knowledge with me."/>
+    <dia npc="1" str="My pleasure, boy. If only my son were a little bit like you."/>
+	<dia pl="2" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

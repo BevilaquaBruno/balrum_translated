@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Como están las cosas?"/>
+    <dia npc="0" str="Una nueva cara! El negocio ha ido mal últimamente. No hay suficientes clientes. Voy a tener que cerrar la posada. Echa un vistazo a mis mercancías. Si compras algo podrías ser capaz de mantener este lugar abierto por un poco más de tiempo."/>
+	<dia pl="1" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

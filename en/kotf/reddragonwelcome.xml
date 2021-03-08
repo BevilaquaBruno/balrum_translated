@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I need your help, dragon."/>
+    <dia npc="0" str="Welcome, mortal. You are not like the humans on this island. You must be from the large island. Why do you need my help?"/>
+    <dia pl="1" str="Your brother the white dragon told me that if I manage to unite all three of you we might be able to destroy the remains of the Darkwood Necromancers. People's lives are at stake."/>
+    <dia npc="1" str="Now I remember why I left your island. You mortals like to destroy everything, including your own kind and your own world. I understand that mortality is a heavy burden; after all, our youngest brother went mad because of it. He was the first and the last mortal dragon. When he realized that his days were numbered his evil side took control of him. He killed and ate everything he could find. He lived for the moment. He lived for the pleasures of his limited life. In the end, death brought peace to his mind. Why should I help you?"/>
+    <dia pl="2" str="My people are in danger. If I fail, they will die a horrible death."/>
+    <dia npc="2" str="For centuries I despised my brother. He did everything you humans asked of him. He acted as a pathetic caretaker. I could not understand why he was so fond of your kind. My many years on this island showed me why. The people here don't kill. They don't undermine each other. They live together in harmony. That is why I took the necromancer's remains from them when your people gave it to them centuries ago. It was endangering their lives. I understand that your mission is for the good of your people. And that is why I will help you, mortal. I will give you the necromancer's remains. Tell me where my brother is. I will travel to him."/>
+	<dia pl="3" str="He is in the Royal Crypts near Erdal. The youngest one of you died? How will I be able to find him? I cannot thank you enough for your help. We must hurry."/>
+    <dia npc="3" str="He died a long time ago, but he was a dragon. He had divine powers. He carved out a small piece of the void for himself. That ghostly realm is his own realm now. Only I can get you to him."/>
+    <dia pl="4" str="I'm ready. Send me to your brother's realm."/>
+    <dia npc="4" str="You really are in a hurry. Now. Stand still young mortal and don't anger my brother. His evil side is still with him."/>
+	<dia pl="5" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+   <dia pl="0" str="Me he encontrado una carta en la tumba. Pero no entiendo las escrituras que contiene."/>
+   <dia npc="0" str="Fascinante. Afortunadamente puedo leer la carta. Esta escrita en un lenguaje antiguo que era utilizado por las personas que vivían en estos bosques. Algunas de sus antiguas casas aún se pueden ver en las profundidades del bosque."/>
+   <dia pl="1" str="Qué dice la carta?"/>
+   <dia npc="1" str="Dice 'Ojala nunca descanses en paz'."/>
+   <dia pl="2" str="Estaba en una calavera insertada en un palo."/>
+   <dia npc="2" str="Los que enterraron al cuerpo querían profanar a la persona. Sellaron la tumba para que nadie supiera donde esta enterrado el cuerpo o incluso lo desenterraron. Este hombre o mujer deben haber jugado un papel importante en la historia del bosque oscuro. "/>
+   <dia pl="3" str="Confías en mi ahora?"/>
+   <dia npc="3" str="Si. La cuestión es si tu quieres trabajar para mi. No va a ser fácil."/>
+   <dia pl="4" str="Qué tengo que hacer?"/>
+   <dia npc="4" str="Ahora que ya puedo confiar en ti puedo rebelarte que he descubierto una cosa. He encontrado otro documento con el mismo lenguaje antiguo que el que me acabas de dar. En el describen las cosas horribles que los nigromantes hacían dentro de los bosques. Creo que hay más de estos documentos! Tu tarea es encontrar todos los documentos para que podamos entender que es lo que ocurrió hace siglos atrás. "/>
+   <dia pl="5" str="Donde debería empezar a buscar?"/>
+   <dia npc="5" str="No tengo lugares específicos para ti. Las criptas son un buen punto de partida, pero me imagino que serás capaz de encontrar documentos por todo el bosque oscuro."/>
+   <dia pl="6" str="Si encuentro algo te lo traeré! "/>
+   <dia npc="6" str="Muy bien. Descubriremos lo que paso aquí juntos!"/>
+   <dia pl="7" str="Fin." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

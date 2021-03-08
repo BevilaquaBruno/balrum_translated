@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I told Queenie. She was excited. She will meet you there at sundown."/>
+    <dia npc="0" str="Thank you so much. 'Hic'"/>
+    <dia pl="1" str="What about that secret Garett?"/>
+    <dia npc="1" str="Oh yes. You must have seen the rusty switches on the wall. I know the combination! It is on, on, off, on, on. Or is it off, off, on, off, off. I don't know for sure. But I know there is something interesting behind those walls. The priests keep going in there."/>
+    <dia pl="2" str="Thank you Garett."/>
+    <dia npc="2" str="I'm so nervous. 'Hic' I have to drink another beer."/>
+	<dia pl="3" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

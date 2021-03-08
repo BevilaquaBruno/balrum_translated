@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="..."/>
+    <dia npc="0" str="Interesante. Si no he cometido errores, siento la bondad en tu corazón. Una pena."/>
+    <dia pl="1" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

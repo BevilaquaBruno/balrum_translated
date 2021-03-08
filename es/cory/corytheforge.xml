@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Qué estás haciendo aquí?"/>
+    <dia npc="0" str="Qué? Quién eres? Eres dignó de mi tiempo? Nunca te he visto por aquí."/>
+    <dia pl="1" str="Yo solo estoy interesado en la herrería."/>
+    <dia npc="1" str="Ya veo, interesante. Bueno yo soy como Harad. Yo era una aprendiz en la herrería. Ahora solo nos queda limpiar el lugar ya no hay nadie que nos enseñe."/>
+	<dia pl="2" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

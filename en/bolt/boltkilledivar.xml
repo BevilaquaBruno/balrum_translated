@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Why did you kill Ivar? He only wanted to join the guild. I thought the guild need new blood."/>
+    <dia npc="0" str="You made a big mistake! We should throw you out of the guild for what you have done. That man was a rebel spy! We have our own spies and we know for certain that he was after us."/>
+    <dia pl="1" str="I'm sorry. I was reckless. It won't happen anymore."/>
+    <dia npc="1" str="I'm keeping an eye on you boy!"/>
+	<dia pl="2" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

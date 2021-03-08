@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="He venido hacer mi clase Brown."/>
+    <dia npc="0" str="Bien, Bien, mi querido chico. Ahora que ya sabes algunas recetas de memoria, deberías tratar de crear alguna por ti mismo. Ves a buscar los ingredientes para una poción de curación menor. Vas a necesitar planta de vida y una botella simple. Las plantas las encontraras en los bosques, son plantas grandes con las hojas de color verde oscuro."/>
+    <dia pl="1" str="Lo sé, Brown. Volveré con las pociones."/>
+    <dia npc="1" str="Si quieres utiliza mi mesa de alquimia. Si Sam empieza a murmurar, Simplemente ignóralo. Lo ha estado haciendo durante 100 años."/>
+    <dia pl="2" str="Espero no hacerme un lió como la última vez."/>
+    <dia npc="2" str="La practica hace la perfección, chico."/>
+    <dia pl="3" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Le robe los trabajos de investigación a tu hermano."/>
+    <dia npc="0" str="Lo hiciste? Daría lo que fuera por ver su cara ahora que toda su obra se a ido. Gracias Nasrus por este día! Pensé que nunca más tendría paz en mi vida. Gracias. Toma, ten esto. Te lo has ganado."/>
+	<dia pl="1" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

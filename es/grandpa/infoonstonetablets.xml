@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="He hablado con Brown sobre las tablas de piedra."/>
+    <dia npc="0" str="Qué te dijo? Sabe algo?"/>
+    <dia pl="1" str="Lo único que me dijo es que debemos permanecer lejos de la piedra y que son objetos mágicos olvidados."/>
+    <dia npc="1" str="El bueno de Brown siempre tiene miedo a lo desconocido. No podemos ignorarla en este momento. Puede ayudarnos a encontrar a los Pack."/>
+    <dia pl="2" str="Es lo que le dije. Esta de acuerdo, pero me dijo que tuviéramos cuidado. Por que cree Brown que la piedra es peligrosa?"/>
+    <dia npc="2" str="No lo sé, hijo. Brown siempre tiene miedo a las cosas nuevas. El solo cree en las cosas que están escritas en los libros. Solo el tiempo dirá si la tabla de piedra es peligrosa o no."/>
+	<dia pl="3" str="Brown es un buen hombre y un gran maestro. Le permito ser prudente." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

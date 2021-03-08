@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--%data% data-->
+<!--%n% new line-->
+<!--%l% line skip-->
+<buffs>
+
+<buff id="36" type="NAME" n="Enraged" />
+<buff id="36" type="MODIFY_OUTGOING_PHISICAL_DAMAGE" n="Damage is increased by %data%." />
+<buff id="38" type="NAME" n="Thick Hide" />
+<buff id="38" type="MODIFY_ARMOR" n="Armour is increased by %data%." />
+<buff id="39" type="NAME" n="Enraged" />
+<buff id="39" type="MODIFY_OUTGOING_PHISICAL_DAMAGE" n="Damage is increased by %data%." />
+<buff id="43" type="NAME" n="Mighty Croak" />
+<buff id="43" type="MODIFY_CRIT_CHANCE_WEAPON" n="Critical chance is increased by %data%%." />
+<buff id="63" type="NAME" n="Enraged" />
+<buff id="63" type="MODIFY_OUTGOING_PHISICAL_DAMAGE" n="Damage is increased by %data%." />
+<buff id="107" objid="298" type="NAME" />
+<buff id="107" type="LORE1" n="Using this tool increases crafting critical chance by 15% (Alchemy table)." />
+<buff id="108" objid="308" type="NAME" />
+<buff id="108" type="LORE1" n="Using this tool increases crafting critical chance by 15% (Anvil)." />
+<buff id="114" type="NAME" n="Thick Hide" />
+<buff id="114" type="MODIFY_ARMOR" n="Armour is increased by %data%." />
+<buff id="118" type="NAME" n="Enraged" />
+<buff id="118" type="MODIFY_OUTGOING_PHISICAL_DAMAGE" n="Damage is increased by %data%." />
+
+<buff id="79" objid="632" type="NAME" />
+<buff id="61" type="NAME" n="Troll's Roar" />
+<buff id="61" type="MODIFY_OUTGOING_PHISICAL_DAMAGE" n="Damage is increased by %data% and his attributes are greatly increased." />
+
+<buff id="0" type="NAME" n="Bleeding" />
+<buff id="0" type="LORE1" n="Bleeding from a deep wound." />
+<buff id="1" type="NAME" n="Bleeding" />
+<buff id="1" type="LORE1" n="Bleeding caused by a critical strike." />
+<buff id="2" type="NAME" n="Buck's See Invisible Potion." />
+<buff id="3" type="NAME" n="Burning" />
+<buff id="3" type="LORE1" n="Burning from a Pyroblast." />
+<buff id="3" type="DAMAGE" n="Burns the target for %data%-%data% damage each turn!" />
+<buff id="4" type="NAME" n="Burning from Rain of Fire" />
+<buff id="4" type="DAMAGE" n="Burns the target for %data%-%data% damage each turn!" />
+<buff id="5" type="NAME" n="Burning" />
+<buff id="5" type="DAMAGE" n="Burns the target for %data%-%data% damage each turn!" />
+<buff id="6" objid="335" type="NAME" />
+<buff id="6" type="LORE1" n="I'm protected against minor cold damage." />
+<buff id="8" type="NAME" n="Crook!" />
+<buff id="9" type="NAME" n="I'm drunk!" />
+<buff id="10" type="NAME" n="Electrically Charged" />
+<buff id="11" type="NAME" n="Fear" />
+<buff id="11" type="TURN" n="Fears the target for %data% turns." />
+<buff id="12" type="NAME" n="Frozen" />
+<buff id="12" type="TURN" n="Frozen to the spot for %data% turns." />
+<buff id="13" type="NAME" n="Full Belly!" />
+<buff id="13" type="LORE1" n="Health is slowly regenerating. Health regenerates faster while not in combat." />
+<buff id="14" type="NAME" n="Good Deed!" />
+<buff id="15" type="NAME" n="Greedy!" />
+<buff id="16" type="NAME" n="Hopeful!" />
+<buff id="17" type="NAME" n="I'm starving!" />
+<buff id="18" type="NAME" n="Liar!" />
+<buff id="19" type="NAME" n="Nightfall" />
+<buff id="19" type="DAMAGE" n="Damages the target for %data% to %data% shadow damage each turn!" />
+<buff id="20" type="NAME" n="No Faith." />
+<buff id="21" type="NAME" n="Not Trustworthy!" />
+<buff id="22" type="NAME" n="Polymorph" />
+<buff id="22" type="TURN" n="Polymorphs the target into a pig for %data% turns." />
+<buff id="23" type="NAME" n="Potion Overdose!" />
+<buff id="23" type="LORE1" n="I cannot drink any more potions." />
+<buff id="24" type="NAME" n="Pure Cast" />
+<buff id="25" type="NAME" n="Stealth" />
+<buff id="26" type="NAME" n="Stun" />
+<buff id="26" type="LORE1" n="Stunned" />
+<buff id="27" type="NAME" n="Target has Dodged!" />
+<buff id="28" type="NAME" n="Target has Parried!" />
+<buff id="29" type="NAME" n="I'm extremely dehydrated!" />
+<buff id="30" type="NAME" n="I'm tired!" />
+<buff id="31" type="NAME" n="Trustworthy!" />
+<buff id="32" type="NAME" n="Unselfish!" />
+<buff id="33" type="NAME" n="Slept Quite Well" />
+<buff id="34" type="NAME" n="Slept Well" />
+<buff id="35" type="NAME" n="Stunned" />
+<buff id="35" type="LORE1" n="Stunned on the spot." />
+<buff id="37" type="NAME" n="Bear Roar" />
+<buff id="37" type="LORE1" n="Frightened by the bear's roar." />
+<buff id="40" type="NAME" n="Bleeding" />
+<buff id="40" type="LORE1" n="Bleeding caused by a critical strike." />
+<buff id="41" type="NAME" n="Blinded" />
+<buff id="41" type="LORE1" n="Blinded by small crystal shards." />
+<buff id="42" type="NAME" n="Crystal Smithereens" />
+<buff id="42" type="LORE1" n="Bleeding from many small wounds." />
+<buff id="44" type="NAME" n="Frog Poison" />
+<buff id="44" type="LORE1" n="Suffering from the powerful poison of a forest frog." />
+<buff id="45" type="NAME" n="Stunned" />
+<buff id="45" type="LORE1" n="Stunned on the spot." />
+<buff id="46" type="NAME" n="War Cry" />
+<buff id="46" type="LORE1" n="Attributes boosted!" />
+<buff id="47" type="NAME" n="A Ghostly Presence" />
+<buff id="47" type="DAMAGE" n="You suffer %data%-%data% frost damage each turn!" />
+<buff id="47" type="LORE1" n="This effect will only be removed if you are a safe distance away from the presence emitting it." />
+<buff id="48" type="NAME" n="Cold Aura" />
+<buff id="49" type="NAME" n="Larva Spit" />
+<buff id="49" type="LORE1" n="Suffering from the poison in the larva's spit." />
+<buff id="50" type="NAME" n="Bleeding" />
+<buff id="51" type="NAME" n="Mantis Poison" />
+<buff id="51" type="LORE1" n="Suffering from the powerful poison of a mantis humanoid." />
+<buff id="52" type="NAME" n="Mantis Poison" />
+<buff id="52" type="LORE1" n="You are suffering from the powerful poison of a giant mantis." />
+<buff id="53" type="NAME" n="Rat Disease" />
+<buff id="53" type="LORE1" n="You caught the plague from a giant rat." />
+<buff id="54" type="NAME" n="Adrenaline" />
+<buff id="54" type="LORE1" n="The rat's dodge chance and dexterity are greatly increased." />
+<buff id="55" type="NAME" n="Rabies" />
+<buff id="55" type="LORE1" n="You are infected with rabies." />
+<buff id="56" type="NAME" n="Poison" />
+<buff id="56" type="LORE1" n="Suffering from the poison of a snake." />
+<buff id="57" type="NAME" n="Hypnotized" />
+<buff id="57" type="LORE1" n="Hypnotized." />
+<buff id="58" type="NAME" n="Spider Web" />
+<buff id="58" type="LORE1" n="Stuck to the spot." />
+<buff id="59" type="NAME" n="Spider Paralysis" />
+<buff id="59" type="LORE1" n="Paralyzed" />
+<buff id="60" type="NAME" n="Infested Blood" />
+<buff id="60" type="LORE1" n="Poisoned blood." />
+<buff id="62" type="NAME" n="Crushed" />
+<buff id="62" type="LORE1" n="Stunned on the spot." />
+<buff id="64" type="NAME" n="Adrenaline" />
+<buff id="64" type="LORE1" n="Dodge chance is greatly increased." />
+<buff id="65" type="NAME" n="Wolf's Howl" />
+<buff id="65" type="LORE1" n="Frightened by a wolf's howl." />
+<buff id="66" type="NAME" n="Rabies" />
+<buff id="66" type="LORE1" n="Infected with rabies." />
+<buff id="67" objid="553" type="NAME" />
+<buff id="68" objid="546" type="NAME" />
+<buff id="69" type="NAME" n="Laws of Adacus" />
+<buff id="70" objid="551" type="NAME" />
+<buff id="71" objid="550" type="NAME" />
+<buff id="72" objid="555" type="NAME" />
+<buff id="73" objid="556" type="NAME" />
+<buff id="74" objid="554" type="NAME" />
+<buff id="75" objid="618" type="NAME" />
+<buff id="76" objid="613" type="NAME" />
+<buff id="77" objid="631" type="NAME" />
+<buff id="78" objid="643" type="NAME" />
+<buff id="80" objid="611" type="NAME" />
+<buff id="81" objid="623" type="NAME" />
+<buff id="82" objid="627" type="NAME" />
+<buff id="83" objid="616" type="NAME" />
+<buff id="87" objid="633" type="NAME" />
+<buff id="88" objid="641" type="NAME" />
+<buff id="89" objid="646" type="NAME" />
+<buff id="94" type="NAME" n="Transformed" />
+<buff id="95" type="NAME" n="I slept like a child." />
+<buff id="96" type="NAME" n="Reflect" />
+<buff id="96" type="LORE1" n="Reflecting all damage." />
+<buff id="97" type="NAME" n="Ice Prison" />
+<buff id="97" type="LORE1" n="All incoming damage is absorbed." />
+<buff id="98" type="NAME" n="Earthquake" />
+<buff id="99" type="NAME" n="Invisible" />
+<buff id="100" type="NAME" n="Invisible" />
+<buff id="101" objid="401" type="NAME" />
+<buff id="101" type="DAMAGE" n="Poisons the target for %data%-%data% damage each turn!" />
+<buff id="102" type="NAME" n="War Cry" />
+<buff id="103" type="NAME" n="Preparation!" />
+<buff id="103" type="LORE1" n="Guaranteed critical hit for next ability." />
+<buff id="104" type="NAME" n="Blind" />
+<buff id="104" type="TURN" n="Blinds the target for %data% turns." />
+<buff id="105" type="NAME" n="Cannibal" />
+<buff id="106" type="NAME" n="You are dying!" />
+<buff id="106" type="LORE1" n="Your time is limited!" />
+<buff id="109" objid="297" type="NAME" />
+<buff id="109" type="LORE1" n="Your visibility is slightly decreased." />
+<buff id="110" type="NAME" n="Double Turns" />
+<buff id="111" type="NAME" n="I hurt my fingers while trying to pick a lock." />
+<buff id="112" type="NAME" n="Taming" />
+<buff id="112" type="LORE1" n="I'm trying to tame this animal." />
+<buff id="112" type="LORE2" n="After the taming effect fades I have a slight chance that the creature will see me as his pack leader." />
+<buff id="113" type="NAME" n="Stunned" />
+<buff id="113" type="LORE1" n="Stunned on the spot." />
+<buff id="115" type="NAME" n="Fear" />
+<buff id="115" type="TURN" n="Fears the target for %data% turns." />
+<buff id="116" type="NAME" n="Spider Web" />
+<buff id="116" type="LORE1" n="Stuck to the spot." />
+<buff id="117" type="NAME" n="Wolf's Howl" />
+<buff id="117" type="LORE1" n="Frightened by the wolf's howl." />
+<buff id="119" type="NAME" n="Focus Dodge" />
+<buff id="119" type="LORE1" n="Dodge chance is greatly increased." />
+<buff id="120" type="NAME" n="Arcane Backlash" />
+<buff id="120" type="LORE1" n="Cannot cast spells." />
+<buff id="121" type="NAME" n="Mining Mishap" />
+<buff id="121" type="LORE1" n="I hurt myself while mining." />
+<buff id="122" type="NAME" n="Mahoka!" />
+<buff id="125" type="NAME" n="Poisoned" />
+<buff id="125" type="DAMAGE" n="Damages the target for %data%-%data% damage each turn!" />
+<buff id="126" type="NAME" n="Decreased Visibility" />
+<buff id="127" objid="474" type="NAME" />
+<buff id="127" type="LORE1" n="You feel an unholy presence." />
+<buff id="128" objid="464" type="NAME" />
+<buff id="128" type="LORE1" n="Once it belonged to an unnamed hero." />
+<buff id="129" objid="510" type="NAME" />
+<buff id="129" type="LORE1" n="A loyal friend on a long journey." />
+<buff id="130" objid="362" type="NAME" />
+<buff id="130" type="LORE1" n="Watchful eyes of Adacus." />
+<buff id="132" type="NAME" n="Nausea" />
+<buff id="133" type="NAME" n="Voidball Curse" />
+<buff id="133" type="DAMAGE" n="Damages the target for %data%-%data% damage each turn!" />
+<buff id="134" type="NAME" n="..." />
+<buff id="135" objid="515" type="NAME" />
+<buff id="135" type="LORE1" n="Your visibility is slightly decreased." />
+<buff id="136" objid="524" type="NAME" />
+<buff id="136" type="LORE1" n="Your are slowly regenerating health." />
+<buff id="137" type="NAME" n="Transformed" />
+<buff id="138" type="NAME" n="Predator Senses" />
+<buff id="139" type="NAME" n="Enrage Countdown" />
+<buff id="139" type="LORE1" n="Going to become enraged!" />
+<buff id="140" type="NAME" n="Enraged" />
+<buff id="141" type="NAME" n="Slight Darkness" />
+<buff id="142" type="NAME" n="Extreme Darkness" />
+<buff id="143" type="NAME" n="Speed Potion" />
+<buff id="144" type="NAME" n="The Light Obeys" />
+<buff id="144" type="LORE1" n="I have full control over the light." />
+<buff id="145" type="NAME" n="Full Moons" />
+<buff id="145" type="LORE1" n="Both moons are shining down. It happens every five days so it is a common phenomenon." />
+<buff id="146" type="NAME" n="Distracted" />
+<buff id="147" type="NAME" n="Stealth" />
+<buff id="148" type="NAME" n="Additional Turns" />
+<buff id="149" type="NAME" n="Teleport Immunity" />
+<buff id="149" type="LORE1" n="Immune to all damages." />
+<buff id="150" type="NAME" n="Special Alchemy Effects Event" />
+<buff id="150" type="LORE1" n="Special alchemy effects are happening." />
+<buff id="151" type="NAME" n="Shatter Armour" />
+<buff id="152" type="NAME" n="Enraged" />
+<buff id="152" type="LORE1" n="All attributes and damages are heavily increased." />
+<buff id="153" type="NAME" n="Going to be Enraged" />
+<buff id="153" type="LORE1" n="Will be enraged after this effect fades." />
+<buff id="154" type="NAME" n="Going to Disregard Threats" />
+<buff id="154" type="LORE1" n="Threat values will reset after this effect fades." />
+<buff id="155" type="NAME" n="Fractured Bone" />
+<buff id="155" type="LORE1" n="A splint should be used to aid the healing of the fracture. Speed increasing effects cannot be used." />
+<buff id="156" type="NAME" n="Sick" />
+<buff id="156" type="LORE1" n="A sickness weakens your body. Your body gets dehydrated faster." />
+<buff id="157" type="NAME" n="Blood Explosion" />
+<buff id="157" type="LORE1" n="An explosion will happen after the effect fades." />
+<buff id="158" type="NAME" n="Weakened Healing" />
+<buff id="158" type="LORE1" n="All healing effects are reduced by 50%." />
+<buff id="160" type="NAME" n="Touch of Death" />
+<buff id="160" type="LORE1" n="Enemy melee attacks will cause them to flee in fear." />
+<buff id="161" objid="624" type="NAME" />
+<buff id="162" type="NAME" n="Poisoned" />
+<buff id="163" type="NAME" n="Boosted Critical Bonus Damage" />
+<buff id="163" type="LORE1" n="Critical damage bonus is 300%." />
+<buff id="164" type="NAME" n="Fiery Steps" />
+<buff id="165" type="NAME" n="Immune to Stun Effects" />
+<buff id="166" type="NAME" n="Stun Suppression" />
+<buff id="166" type="LORE1" n="Going to be immune to stun after 3 stun effects." />
+<buff id="167" type="NAME" n="Immune to Stun Effects" />
+<buff id="168" type="NAME" n="Fully Hydrated!" />
+<buff id="168" type="LORE1" n="Health is slowly regenerating. Health regenerates faster while not in combat." />
+<buff id="169" type="NAME" n="Silenced" />
+<buff id="169" type="LORE1" n="Cannot cast spells." />
+<buff id="171" type="NAME" n="Poison Gas" />
+<buff id="172" type="NAME" n="Rosehip Regenerate" />
+<buff id="173" type="NAME" n="Blueberry Regenerate" />
+<buff id="174" type="NAME" n="Phoenix Ring" />
+<buff id="174" type="LORE1" n="After this effect fades the power of the ring will be usable again." />
+<buff id="175" type="NAME" n="Panic Ring" />
+<buff id="175" type="LORE1" n="This effect will fade when your health gets above 15%." />
+<buff id="177" type="NAME" n="Clean Shot Bleed" />
+<buff id="178" type="NAME" n="Stealth" />
+<buff id="179" type="NAME" n="Sabrina's Disease" />
+<buff id="180" type="NAME" n="Exteme Heat!" />
+<buff id="180" type="LORE1" n="It's extremely hot here. I'm getting dehydrated really fast." />
+<buff id="181" type="NAME" n="Silence" />
+<buff id="181" type="LORE1" n="Unable to cast spells." />
+<buff id="182" type="NAME" n="Cannot drink potions!" />
+<buff id="182" type="LORE1" n="Cannot drink potions while under this effect." />
+<buff id="183" type="NAME" n="Double mana usage!" />
+<buff id="183" type="LORE1" n="Spells use double mana while under this effect." />
+<buff id="184" type="NAME" n="Weakened Healing" />
+<buff id="184" type="LORE1" n="Healing effects are reduced by 90%." />
+<buff id="185" type="NAME" n="Black Curse" />
+<buff id="185" type="LORE1" n="The curse of the ancient immortals." />
+<buff id="186" type="NAME" n="Leprosy" />
+<buff id="187" type="NAME" n="Touch of the Wisps" />
+<buff id="187" type="LORE1" n="All healing effects are increased by 25%." />
+<buff id="188" type="NAME" n="Druid's Song" />
+<buff id="188" type="LORE1" n="While the effect is active it regenerates a small amount of health each turn." />
+<buff id="189" type="NAME" n="Stealth" />
+<buff id="189" type="LORE1" n="Visibility is decreased." />
+<buff id="190" type="NAME" n="Predator Senses" />
+<buff id="191" type="NAME" n="Sleep" />
+<buff id="191" type="LORE1" n="Those who are affected by this effect will fall into a deep sleep. Any damage will interrupt the sleep." />
+<buff id="192" type="NAME" n="Nightfall" />
+<buff id="192" type="DAMAGE" n="Damages the target for %data% to %data% shadow damage each turn!" />
+<buff id="193" type="NAME" n="Bleeding from Improved Deep Wounds." />
+<buff id="194" type="NAME" n="Smashed!" />
+<buff id="195" type="NAME" n="Arrow of Misery" />
+<buff id="195" type="LORE1" n="Each turn health is stolen from those who are affected by this effect." />
+<buff id="196" type="NAME" n="Improved Clean Shot Bleed" />
+<buff id="197" type="NAME" n="Enraged" />
+<buff id="198" type="NAME" n="Additional Weapon Critical Chance" />
+<buff id="199" type="NAME" n="Additional Spell Critical Chance" />
+<buff id="200" type="NAME" n="Stun Immunity" />
+<buff id="201" type="NAME" n="Fear Immunity" />
+<buff id="204" type="NAME" n="Ancient Anvil" />
+<buff id="204" type="LORE1" n="Using this anvil increases crafting critical chance by 25%." />
+<buff id="205" type="NAME" n="Ancient Alchemy Table" />
+<buff id="205" type="LORE1" n="Using this table increases crafting critical chance by 25%." />
+<buff id="207" type="NAME" n="Frozen" />
+<buff id="207" type="TURN" n="Frozen to the spot." />
+<buff id="208" type="NAME" n="Bleeding" />
+<buff id="208" type="LORE1" n="Bleeding caused by a critical strike. A splint should be used to stop the bleeding." />
+<buff id="209" type="NAME" n="Immune to Shadow" />
+<buff id="210" type="NAME" n="Immune to Fire" />
+<buff id="211" type="NAME" n="Immune to Frost" />
+<buff id="212" type="NAME" n="Immune to Poison" />
+<buff id="213" type="NAME" n="Immune to Arcane" />
+<buff id="214" type="NAME" n="Raining" />
+<buff id="215" type="NAME" n="Immune to Stun" />
+<buff id="216" type="NAME" n="Gloves of Healing" />
+<buff id="216" type="LORE1" n="Increases healing effects by 10%." />
+<buff id="217" type="NAME" n="Beetle Chitin" />
+<buff id="218" type="NAME" n="Fire Resistance" />
+<buff id="219" type="NAME" n="Siphon Mana" />
+<buff id="219" type="LORE1" n="Something is stealing all of your regenerated mana." />
+<buff id="220" type="NAME" n="Siphon Life" />
+<buff id="220" type="LORE1" n="Something is stealing all of your regenerated health." />
+<buff id="221" type="NAME" n="Stunned" />
+<buff id="221" type="LORE1" n="Stunned on the spot." />
+<buff id="222" type="NAME" n="Tired" />
+<buff id="222" type="LORE1" n="Long lasting combat is getting you tired." />
+<buff id="223" type="NAME" n="Cheat Death" />
+<buff id="223" type="LORE1" n="You cheated death! Cheat Death cannot occur again until this effect fades." />
+<buff id="224" type="NAME" n="Improved Shatter Armour" />
+<buff id="225" type="NAME" n="Critical Melee Miss" />
+<buff id="225" type="LORE1" n="Cannot use abilities that require a melee weapon while under this effect." />
+<buff id="226" type="NAME" n="Critical Bow Miss" />
+<buff id="226" type="LORE1" n="Cannot use abilities that require a ranged weapon while under this effect." />
+<buff id="227" type="NAME" n="Silence" />
+<buff id="227" type="LORE1" n="Cannot cast spells while under this effect." />
+<buff id="228" type="NAME" n="Shield Absorb" />
+<buff id="229" type="NAME" n="Immune to Bleed" />
+<buff id="230" type="NAME" n="Meditating" />
+<buff id="230" type="LORE1" n="Unable to act while meditating." />
+<buff id="231" type="NAME" n="Fire Breath" />
+<buff id="231" type="LORE1" n="An explosion will happen after the effect fades." />
+<buff id="232" type="NAME" n="Resist Magic" />
+<buff id="233" type="NAME" n="Resist Fire" />
+<buff id="234" type="NAME" n="Trusty Belt" />
+<buff id="235" type="NAME" n="No more cold hands." />
+<buff id="236" type="NAME" n="Crimson Crystal Smithereens" />
+<buff id="237" type="NAME" n="Burning from Armageddon" />
+<buff id="238" type="NAME" n="Cursed Book" />
+<buff id="238" type="LORE1" n="I cannot stop reading this book. I have to read it!" />
+<buff id="239" type="NAME" n="Burning from the Immolation of Palverz" />
+<buff id="240" type="NAME" n="Immolator of Palverz" />
+<buff id="240" type="LORE1" n="The helmet is really hot. I sense it has magical energies." />
+<buff id="241" type="NAME" n="Hellforge Hammer" />
+<buff id="241" type="LORE1" n="It increases the strength of my torch's light." />
+<buff id="242" type="NAME" n="The Sword of Mists" />
+<buff id="242" type="LORE1" n="The ghostly sword decreases my visibility." />
+<buff id="243" type="NAME" n="The Sword of Mists" />
+<buff id="243" type="LORE1" n="The Sword is creating a thick fog wall between me and my enemies. The power of the sword is slowly fading in combat." />
+<buff id="244" type="NAME" n="The Sword of Mists" />
+<buff id="245" type="NAME" n="Strange Brick" />
+<buff id="246" type="NAME" n="Amicus Rune" />
+<buff id="246" type="LORE1" n="The bond between me and my companion is increased." />
+<buff id="247" type="NAME" n="Summoned" />
+<buff id="248" type="NAME" n="Staff of Necromancy" />
+<buff id="248" type="LORE1" n="This staff looks unfinished. As I touch it I feel a cold energy emanating from it. The energy all of a sudden becomes significantly more powerful. This is a dangerous unstable staff." />
+<buff id="249" type="NAME" n="Fast Fingers" />
+<buff id="250" type="NAME" n="Skvader Meat" />
+<buff id="251" type="NAME" n="Twisted Rose of Dreams" />
+<buff id="251" type="LORE1" n="Love planted the seed %n%Loss bore the curse %n%Nothing can keep them apart %n%yet they shall never be together again. %n%This curse cannot be removed by magic." />
+<buff id="252" type="NAME" n="Twisted Rose of Dreams Dark Deal" />
+<buff id="252" type="LORE1" n="Damage dealt while under the curse will heal the bearer. Consecutive attack enhance the curse. Each turn while not dealing damage will cause damage to the one who is cursed. %n%Once the curse is fully charged (5) the health of surrounding enemies will be slowly siphoned towards the bearer of the curse. %n%This curse cannot be removed by magic." />
+<buff id="253" type="NAME" n="Death" />
+<buff id="253" type="LORE1" n="You will die if this effect is not removed." />
+<buff id="254" type="NAME" n="Disease of the Catacombs" />
+<buff id="255" type="NAME" n="Shadow Blade Shard" />
+<buff id="256" type="NAME" n="The Power of the Scarabs" />
+</buffs>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I've found something for you!"/>
+    <dia npc="0" str="Speak boy! What?"/>
+    <dia pl="1" str="Go to the old arena. There is a magical lever on the floor. If you pull that lever a copy of you appears and fights you."/>
+    <dia npc="1" str="I can fight myself? Of course! The most worthy opponent is me. Thank you boy! You might have saved the life of an old fighter!"/>
+	<dia pl="2" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

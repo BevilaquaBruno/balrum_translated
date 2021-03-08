@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="The beast is dead."/>
+    <dia npc="0" str="Thank you traveler. Here take the key. We never dared to go down there."/>
+    <dia pl="1" str="Thank you Chief."/>
+    <dia npc="1" str="Be cautious when you go down there. My grandfather told me he heard strange noises coming from there and sometimes we can feel small earthquakes seemingly emitting from that place."/>
+    <dia pl="2" str="I will." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

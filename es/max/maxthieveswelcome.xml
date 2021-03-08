@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Qué estas haciendo aquí? Dónde están tus padres?"/>
+    <dia npc="0" str="Como nos has encontrado? Nos dijeron que nadie nos encontraría aquí."/>
+    <dia pl="1" str="Eso no importa. Qué está pasando aquí? Por qué estas aquí niño?"/>
+    <dia npc="1" str="Estamos jugando al escondite. Nuestros padres fueron asesinados hace unos años por los rebeldes. Los adultos nos dijeron que nos quedáramos aquí para que no puedan encontrarnos."/>
+    <dia pl="2" str="Cuanto tiempo llevas aquí?"/>
+    <dia npc="2" str="Un año tal vez? La mayoría de nosotros estabamos esparcidos por el bosque. Un día un hombre extraño apareció y empezó a reunir a todos los niños. Su nombre es Morven. El nos ha estado cuidando desde entonces."/>
+	<dia pl="3" str="Donde está ese Morven?"/>
+    <dia npc="3" str="Vive por arriba. A vecés nos visita. Ninguno de nosotros sabe donde vive exactamente."/>
+    <dia pl="4" str="Sois vosotros los que roban a los campesinos?"/>
+    <dia npc="4" str="Estamos en problemas?"/>
+    <dia pl="5" str="No, no estáis en problemas. Dime. Estas robando en los graneros?"/>
+    <dia npc="5" str="Si. Pero debemos. Tenemos que comer algo. Por favor no le digas a nadie que estamos aquí abajo. Si se enteran nos harán daño. No puedo decirte otra cosa. Por favor déjanos. Hazlo por los jóvenes que están sufriendo. Habla con Morven. Aquí, toma esta piedra. Si la aprietas Morven podría aparecer. El nos dijo que la utilizaramos cuando estuviéramos en peligro pero que no la utilizaramos cerca de la capital. Toma, tenemos unas cuantas más."/>
+	<dia pl="6" str="Gracias. Tener cuidado." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

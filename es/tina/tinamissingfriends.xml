@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Pareces molesta."/>
+    <dia npc="0" str="No te acerques!"/>
+    <dia pl="1" str="Cálmate, no voy hacerte daño."/>
+    <dia npc="1" str="Dos de mis queridos amigos han desparecido y nunca te he visto por aquí. Quién eres?"/>
+    <dia pl="2" str="Soy un simple viajero. No hay por qué temer. Vine a la ciudad en busca de trabajo."/>
+    <dia npc="2" str="Tengo trabajo para ti. Encuentra a mis amigos!"/>
+    <dia pl="3" str="No tan rápido. Dime todo lo que pasó."/>
+    <dia npc="3" str="Ellas se llaman Zelma y Patty. Las dos viven aquí en la casa de los plebeyos, están justo al lado mío. Zelma hace semanas que desapareció. Patty desapareció ayer. Me temo lo peor. Quién iba a secuestrarlas?"/>
+    <dia pl="4" str="No sabes lo que les pasó."/>
+    <dia npc="4" str="Creo que sé lo que pasó. Zelma me hablo de un hombre que estaba de visita. Ella y Patty me hablaron mucho de el. Cada vez que las veía susurrándose al oído se ponían rojas. Tiene algo que ver con aquel hombre."/>
+    <dia pl="5" str="Sabes cualquier otra cosa? Viste al hombre alguna vez?"/>
+    <dia npc="5" str="He visto a Zelma a escondidas en el bosque un par de veces. Justo antes de que Zelma desapareciera creo que los vi a escondidas en el bosque juntos."/>
+    <dia pl="6" str="Me podrías indicar en que dirección se fueron?"/>
+    <dia npc="6" str="Hacia el sur. Zelma es una mujer joven imprudente. Ella trabaja para Sabrina. Intento incitar a Patty para que trabajara con Sabrina también. Creo que Zelma conoció aquel hombre en el burdel. Eso es todo lo que sé."/>
+    <dia pl="7" str="Trataré de encontrarlos."/>
+    <dia npc="7" str="Gracias extranjero. Es bueno ver que aún quedan personas con buen corazón en este mundo corrupto."/>
+	<dia pl="8" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

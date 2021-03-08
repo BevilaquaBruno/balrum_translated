@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Do you know anything about stone tablets?"/>
+    <dia npc="0" str="What are you talking about?"/>
+    <dia pl="10" str="Thurza found a stone tablet at the Packs' house."/>
+    <dia pl="11" str="I have found a stone tablet at the Packs' house."/>
+    <dia npc="1" str="What? What kind of stone tablet? Is there something written on it?"/>
+    <dia pl="2" str="There is something carved into the stone. We are trying to translate it."/>
+    <dia npc="2" str="As soon as you have any news, come to me boy! For the sake of the Pack family."/>
+    <dia pl="3" str="Will do, Arlo." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

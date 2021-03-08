@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Can I talk to you, father?"/>
+    <dia npc="0" str="Sure, son. What bothers your soul?"/>
+    <dia pl="1_0" str="Father Malvin knows about the girls you have been bringing to the rectory." jumpNPCd= "2" jumpPlayerd = '3'/>
+    <dia pl="1_1" str="I have to confess, father. I have been to the brothel more than once and I have been hearing rumors of newborn children. One might be mine? What should I do, father?"/>
+    <dia npc="1" str="'The man's eyes are open wide and they remain without blinking for many seconds'. If one finds himself in a situation like this one, one should do the honorable thing and bring up the child."/>
+    <dia pl="2" str="Thank you, father. I will do what I have to." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia npc="2" str="The father knows? What have we done? Our animal needs took over our minds. Tell the father that we will end it once and for all."/>
+	<dia pl="3" str="I will." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

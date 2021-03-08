@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="You seem upset Thursa! What's the problem?"/>
+    <dia npc="0" str="Thank the gods! I was just about to go and try to find you! Robert has not come home yet! He went hunting two days ago and I haven't heard of him since! This never happened before, something must have happened! I need you to and find him! I should have told you sooner, he's been drinking even more lately. I have something really important to say to him."/>
+    <dia pl="10" str="Your husband is an excellent hunter, I doubt anything bad happened to him."/>
+    <dia pl="11" str="I'm surprised that this doesn't happen more often. He's a drunk, still you love and care for him. I will go and find him!"/>
+    <dia pl="12" str="I'm really sorry Thursa, but I don't have time for this."/> 
+    <dia npc="1" str="Thank you! Bartok might know where he went. Please hurry!"/>
+    <dia pl="2" str="..." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Eres Zelma?"/>
+    <dia npc="0" str="Si. Quién lo pregunta?"/>
+    <dia pl="1" str="Tina está muy preocupada. Ella piensa que algo horrible te ha pasado. Qué estás haciendo aquí?"/>
+    <dia npc="1" str="Vivimos aquí ahora. Encontramos al hombre perfecto para nosotras."/>
+    <dia pl="2" str="El hombre perfecto? 'Un enorme troll viene de fuera de los bosques. El saluda a las chicas y empezó a mordisquear una pierna de ciervo.'"/>
+    <dia npc="2" str="Si, el hombre perfecto . Se llama Bugg. El nos mantiene satisfechas en todos los sentidos. Lo tenemos todo aquí. Nunca volveré a trabajar para Sabrina. Dile a Tina que todo está bien y que ella debe ocuparse de su propio negocio."/>
+	<dia pl="3" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

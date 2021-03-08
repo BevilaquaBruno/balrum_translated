@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I've talked to Brown about the stone tablets."/>
+    <dia npc="0" str="What did he say? Does he know something?"/>
+    <dia pl="1" str="The only thing that he told me is that we should stay away from the tablet and that they are long forgotten magical items."/>
+    <dia npc="1" str="Good old Brown was always a little scared of the unknown. Right now we can't ignore this. It might help us in finding the Packs."/>
+    <dia pl="2" str="That's what I told him. He agreed, but said that we should be really careful. Why does Brown think that the tablet is dangerous?"/>
+    <dia npc="2" str="I don't know, Son. Brown was always afraid of things that are new to him. He only trusts things that are written about in his books. Only time will tell if the stone tablet is dangerous or not."/>
+	<dia pl="3" str="Brown is a good man and a great teacher. Let him be a little bit too cautious." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

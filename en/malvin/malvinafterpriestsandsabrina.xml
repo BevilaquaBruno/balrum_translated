@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I know that you have been seen at the brothel, father."/>
+    <dia npc="0" str="Nonsense! What are you blabbering about?"/>
+    <dia pl="1" str="I talked to Sabrina, father."/>
+    <dia npc="1" str="Sabrina? And you believe that little... Enough of this. Leave me boy. Now!"/>
+	<dia pl="2" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

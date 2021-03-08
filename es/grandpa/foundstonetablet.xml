@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+	<dia pl="0" str="Necesito tu ayuda abuelo!"/>
+    <dia npc="0" str="Calmaté hijo. En que puedo ayudarté?"/>
+    <dia pl="10" str="Thurza a encontrado esta tabla de piedra en casa de los Pack."/>
+    <dia pl="11" str="He encontrado esta tabla de piedra en casa de los Pack."/>
+    <dia npc="1" str="Una tabla de piedra? Déjala en la mesa, hijo!"/>
+    <dia pl="2" str="Nunca había visto nada igual. Qué puede ser? Podrías leer las escrituras?"/>
+    <dia npc="2" str="Interesante, El fuego no ha dañado la tabla de piedra. Es cómo si alguien la hubiera dejado despues del incendio a propósito. Se trata de una piedra antigua la escritura que esta marcada es reciente. Quien, o que, lo ha hecho? Podría intentar de leer la escritura pero necesito tiempo. Y como a terminado en casa de los Pack?"/>
+    <dia pl="3" str="No lo sé. Espero que puedas leerlo, abuelo. Nos podría ayudar a encontrar a los Pack."/>
+    <dia npc="3" str="Dame tiempo chico. Ves a ver a Brown, es hora de tus clases de alquimia. Pregúntale a Brown si sabe algo acerca de las tablas de piedra."/>
+	<dia pl="4" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

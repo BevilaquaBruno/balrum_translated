@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Como están las cosas en el asilo?"/>
+    <dia npc="0" str="Bienvenido, bienvenido! Gracias por preguntar. El asilo y sus pacientes están excepcionalmente bien, gracias."/>
+    <dia pl="1" str="Escuche gritos. Seguro que está todo bien?"/>
+    <dia npc="1" str="Disparates! Estas en un asilo, mi niño. Tiene que haber gritos. Como ves, las pobres almas que viven aquí son inestables. Nosotros somos los que hacen su vida un poco más soportable. Como ves, no existe ninguna cura para su enfermedad."/>
+    <dia pl="2" str="Como sabes qué no hay cura?"/>
+    <dia npc="2" str="Mis predecesores trataron de encontrar una cura. Todos fracasaron. Yo decidí ayudar a estas personas, no experimentar con ellas. Creo que es suficiente por hoy. Gracias por tu visita."/>
+	<dia pl="3" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

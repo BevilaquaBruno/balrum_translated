@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I have a delivery for you people."/>
+    <dia npc="0" str="Who are you? I don't know you, you, you, you."/>
+    <dia pl="1" str="The boys at the farm could not make the delivery. I'm delivering for them."/>
+    <dia npc="1" str="Why would they send a cow to deliver our mahoka?"/>
+    <dia pl="2" str="A cow? What are you talking about?"/>
+    <dia npc="2" str="I never knew that I can speak to cows, cows, cows. My life would have been way different if I knew I can talk to cows. Tell me cow. Do you have some milk, milk, milk?"/>
+	<dia pl="3" str="Here. Take the package." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

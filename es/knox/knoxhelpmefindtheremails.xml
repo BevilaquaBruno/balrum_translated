@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Gail me dijo que hablara contigo. Necesito encontrar los restos de los nigromantes."/>
+    <dia npc="0" str="Un recién llegado con una interesante misión. Por qué buscas los restos?"/>
+    <dia pl="1" str="Tengo mis razones. Me gustaría mantenerlo en secreto."/>
+    <dia npc="1" str="Es justo. Nuestro gremio no tiene una biblioteca, por razones obvias. No nos gusta tener un registro de nuestros esfuerzos. Lo que tu buscas es conocimiento secreto. Solo el gremio de magos sabe donde están escondidos los restos. Creo que podemos hacer que ocurra algo aquí."/>
+    <dia pl="2" str="Te escucho."/>
+    <dia npc="2" str="Ya debes saber a estas alturas que la mayoría de nuestros hombres utilizan los dispositivos de teletransporte. Podríamos hacer un dispositivo para teletransportarte a la biblioteca de los magos. Allí puedes encontrar la información que buscas."/>
+	<dia pl="3" str="Me puedes hacer un dispositivo de este tipo?"/>
+    <dia npc="3" str="Puedo con la ayuda de Daralis. Pero no será fácil convencer a Daralis para que ayude a un recién llegado."/>
+    <dia pl="4" str="Voy a hablar con Daralis. Tengo que convencerle para que me ayude."/>
+    <dia npc="4" str="Buena suerte."/>
+	<dia pl="5" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

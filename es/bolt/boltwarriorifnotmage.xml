@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Guardianes de la luz."/>
+    <dia npc="0" str="Como conoces esa palabra, joven?"/>
+    <dia pl="1" str="Me las enseño Arlo. El era un miembro del gremio hace mucho tiempo."/>
+    <dia npc="1" str="Arlo? No he sabido nada de ese bastardo desertor desde hace años. Debe estar escondido en algún lugar disfrazado de campesino mientras nosotros luchamos para mantener lo que queda de la Alianza. Apuesto a que la vida lo ha hecho gordo y lento. Qué quieres de nosotros?"/>
+    <dia pl="2" str="Quiero unirme a la alianza."/>
+    <dia npc="2" str="No es un buen comienzo que seas un amigo de un traidor. Pero supongo que Arlo no tiene nada que ver con tu lealtad. Los principios de la alianza son la confianza y el honor. Si demuestras que eres de fiar y eres un hombre honorable seras aceptado en nuestra sociedad. Tengo una orden para ti. Uno de nuestros miembros a estado ausente durante mucho tiempo. Estaba explorando la antigua mina de carbón al noreste de aquí, justo encima de la cantera. Dame tu mapa, marcare la ubicación. Por lo que se esto es confidencial. Averigua que le ha pasado y informar de la situación."/>
+	<dia pl="3" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

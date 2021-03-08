@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I have helped a few members. Am I able to join now?"/>
+    <dia npc="0" str="I know you helped Ward. I also know you have defeated Rider in a fight. Impressive! And Lyre was suspiciously fond of you when I asked about you. So yes, boy! You are an honorable journeyman of the warriors' guild. I welcome you. From now on, if duty calls you must be ready to fulfil every order given you by someone who is above your rank. You are free to go outside of the camp if you are not ordered to stay inside. Usually we have an initiation ceremony with the king himself but we don't have a king right now. We don't even have a place to stay, so please forgive our plainness. Your first order is to rest. You did well. We cannot help you with your mission but now that you are one of us you should talk to Lee from the mages' guild. They should be able to help you. And don't forget to talk to the boys. From now on they will trade with you and teach you."/>
+	<dia pl="1" str="I'm honored to be a part of the guild." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

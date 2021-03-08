@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Can you tell me about the history of the monks?"/>
+    <dia npc="0" str="The most fascinating story for me is the creation of death. Are you interested in it?"/>
+    <dia pl="1" str="Yes. Please continue."/>
+    <dia npc="1" str="When the old gods created the world there was no death. The people they created were immortal but when they got very old they lost their minds. Historians say the walking dead of the south are the ancient people created by the old gods. Nasrus, who is one of the old god's children, despised the humans her parents brought to life. Nasrus tortured and played with them. The old gods were furious with Nasrus for torturing their creations. They ordered Nasrus to only play with the ancient ones who became really old and lost their minds, the ones commonly known as the undead. The old documents say that at this time the old gods died. They left their three children, Adacus, Eogor and Nasrus, to rule all the realms. Adacus and Eogor were the ones who in secret decided that death had to be created."/>
+    <dia pl="2" str="..."/>
+    <dia npc="2" str="They had to create death to stop the growth of the undead population. The creation of death made Nasrus angry. She kept her word to her parents and she only tortured the undead, but now the number of the undead slowly started to decrease without immortal humans. This created a conflict between the three gods. Adacus and Eogor in their anger told Nasrus that her birth was unwanted and her father was the mad god who had been banished to the void centuries ago. Nasrus was furious. She distanced herself from the gods and started to conjure up her own creations. She promised immortality to her creations without the madness that comes with old age. Legends say that she could only create these creatures from already living beings."/>
+	<dia pl="3" str="Fascinating. Thank you for telling me."/>
+    <dia npc="3" str="My pleasure, young man. If you are interested in ancient history do take a look at our library here."/>
+	<dia pl="4" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

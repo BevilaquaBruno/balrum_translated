@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Pareces enfadado. Tienes algún problema?"/>
+    <dia npc="0" str="Bienvenido viajero. Supongo que bienes en son de paz. Tienes razón, estoy enfadado. Un gran cocodrilo esta matando a nuestra gente. Nosotros hemos vivido en armonía con los animales salvajes durante siglos. Pero esta horrible bestia está atacando constantemente a nuestros pescadores."/>
+    <dia pl="1" str="Donde puedo encontrar a la bestia?"/>
+    <dia npc="1" str="Qué vas hacer? No queremos matar a la criatura. Hará enfadar a los demás."/>
+    <dia pl="2" str="No hay otra opción. La bestia es un peligro para el pueblo. Piensa en los niños."/>
+    <dia npc="2" str="Tienes razón viajero. Gracias por abrirme los ojos. Si consigues hacer frente a esta tarea te premiare con un objeto especial. Mis antepasados recibieron la llave de la cripta que esta cerca de nuestro pueblo, a sido transmitida de generación en generación. Yo te daré esa llave."/>
+	<dia pl="3" str="Acabaré con la bestia." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

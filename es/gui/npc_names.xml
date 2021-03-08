@@ -1,0 +1,324 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--%data% data-->
+<!--%n% new line-->
+<!--%l% line skip-->
+<npcName>
+<npcName id="0" n="Arda"/>
+<npcName id="1" n="Arlo"/>
+<npcName id="2" n="Aron"/>
+<npcName id="3" n="Barnabas"/>
+<npcName id="4" n="Bartok"/>
+<npcName id="5" n="Brown"/>
+<npcName id="6" n="Cardew"/>
+<npcName id="7" n="Dayna"/>
+<npcName id="8" n="Eudora"/>
+<npcName id="9" n="Fox"/>
+<npcName id="10" n="Fred"/>
+<npcName id="11" n="Abuelo"/>
+<npcName id="12" n="Ida"/>
+<npcName id="13" n="Jones"/>
+<npcName id="14" n="Leonard"/>
+<npcName id="15" n="Myron"/>
+<npcName id="16" n="Osric"/>
+<npcName id="17" n="Rhys"/>
+<npcName id="18" n="Rufus"/>
+<npcName id="19" n="Sam"/>
+<npcName id="20" n="Selina"/>
+<npcName id="21" n="Thurza"/>
+<npcName id="22" n="Wilson"/>
+<npcName id="23" n="Padre Hain"/>
+<npcName id="24" n="Rupert"/>
+<npcName id="25" n="Flint"/>
+<npcName id="26" n="Simon"/>
+<npcName id="27" n="Basil"/>
+<npcName id="28" n="Ged"/>
+<npcName id="29" n="Gosfrid"/>
+<npcName id="30" n="Mary"/>
+<npcName id="31" n="Vena"/>
+<npcName id="32" n="Sue"/>
+<npcName id="33" n="Esther"/>
+<npcName id="34" n="Elfreda"/>
+<npcName id="35" n="Mildred"/>
+<npcName id="36" n="Clay"/>
+<npcName id="37" n="Doyle"/>
+<npcName id="38" n="Spike"/>
+<npcName id="39" n="Kyler"/>
+<npcName id="40" n="Miller"/>
+<npcName id="41" n="Gerald"/>
+<npcName id="42" n="Fleta"/>
+<npcName id="43" n="Fleming"/>
+<npcName id="44" n="Edith"/>
+<npcName id="45" n="Winnie"/>
+<npcName id="46" n="Edmund"/>
+<npcName id="47" n="Guardia"/>
+<npcName id="48" n="Jorick"/>
+<npcName id="49" n="Hugh"/>
+<npcName id="50" n="Bingham"/>
+<npcName id="51" n="Buck"/>
+<npcName id="52" n="Edgar"/>
+<npcName id="53" n="Walker"/>
+<npcName id="54" n="Harry"/>
+<npcName id="55" n="Baldwin"/>
+<npcName id="56" n="Neil"/>
+<npcName id="57" n="Dayna"/>
+<npcName id="58" n="Dudley"/>
+<npcName id="59" n="Fleming"/>
+<npcName id="60" n="Rhys"/>
+<npcName id="61" n="Fleta"/>
+<npcName id="62" n="Bruja negra"/>
+<npcName id="63" n="Miller"/>
+<npcName id="64" n="Troll enfermo"/>
+<npcName id="65" n="Troll curado"/>
+<npcName id="66" n="Clay"/>
+<npcName id="67" n="Doyle"/>
+<npcName id="68" n="Walker"/>
+<npcName id="69" n="Anciana"/>
+<npcName id="70" n="Wisp"/>
+<npcName id="71" n="Señor Benedict"/>
+<npcName id="72" n="Reina araña"/>
+<npcName id="73" n="Wren"/>
+<npcName id="74" n="Garra negra"/>
+<npcName id="75" n="Señor Crystal"/>
+<npcName id="76" n="Reina de los gusanos"/>
+<npcName id="77" n="El Sapo"/>
+<npcName id="78" n="Líder de la manada"/>
+<npcName id="79" n="Viuda negra"/>
+<npcName id="80" n="Keeper"/>
+<npcName id="81" n="La montaña"/>
+<npcName id="82" n="Coágulo"/>
+<npcName id="83" n="Ciervo fantasma"/>
+<npcName id="84" n="Padre Xain"/>
+<npcName id="85" n="Madre"/>
+<npcName id="86" n="Esqueleto guardián"/>
+<npcName id="87" n="Armadura caminante"/>
+<npcName id="88" n="Charlie"/>
+<npcName id="89" n="Betsy"/>
+<npcName id="90" n="Fleta"/>
+<npcName id="91" n="Mujer de negro"/>
+<npcName id="92" n="Araña del bosque"/>
+<npcName id="93" n="Cría de araña del bosque"/>
+<npcName id="94" n="Espíritu espada"/>
+<npcName id="95" n="Guardián de la llama"/>
+<npcName id="96" n="Philip"/>
+<npcName id="97" n="Muddy"/>
+<npcName id="98" n="Lily"/>
+<npcName id="99" n="Rana de la ciénaga"/>
+<npcName id="100" n="Oso"/>
+<npcName id="101" n="Oso negro"/>
+<npcName id="102" n="Araña de los bosques zafiro"/>
+<npcName id="103" n="Golem de cristal"/>
+<npcName id="104" n="Fantasma"/>
+<npcName id="105" n="Larva enferma"/>
+<npcName id="106" n="Araña de los bosques esmeralda"/>
+<npcName id="107" n="Larva"/>
+<npcName id="108" n="Esqueleto"/>
+<npcName id="109" n="Araña del bosque"/>
+<npcName id="110" n="Golem de piedra"/>
+<npcName id="111" n="Golem de la ciénaga"/>
+<npcName id="112" n="Lobo"/>
+<npcName id="113" n="Araña negra del bosque"/>
+<npcName id="114" n="Rata gigante"/>
+<npcName id="115" n="Troll"/>
+<npcName id="116" n="Mantis gigante"/>
+<npcName id="117" n="Serpiente"/>
+<npcName id="118" n="Rana del bosque"/>
+<npcName id="119" n="Garrapata"/>
+<npcName id="120" n="Garrapata enferma"/>
+<npcName id="121" n="Fantasma general"/>
+<npcName id="122" n="Fantasma espadachín"/>
+<npcName id="123" n="Ciervo"/>
+<npcName id="124" n="Cervato"/>
+<npcName id="125" n="Cerdo"/>
+<npcName id="126" n="Cerdo joven"/>
+<npcName id="127" n="Araña verde eclosionada"/>
+<npcName id="128" n="Esqueleto brujo"/>
+<npcName id="129" n="Araña negra"/>
+<npcName id="130" n="Rana rey"/>
+<npcName id="131" n="Manoken"/>
+<npcName id="132" n="Gallina"/>
+<npcName id="133" n="Cerdo perdido"/>
+<npcName id="134" n="Espíritu"/>
+<npcName id="135" n="Jax"/>
+<npcName id="136" n="Tu"/>
+<npcName id="137" n="Fantasma comandante"/>
+<npcName id="138" n="Mantis Humanoide"/>
+<npcName id="139" n="Gerald"/>
+<npcName id="140" n="Figura encapuchada"/>
+<npcName id="141" n="Tot"/>
+<npcName id="142" n="Rata"/>
+<npcName id="143" n="Abominación"/>
+<npcName id="144" n="Adia"/>
+<npcName id="145" n="Bardan"/>
+<npcName id="146" n="Beggar"/>
+<npcName id="147" n="Berk"/>
+<npcName id="148" n="Bishop"/>
+<npcName id="149" n="Bolt"/>
+<npcName id="150" n="Cory"/>
+<npcName id="151" n="Dale"/>
+<npcName id="152" n="Dane"/>
+<npcName id="153" n="Daralis"/>
+<npcName id="154" n="Dex"/>
+<npcName id="155" n="Fay"/>
+<npcName id="156" n="Gail"/>
+<npcName id="157" n="Garett"/>
+<npcName id="158" n="Guardia"/>
+<npcName id="159" n="Harad"/>
+<npcName id="160" n="Ivar"/>
+<npcName id="161" n="Ivo"/>
+<npcName id="162" n="Rey de las alcantarillas"/>
+<npcName id="163" n="Knox"/>
+<npcName id="164" n="Lander"/>
+<npcName id="165" n="Lee"/>
+<npcName id="166" n="Lona"/>
+<npcName id="167" n="Lyre"/>
+<npcName id="168" n="Malvin"/>
+<npcName id="169" n="Max"/>
+<npcName id="170" n="Mick"/>
+<npcName id="171" n="Morven"/>
+<npcName id="172" n="Oswin"/>
+<npcName id="173" n="Paton"/>
+<npcName id="174" n="Puby"/>
+<npcName id="175" n="Queenie"/>
+<npcName id="176" n="Raven"/>
+<npcName id="177" n="Renfrid"/>
+<npcName id="178" n="Rider"/>
+<npcName id="179" n="Rigg"/>
+<npcName id="180" n="Rod"/>
+<npcName id="181" n="Sabrina"/>
+<npcName id="182" n="Ulger"/>
+<npcName id="183" n="Ullok"/>
+<npcName id="184" n="Valerie"/>
+<npcName id="185" n="Van"/>
+<npcName id="186" n="Ward"/>
+<npcName id="187" n="Guardián blanco"/>
+<npcName id="188" n="Travis"/>
+<npcName id="189" n="Jilian"/>
+<npcName id="190" n="Diego"/>
+<npcName id="191" n="Verne"/>
+<npcName id="192" n="Nye"/>
+<npcName id="193" n="Eliza"/>
+<npcName id="194" n="Moulton"/>
+<npcName id="195" n="Fitz"/>
+<npcName id="196" n="Ora"/>
+<npcName id="197" n="Ed"/>
+<npcName id="198" n="Brik"/>
+<npcName id="199" n="Bretta"/>
+<npcName id="200" n="Avis"/>
+<npcName id="201" n="Ivy"/>
+<npcName id="202" n="Joana"/>
+<npcName id="203" n="Una"/>
+<npcName id="204" n="Etta"/>
+<npcName id="205" n="Perry"/>
+<npcName id="206" n="Pell"/>
+<npcName id="207" n="Norcross"/>
+<npcName id="208" n="Videl"/>
+<npcName id="209" n="Ketty"/>
+<npcName id="210" n="Worrel"/>
+<npcName id="211" n="Xander"/>
+<npcName id="212" n="El jardinero"/>
+<npcName id="213" n="Creed"/>
+<npcName id="214" n="Cara"/>
+<npcName id="215" n="Roberta"/>
+<npcName id="216" n="Tina"/>
+<npcName id="217" n="Zelma"/>
+<npcName id="218" n="Artie"/>
+<npcName id="219" n="Tilford"/>
+<npcName id="220" n="Eric"/>
+<npcName id="221" n="Aida"/>
+<npcName id="222" n="Henry"/>
+<npcName id="223" n="Ewald"/>
+<npcName id="224" n="Vernon"/>
+<npcName id="225" n="Jack"/>
+<npcName id="226" n="Benn"/>
+<npcName id="227" n="Lew"/>
+<npcName id="228" n="Jago"/>
+<npcName id="229" n="Isaac"/>
+<npcName id="230" n="Guardián de Void"/>
+<npcName id="231" n="Comerciante"/>
+<npcName id="232" n="Zachary"/>
+<npcName id="233" n="Nigromante"/>
+<npcName id="234" n="Gar"/>
+<npcName id="235" n="Ned"/>
+<npcName id="236" n="Fern"/>
+<npcName id="237" n="Ike"/>
+<npcName id="238" n="Monstruo de las profundidades"/>
+<npcName id="239" n="Figura extraña"/>
+<npcName id="240" n="Estatua extraña"/>
+<npcName id="241" n="Pata gigante"/>
+<npcName id="242" n="Margaret"/>
+<npcName id="243" n="Patty"/>
+<npcName id="244" n="Troll amigable"/>
+<npcName id="245" n="Vieja roca"/>
+<npcName id="246" n="Orran"/>
+<npcName id="247" n="Chief"/>
+<npcName id="248" n="Cocodrilo feroz"/>
+<npcName id="249" n="Anfitrión de Nasrus"/>
+<npcName id="250" n="Hombre nativo"/>
+<npcName id="251" n="Mujer nativa"/>
+<npcName id="252" n="Niño nativo"/>
+<npcName id="253" n="Rey Edward"/>
+<npcName id="254" n="York"/>
+<npcName id="255" n="Mercer"/>
+<npcName id="256" n="Iwdael"/>
+<npcName id="257" n="Emma"/>
+<npcName id="258" n="Tadd"/>
+<npcName id="259" n="Diente de sable no-muerto"/>
+<npcName id="260" n="Ciervo no-muerto"/>
+<npcName id="261" n="Triceratops no-muerto"/>
+<npcName id="262" n="Mantis no-muerto"/>
+<npcName id="263" n="Escarabajo gigante no-muerto"/>
+<npcName id="264" n="Serpiente no-muerto"/>
+<npcName id="265" n="Ciempies no-muerto"/>
+<npcName id="266" n="Cocodrilo"/>
+<npcName id="267" n="Ciervo anciano"/>
+<npcName id="268" n="Diente de sable anciano"/>
+<npcName id="269" n="Triceratops anciano"/>
+<npcName id="270" n="Lagarto del desierto"/>
+<npcName id="271" n="Mantis del desierto"/>
+<npcName id="272" n="Polilla del desierto"/>
+<npcName id="273" n="Raptor del desierto"/>
+<npcName id="274" n="Escarabajo gigante del desierto"/>
+<npcName id="275" n="Esqueleto del desierto"/>
+<npcName id="276" n="Araña del desierto"/>
+<npcName id="277" n="Lagarto"/>
+<npcName id="278" n="Polilla gigante"/>
+<npcName id="279" n="Raptor"/>
+<npcName id="280" n="Escarabajo gigante"/>
+<npcName id="281" n="Ciempies"/>
+<npcName id="282" n="No-muerto"/>
+<npcName id="283" n="Anciano"/>
+<npcName id="284" n="Viviana"/>
+<npcName id="285" n="Kit"/>
+<npcName id="286" n="Calf"/>
+<npcName id="287" n="Ildi"/>
+<npcName id="288" n="George"/>
+<npcName id="289" n="Attila"/>
+<npcName id="290" n="Vaca"/>
+<npcName id="291" n="Mariposa luz de luna"/>
+<npcName id="292" n="Vigía zafiro"/>
+<npcName id="293" n="Cangrejo gigante"/>
+<npcName id="294" n="Escarabajo anciano"/>
+<npcName id="295" n="Arquitecto"/>
+<npcName id="296" n="Escarabajo transformado"/>
+<npcName id="297" n="Cangrejo de agua salada"/>
+<npcName id="298" n="Ronius Stockius"/>
+<npcName id="299" n="Rolf Suffermountain"/>
+<npcName id="300" n="Ayla"/>
+<npcName id="301" n="Vega"/>
+<npcName id="302" n="Robert Zayin"/>
+<npcName id="303" n="Elest Terr"/>
+<npcName id="304" n="Lia"/>
+<npcName id="305" n="Torric Wolfsbane"/>
+<npcName id="306" n="Skvader"/>
+<npcName id="307" n="Crapi"/>
+<npcName id="308" n="LugLug"/>
+<npcName id="309" n="Cangrejo de cueva"/>
+<npcName id="310" n="Murray"/>
+<npcName id="311" n="Daichi"/>
+<npcName id="312" n="Escarabajo de oro gigante"/>
+<npcName id="313" n="Durmiente"/>
+<npcName id="314" n="Escarabajo anciano"/>
+<npcName id="315" n="Ruben de Kavitah"/>
+<npcName id="316" n="Árbol carmesí"/>
+<npcName id="317" n="Estatua en reparación"/>
+</npcName>

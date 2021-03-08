@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Estoy listo Eric."/>
+    <dia npc="0" str="Bien, vamos. Va a ser muy divertido!"/>
+	<dia pl="1" str="Vamos." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

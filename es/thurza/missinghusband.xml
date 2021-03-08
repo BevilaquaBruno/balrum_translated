@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Pareces molesta Thurza! Cuál es el problema?"/>
+    <dia npc="0" str="Gracias a los dioses! Estaba apunto de ir a buscarte! Robert no ha vuelto a casa! Se fue a cazar hace dos días y no he oído hablar de el desde entonces! Esto nunca había sucedido, algo debe haberle pasado! Necesito que lo encuentres! Debería habértelo dicho antes, el ha estado bebiendo más últimamente. Tengo algo muy importante que decirle."/>
+    <dia pl="10" str="Tu marido es un excelente cazador, no creo que nada malo le haya sucedido."/>
+    <dia pl="11" str="Me sorprende que esto no suceda más a menudo. El es un borracho, pero todavía lo quieres y te preocupas por el. Voy a ir a buscarlo!"/>
+    <dia pl="12" str="Lo siento mucho Thurza, pero no tengo tiempo para esto."/> 
+    <dia npc="1" str="Gracias! Bartok podría saber hacia donde fue. por favor daté prisa!"/>
+    <dia pl="2" str="..." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

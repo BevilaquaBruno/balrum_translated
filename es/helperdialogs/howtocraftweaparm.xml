@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Dime como elaborar armas y armaduras."/>
+    <dia npc="0" str="No te lo he dicho unas cuantas veces ya? Bien, pero presta mucha atención en este momento!"/>
+    <dia pl="1" str="Por favor continua."/>
+    <dia npc="1" str="Necesitas tener los materiales. Lo más probable es que necesites hierro procesado, siempre puedes utilizar las barras de hierro. Pero esta claro que puedes elegir otros materiales como base de tu creación. Una vez hayas decidido que material utilizaras como componente principal se debe experimentar mezclando otros materiales y ver que resultado se obtiene. Es importante dedicar tiempo para darle la forma deseada a tu creación."/>
+    <dia pl="2" str="..."/>
+    <dia npc="2" str="No trates de hacer armaduras de dalantium tu primera vez. Tienes que practicar, solo siendo un experto podrás trabajar con otros materiales!"/>
+	<dia pl="3" str="Gracias por tu tiempo." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="He despertado a Gar tal y como me pediste."/>
+    <dia npc="0" str="Qué pasó?"/>
+    <dia pl="1" str="Nada."/>
+    <dia npc="1" str="Ahh eso no es divertido. Por lo general, se transforma cuando consigues asustarlo. Quizás la próxima vez."/>
+    <dia pl="2" str="Me darás tu aprobación?"/>
+    <dia npc="2" str="Claro! Le diré a Van que hiciste lo que te pedí. Ahora vete tenemos otras cosas que hacer."/>
+	<dia pl="3" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

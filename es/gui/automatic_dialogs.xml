@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--%data% data-->
+<!--%n% new line-->
+<!--%l% line skip-->
+<dialogs>
+
+<dialogs id="0" n="No puedes hacerte más fuerte. Tienes que encontrar otro maestro." />
+<dialogs id="1" n="No puedes hacerte más destreza. Tienes que encontrar otro maestro." />
+<dialogs id="2" n="No puedes hacerte más inteligente. Tienes que encontrar otro maestro." />
+<dialogs id="3" n="No puedes hacerte más sabio. Tienes que encontrar otro maestro." />
+<dialogs id="4" n="No puedes aumentar más tu mana. Tienes que encontrar otro maestro." />
+<dialogs id="5" n="Me gustaría aumentar mi fuerza. Coste: %data% thaler y %data% PA." />
+<dialogs id="6" n="Me gustaría tener más destreza. Coste: %data% thaler y %data% PA." />
+<dialogs id="7" n="Me gustaría ser más inteligente. Coste: %data% thaler y %data% PA." />
+<dialogs id="8" n="Me gustaría ser más sabio. Coste: %data% thaler y %data% PA." />
+<dialogs id="9" n="Me gustaría aumentar mi mana. Coste: %data% thaler y %data% PA." />
+
+
+<dialogs id="10" n=" Alquimia." />
+<dialogs id="11" n=" Artes arcanas." />
+<dialogs id="12" n=" Tiro con arco." />
+<dialogs id="13" n=" Supervivencia." />
+<dialogs id="14" n=" Cocinar." />
+<dialogs id="15" n=" Fabricar armaduras." />
+<dialogs id="16" n=" Fabricar armas." />
+<dialogs id="17" n=" Agricultura." />
+<dialogs id="18" n=" Caza." />
+<dialogs id="19" n=" Minería y fundición." />
+<dialogs id="20" n=" Abrir cerraduras." />
+<dialogs id="21" n=" Esgrima." />
+<dialogs id="22" n=" Crear trampas." />
+<dialogs id="23" n=" Carpintería." />
+
+<dialogs id="24" n="Quiero aprender alquimia!" />
+<dialogs id="25" n="Quiero aprender los secretos arcanos!" />
+<dialogs id="26" n="Quiero aprender como manejar un arco!" />
+<dialogs id="27" n="Quiero aprender a sobrevivir en el bosque!" />
+<dialogs id="28" n="Quiero aprender a cocinar!" />
+<dialogs id="29" n="Quiero aprender los secretos de fabricar armaduras!" />
+<dialogs id="30" n="Quiero aprender a fabricar armas!" />
+<dialogs id="31" n="Quiero aprender a cultivar!" />
+<dialogs id="32" n="Quiero aprender el arte de la caza." />
+<dialogs id="33" n="Quiero aprender a minar y ha fundir." />
+<dialogs id="34" n="Quiero aprender abrir cerraduras." />
+<dialogs id="35" n="Quiero aprender a manejar un cuchillo." />
+<dialogs id="36" n="Quiero aprender a utilizar trampas." />
+<dialogs id="37" n="Quiero aprender a trabajar con la madera." />
+<dialogs id="38" n=" Coste: %data% thaler y %data% PA." />
+<dialogs id="39" n=" Coste: %data% thaler." />
+<dialogs id="40" n=" Eliminar %data% desventaja(s). Coste: %data% thaler." />
+<dialogs id="41" n="No puedo enseñarte otra habilidad principal. (Ya eres de clase dual)" />                         
+</dialogs>

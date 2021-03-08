@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="He encontrado una esencia de piedra!"/>
+    <dia npc="0" str="Buen trabajo! Puedo continuar con mis experimentos."/>
+    <dia pl="1" str="Qué esperas averiguar?"/>
+    <dia npc="1" str="Hace mucho tiempo había un miembro de la alianza que aprendió a controlar a los golem. Creo que si un golem resucita, me aceptará como su maestro. Le diré a Van que eres muy útil. El clan necesita más miembros como tu."/>
+	<dia pl="2" str="Gracias Dex. Buena suerte con tus experimentos." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

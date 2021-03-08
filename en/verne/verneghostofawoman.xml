@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="You look frightened. Is everything alright?"/>
+    <dia npc="0" str="I told the others about the ghost, but they don't believe me."/>
+    <dia pl="1" str="What ghost?"/>
+    <dia npc="1" str="A woman. I saw her late at night in the woods to the east of here. She kept walking towards me. I didn't know what to do. I had to run. As I got further away from her she whispered something into my ear as if she was standing next to me."/>
+    <dia pl="2" str="What did she say?"/>
+    <dia npc="2" str="I was so frightened I didn't understand, but it had to do something with her child."/>
+    <dia pl="3" str="I believe you."/>
+    <dia npc="3" str="The others don't. They think I was drunk to the bone."/>
+	<dia pl="4" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

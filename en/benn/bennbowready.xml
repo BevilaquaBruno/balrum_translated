@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Are you ready with the bow Benn?"/>
+    <dia npc="0" str="Look at it! It's a masterpiece! Here take it! Use it for good. If its not much to ask please tell the people that I made it! I'm really proud of it!"/>
+    <dia pl="1" str="Thank you Benn. I will." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I brought you ingredients, Ivo. It's a special powder."/>
+    <dia npc="0" str="'Ivo carefully smells and tastes each and every ingredient he thinks might be interesting. He closes his eyes and breathes deeply.' I think we have something here young man. This powder is extraordinary. I will certainly try it. Where did you find it?"/>
+    <dia pl="1" str="It comes from the wings of a giant moth."/>
+    <dia npc="1" str="Interesting, a giant moth you say. That won't be easy to obtain. Thank you for your help. Here, take a bottle of my oldest spirit. You earned it. Also let me tell you a secret of my trade. The secret is to age the spirit in these special casks you see around here. And the bigger secret is that the one I give the rebels is only aged for a few weeks. The bloody idiots are not sophisticated enough to taste the difference. I have to add some color to the product because to get this wonderful dark red color one has to age the spirit for years. One day I will try to give them one without added color. They might be stupid enough not to notice."/>
+	<dia pl="2" str="Take care, Ivo." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

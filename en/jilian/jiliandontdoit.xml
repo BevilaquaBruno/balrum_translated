@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="You cannot do it."/>
+    <dia npc="0" str="Why?"/>
+    <dia pl="1" str="It's my fault. I shouldn't have killed the bear. Dying its fur is cheating and dishonest. Don't do it!"/>
+    <dia npc="1" str="You are right. Thank you for stopping me. I will tell Diego everything."/>
+	<dia pl="2" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

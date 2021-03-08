@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I have heard that the milk you are selling is sour. The people are demanding a refund."/>
+    <dia npc="0" str="What? I don't sell sour milk! My milk is perfect! It's not my fault the imbecile peasants keep the milk under the sun and drink it way too late. Who complained?"/>
+    <dia pl="1" str="Several customers of yours complained. Three of them to be exact."/>
+    <dia npc="1" str="I cannot believe it. Then they must be telling the truth. Here is the refund. 150 thalers for three of my customers. I hope you are to be trusted with this money. Get back to them at once. Here is a little extra for your time. And if you have some spare time go and talk to my son, Garett. He's the one responsible for filling the buckets with milk. Tell him about this. I hope for his sake he hasn't done something stupid."/>
+	<dia pl="2" str="I will do what you ask. Thank you." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

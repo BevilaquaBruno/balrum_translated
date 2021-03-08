@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I found the remains."/>
+    <dia npc="0" str="Your mission is far from complete."/>
+    <dia pl="1" str="Can you help me in finding the remaining necromancers?"/>
+    <dia npc="1" str="I cannot help you, your majesty. You must seek out the help of the guilds. I advise you to contact the mages guild or the warriors guild. The third guild cannot be trusted."/>
+    <dia pl="2" str="My ancestors could not destroy these remains. Is there a way to destroy them?"/>
+    <dia npc="2" str="Triston tried everything. He gathered the mages and the ancient beings of the world. Not even their united power could destroy the remains. Nasrus protects them with every power she has."/>
+    <dia pl="3" str="What would happen if I was able to destroy them?"/>
+    <dia npc="3" str="That cannot be foreseen."/>
+    <dia pl="4" str="I have to try to destroy the remains. It's the only way. If I resurrect the necromancers they would destroy Balrum. There's no force that could stop them."/>
+    <dia npc="4" str="They must have thought about this. They know that it is nearly impossible to destroy their remains. They wouldn't have sent you on this mission otherwise."/>
+    <dia pl="5" str="There must be a way."/>
+    <dia npc="5" str="The mages had an idea when Triston showed them the remains. They thought that if Triston unites the dragons their power might be enough, but Triston was unable to gather the dragons. I was the only one at Triston's disposal and my powers alone were not enough."/>
+	<dia pl="6" str="How many dragons are there? Why did Triston fail?"/>
+    <dia npc="6" str="There are three of us left. I know that I'm the only one left on this island. Both my brothers left Balrum centuries ago. Time made Triston fail. He and the mages were too anxious. They wanted to get rid of the remains as soon as possible."/>
+    <dia pl="7" str="Could you contact your brothers? Have you any idea where they might be?"/>
+    <dia npc="7" str="It doesn't work that way. I cannot reach my brothers. I would have helped Triston in finding them but I couldn't. And I cannot help you either."/>
+    <dia pl="8" str="If I find your brothers will you help me destroy the remains?"/>
+    <dia npc="8" str="I will do whatever I can, my king."/>
+	<dia pl="9" str="Thank you, guardian." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Have you been able to translate the carvings Grandpa?"/>
+    <dia npc="0" str="Sadly no, Son. I'm not able to translate the writings. I tried everything I know."/>
+    <dia pl="1" str="What are we going to do now?"/>
+    <dia npc="1" str="I might know someone who can help us. Your magic teacher Leonard. I think he will be able to decipher the secret of this stone tablet. Take the tablet with you and visit Leonard."/>
+	<dia pl="2" str=" I will be back as soon as possible Grandpa!" jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

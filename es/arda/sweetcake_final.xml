@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="He venido a por mi trozo de tarta Arda! Huele delicioso!"/>
+    <dia npc="0" str="Aquí tienes. A salido muy bueno. Su consistencia, sabor, y tamaño son los adecuados. Creo que es el mejor pastel que he hecho! Gracias por ayudarme. Disfruta de la tarta!"/>
+    <dia pl="1" str="Gracias Arda." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

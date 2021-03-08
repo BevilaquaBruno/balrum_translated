@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Eres un miembro del gremio de los magos?"/>
+    <dia npc="0" str="Bienvenido viajero. Has completado los puzzles que se te presentaron en los niveles inferiores. Eso significa que tienes derecho a estar aquí. De hecho, si, soy un miembro del gremio de los magos. En qué puedo ayudarte?"/>
+    <dia pl="1" str="Leonard, un exmiembro de su gremio, me envió aquí. Necesito encontrar los restos de los nigromantes del bosque oscuro. Leonard me dijo que su gremio sabe donde están."/>
+    <dia npc="1" str="En efecto. Hace muchos años a nuestro gremio se le dio la tarea de sellar todos los lugares de descanso de los nigromantes con magia de gran alcance."/>
+    <dia pl="2" str="Me puede decir donde se escondieron los restos?"/>
+    <dia npc="2" str="Me temo que no puedo. Puedo notar que no eres un viajero ordinario. Todavía no puedo hacer excepciones. El conocimiento que buscas es un secreto para los extraños. Solo los miembros de la alianza o los miembros del gremio de guerreros pueden acceder a esa información. Tu no eres miembro de ninguna alianza."/>
+	<dia pl="3" str="Mi búsqueda es de suma importancia. Hay vidas en peligro. Necesito está información."/>
+    <dia npc="3" str="Por favor, baja tu voz. Lo entiendo, pero no te puedo ayudar. Tienes que ser miembro de uno de los gremios, sabemos que son de fiar."/>
+    <dia pl="4_0" str="Como puedo ser miembro del gremio de los magos?"/>
+    <dia pl="4_1" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia npc="4" str="Continua hasta el final de estos pasillos. Te encontraras a los miembros de la alianza haciendo sus tareas diarias. Encontraras a un hombre llamado Van. El es el responsable de los reclutas. Tendrá respuestas para ti."/>
+	<dia pl="5" str="Gracias." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

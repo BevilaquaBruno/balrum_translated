@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="He hablado con tu hijo."/>
+    <dia npc="0" str="Qué a pasado?"/>
+    <dia pl="1" str="Una tanda de leche salió mal de un principio. Tu hijo a limpiado el bidón en un momento. No va a suceder otra vez."/>
+    <dia npc="1" str="Espero que no vuelva a suceder. Voy a decirle a Garett que pruebe todas las tandas antes de venderla. Gracias por controlar esto. Aquí tienes el dinero. Por favor devuélveselo a Adia."/>
+    <dia pl="2" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

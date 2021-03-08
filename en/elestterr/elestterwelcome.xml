@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Are you a hunter?"/>
+    <dia npc="0" str="What do you think?"/>
+    <dia pl="1" str="I don't think so."/>
+    <dia npc="1" str="I'm on my first mission."/>
+    <dia pl="2" str="What kind of mission?"/>
+    <dia npc="2" str="The kind where one has to remove something that causes trouble for someone else."/>
+    <dia pl="3" str="I think I know what you mean. Why would a young woman like you decide to do such a thing?"/>
+    <dia npc="3" str="When you grow up on the streets pickpocketing people for a few thalers you grab the first opportunity that could change your life. Someone noticed my street skills and decided to perfect them and to put them to good use."/>
+    <dia pl="4" str="Can I say or do something to make you change your mind?"/>
+    <dia npc="4" str="There is no going back. I have been training for years now. The kind of people who trained me won't allow me to simply quit. I know you won't believe me, but they are good people. We do great favours for the realm. Either way, these things have to be done. If I don't do them someone else will."/>
+    <dia pl="5" str="I understand."/>
+    <dia npc="5" str="I feel I can trust you. I'm looking for a man. A horrible man who hurt many women. He's the one who causes trouble for a lot of people. He runs a gambling den somewhere underground. Sometimes he 'invites' young women to his parties. He is worse than the rebels. I have to go now. Keep your eyes open and don't trust anyone."/>
+	<dia pl="6" str="Wait!" jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

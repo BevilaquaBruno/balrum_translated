@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Fred! Do you remember when Hugo died?"/>
+    <dia npc="0" str="Of course I remember, kid. He was one of my best friends. What do you want?"/>
+    <dia pl="1" str="Don't you think it is a little suspicious that he fell into the well that he was digging out, and also that he fell in at night when the workers were not supposed to be working?"/>
+    <dia npc="1" str="Yes, I told Arlo about it. I told him years ago that Hugo was not even drunk that night. But he and the others would not listen. I guess I might have been wrong. He might have had a few beers. I had a few that night, that I know for sure. How do I know, you ask? Because every single night I have a.. few beers. I'm the innkeeper, so that's not a big surprise. Right, kid?"/>
+    <dia pl="2" str="Somehow I don't believe that Hugo's death was an accident."/>
+    <dia npc="2" str="It was a long time ago. Don't you mess with the past, kid. What difference would it make if he jumped in the damn well or was pushed in? He's dead, and that's the end of it. He was a good friend of mine. A friend who you could count on. Except when he was mad drunk, ha ha. Good old Hugo."/>
+	<dia pl="3" str="Thank you Fred. I might have been wrong. You might be right about not messing around with the past."/>
+    <dia npc="3" str="Now, don't you go down that well! Here take this beer kid. Let's drink to Hugo's memory. 'You drink a cold beer from a dirty old mug. As the cold spreads through your body the feeling that Hugo's death was not an accident grows even stronger in you.'"/>
+	<dia pl="4" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+   <dia pl="0" str="I found a letter in the grave but I don't understand the markings on it."/>
+   <dia npc="0" str="Fascinating. Thankfully I can read the letter. It's written in an ancient language used by the people who lived in these woods. A few of their old houses can still be seen deep in the woods."/>
+   <dia pl="1" str="What does it say?"/>
+   <dia npc="1" str="It says 'May you never rest in peace'."/>
+   <dia pl="2" str="There was a skull impaled on a stick."/>
+   <dia npc="2" str="Those who buried the body wanted to desecrate the person. They sealed the body so no one would know where the body was buried and they even desecrated the body itself. This man or woman must have played an important role in Darkwood's history. "/>
+   <dia pl="3" str="Do you trust me now?"/>
+   <dia npc="3" str="Yes, I do. The question is whether you want to work for me? It won't be easy."/>
+   <dia pl="4" str="What do I have to do?"/>
+   <dia npc="4" str="Now that I can trust you I can reveal what I'd found out already. I found a document written in the same ancient language as the one you just gave me. It describes the horrible things the necromancers did within these woods. I believe there are more of these documents to be found! Your task is to find all of the documents so we can understand what was happening in Darkwood centuries ago. "/>
+   <dia pl="5" str="Where should I start looking?"/>
+   <dia npc="5" str="I don't have specific locations for you. The crypts are a good place to start, but I would imagine that you will be able to find documents all around Darkwood."/>
+   <dia pl="6" str="If I find something I will bring it to you! "/>
+   <dia npc="6" str="Very good. We will discover what happened here together!"/>
+   <dia pl="7" str="End." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

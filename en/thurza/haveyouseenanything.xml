@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Do you know anything about the Packs, Thurza?"/>
+    <dia npc="0" str="Terrible things are happening. I heard a child's cry and when I ran out I saw the flames. I ran for help as fast as I could. They disappeared. Not even a corpse. After the smoke faded away I entered the remains of their home. I haven't told anyone yet, but I found something."/>
+    <dia pl="1" str="What have you found, Thurza? Why haven't you showed it to anyone?"/>
+    <dia npc="1" str="My husband is out on a hunt. I will show him what I found before I show anyone else. He would be really mad if I showed it to someone before him."/>
+    <dia pl="2" str="But the lives of the Packs might be in danger! If you found something, you must show it to me."/>
+    <dia npc="2" str="But Robert will be mad."/>
+    <dia pl="3" str="You have to understand that time is of the essence now. Please Thurza!"/>
+    <dia npc="3" str="It's really heavy. There is writing on it but I can't read it. I think it was written in an ancient language. If it helps, you can have it. Please don't tell my husband that I gave it to you."/>
+    <dia pl="4" str="What can this be? I will show it to my grandfather, he might know more. I won't tell anyone that you found this. I hope this will help us find them."/>
+    <dia npc="4" str="I hope so, too."/>
+	<dia pl="5" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

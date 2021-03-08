@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="What happened here?"/>
+    <dia npc="0" str="Why are you here? Are you a friend of Moulton?"/>
+    <dia pl="1_0" str="Yes." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia pl="1_1" str="No, I'm only a customer. I'm here for some wheat."/>
+    <dia npc="1" str="Well you are late, boy. The old man is dead. Now I have to look after this stinking farm."/>
+    <dia pl="2" str="Dead? What happened?"/>
+    <dia npc="2" str="The old man tried to poison us. I have to say it was mighty clever and brave of him but he wasn't so brave when we had a little chat with him. Ha ha!"/>
+	<dia pl="3" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

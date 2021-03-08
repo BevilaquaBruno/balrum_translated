@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Como va todo?"/>
+    <dia npc="0" str="Vamos a mantener la voz baja. Eres el único que sabe lo de la alianza de los guerreros?"/>
+    <dia pl="1_0" str="Como sabes sobre eso?" jumpNPCd= "2" jumpPlayerd = '3'/>
+    <dia pl="1_1" str="El gremio de guerreros? Se separaron hace mucho tiempo verdad?"/>
+    <dia npc="1" str="Cometí un error. Tu no eres a quien estoy buscando. Perdóname."/>
+    <dia pl="2" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia npc="2" str="Veo un montón de cosas ya sabes. Mantengo los ojos bien abiertos."/>
+    <dia pl="3" str="Si hable con ellos. Por qué lo preguntas?"/>
+    <dia npc="3" str="Quiero unirme a ellos. Me podrías introducir? Creo que si alguien que los conoce me presenta, tengo mas posibilidades de ser aceptado."/>
+	<dia pl="4" str="Por supuesto, sígueme." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

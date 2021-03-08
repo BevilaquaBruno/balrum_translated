@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="What is this place?"/>
+    <dia npc="0" str="You are lucky, young traveller."/>
+    <dia pl="1" str="Why?"/>
+    <dia npc="1" str="Usually I don't bother with visitors. They end up in my pit rather quickly. But I need your help. You can thank Murray that you are still alive."/>
+    <dia pl="2_0" str="I know your type. You are a necromancer. Say goodbye to your pit."  jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia pl="2_1" str="So you kill everyone you see?"/>
+    <dia npc="2" str="I might have exaggerated a little. Will you help me or not?"/>
+    <dia pl="3" str="Who is Murray? And yes, I will help you. I don't want to end up in your lovely pit."/>
+    <dia npc="3" str="Good! Good! Murray is my masterpiece. He was an unfortunate peasant who wondered too close to these lands. The undead here swiftly took care of him. I thought he would make a great servant so I tried to resurrect him. He did come back from the dead but he has his problems to say the least. Ever since I've been trying to perfect my methods. He went missing a few weeks ago. If you find him bring him back to me and I will reward you greatly."/>
+    <dia pl="4" str="If I see him I will bring him back."/>
+    <dia npc="4" str="Excellent! Now leave. I have more important things to do than talking to you."/>
+	<dia pl="5" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

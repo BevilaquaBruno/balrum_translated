@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="An adventurer named Fleming gave me his famous armour for repairs."/>
+    <dia npc="0" str="Show me the work, boy.. Ah, a fine piece of metal this is. It's design tells me it was made centuries ago. A true heavy armour. Only the strongest warriors can bear its weight. It's in a horrid condition, I might add. There are large spots of rust on the greaves and the left vambrace."/>
+    <dia pl="1" str="Vambrace?"/>
+    <dia npc="1" str="The vambrace is the piece of armour that protects your forearm, boy. This armour requires regular cleaning and attention. The current owner doesn't know that."/>
+    <dia pl="20" str="Can you repair it, Aron? Fleming is a poor man. He was hoping that you might do the work for free." jumpNPCd= "2" jumpPlayerd = '3'/>
+	<dia pl="21" str="Can you repair it? Fleming gave me a few dozen thalers for your work." jumpNPCd= "3" jumpPlayerd = '4'/>
+	<dia pl="22" str="I told Fleming that you might do the work for free because nowadays you can't work on armour and weapons, so his famous armour might be a treat for you." jumpNPCd= "4" jumpPlayerd = '5'/>
+    <dia npc="2" str="Your friend is out of luck. I can't do the work for nothing. Take this fine armour to someone else and tell this Fleming that he should not expect free work from strangers."/>
+	<dia pl="3" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia npc="3" str="Yes, my boy. This armour is really interesting. But I have to replenish my supply of iron ore, because I'm running low. Bring me 10 lumps of iron and I'll repair Flaming's armour. Keep the thalers boy."/>
+    <dia pl="4" str="Thank you Aron! I'll bring you the ore you need. When will you be ready?" jumpNPCd= "5" jumpPlayerd = '6'/>
+    <dia npc="4" str="Dear boy, you shouldn't have told him that I would do the work for free. The repairs will take a lot of time. But if you could do my work while I'm repairing it we might have a deal! I'm running out of iron ore. Bring me 10 lumps of iron and I'll repair this fine armour. I'll start the work right now."/>
+	<dia pl="5" str="I'll bring you the ore you need. When will you be ready?"/>
+	<dia npc="5" str="The repairs shouldn't take more than a day. If you bring me the ores I will need at least a day to repair this armour for you."/>
+	<dia pl="6" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

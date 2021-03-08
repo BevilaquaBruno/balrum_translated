@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Are you a musician?"/>
+    <dia npc="0" str="Yes I am. How did you figure it out? Ohh, maybe all the instruments here, right? I'm sorry, I'm just joking. What can I do for you?"/>
+    <dia pl="1" str="I was about to ask the same question."/>
+    <dia npc="1" str="Well, I'm always looking for new instruments. If you bring me an exotic guitar I will give you one of my old ones that I don't use any more and a few thalers. What do you say?"/>
+    <dia pl="2" str="If I find something, I will bring it to you."/>
+    <dia npc="2" str="It has to be in working condition. Ohh, and the older the guitar the better, but there should be no big cracks on it, small ones are fine. The wood matures you know. Old wood can have incredible overtones. Maybe you will find a rare one made out of perfect pinewood. I await your return!"/>
+	<dia pl="3" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

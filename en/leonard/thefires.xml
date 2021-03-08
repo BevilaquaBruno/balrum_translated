@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Have you heard about the disappearance and the fires Leonard?"/>
+    <dia npc="0" str="Fires? No I haven't. I sensed a great deal of darkness. It might have been the fires that you talk about. Disappearance? Tell me everything boy."/>
+    <dia pl="1" str="Our home and the Packs' house caught fire. The Pack family disappeared without a trace and their house burnt down. Grandpa stopped the fire in time."/>
+    <dia npc="1" str="The Pack family vanished? I have a feeling that dark magic is at work here. Stay away from this, boy. For your own good."/>
+    <dia pl="20" str="Arlo organized a search for the Packs. If they need me, I will help." jumpNPCd= "0" jumpPlayerd = "0"/>
+    <dia pl="21" str="You might be right Leonard." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

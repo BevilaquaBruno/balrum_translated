@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Disfrutando de la fiesta?"/>
+    <dia npc="0" str="La fiesta ahora es mucho mejor. Te gustaría beber algo conmigo?"/>
+    <dia pl="1_0" str="Tenia la esperanza de que dijeras eso." jumpNPCd= "2" jumpPlayerd = '3'/>
+    <dia pl="1_1" str="Creo que paso."/>
+    <dia npc="1" str="Tu te lo pierdes, cielo. Quizás la próxima vez."/>
+    <dia pl="2" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia npc="2" str="Sígueme, bombon."/>
+	<dia pl="3" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

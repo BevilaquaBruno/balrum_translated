@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Qué haces aquí?"/>
+    <dia npc="0" str="Mi nombre es Pell. Estoy de guardia."/>
+    <dia pl="1" str="Debe ser bastante aburrido."/>
+    <dia npc="1" str="Es lo más aburrido de todo. Nadie va a venir por aquí. Los guerreros del rey se han disuelto y los otros reinos están muy lejos de los mares. Quién iba a atacar la ciudad? Como te digo, nadie. Aún así, tengo que permanecer aquí y mirar a los árboles."/>
+    <dia pl="2" str="Así es la vida de un guardia."/>
+    <dia npc="2" str="Tan buena vida."/>
+	<dia pl="3" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

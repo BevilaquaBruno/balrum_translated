@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="How are things?"/>
+    <dia npc="0" str="Same old same old. Why is a young man like you interested in my wellbeing? I haven't seen you around, boy. Who are you?"/>
+    <dia pl="1" str="I'm an adventurer. I live in the forest on my own."/>
+    <dia npc="1" str="I see. You know I've seen many things in my life, boy. I've seen how fear can change people."/>
+    <dia pl="2" str="What did you see?"/>
+    <dia npc="2" str="When these poor unfortunate simpletons invaded the city the members of the royal court ran as fast as they could. Some of them tried to gather their valuables, but they all died. The smarter ones left as fast as they could. Leaving everyone behind. Not even trying to defend the castle."/>
+	<dia pl="3" str="You stayed here? Why didn't they kill you?"/>
+    <dia npc="3" str="They needed someone who knows the castle inside and out."/>
+	<dia pl="4" str="Take care." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

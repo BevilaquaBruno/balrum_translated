@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Do you need anything, Ida? I'm looking for work."/>
+    <dia npc="0" str="Do you know anything about woodworking?"/>
+    <dia pl="1" str="I know a little."/>
+    <dia npc="1" str="Then you should be able to fix my fence! The fence has rotted away and I need you to repair it for me. That fence keeps wild animals off my farm and you know how important my farm is to the village. I've already asked Jones for help but he told me that the fence is fine as it is.. You will see, I need the fence fixed as soon as possible. I can give you nice fresh ripe vegetables if you help me. What do you say?"/>
+    <dia pl="2" str="I'll help you Ida. If your farm is not protected properly, then our village is in jeopardy. You supply most of our vegetables."/>
+    <dia npc="2" str="Thank you. Here, take these ripe carrots in advance."/>
+	<dia pl="3" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

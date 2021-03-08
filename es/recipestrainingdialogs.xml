@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <diastr s="Me gustaría aprender una nueva receta."/>
+	<diastr s="Hay alguna receta que me puedas enseñar?"/>
+	<diastr s="Me puedes enseñar una nueva receta?"/>
+</dialogs>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="He ayudado algunos miembros. Puedo unirme ahora?"/>
+    <dia npc="0" str="Se que ayudaste a Ward. También se que has derrotado a Rider en una pelea. Impresionante! Y Lyre sospechosamente te apreció mucho cuando le hable de ti. Así que si, chico! Eres oficialmente un honorable hombre del gremio de guerreros. Bienvenido. A partir de ahora, si el deber te llama tienes que estar listo para obedecer cualquier orden que te de alguien por encima de tu rango. Eres libre de salir fuera del campamento siempre que no se te ordene permanecer en su interior. Por lo general, tenemos una ceremonia de iniciación con el rey, pero no tenemos rey en este momento. Ni siquiera tenemos un lugar donde quedarnos, así que porfavor perdonanos por nuestra sencillez. Tu primera orden es descansar. Lo hiciste bien. Nosotros no podemos ayudarte con tu misión, pero ahora que eres uno de los nuestros debes ir hablar con Lee del gremio de los magos. Ellos deberían poder ayudarte, y no te olvides de hablar con los chicos. De ahora en adelante negociaran contigo y te enseñaran cosas."/>
+	<dia pl="1" str="Me siento honrado de formar parte de la alianza." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

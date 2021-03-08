@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Buck is hiding corpses in his house! You have to do something!"/>
+    <dia npc="0" str="What are you talking about? Corpses? In his house?"/>
+	<dia pl="1" str="He is hiding at least half a dozen dead bodies. Something has to be done quickly before he disappears!"/>
+	<dia npc="1" str="Blasphemy! How dare he? I will send for him right now. A cold prison cell will be his home from now on. Adacus will not tolerate such heretic acts."/>
+	<dia pl="2" str="End."  jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

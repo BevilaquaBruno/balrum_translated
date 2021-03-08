@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="No te veo trabajar Rhys. Ni un solo día."/>
+    <dia npc="0" str="Métete en tus asuntos. Por que metes la nariz donde no te llaman?"/>
+    <dia pl="1" str="Todo el mundo tiene un puesto de trabajo en la aldea. Todo el mundo hace algo para mejorar la aldea menos tu."/>
+    <dia npc="1" str="Quieres hacerme enfadar? Eso es lo que quieres? A caso te vas hacer famoso. Déjame solo."/>
+    <dia pl="2" str="Pero, qué tiene que ver esto?"/>
+    <dia npc="2" str="Estoy enfadado. Lárgate."/>
+	<dia pl="3" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

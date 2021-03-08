@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I'm here for the armor, Ulger."/>
+    <dia npc="0" str="It's not as good as I wanted it to be. The many years without a hammer in my hands shows. I need time to recover my talent. Here, I hope you find my armor worthy of your time."/>
+	<dia pl="1" str="Thank you, Ulger." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

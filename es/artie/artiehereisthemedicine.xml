@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Aquí están tu botellas, Artie."/>
+    <dia npc="0" str="Gracias, mi chico. El viejo Ivo sabe hacer que tu espíritu se endurezca."/>
+	<dia pl="1" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

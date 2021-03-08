@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--%data% data-->
+<!--%n% new line-->
+<!--%l% line skip-->
+<floating_texts>
+         <miss id="0" n="Miss" />
+         <dodge id="1" n="Dodge" />
+         <block id="2" n="Block" />
+         <criticalStrike id="3" n="Critical Strike" />
+         <parry id="4" n="Parry" />
+         <resist id="5" n="Resist" />
+         <immune id="6" n="Immune" />
+         <maxDots id="7" n="Cannot apply more damage over time effects!" />
+         <alreadyDottedWithThat id="8" n="Effect is already active!" />
+         <feared id="9" n="Feared!" />
+         <frozen id="10" n="Frozen!" />
+         <sapped id="11" n="Dazed!" />
+         <stunned id="12" n="Stunned!" />
+         <polymorphed id="13" n="Polymorphed!" />
+         <reflected id="14" n="Reflected!" />
+         <notYourTurn id="15" n="It's not my turn!" />
+         <trap id="16" n="Trap is activated!" />
+         <absorbed id="17" n="Absorbed!" />
+         <maxStack id="18" n="Maximum same effect stack reached!" />
+         <toofaraway id="19" n="It's too far away!" />
+         <youarestuck id="20" n="I'm stuck!" />
+         <youhaveMasteredThisSkillLevel id="21" n="I have mastered this skill level! %n%I should go and visit a teacher." />
+         <wakeUP id="22" n="Wake up!" />
+         <spell_not_usable id="23" n="Spell not usable!" />
+         <fullBelly id="24" n="Full belly!" />
+         <potionOverdose id="25" n="I cannot drink potions!" />
+         <youaredoingsomething id="26" n="I'm occupied!" />
+         <yourhealthhasIncreased id="27" n="I feel warmth. My health has increased!" />
+         <youMagicalPowersIncreased id="28" n="My magical powers have increased!" />
+         <youfeelMoreDexterous id="29" n="I'm more dexterous!" />
+         <youfeelStronger id="30" n="I feel stronger!" />
+         <youFeelTheEssenceOfMana id="31" n="I feel the essence of mana!" />
+         <skillIncreased id="32" n="My skill increased!" />
+         <skillProgress id="33" n="My skill has increased!" />
+         <lockpickBroken id="34" n="I have broken a %r%lockpick%r%." />
+         <noLockpicks id="35" n="I don't have any lockpicks." />
+         <skillTooLow id="36" n="My skill is too low." />
+         <thisPlaceWillBeGoodForDayna id="37" n="This place would be great for Dayna!" />
+         <rememberingHugosDeath id="38" n="Hugo died a few years ago. %n%How did he die? %n%I should ask Grandpa!" />
+         <aronmightbeabletomakeakey id="39" n="This door needs a key! %n%The keyhole looks like a triangle. %n%Aron might be able to make me a key that will fit!" />
+         <repaired id="40" n="Repaired!" />
+         <foundEdgardAStatuePresent id="41" n="This statue of a frog would be perfect for Edgar!" />
+         <notEnoughMaterials id="42" n="Not enough materials!" />
+         <no_empty_bottle id="43" n="Missing empty bottle!" />
+         <no_alchemy_modifyer id="44" n="Missing alchemy modifier!" />
+         <iSeeYou id="45" n="I see you!" />
+         <thankYouTorture id="46" n="Thank you!" />
+         <noo_Torture id="47" n="Aahh, noo, don't come closer! Please!" />
+         <requirement id="48" n="Requirement not met!" />
+         <somethingIsInTheWay id="49" n="Something is in the way!" />
+         <refilledWithWater id="50" n="Refilled a few things with water." />
+         <helpThief id="51" n="Help! Thief!" />
+         <levelUP id="52" n="I reached a new level!" />
+         <youArenotSmartEnough id="53" n="You are not smart enough!" />
+         <youArenotStrongEnough id="54" n="You are not strong enough!" />
+         <critical_miss id="55" n="Critical Miss" />
+         <needShovel id="56" n="I need a shovel!" />
+         <needPoleAxe id="57" n="I need a %r%Pickaxe%r%!" />
+         <needWoodcutterAxe id="58" n="I need a %r%Woodcutter's Axe%r%!" />
+         <brokenPickAxe id="59" n="A %r%Pickaxe%r% has broken!" />
+         <brokenWoodcutterAxe id="60" n="A %r%Woodcutter's Axe%r% has broken!" />
+         <brokenShovel id="61" n="A %r%Shovel%r% has broken!" />
+         <not_enough_space id="62" n="No more space in my inventory!" />
+         <not_enough_space_for_all id="63" n="Not enough space!" />
+         <save_quick_save id="64" n="Quick Save!" />
+         <critical_success id="65" n="Critical success!" />
+         <critical_fail id="66" n="Critical fail!" />
+         <cantDoThatRightNow id="67" n="Cannot do that right now!" />
+         <lockpick_special id="68" n="I used a special lockpick!" />
+         <tooFarAway id="69" n="Too far away!" />
+         <enemiesNearby id="70" n="Enemies are nearby!" />
+         <treasure_map_complete id="71" n="The Map is now complete!" />
+         <you_are_not_in_safe_place id="72" n="I'm not at the safeplace!" />
+         <youCannotTameThatAnimal id="73" n="I cannot tame that animal." />
+         <perfectCast id="74" n="Perfect cast! No mana was used." />
+         <craftingBuffMax id="75" n="Cannot use more custom buffs!" />
+         <save_auto_save id="76" n="Auto Save!" />
+         <cannotBeTamed id="77" n="Cannot be tamed!" />
+         <huntingSkillToLow id="78" n="Hunting skill too low!" />
+         <somethingIsEating id="79" n="Something is moving in my backpack!" />
+         <failedToDisrmTrap id="80" n="Failed to disarm!" />
+         <criticalCrafting id="81" n="Critical craft!" />
+         <weapon_missing id="82" n="Weapon missing!" />
+         <banned_words id="83" n="I wrote a banned word!" />
+         <hungry_bug_trading id="84" n="I'm too ashamed to show my backpack." />
+         <iPutMyPetAway id="85" n="I had to dismiss my pet!" />
+         <ammoRequired id="86" n="Ammunition required!" />
+         <safeplaceTrinketMissing id="87" n="Safeplace trinket is missing! I should talk to Grandpa!" />
+         <save id="88" n="Game Saved" />     
+         <caughtWisp id="89" n="I extracted the energy of a wisp!" />
+         <noWispNearby id="90" n="There are no wisps nearby." />
+         <imInCombat id="91" n="In combat!" />
+         <cannotPitchTentIntheMiddelOfVillage id="92" n="I should not pitch my tent here." />
+         <notEnoughBuildingMaterial id="93" n="Not enough building materials!" />
+         <farmingSkilldoesntAllowMoreFileds id="94" n="My farming skill level doesn't allow more Fields!" />      
+         <lootmore id="95" n="%data% %r%%data%%r% added to my Inventory." />  
+         <newspell id="96" n="%r%%data%%r% is available in the Spellbook." /> 
+         <newquest id="97" n="A new %r%quest%r% has been added to my Journal." />  
+         <excuse id="98" n="Excuse me!" />
+         <drunked id="99" n="Hic..hic." />
+         <filledbottles id="100" n="I refilled a few bottles." />
+         <putontheground id="101" n="I had to put %data% %r%%data%%r% on the ground." />  
+         <lockpickingLeftCorrect id="102" n="Trying a %r%left%r% turn: I'm closer to the correct combination." />    
+         <lockpickingRightCorrect id="103" n="Trying a %r%right%r% turn: I'm closer to the correct combination." />
+         <lockpickingLeftResets id="104" n="Trying a %r%left%r% turn: That turn was not correct. The lock resets." />
+         <lockpickingRightResets id="105" n="Trying a %r%right%r% turn: That turn was not correct. The lock resets." />
+         <lockpickingRightResets id="106" n="I'm already well hydrated!" />
+         <resistedCompletely id="107" n="Resisted completely!" />  
+         <durability id="108" n="It's ruined. I cannot equip it." />    
+         <cannotUse id="109" n="I cannot use %r%%data%%r% anymore!  " /> 
+         <cannotSave id="110" n="Cannot save in combat!" />
+         <halfBodyCorpse id="111" n="Help me!" />  
+         <wispnoenergy id="112" n="The wisp does not have enough energy!" />
+         <getOutOfNightmareWall id="113" n="Wake up! It's just a dream!" />
+         <oshouldmentionthix id="114" n="I should tell someone what happened!" /> 
+         <cannotTheleportWhileWalking id="115" n="Cannot teleport while walking!" />   
+         <cannotUseSecialPotionWhileWalking id="116" n="Cannot use special potion while walking!" />      
+         <reasonToClimbdown id="117" n="I have no reason to climb down there." />
+         <rustyLever id="118" n="The lever is jammed. It looks really old and rusty." />
+         <blocked id="119" n="%data%'s attack was blocked." />
+         <missed id="120" n="%data%'s attack missed." />
+         <dodged id="121" n="%data%'s attack was dodged." />
+         <parried id="122" n="%data%'s attack was parried." />
+         <resistedCompletely id="123" n="%data%'s attack was resisted completely." />
+         <npcPlayerYou id="124" n="You" />
+         <npcPlayerYour id="125" n="Your" />
+         <unknown id="126" n="Unknown" />  
+         <hittypeArcane id="127" n="Arcane" /> 
+         <hittypeFire id="128" n="Fire" /> 
+         <hittypeFrost id="129" n="Frost" /> 
+         <hittypePhysical id="130" n="Physical" /> 
+         <hittypePoison id="131" n="Poison" /> 
+         <hittypeShadow id="132" n="Shadow" /> 
+         <hittypeWater id="133" n="Water" />  
+         <lootone id="134" n="%r%%data%%r% added to my Inventory." />     
+         <notEnoughMoneyPlayer id="135" n="Not enough money!" />  
+         <notEnoughMoneyTrader id="136" n="The trader doesn't have enough money." />          
+         <safepalcetrinketnotusable id="137" n="Safeplace Trinket is not yet usable." />
+         <nowall id="138" n="I need to place it on a wall." />    
+         <sameNearby id="139" n="There is already one nearby!" />
+         <propertoolsno id="140" n="My mining skill is too low!" />   
+         <needsakey id="141" n="It needs a key!" />  
+         <someoneimportantdied id="142" n="Someone who was very important died! Please load a previous save game." />
+         <ineedahoe id="143" n="I need a hoe!" />
+         <brokenHoe id="144" n="A %r%Hoe%r% has broken!" />
+         <paralyzed id="145" n="Paralyzed!" />
+         <iamstarving id="146" n="I'm starving!" />
+         <iamextremelydehidrated id="147" n="I'm extremely dehydrated!" />
+         <farmingSkilldoesntAllowMoreBushes id="148" n="My farming skill level doesn't allow more berry bushes!" />
+         <distractwarn id="149" n="Only idle targets can be distracted!" />
+         <fullyhydrated id="150" n="Fully hydrated!" />
+         <questmarkeradded id="151" n="There's a new mark on my Map!" />
+         <needtoLearnLockpicking id="152" n="I don't know how to pick locks!" />
+         <noMeleeabilitySeleected id="153" n="No melee ability selected in active QuickSlot Bar!" />
+         <noRangedabilitySeleected id="154" n="No ranged ability selected in active QuickSlot Bar!" />
+         <targetnotvisible id="155" n="Target barely visible!" />
+         <imadealotofnoise id="156" n="I made a lot of noise!" />  
+         <someoneimportantisangry id="157" n="A very important person is angry with you!" />
+         <mapmessage id="158" n="This is not the proper Map for the area." />
+         <ialreadyknowthat id="159" n="I already know that." />
+         <toostrong id="160" n="You are too strong!" />
+         <toosmart id="161" n="You are too smart!" />
+         <abilitynotusable id="162" n="Ability not usable!" />
+         <icannoteatanymore id="163" n="My stomach is full! I'm getting nauseous!" />
+         <icannoteatrightnow id="164" n="I'm nauseous! I cannot eat more." />
+		 <interrupted id="165" n="Interrupted!" />
+		 <cannotgothere id="166" n="I cannot go there." />
+		 <cannoautoin id="167" n="Cannot auto walk in combat." />
+		 <foundnothing id="168" n="I found nothing." />
+		 <nwdarkwood id="169" n="Northwest Darkwood" />	
+		 <neastdarkwood id="170" n="Northeast Darkwood" />
+		 <swdarkwood id="171" n="Southwest Darkwood" />
+		 <sedarkwood id="172" n="Southeast Darkwood" />
+		 <nightmare id="173" n="Nightmare" />
+		 <safeplace id="174" n="Safeplace" />
+		 <cannotrecovermore id="175" n="Already at maximum." />
+		 <itstoodark id="176" n="Too dark!" />
+		 <safeplacetrinketmiss id="177" n="Safeplace trinket is missing!" />	
+		 <learnedanewrecipe id="178" n="I learned a new %r%recipe%r%." />
+		 <needsplint id="179" n="I need a splint." />
+		 <bump id="180" n="Bump!" />
+		 <skilllevel id="181" n="I learned a new skill level." />
+		 <holstileAround id="182" n="Enemy near destination!" />
+		 <immunetodot id="183" n="Immune to damage over time effect." />
+		 <webbed id="184" n="Webbed!" />			
+		 <immune id="185" n="%data% is immune to %data%." />
+		 <immunetoweapon id="186" n="Immune to weapon." />	
+		 <lprecieved id="187" n="Learning Point Received" />
+		 <shiftpressed id="188" n="Shift is pressed!" />
+		 <intro1 id="189" n="I could not locate my brothers." />   
+		 <intro2 id="190" n="The mages' guild has to figure out something!" />  
+		 <intro3 id="191" n="Destroying the remains is beyond our powers." />  
+		 <intro4 id="192" n="Then we have no other choice. We need to hide them." /> 
+		 <intro4 id="193" n="Hundreds of years ago.." />
+		 <intro4 id="194" n="I found one of the remains of the necromancers!" />   	 		
+		 <goldengolemh id="195" n="I found the book! Dex needs stone essence for his experiments." /> 
+		 <needLibraryKey id="196" n="I need the library teleporter rune." />
+		 <wakeupgar id="197" n="What!! Stop playing tricks on me! Leave me alone!" /> 
+		 <joiningthemages id="198" n="I decided to join the mages' guild." /> 
+		 <joinedthemages id="199" n="Now I am a member of the mages' guild!" />
+		 <joiningthewarrs id="200" n="I decided to join the warriors' guild." />  
+		 <joinedthewarrs id="201" n="Now I am a member of the warriors' guild!" />
+		 <joinedthewarrs id="202" n="Wait! You cheated!" />   
+		 <riderdefeated id="203" n="Stop! You win! You win!" />  
+		 <needfreespace id="204" n="Need free space!" />
+		 <morvenwonttele id="205" n="I don't think he will appear." />
+		 <joiningthethieves id="206" n="I decided to join the thieves' guild." /> 
+		 <joinedthethieves id="207" n="Now I am a member of the thieves' guild!" />
+		 <tooclosetoerdal id="208" n="Max told me not to use the rune close to Erdal." />
+		 <necremainsloc id="209" n="Now I know where Triston hid the remains of the Darkwood Necromancers!" />
+		 <garettwake id="210" n="What!! What happened! Hic.. I don't remember a thing! Hic." />	
+		 <labirinth id="211" n="Labyrinth" />
+		 <topoftower id="212" n="Top of the Tower" />
+		 <crystalcave id="213" n="Crystal Cave" />
+		 <excavation id="214" n="Excavation" />	
+		 <undcity id="215" n="Underground City" />
+		 <cotw id="216" n="Cave of the Wisps" />
+		 <bearcave id="217" n="Bear Cave" />
+		 <wolfcave id="218" n="Wolf Cave" />
+		 <stonegc id="219" n="Stone Golem Cave" />
+		 <larvaec id="220" n="Larva Cave" />
+		 <spiderc id="221" n="Spider Cave" />
+		 <icansenseyou id="222" n="I can sense you!" />	
+		 <iwillfindyou id="223" n="I will find you!" />	
+		 <additilp id="224" n="+1 Learning Point" />
+		 <elizawispfarm id="225" n="I should release the wisp near Eliza's farm." />	
+		 <nottamableroberta id="226" n="Not a friendly animal! Cannot be tamed for Roberta!" />	
+		 <robertaclose id="227" n="I should release Roberta's pet near her home!" />
+		 <nwbalrum id="228" n="Northwest Balrum" />	
+		 <neastbalrum id="229" n="Northeast Balrum" />
+		 <swbalrum id="230" n="Southwest Balrum" />
+		 <sebalrum id="231" n="Southeast Balrum" />
+		 <cisland id="232" n="Crocodile Island" />
+		 <searingd id="233" n="Searing Desert" />
+		 <forgplains id="234" n="Forgotten Plains" />
+		 <royalcrypts id="235" n="Royal Crypts" />
+		 <lwcrypts id="236" n="Lower Crypts" />	
+		 <kingcrypts id="237" n="Kings Crypts" />
+		 <bplains id="238" n="Balrum Plains" />
+		 <opastures id="239" n="Old Pastures" />
+		 <mistypla id="240" n="Misty Pines" />
+		 <cata id="241" n="Ancient Catacombs" />
+		 <beforered id="242" n="I should go to the royal crypts before I enter the crypts here." />
+		 <wg1cs id="243" n="We have destroyed the remains!" />
+		 <kotv1cs id="244" n="And now you are weak. %n%I was waiting for a moment like this! %n%You killed me! %n%I shall have my revenge!" />
+		 <necromancerslast id="245" n="What have you done to my masters! %n%I am the host for Nasrus! %n%You cannot stop me! %n%I shall become a god!" />
+		 <grandcs1 id="246" n="You open your eyes and see Grandpa. %n%He is looking down on you with tears in his eyes. %n%You can only barely hear what he is saying." />
+		 <grandcs2 id="247" n="My son! You defeated the necromancers. Nasrus cannot possess the demon they summoned for her. %n%I talked to the White Guardian. Everything will be fine. You saved us! %n%You saved all of us! Please rest now. You have been through a lot. %n%I will be here by your side, my king." />
+		 <endcs1 id="248" n="Who are you?" />
+		 <endcs2 id="249" n="I'm your father, son." />
+		 <endcs3 id="250" n="This is just another dream." />
+	     <endcs4 id="251" n="Yes it is. I tried to contact you in your dreams but I failed. But at last I succeeded. %n%I was causing you those strange nightmares. I'm sorry for that, my boy." />
+		 <endcs5 id="252" n="Why? How?" />
+		 <endcs6 id="253" n="You did well my boy. I wanted to tell you what to do but you managed everything on your own. %n% I'm proud of you, my boy! But you still have a long road ahead." />
+		 <endcs7 id="254" n="Your kingdom needs you. %n%You need to take back the throne that is rightfully yours." />
+		 <darkdung id="255" n="Heavy darkness surrounds me. %n%My torch does not seem to work here. %n%I must find a way out of this darkness." />
+		 <gbjilian id="256" n="I saw a giant bear in the forest. I should tell Jilian." />
+		 <warrorerr id="257" n="Improper wall orientation!" />
+		 <nospacewall id="258" n="There is no space on the wall!" />
+		 <notawall id="259" n="Not a wall!" />
+		 <erdal id="260" n="Erdal" /> 
+		 <cannotgotherestrange id="261" n="I sense that I should not go there." /> 
+		 <mypetwont id="262" n="My pet won't go there!" /> 
+		 <co id="263" n="Chapter 2" />
+		 <ct id="264" n="Chapter 3" />
+		 <cth id="265" n="Chapter 4" />
+		 <chf id="266" n="Chapter 5" />
+		 <con id="267" n="Chapter 1" />
+		 <sensestr id="268" n="I sense a strange power here." />   
+		 <newturnnott id="269" n="New turn not triggered!" />   
+		 <cheatdeath id="270" n="Cheat Death" /> 
+		 <footsteps id="271" n="I hear footsteps echoing down here." />
+		 <learneddalantium id="272" n="I learned how to smelt dalantium from Lew. %n%Only the heat of burning perfect pinewood can melt it." />    
+		 <ancientlinen id="273" n="I learned how use ancient linen when making clothes." />
+		 <prism id="274" n="The air is heavy down here. I can hear rats nearby." />
+		 <crystal id="275" n="Heavy footsteps echo from the damp walls of this cave. %n%There are large creatures living here I'm certain." />
+		 <larva id="276" n="It's surprisingly warm down here. %n%The air is filled with the fragrance of forest ferns." />
+		 <spider id="277" n="Many quick and soft footsteps echo through this cave. %n%The ground is covered with a sticky material." />
+		 <bodyhalf id="278" n="I can hear moaning in the distance." />
+		 <dyna id="279" n="There are a lot of small insects down here. %n%They make a constant buzzing sound." />
+		 <expo id="280" n="As I climb down the air gets colder and colder. %n%The damp air makes the cold feel more chilling." />
+		 <lightsop id="281" n="The air is filled with the smell of ash and old wet coal." />
+		 <desert id="282" n="The air is extremely dry here. %n%The never-ending sands pulsate the heat from the sun. The horizon is filled with mirage." />
+		 <undead id="283" n="The winds are strong here. %n%The dead trees cannot damp them. There is an old acidic scent in the air." />
+		 <islands id="284" n="The air is filled with the salty scent of the ocean. %n%I can see giant crabs slowly crawling out of the water in the distance." />
+		 <lower id="285" n="I can barely breath down here, the air is so old. %n%There is a thick layer of fungus on the walls emitting an unpleasant smell which makes breathing even harder." />
+		 <poisongas id="286" n="The air is filled with poisonous gas down here. %n%I cannot stay here for long." />
+		 <cataco id="287" n="It's really hot and damp down here. %n%The air is filled with the smell of old clothes rotting away." />
+		 <nasry id="288" n="The sound of heavy footsteps echo from the walls. %n%I can smell blood and rotting meat in the air. The warm air makes the smells more prominent." />
+		 <continuethegame id="289" n="Congratulations! You have completed the main story! You can keep playing and do all unfinished side quests." />
+		 <desertmap id="290" n="There is no map for the deserts." />
+		 <cannotharvest id="291" n="Cannot harvest yet." />
+		 <neededskilllevel id="292" n="My skill level is too low!" />
+</floating_texts>

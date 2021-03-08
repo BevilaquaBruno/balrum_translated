@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Robert no ha vuelto a casa. Sabes donde puede estar?"/>
+    <dia npc="0" str="Ese viejo borracho. Lo vi de lado a lado cerca de la posada de Fred."/>
+    <dia pl="1" str="Thurza pareces muy molesta. Me dijo que quería decirle algo muy importante a Rupert. Sabes qué?"/>
+    <dia npc="1" str="Creo que ella esta embarazada! Al menos eso es lo que me dijo Selena. Hace algunas noche escuche gritos que procedían de su casa. Espero que no le duela."/>
+    <dia pl="2" str="Iré detrás de el." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Who are you? You've lied to me all these years!"/>
+    <dia npc="0" str="I'm sorry, my boy! I had to protect you from all of this. I was your caretaker back in the castle. I'm not your grandfather by blood. You are the son of King Edward. Who told you this?"/>
+    <dia pl="1" str="I managed to enter the ancient underground city. The spirits of the Darkwood necromancers were down there. They have not been destroyed. They told me everything. I know that a few of us are from the castle. I know that our lives are all lies."/>
+    <dia npc="1" str="You have to understand, son. We had to do this. The revolting rebels would have killed everyone. They killed your father and your mother. We barely managed to escape with you. They did horrible things. We had to flee."/>
+    <dia pl="2" str="I know you had to. I'm sorry. I don't know what to do. I let the necromancers free. I think they killed the Packs. I... I..."/>
+    <dia npc="2" str="You have to calm down. You were only trying to help. Tell me what happened down there."/>
+    <dia pl="3" str="I have to bring back the remains of the necromancers to Darkwood. If I fail, everyone dies. They were planning this for years now. I have no choice. I have to go."/>
+    <dia npc="3" str="Leonard knew that something was not right about these woods. He kept saying that he feels a dark presence. We didn't listen to him. I'm so sorry that you got into this. It's our fault and now you and the others are in great danger. We need to keep calm. You cannot tell anyone about this. They don't know who we are. They think we are simple villagers just like them. Talk to Arlo, he will know what has to be done. No matter what blood you have, you will always be my grandson."/>
+	<dia pl="4" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

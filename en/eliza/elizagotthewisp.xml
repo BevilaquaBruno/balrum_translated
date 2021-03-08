@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I released a wisp near your farm."/>
+    <dia npc="0" str="Thank you, young man! Only time will tell if your idea works. Here, take this as a thank you for your help. You are always welcome on my farm. Talk to Moulton. He might need help too."/>
+    <dia pl="1" str="Thank you." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

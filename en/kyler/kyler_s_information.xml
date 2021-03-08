@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I need to speak to you!"/>
+    <dia npc="0" str="Who are you? How dare you march into my home like this? My guards won't let just anyone in. What do you want?"/>
+    <dia pl="1" str="I've come from the other village. Horrible things are happening to us. People are disappearing and homes are burning down."/>
+    <dia npc="1" str="Slow down! Adacus can't hear you when you talk too fast. I think I know what you are talking about."/>
+    <dia pl="2" str="I have a feeling that Arlo has to do something with the disappearances in our village. But he refuses to say anything. I found an old letter that was written by one of the necromancers. The letter mentions Arlo's name. How can this be? The necromancers were killed a long time ago! What is Arlo hiding from us?"/>
+    <dia npc="2" str="I knew that Arlo was making a big mistake when he agreed to talk to the necromancers. This was the reason why my people left, to go and live far away from him. Arlo did not believe that the old black wizards could do any harm. I tried to talk him out of it but he talked to them anyway. Arlo is a good man and a good leader, but he does not have faith and simply ignores what can't be understood by mortal man. This is what happens to infidels who don't obey the Gods. Once again, I was right. Praise Adacus. May Adacus protect us!"/>
+    <dia pl="3" str="Do you know what happened between Arlo and the necromancers?"/>
+    <dia npc="3" str="Arlo told me that we should meet the dark wizards down in the underground city, but I refused to go with him. When he came back he seemed different, as if something dark plagued his soul. He didn't tell me about anything that had happened down there. At that moment I knew we needed to leave the village and move here. I tried to talk to him but the only thing he said was that he had everything under control and I need not fear anything."/>
+    <dia pl="4" str="Where is this underground city?"/>
+    <dia npc="4" str="I don't know much about the place. The only thing I know is that the city was built a long time ago when one of the ancient gods was trying to eradicate all humans from Balrum. But as you can see, the holy gods protected our ancestors. To answer your question, I don't know where the entrance is. But I know someone who might. Jorick, he was our advisor and he always kept an eye on Arlo. He might know where the entrance is."/>
+    <dia pl="5" str="Where can I find Jorick?"/>
+    <dia npc="5" str="Jorick now lives a hermit's life. He built his home near the four crimson crystal monuments. I will mark your map. I'm afraid he might not talk to you. But if you tell him our secret word, he most certainly will. The word is Anwen!"/>
+    <dia pl="6" str="Thank you for your help Kyler. I hope Jorick will know where the entrance is."/>
+    <dia npc="6" str="Take care! May Adacus protect you on your journey."/>
+	<dia pl="7" str="I'll be on my way." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+ 	<dia pl="0" str="He encontrado lo que quedaba de su hombre. Está muerto. La cueva esta llena de monstruos. No pudo localizar a los ladrones pero escribió una nota sobre unos sonidos que provenían de las paredes de las cuevas."/>
+    <dia npc="0" str="Un día triste. Esta noche honraremos su muerte. Creo que puedo decir cual era su misión. El estaba buscando un pasaje subterráneo que conecta con los establecimientos de los alrededores y la capital. Buscamos una banda de ladrones que han estado saqueando graneros de los granjeros locales. Y si pudiéramos encontrar ese pasaje tendríamos una entrada secreta a la capital. Deseas convertirte en un miembro, asume su misión. Haz honor a su muerte localizando a los ladrones. Si haces esto tendremos en cuenta aceptarte. Toma este barril. Está lleno de material explosivo. Trata de derribar las paredes de las cuevas."/>
+	<dia pl="1" str="Terminaré su misión." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

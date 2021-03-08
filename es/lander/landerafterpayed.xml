@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Tienes una armadura que me resulta familiar. He visto armaduras como esta en otra parte."/>
+    <dia npc="0" str="Soy uno de los cazadores de osos. Donde viste armaduras similares?"/>
+    <dia pl="1" str="De...(No debería hablarle de Fox) La vi hace muchos años de un viajero. No recuerdo su nombre."/>
+    <dia npc="1" str="Podría haber sido uno de nosotros. Nuestro clan se disolvió hace mucho tiempo. Hubo una vez que estábamos orgullosos de ser cazadores de estas tierras. Incluso protegíamos a las aldeas de todo tipo de criaturas como golems y osos. La gente nos amaba. Las mujeres nos amaban. Ha ha!"/>
+    <dia pl="2" str="Qué estas haciendo ahora?"/>
+    <dia npc="2" str="Nada, como ves. Los rebeldes mantienen las cosas en orden, si se puede llamar orden a sus formas. Paso la mayor parte del tiempo aquí con los chicos. Mis días de caza han quedado atrás."/>
+	<dia pl="3" str="Puedes enseñarme?"/>
+    <dia npc="3" str="Que puedo hacer. Qué te gustaría saber?"/>
+	<dia pl="4" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

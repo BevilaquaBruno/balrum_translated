@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I'm here for the remains of a Darkwood necromancer."/>
+    <dia npc="0" str="Why does the king seek the remains?"/>
+    <dia pl="1" str="I'm not the king. I have to find all four necromancers. If I fail my people will die."/>
+    <dia npc="1" str="Your ancestors spoke of those remains your majesty. Triston left me with a mission. I should only allow his descendants to enter the secret chambers of this crypt. I ask you now. Do you need to delve into the secret chambers?"/>
+    <dia pl="2" str="I have to. My people need me."/>
+    <dia npc="2" str="You will be a good king. Care for your people and your kingdom will rise. The passage is open. You may enter the chambers. Your time is approaching rapidly, my king."/>
+	<dia pl="3" str="I'll be on my way."/>
+    <dia npc="3" str="One more thing, your majesty. I cannot allow you to disturb the royal tombs. If you desecrate your ancestors it won't matter that you have the blood of kings running through your veins."/>
+	<dia pl="4" str=" I understand, dragon." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

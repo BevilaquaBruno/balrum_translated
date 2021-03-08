@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I heard about the torches. Believe me, Aron has nothing to do with the fires. The torch that we use at home didn't start the fire because it's on a wall that wasn't burned at all."/>
+    <dia npc="0" str="The torches are the only explanation. I had problems with my own torches."/>
+    <dia pl="1" str="How can you say that? I told you that our torch at home has nothing to do with the fire. Something else started it."/>
+    <dia npc="1" str="Calm down, child. Tell me, what do you think? How did the fire start at your house?"/>
+    <dia pl="2" str="I don't know. But I will find out." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

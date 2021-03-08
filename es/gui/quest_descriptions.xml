@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--%data% data-->
+<!--%n% new line-->
+<!--%l% line skip-->
+<quest>
+<quest id="15" n="He encontrado una abertura en la pared del pozo que me ha llevado a un lugar que fue probablemente construido por seres humanos. No he podido abrir las grandes puertas de hierro que había ahí. Debo decírselo a Fred." />
+<quest id="30" n="Vi una puerta que tenia una cerradura con forma de triángulo. Podría ser capaz de crear una llave que se ajuste. Aron me podría ayudar." />
+<quest id="45" n="Hugh me va a hacer una espada que contiene piedra de cristal, si le traigo 10 minerals de hierro, 5 mineral de plata y 2 de cuero de ciervo." />
+<quest id="60" n="Tengo que encontrar un camino hacia la tumba sellada si quiero conseguir la confianza de Neil." />
+<quest id="75" n="He encontrado una carta en la parte superior de la torre del nigromante. Está escrita en el mismo idioma que la tabla de piedra. Leonard debe ser capaz de traducirla." />
+<quest id="16" n="Tengo la sensación de que puedo entrar en ese lugar bajo tierra desde otra ubicación. Estoy seguro de que encontraré algo ahí abajo que explique por qué murió Hugo." />
+<quest id="31" n="Ida me pidió que reparará la valla de su granja." />
+<quest id="46" n="Me pregunto que hará mal olor en la casa de Buck." />
+<quest id="61" n="Si encuentro un documento con relación a los nigromantes tengo que llevarlo al historiador Neil." />
+<quest id="76" n="El nombre de Arlo se menciona en la carta del nigromante. Necesito hablar con el sobre esto." />
+<quest id="17" n="Antes de ir de caza escuché una conversación sobre Cardew y su anillo. He oído algo acerca de Rhys también. Debería preguntarle a Cardew." />
+<quest id="32" n="Arda está haciendo un pastel de melón. Debo llevarle tres melónes y por la ayuda me dará unos trozos." />
+<quest id="47" n="Me bebí la poción que encontré en la casa de Buck y vi un montón de cadáveres en la habitación bloqueada. Tengo que decirselo a Kyler!" />
+<quest id="62" n="Si encuentro otro documento con relación a los nigromantes tengo que llevarselo al historiador Neil." />
+<quest id="77" n="Wilson es la mano derecha de Arlo. Puede que sepa por qué el nombre de Arlo es mencionado en la carta." />
+<quest id="3" n="Ahora que he vuelto de cazar le debería dar al abuelo 3 piezas de carne de ciervo." />
+<quest id="18" n="Cardew piensa que Rhys le robó el anillo azul." />
+<quest id="33" n="Arda está haciendo un pastel de melón. Debo llevarle tres melones y por la ayuda me dará unos trozos." />
+<quest id="48" n="Bingham está enamorado de Elfreda, pero es demasiado tímido para decirlselo. Me pidió que actuará como un mensajero entre ellos." />
+<quest id="63" n="Si encuentro otro documento con relación a los nigromantes tengo que llevarselo al historiador de Neil." />
+<quest id="78" n="Wilson cree que Kyler podría saber por qué el nombre de Arlo es mencionado en la carta del nigromante. Vive en la otra aldea." />
+<quest id="4" n="Debería darles 2 piezas de carne de ciervo a Edmund y Winnie." />
+<quest id="19" n="Debo llevarle cuatro maderas de pino perfecto a Rhys. El me enseñará sus habilidades si hago esta tarea." />
+<quest id="34" n="Arda me dijo que el pastel que está haciendo estará listo para mañana." />
+<quest id="49" n="Tengo que decirle a Bingham que Elfreda me dijo que tiene que ser más valiente." />
+<quest id="64" n="Edmund y Winnie me pidieron que cazará unas cuantas abejas para su colmena. 10 abejas son suficiente." />
+<quest id="79" n="El guardia de la aldea de Kyler no me deja ver a Kyler hasta que no le demuestre que soy de confianza. Necesito encontrar su anillo familiar perdido. El perdió el anillo en la antigua aldea abandonada." />
+<quest id="5" n="Encontramos una entrada a una ruina con mi amigo Dudley. Debería ir y preguntarle si el está listo para explorarla." />
+<quest id="35" n="El ladrón Miller me enseñará si robo un libro de Rhys. Este libro se supone que ha sido escrito por un experto ladrón." />
+<quest id="50" n="Mentí sobre lo que dijo Bingham. Debería decirle que Elfreda quiere saber por qué a dicho algo como eso." />
+<quest id="65" n="Debería reparar las partes de la casa que quedaron dañadas por el fuego." />
+<quest id="80" n="Kyler me habló de la ciudad subterránea. También me dijo que Jorick podría saber donde está la entrada a la ciudad." />
+<quest id="6" n="Debería llevar la armadura de Fleming a Aron para que la reparé." />
+<quest id="21" n="Barnabas me pidió que le llevara una muestra de un árbol brillante especial que vio al sur de su casa." />
+<quest id="36" n="Spike no puede dormir porque un troll del bosque está haciendo mucho ruido. Spike mencionó que el troll podría estar enfermo podría ser capaz de curarlo." />
+<quest id="51" n="Bingham me dijo que le diga a Elfreda que realmente quería decir lo que dijo." />
+<quest id="66" n="El abuelo me dijo que tenía que hablar con Thurza y Cardew sobre la desaparición de la familia Pack." />
+<quest id="81" n="Jorick me dijo que la entrada de la ciudad está justo al lado de su casa, donde los cristales son de color carmesí. Necesito tres runas para poder entrar. La primera piedra rúnica se encuentra en el antiguo cementerio al noreste. La segunda debe estar en la cueva de cristal golem. La última de ellas fue arrojada a un troll que vive al noreste de aquí cerca de la casa de Spike." />
+<quest id="7" n="No he sido capaz de reparar la armadura de Fleming. Debería darle la espalda." />
+<quest id="22" n="Barnabas me pidió que le llevara una muestra de un árbol brillante especial que vio al sur de su casa." />
+<quest id="52" n="Debo decirle a Bingham que Elfreda no quiere que se acerque a ella." />
+<quest id="67" n="Thurza encontró una tabla de piedra. Tal vez el abuelo sepa algo al respecto." />
+<quest id="82" n="Leonard me dio la llave de la torre del nigromante. También me dio un amuleto de protección contra el frío. Encontraré respuestas en la parte superior de la torre." />
+<quest id="8" n="Aron me dijo que le llevara 10 trozos de mineral de hierro por el trabajo de la armadura de Fleming. No le debería llevar más de un día para terminarlo." />
+<quest id="23" n="Barnabas me pidio que le diera tiempo para estudiar la corteza. Tal vez debería visitarlo mañana." />
+<quest id="38" n="Kyler no sabe dónde vive Clay. Debería preguntar al padre Hain, el es, el padre adoptivo." />
+<quest id="53" n="Mary me dijo que ella está buscando una estatua de un animal para su marido. Si veo una debería decirselo." />
+<quest id="68" n="Brown me está enseñando alquimia. Es hora de hacer mis lecciones, así que le haré una visita." />
+<quest id="9" n="Ahora que la armadura de Fleming esta reparada debería devolversela." />
+<quest id="24" n="Fleta está sufriendo una enfermedad horrible! Brown podría conocer una poción que puede curarla." />
+<quest id="39" n="Clay vive al sur del pueblo de Kyler cerca de las grandes rocas." />
+<quest id="54" n="Maté a todas las ranas en la cueva cerca de la casa de Doyle." />
+<quest id="69" n="Para mi siguiente lección de alquimia Brown me dijo que hiciera cuatro pociones de curación menor por mi cuenta. Cree que finalmente soy capaz de usar la mesa la alquimia por mi cuenta." />
+<quest id="84" n="Hugh me dijo que el arma debe estar lista para mañana." />
+<quest id="25" n="He encontrado una mujer moribunda en el bosque. Brown no le puede ayudar, pero podría Barnabas. Necesito darme prisa." />
+<quest id="70" n="El abuelo me dijo que Leonard debe ser capaz de ayudarnos en la traducción de la tabla de piedra." />
+<quest id="11" n="Recuerdo cuando murió Hugo. Fue uno de los trabajadores que excavó el pozo que está en el medio de nuestro pueblo. Al principio no pensé sobre esto, pero como cayo en el pozo aquella noche?" />
+<quest id="26" n="Debería darle la poción de curación rara a Fleta. Se podría curar!" />
+<quest id="56" n="He encontrado un misterioso libro. Debería llevarlo a Harry. Puede que sepa algo al respecto." />
+<quest id="71" n="Leonard ayudará a traducir la tabla de piedra. Mientras él trabaja en ello tengo que ir a buscar las setas que Barnabas le debe." />
+<quest id="12" n="Debería preguntarle a Cardew sobre la muerte de Hugo." />
+<quest id="27" n="Osric me dio cuatro de maíz maduro. Debería poner el maíz en el comedero de cerdos." />
+<quest id="42" n="Doyle me pidió que acabara con las ranas gigantes de la cueva cerca de su casa." />
+<quest id="57" n="Walker me enseñará alquimia más avanzada que la de Brown. Pero primero tengo que traerle una Blindweed negra." />
+<quest id="13" n="Debería preguntarle a Fred sobre la muerte de Hugo." />
+<quest id="28" n="Osric me dio dos salchichas de cerdo ahumadas. Debería darle una a abuelo." />
+<quest id="43" n="Gosfrid da exceso de trabajo a sus trabajadores. Debería tratar de convencerlo de que su gente necesita más descanso." />
+<quest id="58" n="Walker me envió otra misión. Esta vez tengo que llevarle un cráneo humano." />
+<quest id="73" n="Barnabas debe a Leonard cinco setas rosa. Deben ser los hongos oreja de cerdo. Necesito recogerlos y enseñarselos a Barnabas." />
+<quest id="14" n="Debería echar un vistazo en el pozo donde murió Hugo. Está en el centro del pueblo." />
+<quest id="29" n="Jones me pidió que le llevará 10 maderas de pino." />
+<quest id="44" n="Vena no puede dormir por la noche debido al gran cristal de su casa. Debo hacer algo al respecto." />
+<quest id="59" n="Walker necesita una capa de un brujo. Si le llevo esto finalmente me enseñará alquimia más avanzada." />
+<quest id="74" n="He recogido las setas que Barnabas le debe a Leonard. Debería llevarloselas." />
+<quest id="88" n="Me encontré con un cerdo perdido cerca de la taberna de Fred. Debe pertenecer a Osric. Debería devolverselo." />
+<quest id="90" n="Algunos de los pollos de Osric se han escapado de nuevo. Debería traerlos de nuevo." />
+<quest id="92" n="Ahora que tengo las tres runas sere capaz de teletransportarme a la ciudad subterránea. Jorick me dijo que la entrada está cerca de su casa rodeada de grandes cristales de color carmesí." />
+<quest id="93" n="No sé qué creer. Soy el hijo de un rey? Debería hablar con el abuelo de inmediato!" />
+<quest id="94" n="No me lo puedo creer. Me han mentido todos estos años. En quien puedo confiar? El abuelo me dijo que tenía que hablar con Arlo." />
+<quest id="95" n="Arlo hará todo lo posible para proteger a los pueblos. Ahora tengo que hablar con Leonard. El debe saber más acerca de los restos." />
+<quest id="96" n="Leonard me dijo que uno de los restos se ocultan en las Royal Crypts. El marcó la localización en el mapa. Debería ser capaz de llegar a la capital a través de la trampilla en la casa de Leonard." />
+<quest id="97" n="El guardian blanco me dejó entrar en las criptas sagradas de los reyes. Hay debería encontrar uno de los restos nigromantes." />
+<quest id="98" n="Me encontré con uno de los restos. Debería hablar con el guardián blanco." />
+<quest id="99" n="El guardián blanco me dijo que buscara en uno de los gremios. Ellos pueden ayudarme en la búsqueda de los restos que quedan." />
+<quest id="104" n="En mi primera tarea del gremio de los magos tengo que encontrar la moneda del gremio. Van me dijo que la escondieron en algún lugar de las tierras de los no-muertos al sur oeste de aquí." />
+<quest id="105" n="Rod miembro del gremio de los magos me pidió que despertara a su compañero el mago Gar." />
+<quest id="106" n="Dex quiere saber cómo resucitar golems. Me dijo que debe haber un libro sobre el tema debería leer los libros en la biblioteca por el." />
+<quest id="107" n="He encontrado la manera de resucitar golems. Debo decirle a Dex que necesita una esencia de piedra para sus experimentos." />
+<quest id="108" n="Dex necesita una esencia piedra. El me dijo que debería pedir alrededor de las minas situadas al este de la torre del mago." />
+<quest id="109" n="Fay me dijo que el mago no esta. Al parecer el mago transforma a la gente en monstruos. Debería explorar la cueva cercana y revelar la verdad." />
+<quest id="110" n="Van me dijo que antes de que los magos me acepten en el gremio tengo que ayudar a los demás miembros." />
+<quest id="112" n="Bolt me ordenó que averigüe que le a pasado al guerrero que falta. Debería explorar la antigua mina de carbón. Bolt me ha marcado la ubicación en el mapa." />
+<quest id="114" n="He encontrado el guerrero perdido en la antigua mina de carbón. El está muerto. Debería hablar con Bolt." />
+<quest id="115" n="Bolt me ha dado explosivos. Intentaré romper las paredes de las cuevas con los explosivos. Debería colocar los explosivos cerca del cadáver del guerrero. Bolt piensa que los ladrones se esconden en algún lugar detrás de las paredes de las cuevas." />
+<quest id="117" n="He hablado con Max, un muchacho joven que vive bajo tierra. Me dijo que han estado robando a los agricultores. Son los ladrones que Bolt está buscando. Debería hablar con Bolt acerca de todo esto." />
+<quest id="119" n="Tengo que derrotar a Rider para ganarme su aceptación. Me dijo que sólo puedo usar mi ataque físico contra el." />
+<quest id="120" n="Para ganarme la aceptación de Lyre tengo que llevarle cuatro cervezas." />
+<quest id="121" n="Bolt me dijo que antes de que los guerreros me acepten en el gremio tengo que ayudar a los demás miembros." />
+<quest id="122" n="Ward necesita algo para aliviar su dolor. Me dijo que le llevara algo de hierba de una granja local al noroeste de aquí." />
+<quest id="123" n="Dane me a dado un paquete de mahoka. Debo entregarselo a alguien en el asilo al noreste de la granja." />
+<quest id="124" n="Entregue el mahoka a Puby. Devería volver con Dane para que me de mi bolsa gratis." />
+<quest id="103" n="Para demostrar lo que valgo a Morven tengo que robar un valioso ornamento de la iglesia de la capital." />
+<quest id="127" n="Gail me a dado una llave especial que revela las ruinas invisibles. Debo encontrar una daga para el." />
+<quest id="129" n="Daralis me va a ayudar en la creación de una runa de teletransporte que me va a llevar a la biblioteca secreta de los magos. En primer lugar tengo que llevarle las runas de Lester. Lester murió hace mucho tiempo y ha sido enterrado en el cementerio al lado del asilo." />
+<quest id="130" n="Daralis estara listo con la runa de teletransporte mañana." />
+<quest id="131" n="Triston esparció los restos por toda Balrum. El primero de ellos se encuentra en la cripta del Rey en el interior de las cámaras reales. El segundo fué trasladado a la isla cocodrilo. El tercero fue escondido en las catacumbas antiguas en el desierto abrasador. El último de ellos fue colocado en algún lugar en las llanuras olvidadas. El desierto abrasador está al noroeste de Erdal. Debería ser capaz de encontrar a alguien allí que me pueda llevar a isla cocodrilo. Las llanuras olvidadas se encuentran al suroeste de la torre del mago." />
+<quest id="132" n="He encontrado todos los restos. Debería hablar con el Guardián blanco en las Royal Crypts." />
+<quest id="133" n="Adia me dijo que ella y algunos de sus vecinos recibieron la leche agría de Bardan. Ella me pidió que investigara esto. La granja de Bardan está al norte de la casa de Adia." />
+<quest id="134" n="Bardan me dijo que hablara con su hijo Garett. A fin de saber más acerca de por qué la leche sale agria." />
+<quest id="135" n="He hablado con Garett. Tengo que decirle lo que pasó a Bardan." />
+<quest id="136" n="Bardan devolvió el dinero de Adia. Debería devolverselo de inmediato." />
+<quest id="138" n="Garett es demasiado timido para hablar con Queenie. Me pidió que hablara con ella." />
+<quest id="144" n="Tengo que hablar con los jóvenes sacerdotes en la iglesia acerca de lo que me dijo Malvin." />
+<quest id="145" n="Hablé con los jóvenes sacerdotes. Debo decirle a Malvin que no hay nada por que lo que preocuparse." />
+<quest id="146" n="Malvin ha estado visitando el prostíbulo. Sabrina me contó la verdad. Debería hablar con Malvin sobre esto." />
+<quest id="147" n="Raven me pidió que llevar algo de comida para los niños. Cuatro manzanas y pan, al menos dos deben ser de ayuda para ellos." />
+<quest id="149" n="Ullok me habló de un monstruo gigante. Los pescadores tienen demasiado miedo de ir a trabajar. Debería tratar de matar a la bestia." />
+<quest id="150" n="Maté al monstruo gigante que aterrorizaba a los pescadores. Debo decirle Ullok que puedan reanudar su trabajo." />
+<quest id="151" n="Mick necesita madera fresca para sus barriles. El me pidió que le llevara cuarenta troncos." />
+<quest id="152" n="Ivo está buscando nuevos ingredientes para mezclar con su nuevo espíritu. Si encuentro algo interesante debería mostrarselo." />
+<quest id="154" n="Decidí construir una nueva fragua para Ulger en la cueva donde se esconde. Tengo que hablar con Harad y decirle que hay un maestro herrero en la cueva que le puede enseñar." />
+<quest id="157" n="Ulger está haciendo una armadura para mi. Debería volver a la cueva mañana." />
+<quest id="161" n="Paton me va a dejar apostar en su sala de juegos por mil thalers. No sé si vale la pena." />
+<quest id="162" n="Lona me pidió que le llevara a los niños algunos libros." />
+<quest id="163" n="Lona me pidió que reparara las paredes de la escuela para que los niños no tengan frío." />
+<quest id="164" n="Lona está buscando la carta de amor de su marido. Si la encuentro se la traeré." />
+<quest id="165" n="Bishop me pidió que le llevara diez cerdos." />
+<quest id="166" n="Jilian quiere ganar el desafío del cazador. Ella me pidió que le dijera algo si veo una presa digna para ganar el desafío." />
+<quest id="167" n="Maté al oso gigante." />
+<quest id="169" n="Jilian va a teñir al oso. Yo le traje este problema. No se que hacer." />
+<quest id="170" n="Le prometí a Eliza que le traeré un Wisp a su granja. Debería capturar a uno con una trampa de domación y soltarlo cerca de su granja." />
+<quest id="171" n="Solté un wisp en la granja de Eliza. Iré a hablar con ella." />
+<quest id="172" n="Eliza me dijo que Moulton podría necesitar algo de ayuda también. Debería ir hablar con el." />
+<quest id="173" n="Estoy ayudando a Moulton a envenenar a los rebeldes. El necesita diez colmillos de serpiente para envenenar el trigo. Para conseguir esos colmillos necesito estar entrenado para cazar." />
+<quest id="176" n="Joana necesita cinco bayas de llama. Debería ser capaz de encontrarlas en el desierto." />
+<quest id="177" n="Una necesita lino nuevo para sus redes. Debería llevarle doce piezas." />
+<quest id="179" n="Katy no puede soportar el olor que biene de casa de Worrell. Creo que debería hacer algo al respecto." />
+<quest id="180" n="Roberta me pidió que le buscara una mascota amigable. Ella me dio trampas de domesticación antiguas de su marido. Debería utilizarlas para domar a un para ella. Cuando lo tenga lo liberaré cerca de su casa." />
+<quest id="181" n="Tina esta preocupada por Patty y Zelma. Ellas han desaparecido desde hace un tiempo." />
+<quest id="182" n="He encontrado a Patty y Zelma. Están viviendo en el bosque con un troll. Debo decirle a Tina esto." />
+<quest id="184" n="Artie me pidió que le llevara cuatro pociones de espíritu de Ivo." />
+<quest id="185" n="Eric me habló de una fiesta rebelde. Debería hablar con el durante la noche." />
+<quest id="186" n="Roberta me va a hacer una cura para la enfermedad que cogí de Sabrina. Ella necesita cuatro glándulas de escarabajo para hacer la cura." />
+<quest id="187" n="Roberta debe ser capaz de ayudarme con mi problema." />
+<quest id="188" n="Henry y sus mineros están teniendo problemas con los golems cerca de su sitio en la mina. Si mato a su líder podrían retirarse a sus túneles. No es fácil hacer daño a estas criaturas. Henry me dio una espada especial que será capaz de hacerles daño." />
+<quest id="190" n="Benn quiere crear un arco especial. Él me pidió que le llevara tres trozos de plata brillante especial." />
+<quest id="191" n="Benn me dijo que estará listo con el arco mañana." />
+<quest id="192" n="Lew fundira el mineral de dalantium para mi. Podría aprender de el." />
+<quest id="193" n="El viejo marinero Orran me llevará a la isla cocodrilo por dos mil thalers." />
+<quest id="194" n="El líder de la aldea en la isla me habló de un animal que ha estado aterrorizando a su pueblo. Voy a matar a la bestia y regresaré." />
+<quest id="205" n="Debería buscar la antigua biblioteca. Tiene que haber un libro con las ubicaciones de los restos." />
+<quest id="211" n="Si traigo a Isaac cinco piezas de lino antiguo el me va a enseñar como trabajar el lino." />
+<quest id="215" n="Ronius Stockius ha perdido su sirviente no-muerto. Si lo encuentro le dire que Ronius lo busca." />
+<quest id="216" n="Decidí no llevar a Murray con Ronius. El pobre esqueleto parece realmente asustado." />
+<quest id="217" n="Rolf Suffermountain tiene una petición inusual. El quiere que le traiga el cadáver de un troll." />
+<quest id="218" n="Ayla me dijo que su hermano había arruinado su vida. Ella estaba tan molesta que me pidió que lo matara. También habló de algunas investigaciones que su hermano estaba haciendo eso significa mucho para el." />
+<quest id="221" n="Zayin está buscando una guitarra exótica. Si encuentro una guitarra debería llevarsela." />
+<quest id="223" n="Lia se ocupa de los niños en Erdal. Ella me pidió que le llevara veinte hierbas de vida y diez grosellas para que pueda hacer más medicina a los niños." />
+<quest id="224" n="Un viejo gruñón en la gran posada me pidió que le llevara vino." />
+<quest id="226" n="Torric Wolfsbane el gran guerrero ha perdido su propósito en la vida. Lo siento por el anciano. Tal vez pueda encontrar algo para el." />
+<quest id="233" n="El líder de los nativos me dio una llave. El me dijo que debería ser capaz de abrir la cripta cercana ." />
+<quest id="234" n="Me unído a los guerreros. Bolt me dijo que buscara ayuda con los magos. La torre se encuentra al norte del campamento de los guerreros." />
+</quest>

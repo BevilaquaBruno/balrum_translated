@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Quiero unirme a tu alianza y tengo que ganarme la confianza de algunos de vosotros. Necesitas alguna ayuda?"/>
+    <dia npc="0" str="Así que deseas unirte? Bien! Necesitamos más hombres! Sin embargo necesitamos hombres fuertes. Estas preparado para el reto?"/>
+    <dia pl="1" str="Creo que sí."/>
+    <dia npc="1" str="Crees que sí? Las palabras no son suficientes. Lucha conmigo! Si me ganas le diré a Bolt que puedes unirte!"/>
+    <dia pl="2" str="Vale. Luchare contra ti. Cuando y donde?"/>
+    <dia npc="2" str="Aquí y ahora! Solo podemos utilizar ataques físicos. Ataques mágicos no! Si utilizas la magia ganaré yo automáticamente. Me puedes desafiar en cualquier momento y las veces que quieras. Estoy seguro que no seras capaz de derrotarme en tu primera pelea. Ha ha! Estaré listo cuando tu lo estés! Ah...tampoco podrás utilizar a tu mascota!"/>
+	<dia pl="3" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

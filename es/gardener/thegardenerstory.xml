@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Como va todo?"/>
+    <dia npc="0" str="Lo mismo de siempre. Como es que un joven como tu está interesado en mi bienestar? Nunca te he visto por ahí, muchacho. Quién eres?"/>
+    <dia pl="1" str="Soy un aventurero. Yo vivo en el bosque por mi cuenta."/>
+    <dia npc="1" str="Ya veo. Sabes que yo he visto muchas cosas en mi vida, muchacho. He visto como el miedo puede cambiar a la gente."/>
+    <dia pl="2" str="Qué has visto?"/>
+    <dia npc="2" str="Cuando estos desafortunados simplones y pobres invadieron la ciudad los miembros de la corte real corrieron tan rápido como pudieron. Algunos de ellos trataron de coger sus objetos de valor, pero todos murieron. Los más listos escaparon rápido dejandolo todo atrás. Ni siquiera trataron de defender el castillo."/>
+	<dia pl="3" str="Tu estas alojado aquí? Para que no te maten?"/>
+    <dia npc="3" str="Necesitaban a alguien que conociera el castillo por dentro y por fuera."/>
+	<dia pl="4" str="Cuídate." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

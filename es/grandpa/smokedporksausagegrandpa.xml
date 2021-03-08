@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Ayudé a Osric con sus cerdos y me ha recompensado con un par de salchichas de cerdo ahumado. Una es para ti abuelo!"/>
+    <dia npc="0" str="El bueno de Osric hace las mejores salchichas. Gracias, mi hijo."/>
+	<dia pl="1" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

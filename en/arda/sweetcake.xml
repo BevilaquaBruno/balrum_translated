@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Do you need any help around the house, Arda?"/>
+    <dia npc="0" str="It's just another boring day. Nothing to do really. But I might be able to sweeten up the day with a nice cake, don't you think? I don't even remember the last time I made a melon cake. Everyone in the village loves it. No wonder, it's full of sugar! I have all the ingredients for it but one. I don't have any watermelons. Could you bring me three watermelons? In return I will give you two big slices of the cake!"/>
+    <dia pl="10" str="It's a deal! We have a ripe watermelon on our fields at home, so I only need to find two more!" jumpNPCd= "1" jumpPlayerd = '2'/>
+    <dia pl="11" str="Make it three large slices and we have a deal." jumpNPCd= "2" jumpPlayerd = '2'/>
+    <dia npc="1" str="Great! I'm going to prepare everything. "/>
+	<dia npc="2" str="All right. It's a deal. I'm going to prepare everything."/>
+	<dia pl="2" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

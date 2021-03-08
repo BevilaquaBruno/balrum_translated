@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Eres un miembro del gremio de los magos?"/>
+    <dia npc="0" str="Bienvenido seas, miembro del gremio de guerreros. De echo, soy un miembro del gremio de magos. En que puedo ayudarte?"/>
+    <dia pl="1" str="Bolt, un miembro del gremio de guerreros, me ha enviado aquí. Necesito encontrar los restos de los nigromantes del bosque oscuro. Bolt me dijo que vosotros sabéis donde están."/>
+    <dia npc="1" str="En efecto. Hace muchos años a nuestro gremio se le encomendó la tarea de sellar todos los lugares de descanso de los nigromantes, fueron sellados con magia muy poderosa."/>
+    <dia pl="2" str="Me puede decir donde escondieron los restos?"/>
+    <dia npc="2" str="Eres un miembro del gremio de guerreros. Nuestros gremios lograron mantener una estrecha relación incluso cuando los rebeldes se hicieron con Erdal. Consideramos que somos amigos. Toma esta runa. Te teletransportara a la antigua biblioteca. Encontraras lo que buscas ahí. Cada acontecimiento importante de la alianza se ha documentado a fondo, esos libros contienen una gran cantidad de conocimiento. No te olvides de volver a dejarlos en su lugar."/>
+	<dia pl="3" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

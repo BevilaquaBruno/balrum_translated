@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Robert didn't go home. Do you know where he might be?"/>
+    <dia npc="0" str="That old drunk. I saw him tottering near the Bear's den close to Fred's inn."/>
+    <dia pl="1" str="Thursa seemed really upset. She told me she wanted to tell Rupert something really important. Do you know what?"/>
+    <dia npc="1" str="I think she's pregnant! At least thats what Selena told me. A few nights ago I heard screams coming from their house. I hope he didn't hurt her."/>
+    <dia pl="2" str="I'm going after him." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

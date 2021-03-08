@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Alguna vez has oído hablar de las tablas de piedra?"/>
+    <dia npc="0" str="Por que tanta curiosidad acerca de esa cosa? Las tablas de piedra son objetos mágicos olvidados."/>
+    <dia pl="10" str="Thurza encontró una tabla de piedra en casa de los Pack."/>
+    <dia pl="11" str="He encontrado una tabla de piedra en casa de los Pack."/>
+    <dia npc="1" str="Mis conocimientos sobre las tablas son limitados. Pero una cosa si sé. Significan problemas. Yo si fuera tu me mantendría lejos. Dónde está la tabla de piedra ahora?"/>
+    <dia pl="2" str="Está en nuestra casa. El abuelo está intentando traducir las escrituras."/>
+    <dia npc="2" str="Tu abuelo es un hombre sabio, con lo viejo que es todavía lleva la aventura en el corazón. Os aconsejo que dejéis esa tabla de piedra."/>
+    <dia pl="3" str="Gracias, Brown. Las escrituras nos pueden ayudar a encontrar a los Pack, necesitamos traducirla."/>
+    <dia npc="3" str="En ese caso estoy de acuerdo, pero por favor tener cuidado."/>
+    <dia pl="4" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

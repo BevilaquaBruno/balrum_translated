@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Greetings!"/>
+    <dia npc="0" str="Good day to you, son. What can I help you with?"/>
+    <dia pl="1" str="You have a nice facility here. How is business?"/>
+    <dia npc="1" str="Business has been better. The rebels don't repair anything. And they sure don't build new buildings. It's a disaster for the city, but we manage. At least the gods are happy we don't chop down as many trees as before."/>
+    <dia pl="2" str="That makes the gods happy?"/>
+    <dia npc="2" str="Legends say that one of the old gods created the forests. When people started to chop down her creation she created the wisps. Not many of us know, but the wisps can resurrect trees. The old gods are long gone but I tell you they are not dead. I think they are resting in the void."/>
+    <dia pl="3" str="The void?"/>
+    <dia npc="3" str="It's a place in between everything. Why would a god die? Nonsense! See, I'm talking like a mad man. I should be making my axe dull, not think about old long forgotten gods."/>
+	<dia pl="4" str="Take care." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

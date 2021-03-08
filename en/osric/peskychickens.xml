@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Anything else I can help you with Osric?"/>
+    <dia npc="0" str="Those pesky chickens again. A few of them managed to get out of the pen. Can you find them and bring them back to me? They sometimes hide in the bushes."/>
+    <dia pl="10" str="I don't have time for running around chasing chickens." jumpNPCd= "1" jumpPlayerd = '2'/>
+    <dia pl="11" str="Alright Osric. I will find them." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia npc="1" str="Well then why are you asking me?"/>
+    <dia pl="2" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

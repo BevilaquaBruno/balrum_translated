@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--%data% data-->
+<!--%n% new line-->
+<!--%l% line skip-->
+<quest>
+<quest id="15" n="I found an opening in the well's wall that led me to a place that was most likely built by humans. I could not open the large iron doors that were down there. I should tell Fred about this." />
+<quest id="30" n="I saw a door with a strange triangle shaped keyhole. I might be able to create a key that will fit it. Aron could help me." />
+<quest id="45" n="Hugh will make me a sword that has crystal shard in it if I bring him 10 lumps of iron ore and 5 lumps of silver ore and 2 flawless deer leather." />
+<quest id="60" n="I need to find a way into the sealed grave if I want to earn Neil's trust." />
+<quest id="75" n="I found a letter at the top of the necromancer's tower. It's written in the same language as the stone tablet. Leonard should be able to translate it." />
+<quest id="16" n="I have a feeling that I can get into that underground place from another location. I'm sure I would find something down there that would explain why Hugo died." />
+<quest id="31" n="Ida asked me to repair the fence at her farm." />
+<quest id="46" n="I wonder what was that foul smell in Buck's house." />
+<quest id="61" n="If I find a document regarding the necromancers I should bring it to the historian Neil." />
+<quest id="76" n="Arlo's name was mentioned in the necromancer's letter. I need to talk to him about this." />
+<quest id="17" n="Before I went hunting I overheard a conversation about Cardew and his ring. I heard something about Rhys too. I should ask Cardew about it." />
+<quest id="32" n="Arda is making a melon cake. I should bring her three watermelons and for my help I will get a few slices." />
+<quest id="47" n="I drank the potion I found in Buck's house and I saw lots of dead bodies in the room he keeps locked. I need to tell Kyler!" />
+<quest id="62" n="If I find another document regarding the necromancers I should bring it to the historian Neil." />
+<quest id="77" n="Wilson is Arlo's right hand. He might know why Arlo's name was mentioned in the letter." />
+<quest id="3" n="Now that I'm back from the hunt I should give Grandpa 3 pieces of the deer meat." />
+<quest id="18" n="Cardew thinks Rhys stole his blue ring from him." />
+<quest id="33" n="Arda is making a melon cake. I should bring her three watermelons and for my help I will get a few slices." />
+<quest id="48" n="Bingham is in love with Elfreda, but he is too shy to tell her. He asked me to act as a messenger between the two of them." />
+<quest id="63" n="If I find another document regarding the necromancers I should bring it to the historian Neil." />
+<quest id="78" n="Wilson thinks that Kyler might know why Arlo's name was mentioned in the necromancer's letter. He lives in the other village." />
+<quest id="4" n="I should give 2 pieces of deer meat to Edmund and Winnie." />
+<quest id="19" n="I should bring four perfect pine wood for Rhys. He will teach me his skills if I do this task for him." />
+<quest id="34" n="Arda told me that the cake she is making should be ready by tomorrow." />
+<quest id="49" n="I should tell Bingham that Elfreda told me he needs to be more courageous." />
+<quest id="64" n="Edmund and Winnie asked me to catch a few bees for their apiary. 10 bees should be enough for them." />
+<quest id="79" n="The Guard at Kyler's village won't let me see Kyler until I prove him that I'm to be trusted. I need to find his lost family ring. He lost the ring at the old abandoned village." />
+<quest id="5" n="We found an entrance to a ruin with my friend Dudley. I should go and ask him if he is ready to explore it." />
+<quest id="35" n="The thief Miller will teach me if I steal a book from Rhys. This book supposedly has been written by a master thief." />
+<quest id="50" n="I lied about what Bingham said. I should tell him that Elfreda wants to know why would he say something like that." />
+<quest id="65" n="I should repair the parts of our home that were damaged in the fire." />
+<quest id="80" n="Kyler told me about the underground city. He also told me that Jorick might know where the entrance to the city is." />
+<quest id="6" n="I should take Fleming's armour to Aron for repairs." />
+<quest id="21" n="Barnabas asked me to bring him a sample of a special sparkling tree he saw just south of his house." />
+<quest id="36" n="Spike can't sleep because a forest troll is making a lot of noise. Spike mentioned that the troll might be sick so I might be able to cure it." />
+<quest id="51" n="Bingham told me I ought to tell Elfreda that he truly meant what he said." />
+<quest id="66" n="Grandpa told me that I should talk to Thurza and Cardew about the disappearance of the Pack family." />
+<quest id="81" n="Jorick told me that the entrance to the city is right next to his home where the crimson crystals are. I will need three runestones to be able to enter. The first runestone is in the old cemetery up to the north east. The second should be in the crystal golem's cave. The last one was thrown at a troll who lives north east from here near Spike's house." />
+<quest id="7" n="I was not able to repair Fleming's armour. I should give it back to him." />
+<quest id="22" n="Barnabas asked me to bring him a sample of a special sparkling tree he saw just south of his house." />
+<quest id="52" n="I should tell Bingham that Elfreda doesn't want him near her." />
+<quest id="67" n="Thurza found a stone tablet. Maybe Grandpa will know something about it." />
+<quest id="82" n="Leonard gave me the key to the necromancers' tower. He also gave me an amulet of cold protection. I might find answers at the top of the tower." />
+<quest id="8" n="Aron told me to get 10 lumps of iron ore for his work on Flemings armour. It shouldn't take him more than a day to finish it." />
+<quest id="23" n="Barnabas told me to give him time to study the bark. Maybe I should visit him tomorrow." />
+<quest id="38" n="Kyler doesn't know where Clay lives. I should ask father Hain, who is his foster father." />
+<quest id="53" n="Mary told me that she is looking for a statue of an animal for her husband. If I see one I should tell her." />
+<quest id="68" n="Brown is teaching me alchemy. It's time for my lessons so I should pay him a visit." />
+<quest id="9" n="Now that Fleming's armour is repaired I should bring it back to him." />
+<quest id="24" n="Fleta is suffering from a horrible disease! Brown might know a potion that can cure her." />
+<quest id="39" n="Clay lives south of Kyler's village near the great rocks." />
+<quest id="54" n="I killed all the frogs in the cave near Doyle's house." />
+<quest id="69" n="For my next alchemy lesson Brown told me to make four minor healing potions by myself. He thinks I'm finally capable of using the alchemy table on my own." />
+<quest id="84" n="Hugh told me that the weapon should be ready by tomorrow." />
+<quest id="25" n="I found a dying woman in the woods. Brown can't help her, but Barnabas might. I need to hurry." />
+<quest id="70" n="Grandpa told me, Leonard should be able to help us in translating the stone tablet." />
+<quest id="11" n="I remember when Hugo died. He was one of the workers who dug out the well that is in the middle of our village. At first I didn't think about this, but how did he fall into the well that night?" />
+<quest id="26" n="I should give the silver healing potion to Fleta. It might cure her!" />
+<quest id="56" n="I found a mysterious book. I should bring it to Harry. He might know something about it." />
+<quest id="71" n="Leonard will help me translate the stone tablet. While he is working on it I should bring him the mushrooms that Barnabas owes him." />
+<quest id="12" n="I should ask Cardew about Hugo's death." />
+<quest id="27" n="Osric gave me four ripe corn. I should put the corn in the pigs' trough." />
+<quest id="42" n="Doyle asked me to exterminate the giant frogs from the cave near his home." />
+<quest id="57" n="Walker will teach me more advanced alchemy than Brown. But first I have to bring him a single black blindweed." />
+<quest id="13" n="I should ask Fred about Hugo's death." />
+<quest id="28" n="Osric gave me two smoked pork sausages. I should give one to Grandpa." />
+<quest id="43" n="Gosfrid is overworking his workers. I should try to convince him that his people need more rest." />
+<quest id="58" n="Walker sent me on another errand. This time I need to bring him a human skull." />
+<quest id="73" n="Barnabas owes Leonard five pink mushrooms. They must be pig ear mushrooms. I need to collect them and show them to Barnabas." />
+<quest id="14" n="I should take a look at the well where Hugo died. It's in the middle of the village." />
+<quest id="29" n="Jones asked me to bring him 10 pine wood." />
+<quest id="44" n="Vena can't sleep at night because of the large crystal in her home. I should do something about it." />
+<quest id="59" n="Walker needs a cape of a warlock. If I bring him one he will finally teach me more advanced alchemy." />
+<quest id="74" n="I collected the mushrooms that Barnabas owed Leonard. I should bring them to him. He might be done with the stone tablet by now." />
+<quest id="88" n="I found a lost pig near Fred's tavern. It must belong to Osric. I should lure it back to him." />
+<quest id="90" n="A few of Osric's chickens got away again. I should bring them back to him." />
+<quest id="92" n="Now that I have all three runes with me I will be able to teleport to the underground city. Jorick told me the entrance is near his home surrounded by large crimson crystals." />
+<quest id="93" n="I don't know what to believe. Am I the son of a king? I should talk to Grandpa right away!" />
+<quest id="94" n="I cannot believe it. I have been lied to all these years. How can I trust anyone anymore? Grandpa told me that I should talk to Arlo." />
+<quest id="95" n="Arlo will do his best to protect the villages. Now I have to talk to Leonard. He should know more about the remains." />
+<quest id="96" n="Leonard told me that one of the remains is hidden in the Royal Crypts. He marked the crypts location on the map he gave me. I should be able to reach the capital through the trap door in Leonard's house." />
+<quest id="97" n="The White Guardian let me into the sacred crypts of the kings. There I should find one of the necromancers remains." />
+<quest id="98" n="I found one of the remains. I should talk to the White Guardian." />
+<quest id="99" n="The White Guardian told me to seek out one of the guilds. They should be able to help me in finding the remaining remains." />
+<quest id="104" n="As my first task in the mages' guild I have to find the guilds' coin. Van told me they hid it somewhere in the undead lands south west from here." />
+<quest id="105" n="Rod the member of the mages' guild asked me to wake up his fellow mage Gar." />
+<quest id="106" n="Dex wants to know how to resurrect golems. He told me that there must be a book on the subjects so I should read the books in the library for him." />
+<quest id="107" n="I found out how to resurrect golems. I should tell Dex that he needs a stone essence for his experiments." />
+<quest id="108" n="Dex needs a stone essence. He told me I should ask around the mines located just east of the mage tower." />
+<quest id="109" n="Fay told me that a mage is missing. Allegedly the missing mage transformed people into monsters. I should explore the cave nearby the mages' tower and reveal the truth." />
+<quest id="110" n="Van told me that before the mages accept me into the guild I have to help out the other members." />
+<quest id="112" n="Bolt ordered me to find out what happened to his missing warrior. I should explore the old coal mine. Bolt marked its location on my map." />
+<quest id="114" n="I found the missing warrior in the old coal mine. He is dead. I should talk to Bolt." />
+<quest id="115" n="Bolt gave me explosives. I will try to break through the caves walls with the explosives. I should plant the explosives near the corpse of the fallen warrior. Bolt thinks that the thieves are hiding somewhere behind the caves walls." />
+<quest id="117" n="I have spoken to Max, a young boy living underground. He told me that they have been stealing from the farmers. They are the thieves Bolt is looking for. I should tell Bolt about this." />
+<quest id="119" n="I need to defeat Rider to earn his acceptance. He told me I can only use my physical attack against him." />
+<quest id="120" n="To earn Lyre's acceptance I need to bring him four beers." />
+<quest id="121" n="Bolt told me that before the warriors accept me into the guild I have to help out the other members." />
+<quest id="122" n="Ward needs something to ease his pain. He told me to bring him some weed from a local farm to the north-west." />
+<quest id="123" n="Dane gave me a pack of mahoka. I should deliver it to someone in the asylum to the north-east." />
+<quest id="124" n="I delivered the mahoka to Puby. I should return to Dane for my free package." />
+<quest id="103" n="To prove myself to Morven I need to steal a valuable ornament from the capitals church." />
+<quest id="127" n="Gail gave me a special key that reveals the invisible ruins. I should find a dagger for him there." />
+<quest id="129" n="Daralis will help me in creating a teleportation rune that will teleport me into the mages' secret library. First I have to bring her Lester's runes. Lester died a long time ago and has been buried in the cemetery next to the asylum." />
+<quest id="130" n="Daralis should be ready with the teleportation rune by tomorrow." />
+<quest id="131" n="Triston scattered the remains all over Balrum. The first one is located in the Kings Crypt deep inside the royal chambers. The second one has been moved to Crocodile Island. The third one was hidden in the Ancient Catacombs deep in the Searing Desert. The last one was placed somewhere in the Forgotten Plains. The Searing Desert is north-west from Erdal. I should be able to find someone there who can sail me to Crocodile Island. The Forgotten Plains is south west from the mage's tower." />
+<quest id="132" n="I found all the remains. I should speak to the White Guardian in the Royal Crypts." />
+<quest id="133" n="Adia told me that she and some of her neighbours received sour milk from Bardan. She asked me to look into this. Bardan's farm is north from Adia's house." />
+<quest id="134" n="Bardan told me to talk to his son Garett. He might know more about why the milk got sour." />
+<quest id="135" n="I talked to Garett. I should tell Bardan what happened." />
+<quest id="136" n="Bardan gave back Adia's money. I should give it back to her." />
+<quest id="138" n="Garett is too shy to ask out Queenie. He asked me to talk to her on his behalf." />
+<quest id="144" n="I should tell the young priests at the church what Malvin told me." />
+<quest id="145" n="I talked to the young priests. I should tell Malvin there is nothing to worry about any more." />
+<quest id="146" n="Malvin has been taking trips to the brothel. Sabrina told me the truth. I should talk to Malvin about this." />
+<quest id="147" n="Raven asked me to bring some food for the children. Four apples and at least two bread should be helpful for them." />
+<quest id="149" n="Ullok told me about a giant monster. The fishers are too scared to work. I should try to slay the beast." />
+<quest id="150" n="I killed the giant monster that was terrorising the fishers. I should tell Ullok that they can resume their work." />
+<quest id="151" n="Mick needs fresh wood for his barrels. He asked me to bring him forty logs." />
+<quest id="152" n="Ivo is looking for new ingredients to use with his new-make spirit. If I find something interesting I should show it to him." />
+<quest id="154" n="I decided to build Ulger a new smithy in the cave he is hiding in. I should tell Harad that there is a master blacksmith down the cave who can teach him." />
+<quest id="157" n="Ulger is making an armour for me. I should return to the cave tomorrow." />
+<quest id="161" n="Paton will let me in their gambling den for a thousand thalers. I don't know if its worth it or not." />
+<quest id="162" n="Lona asked me to bring the children a couple of books." />
+<quest id="163" n="Lona asked me to repair the school's walls so the children won't be cold." />
+<quest id="164" n="Lona is looking for her husbands lost love letter. If I find it I should bring it back to her." />
+<quest id="165" n="Bishop asked me to bring him ten pigs." />
+<quest id="166" n="Jilian wants to win the hunter's challenge. She asked me to tell her if I see a worthy prey that would win her the challenge." />
+<quest id="167" n="I killed Giant Paw." />
+<quest id="169" n="Jilian is going to dye Giant Paw's fur. I brought this trouble on her. I don't know what to do." />
+<quest id="170" n="I promised Eliza that I will bring a wisp to her farm. I should capture one with a taming trap and release it near her farm." />
+<quest id="171" n="I released a wisp at Eliza's farm. I should talk to her." />
+<quest id="172" n="Eliza told me that Moulton could use some help too. I should talk to him." />
+<quest id="173" n="I'm helping Moulton to poison the rebels. He needs ten snake fangs to poison the wheat. To harvest their fangs I need to be trained in hunting." />
+<quest id="176" n="Joana needs five flameberries. I should be able to find them in the desert." />
+<quest id="177" n="Una needs new linen for her nets. I should bring her twelve pieces." />
+<quest id="179" n="Ketty cannot bear the smell of Worrel's outhouse. I should do something about it." />
+<quest id="180" n="Roberta asked me to find a friendly pet for her. She gave me her husband's old taming trap. I should use it to tame a pet for her. After I tamed her a pet I should release it near her home." />
+<quest id="181" n="Tina is worried about Patty and Zelma. They have been missing for a while now." />
+<quest id="182" n="I found Patty and Zelma. They are living in the woods with a troll. I should tell Tina about this." />
+<quest id="184" n="Artie asked me to bring him four of Ivo's spirit." />
+<quest id="185" n="Eric told me about a rebel party. I should talk to him during the night." />
+<quest id="186" n="Roberta will make me a cure for the disease I caught from Sabrina. She needs four beetle glands to make the cure." />
+<quest id="187" n="Roberta should be able to help me with my problem." />
+<quest id="188" n="Henry and his miners are having problems with the golems near their mining site. If I slay their leader they might retreat to their tunnels. It is not easy to harm these creatures. Henry gave me a special sword which should be able to harm them." />
+<quest id="190" n="Benn wants to create a special bow. He asked me to bring him three special shiny silver like materials." />
+<quest id="191" n="Benn told me that he will be ready with the bow by tomorrow." />
+<quest id="192" n="Lew will smelt dalantium ore for me. I might be able to learn it from him." />
+<quest id="193" n="The old sailor Orran will take me to Crocodile Island for two thousand thalers." />
+<quest id="194" n="The leader of the village on the island told me about a beast that has been terrorising his people. I should slay the beast and return to him." />
+<quest id="205" n="I should search the old library. There has to be a book with the locations of the remains." />
+<quest id="211" n="If I bring Isaac five pieces of ancient linen he will teach me how to handle them." />
+<quest id="215" n="Ronius Stockius has lost his undead servant. If I find him I should bring him back to Ronius." />
+<quest id="216" n="I decided not to bring Murray to Ronius. The poor skeleton seems really scared of him." />
+<quest id="217" n="Rolf Suffermountain had an unusual request. He wants me to bring him a troll's corpse." />
+<quest id="218" n="Ayla told me that her brother ruined her life. She was so upset she asked me to kill him. She also talked about some research his brother was doing that meant a lot to him." />
+<quest id="221" n="Zayin is looking for an exotic guitar. If I find a guitar I should take it to him." />
+<quest id="223" n="Lia takes care for the children in Erdal. She asked me to bring her twenty life herbs and ten goose berries so she can make more medicine for the children." />
+<quest id="224" n="A grumpy old man at the big inn asked me to bring him wine." />
+<quest id="226" n="Torric Wolfsbane the great warrior has lost his purpose in life. I feel sorry for the old man. I might be able to figure out something for him to do." />
+<quest id="233" n="The leader of the natives gave me a key. He told me I should be able to open the nearby crypt with it." />
+<quest id="234" n="I joined the warriors. Bolt told me to seek out the mages' help. Their tower is just north from the warriors' camp." />
+</quest>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Are you a member of the mages' guild?"/>
+    <dia npc="0" str="Welcome member of the warriors' guild. Indeed, I am a member of the mages' guild. What may I help you with?"/>
+    <dia pl="1" str="Bolt, a member of the warriors' guild, sent me here. I need to find the remains of the Darkwood necromancers. Bolt told me your guild knows where they are."/>
+    <dia npc="1" str="Indeed. Many years ago our guild was given the task of sealing the final resting places of the necromancers' remains with powerful magic."/>
+    <dia pl="2" str="Can you tell me where they hid the remains?"/>
+    <dia npc="2" str="You are a member of the warriors' guild. Our guilds managed to keep a close relationship even when the rebels took over Erdal. We consider you a friend of the guild. You may enter our tower. Take this rune. It will teleport you to the old library. You will find what you are looking for there. Every important event of the guild has been thoroughly documented. The books of our library possess great knowledge. Don't forget to put them back."/>
+	<dia pl="3" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

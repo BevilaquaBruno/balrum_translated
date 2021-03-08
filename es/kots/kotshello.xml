@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Estás viviendo aquí?"/>
+    <dia npc="0" str="..."/>
+    <dia pl="1" str="Como te llamas?"/>
+    <dia npc="1" str="..."/>
+    <dia pl="2" str="Como puedes soportar el olor de las ratas?"/>
+    <dia npc="2" str="..."/>
+    <dia pl="3" str="Que comes aquí?"/>
+    <dia npc="3" str="..."/>
+    <dia pl="4" str="Puedo ayudarte."/>
+    <dia npc="4" str="..."/>
+	<dia pl="5" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

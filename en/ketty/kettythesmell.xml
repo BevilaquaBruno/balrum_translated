@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="What smells so horrible?"/>
+    <dia npc="0" str="You can smell it too right? I keep telling Worrell that he has to clean his outhouse because that's what makes this unbearable smell. He just waves at me every time I mention it."/>
+    <dia pl="1" str="Should I try to talk to him?"/>
+    <dia npc="1" str="That would be great. I hope he listens to you."/>
+	<dia pl="2" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

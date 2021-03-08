@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Me envía tu hermano. Necesito tu ayuda."/>
+    <dia npc="0" str="Ahh. Tu olor es particular. No eres un simple mortal. Tu eres un espécimen con sangre real en las venas."/>
+    <dia pl="1" str="Si, es así. Tus dos hermanos están de acuerdo en ayudarme. Necesito destruir los restos de los nigromantes del bosque oscuro. De lo contrario, muchas personas inocentes morirán."/>
+    <dia npc="1" str="Por qué necesitas mi ayuda?"/>
+    <dia pl="2" str="Solo el poder de los dragones puede destruir los restos."/>
+    <dia npc="2" str="No puedo ir a tu mundo tan fácilmente , mortal. Necesitaré un pequeño sacrificio de ti."/>
+    <dia pl="3" str="Haré cualquier cosa para ayudar a mi gente."/>
+    <dia npc="3" str="Necesito una parte de tu mortalidad. Que puedes ofrecerme?"/>
+    <dia pl="4" str="Te puedo ofrecer mi vitalidad."/>
+    <dia npc="4" str="Ahh si. Dulce mortalidad. Entonces si que te ayudare, mortal. Dime, donde están mis hermanos?"/>
+    <dia pl="5" str="Ellos están bajo tierra en las royal crypts cerca de Erdal. Gracias, dragón. Por favor llévanos con tus hermanos. Hay que darse prisa."/>
+    <dia npc="5" str="Prepárate, mortal de la realeza."/>
+	<dia pl="6" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

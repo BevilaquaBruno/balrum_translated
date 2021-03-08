@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Have you ever heard of stone tablets?"/>
+    <dia npc="0" str="Why are you curious about such things? Stone tablets are long forgotten magical items."/>
+    <dia pl="10" str="Thurza found a stone tablet at the Packs house."/>
+    <dia pl="11" str="I've found a stone tablet at the Packs house."/>
+    <dia npc="1" str="My knowledge of tablets is quite limited. But one thing I do know. They mean trouble. If I were you I would stay away from them. Where is the stone tablet now?"/>
+    <dia pl="2" str="It's at our house. Grandpa is trying to translate the writings on it."/>
+    <dia npc="2" str="Your grandfather is a wise man, but even at his old age he is an adventurer at heart. I advise you to leave the stone tablet be."/>
+    <dia pl="3" str="Thank you, Brown. The writings on it might help find the Packs, so we need to translate it."/>
+    <dia npc="3" str="In that case you might be right, but please be careful."/>
+    <dia pl="4" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

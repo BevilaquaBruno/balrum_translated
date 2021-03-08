@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+     <dia pl="0" str="Here are the lumps of ore, Aron!"/>
+     <dia npc="0" str="Thank you! Working on this armour brought back so many memories. Some pleasant, some not so much. There were times when I was forced to work for free. Those days are over now. I always wanted to become a blacksmith, just like my father. I was about your age when I realised that I had become a better blacksmith than my father. To my surprise, Father was very proud of me. I thought he would be jealous. The armour is repaired. It's a little heavier than it was because I adjusted a few parts and reinforced them."/>
+     <dia pl="0" str="It looks like new armour! You shouldn't be making farm equipment, Aron. Thank you." jumpNPCd= '0' jumpPlayerd = '0'/>
+</dialogs>

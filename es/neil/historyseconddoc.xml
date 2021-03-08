@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="He encontrado otro documento Neil!"/>
+    <dia npc="0" str="Ellos..."/>
+    <dia pl="1" str="Qué dice Neil?"/>
+    <dia npc="1" str="Ellos sacrificaron a todo el mundo. Ni siquiera tuvieron piedad de los niños. Por que harían eso? Esto no tiene ningún sentido. Estas personas eran el mal. Como pudieron los antiguos dioses permitir algo asi? Por otra parte, Adacus dejo que los bandidos se hicieran con el control de Balrum. Están haciendo lo mismo que con los nigromantes. Se podría decir que están haciendo las cosas aún más mal ahora."/>
+	<dia pl="2" str="Vamos a averiguar por que lo hicieron. Si encuentro algo más te lo traeré." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

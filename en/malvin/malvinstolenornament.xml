@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Is everything alright, father?"/>
+    <dia npc="0" str="Horrible! Horrible! Some lowlife thief stole our precious ornament. How dare he?"/>
+    <dia pl="1" str="He must have had his reasons."/>
+    <dia npc="1" str="How do you know he was a man?"/>
+    <dia pl="2" str="How do you know, father?"/>
+    <dia npc="2" str="Never mind. The old thing was worthless anyway."/>
+    <dia pl="3" str="Let's hope the thief won't come back for more, father."/>
+    <dia npc="3" str="Don't scare me, boy."/>
+	<dia pl="4" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Can you tell me about farming again?"/>
+    <dia npc="0" str="Of course my dear. Let's start."/>
+    <dia pl="1" str="Please continue."/>
+    <dia npc="1" str="Everything starts with the field. Without a clean field your plants will have to fight other weeds for nutrition! Once you have a nice field you have to place seeds into it."/>
+    <dia pl="2" str="..."/>
+    <dia npc="2" str="Now you have to make sure that your crops have adequate conditions to grow. This means proper fertilization and hydration."/>
+	<dia pl="3" str="Thank you." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

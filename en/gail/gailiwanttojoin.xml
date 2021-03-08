@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I need to find the remains of the Darkwood necromancers."/>
+    <dia npc="0" str="Who sent you?"/>
+    <dia pl="1" str="Morven."/>
+    <dia npc="1" str="Alright. You need our help in finding these remains?"/>
+    <dia pl="2" str="Yes. An old mage told me that I might find what I'm looking for at the mages' guild."/>
+    <dia npc="2" str="Then why are you here? Why aren't you at the mages' guild begging them for help? No matter. We could help you, but only if you are a member."/>
+    <dia pl="3" str="What do I have to do to become one of you?"/>
+    <dia npc="3" str="Do a simple task I give you and we will accept you. You have already proven yourself to one of our members, that's why you are here."/>
+    <dia pl="4" str="What is this simple task?"/>
+    <dia npc="4" str="There were a few who tried before. Sadly there hasn't been a new recruit in years. They died, I assume. You have to explore an old ruin. Somewhere in the ruins there is an ancient dagger. Bring me that dagger."/>
+	<dia pl="5" str="That is your simple task? Recruits died and you call their mission a simple task?"/>
+    <dia npc="5" str="It is a simple task. It's not my fault that the recruits made it hard for themselves. It's your decision. If you are scared then you have no reason to be here."/>
+    <dia pl="6" str="I'm not scared."/>
+    <dia npc="6" str="That's the spirit! I will mark the map for you. Here, take this key. It will open the main doors of the ruins. The old ruin is protected by powerful magic. You can only see it if you have the key on you. I wish you luck! Also, if you find some of the previous recruits, please identify them. Just for the record."/>	
+	<dia pl="7" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

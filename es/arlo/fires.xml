@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Me enteré de lo de las antorchas. Créeme, Aron no tiene nada que ver con los incendios. La antorcha que utilizamos en mi casa no inicio el fuego, ni siquiera se quemo la pared que la sostiene."/>
+    <dia npc="0" str="Las antorchas son la única explicación. Yo he tenido problemas con mis propias antorchas."/>
+    <dia pl="1" str="Como puedes decir eso? Te estoy diciendo que en nuestra casa la antorcha no inició el fuego. Otra cosa lo causo."/>
+    <dia npc="1" str="Calmate, niño. Dime, Qué a sido? Qué a iniciado el fuego en tu casa?"/>
+    <dia pl="2" str="No lo sé. Pero lo averiguaré." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

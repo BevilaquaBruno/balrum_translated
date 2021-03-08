@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Quiero llegar a ser un miembro del gremio de los magos."/>
+    <dia npc="0" str="Ahh, otra alma perdida. Por que quieres unirte a nuestra comunidad, si se puede saber?"/>
+    <dia pl="1_0" str="Siempre quise ser miembro de la alianza."/>
+    <dia pl="1_1" str="Estoy en una misión importante y la única manera de que pueda cumplir con mi tarea es, si se me acepta en el gremio." jumpNPCd= "2" jumpPlayerd = '3'/>
+    <dia npc="1" str="No sabes mentir. El gremio no necesita mentirosos."/>
+    <dia pl="2" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia npc="2" str="Necesitas al gremio. Qué tiene el gremio que necesites?"/>
+	<dia pl="3" str="La magia corre por mis venas. Soy capaz de lanzar poderosos hechizos y ni siquiera soy un miembro del gremio. Me gustaría ser un miembro digno."/>
+    <dia npc="3" str="Ha ha! La insolencia es una virtud de un gran mago. Bien, tienes mi atención. Todos los iniciados tienen que encontrar la moneda de oro del gremio. Esta vez, la moneda ha sido escondida en algún lugar de las tierras de los no-muertos. Tráeme la moneda de esas tierras. Debería ser una tarea sencilla para un mago tan hábil como tu. Encontrarás la tierra de los no-muertos justo al suroeste de aquí. Esperaré tu regreso."/>
+    <dia pl="4" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

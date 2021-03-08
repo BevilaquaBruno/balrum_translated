@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Leonard sent me to collect the mushrooms that you owe him."/>
+    <dia npc="0" str="That's it! I knew I had forgotten something. Sadly, I don't have the mushrooms on me. I used all of them yesterday."/>
+    <dia pl="1" str="I can't go back empty handed to Leonard. He was a bit angry with you."/>
+    <dia npc="1" str="Darn it. I can't leave my experiments unattended right now."/>
+    <dia pl="2" str="We have to figure out something. Are you sure you have nothing left? There are lots of plants lying around here."/>
+    <dia npc="2" str="No, there aren't any left. I have an idea! You can go and collect the mushrooms yourself? They usually grow in groups. They have a light pink color. You can't miss them. You need to find 5 of them."/>
+    <dia pl="30" str="All right Barnabas, I will do your work and collect the mushrooms for Leonard."/>
+    <dia pl="31" str="What's in it for me, If I do the work instead of you, Barnabas?" jumpNPCd= "4" jumpPlayerd = '5'/>
+    <dia npc="3" str="Thank you, son. Come back if you find all five of them."/>
+    <dia pl="4" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia npc="4" str="Well I can give you one of my fine potions."/>
+	<dia pl="5" str="All right Barnabas, I will do your work and collect the mushrooms for Leonard. That potion better be good." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

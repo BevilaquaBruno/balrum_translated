@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Greetings!"/>
+    <dia npc="0" str="You look just like me when I was young. Your eyes are full of expectation. You are an adventurer, right?"/>
+    <dia pl="1" str="We can say that, yes. Who are you?"/>
+    <dia npc="1" str="My name is Ewald. I come from a faraway land. I must say I made a big mistake by traveling here. Little did I know there is such misery here. I was intrigued by the tales of Balrum my parents told me. There might have been a mighty kingdom here some time, but now there sure isn't."/>
+    <dia pl="2" str="Where did you come from?"/>
+    <dia npc="2" str="I cannot tell you that. Especially now that I have seen what happened here. It might be cruel but my lands cannot take more lost souls. We have our own troubles, you know."/>
+    <dia pl="3" str="Can you tell me about the other realms?"/>
+    <dia npc="3" str="I don't know much about them. There are four realms that have been discovered. Each separated by months of sea. And let me tell you it's not just water. The sea is a living creature itself. We barely made it alive. One realm is an unforgiving desert, the other one is nothing but ice. Balrum and my lands are the only ones that are made for our kind."/>
+    <dia pl="4" str="Thank you Ewald. I'll be on my way."/>
+    <dia npc="4" str="Keep your eyes open, young traveler."/>
+	<dia pl="5" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

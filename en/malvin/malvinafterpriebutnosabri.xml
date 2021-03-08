@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="You shouldn't worry any more, father. Your brothers will end their relationship with the brothel."/>
+    <dia npc="0" str="Thank you, my son. My heart is free of worry now. As I promised you, I will teach you the knowledge I have obtained over my many years."/>
+	<dia pl="1" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

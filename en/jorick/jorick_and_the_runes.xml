@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Anwen!"/>
+    <dia npc="0" str="How do you know that name? "/>
+    <dia pl="1" str="Kyler told me that if I tell you this name, you will hear me out."/>
+    <dia npc="1" str="Kyler, that old bastard. He was right. Now tell me, what do you want?"/>
+    <dia pl="2" str="Do you know where the entrance to the underground city is?"/>
+    <dia npc="2" str="Why would a young boy like you want to go down there? And more importantly, how do you know about that place?"/>
+    <dia pl="3" str="I don't have time to tell you everything. All you need to know right now is that the woods are no longer safe. I have to get into the city!"/>
+    <dia npc="3" str="Only a few know where the ancient city's entrance is. And there is a good reason why only a handful of people know. A long time ago, people used the city for protection against the fiery wrath of the Mad God. Many years later King Triston found out that old wizards were using the city to hide their dark rituals. I'm not going to tell you anything until you tell me what's happening."/>
+    <dia pl="4" str="People in my village are disappearing. Houses were burnt down. I know that somehow our leader Arlo has something to do with everything that has happened."/>
+    <dia npc="4" str="Gods help us! I knew that we should not have trusted Arlo with our lives. I kept an eye on him ever since our villages decided to flee into the woods. I saw Arlo enter the ruins many times. But that was almost 20 years ago."/>
+    <dia pl="5" str="You need to tell me where the entrance is. The necromancers who lived here centuries ago have something to do with the horrible things that have happened."/>
+    <dia npc="5" str="The necromancers? Their kind were slaughtered ages ago. King Triston left no one alive when his armies marched into Darkwood. If, somehow, a few of them are still alive I don't think even the two villages together could face them. You are out of luck. The entrance is sealed with powerful magic. The only way you can enter is if you have three runes. These runes act like keys."/>
+    <dia pl="6" str="Where can I find these runes? And if I find them what do I do with them?"/>
+    <dia npc="6" str="Arlo had all of them. I have no idea how he got a hold of them, but he had them alright. And he scattered the runes all around Darkwood after he entered the old city for the last time. He went to great lengths to make sure the runes won't be seen together again. He hid one of the runes in the big old cemetery up to the north east. I'm not sure about the second one, but I think he hid it in the cave of the crystal golems. He threw the third rune at the forest troll north east from here near Spike's house. If you are able to retrieve all three of the runes all you need to do is stand in the middle of the so-called summoning portal north of my house, here. People don't know that it is a teleportation device for our ancestors to enter the underground city. They think evil spirits can be summoned there."/> 
+	<dia pl="7" str="Thank you Jorick. I'm going to find all three runes. I hope I find answers down in the old city." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

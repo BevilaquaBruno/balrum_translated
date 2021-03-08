@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Is this the book?"/>
+    <dia npc="0" str="Well throw me in the deepest dungeon.. This is the book! See, it wasn't so hard to steal from that kid. You are better than I thought. One day you might be a decent thief, but don't get hasty - that day is far away."/>
+    <dia pl="1" str="So will you teach me now?"/>
+    <dia npc="1" str="Here is your first lesson. A true thief always keeps his promise."/>
+    <dia pl="2" str="End." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

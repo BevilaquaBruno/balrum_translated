@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I would like to rent one of your rooms Fred!"/>
+    <dia npc="0" str="No problem boy! That will be 10 thalers."/>
+    <dia pl="1" str="Rent a room." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

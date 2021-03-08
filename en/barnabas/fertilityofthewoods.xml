@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Do you know more about the woods now Barnabas?"/>
+    <dia npc="0" str="Not much my boy, but one thing is for certain. These woods emanate fertility power. If only I knew this before.."/>
+    <dia pl="1" str="Before what?"/>
+    <dia npc="1" str="What? What were we talking about? Oh nothing. Nothing my boy."/>
+    <dia pl="2" str="..." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

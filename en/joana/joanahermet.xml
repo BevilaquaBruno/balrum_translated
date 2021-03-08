@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Nice to meet you."/>
+    <dia npc="0" str="Looks like I have to increase the number of traps around the house again. What do you want?"/>
+    <dia pl="1" str="Why are you living here alone?"/>
+    <dia npc="1" str="How do you know I'm alone?"/>
+    <dia pl="2" str="I don't know."/>
+    <dia npc="2" str="Exactly, you don't know. For your information I'm not on my own here. Me and my husband live here together. Far away from the filth of the city."/>
+	<dia pl="3" str="I've been to the city and it's not that bad there."/>
+    <dia npc="3" str="Good for you. Let me ask you again. What do you want?"/>
+    <dia pl="4" str="I'm looking for work, and also, can you tell me where the path goes?"/>
+    <dia npc="4" str="To the desert. It's a harsh and unforgiving land. At first it looks like a beautiful oasis but as you get deeper there won't be anything but sand. I have no idea why someone would choose to live there."/>
+    <dia pl="5" str="Who lives there?"/>
+    <dia npc="5" str="Orran. The old sailor was not the sharpest tool in the shed. He decided to flee the city when the rebels took over. I don't think he's still alive. You said you're looking for work. I have something for you, if you are interested?"/>
+	<dia pl="6" str="I might visit this Orran. I hope he's not dead. What can I help you with?"/>
+    <dia npc="6" str="I would love to have a few flameberries! Funny we just talked about the desert because you can only find them there. Bring me five flameberries. I can pay you a little for your troubles."/>
+    <dia pl="7_0" str="I will be back with the berries." jumpNPCd= "0" jumpPlayerd = '0'/>
+	<dia pl="7_1" str="I'm not going to the desert for a few berries." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

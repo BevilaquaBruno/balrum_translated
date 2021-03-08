@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="You are defeated Rider. It was a fair fight and I won. Will you tell Bolt that you want me to join?"/>
+    <dia npc="0" str="I gave you my word and you won the fight. Yes I will tell Bolt. We need men like you in the guild."/>
+	<dia pl="1" str="Thank you Rider." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

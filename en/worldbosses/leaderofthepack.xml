@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I have killed the leader of the wolf pack."/>
+    <dia npc="0" str="You did a great job boy! Here take this as a reward."/>
+    <dia pl="1" str="Thank you!" jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

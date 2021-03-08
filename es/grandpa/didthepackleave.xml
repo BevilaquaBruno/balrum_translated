@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Y si los Pack han decidido abandonar la aldea?"/>
+    <dia npc="0" str="Si es así, es una mala decisión. El mundo de hay fuera es un caos. Dudo que el mundo haya cambiado despues de 20 años desde que vinimos a los bosques. No entiendo por que iban a correr el riesgo de salir fuera."/>
+    <dia pl="1" str="Es realmente el mundo tan malo, abuelo?"/>
+    <dia npc="1" str="Grandes hordas de no-muertos caminaban por las llanuras en el mundo de las personas. Los reyes enviaron a sus ejércitos pero el poder de los no-muertos fue subestimado. Nadie sobrevivió a las batallas. Sin ejércitos del rey el caos se apodero del mundo. Se formaron grandes clanes de bandidos y empezaron a crear sus propias normas. Pronto los reyes de Balrum fueron cayendo. Fue entonces cuando nuestra aldea y el pueblo de kyler decidimos marcharnos a los bosques en busca de protección. Como sabes, hijo, nadie se atreve a entrar en el bosque debidó a la oscura historia que tiene. Fue una decisión difícil pero aquí hemos encontrado la paz que buscabamos. Los bosques nos protegen del mundo de fuera. Es imposible restaurar el orden en Balrum. Los hombres son capaces de hacer cosas horribles cuando no hay nadie para vengar sus maldades. Las cosas que vi, mi chico, no quiero hablar de ello."/>
+    <dia pl="2" str="Han pasado 20 años abuelo. El mundo a lo mejor ha cambiado."/>
+    <dia npc="2" str="No lo sabemos. Nadie a abandonado los bosques desde entonces. Tenemos una buena vida aquí. Los Pack no han dicho a nadie que se iban. Ni siquiera una carta. Esto realmente me preocupa."/>
+    <dia pl="3" str="Nunca me has contado la historia de los bosques, abuelo."/>
+    <dia npc="3" str="No lo he hecho nunca mi chico. Pero algún día lo haré."/>
+	<dia pl="4" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

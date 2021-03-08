@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Your son told me that I should speak to you if I want to know more about how you make linen."/>
+    <dia npc="0" str="He was right. Sadly, he doesn't have the passion that I have for the art. I even told him that there are mages who wear robes that I made, but he only reads his books. Of course, he helps but I can see it in his eyes that this is not for him. Anyway, what were you interested in?"/>
+    <dia pl="1" str="Tell me more about the robes that you made for the mages."/>
+    <dia npc="1" str="I see you are interested in magical robes. I have to tell you right away that you shouldn't get too excited. The guild of mages demanded so many magical robes that I have completely run out of those old linen pieces. Truly powerful magical robes can only be made out of ancient linen pieces."/>
+    <dia pl="2" str="What if I bring you some?"/>
+    <dia npc="2" str="Ahh... an adventurer. I like your kind. If you bring me some ancient linen pieces I can teach you how to make clothing out of it. Sure, I won't do it for free. Let's say if you bring me five pieces of ancient linen I will teach you how to handle them."/>
+	<dia pl="3" str="Deal! I will be back with the linen." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Tengo sus dichosos pollos, Osric."/>
+    <dia npc="0" str="Gracias, chico. Llévate uno de ellos. Voy a reforzar la zanja. La aldea no puede permitirse el lujo de perder más pollos."/>
+    <dia pl="1" str="Gracias!" jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

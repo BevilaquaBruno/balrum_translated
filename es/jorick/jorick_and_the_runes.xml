@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Anwen!"/>
+    <dia npc="0" str="Como sabes ese nombre? "/>
+    <dia pl="1" str="Kyler me dijo que si te decía este nombre, saldrías a escucharme."/>
+    <dia npc="1" str="Kyler, ese viejo bastardo. El estaba en lo correcto. Ahora dime, que es lo que deseas?"/>
+    <dia pl="2" str="Sabes donde está la entrada a la ciudad subterránea?"/>
+    <dia npc="2" str="Para que un muchacho joven como tu quiere ir ahí? Y lo más importante, como sabes que existe ese lugar?"/>
+    <dia pl="3" str="No tengo tiempo para contártelo todo ahora. Lo único que necesitas saber es que el bosque ya no es tan seguro. Tengo que llegar a esa ciudad!"/>
+    <dia npc="3" str="Solo unos pocos saben donde se encuentra la entrada de la vieja ciudad. Y hay una buena razón por la que solo unos cuantos la conocen. Hace mucho tiempo, la gente utilizaba la ciudad para protegerse de la ira ardiente del dios loco. Muchos años más tarde el rey Triston descubrió que los viejos magos oscuros utilizaban la ciudad para ocultar sus rituales. No te voy a decir nada hasta que me expliques lo que esta pasando en el bosque."/>
+    <dia pl="4" str="La gente de mi aldea está desapareciendo. Sus casas fueron quemadas. De alguna manera pienso que nuestro líder Arlo tiene algo que ver con lo que esta sucediendo."/>
+    <dia npc="4" str="Que los dioses nos ayuden! Yo sabia que no teníamos que haber confiado nuestras vidas a Arlo. Lo he estado vigilando desde que nuestros pueblos vinieron al bosque. He visto a Arlo entrar en las ruinas varias veces. Pero eso hace casi 20 años."/>
+    <dia pl="5" str="Es necesario que me digas donde está la entrada. Los nigromantes que vivieron aquí hace siglos también tienen algo que ver con lo que esta sucediendo."/>
+    <dia npc="5" str="Los nigromantes? Su especie fue sacrificada hace siglos. El rey Triston no dejo a nadie vivo cuando sus ejércitos marcharon a los bosques oscuros. Si de alguna manera, algunos de ellos todavía esta vivos no creo que ni los dos pueblos unidos puedan enfrentarse a ellos. No estás de suerte. La entrada está sellada con magia poderosa. La única forma con la que podemos entrar nosotros, es teniendo las tres runas. Estas runas actúan como llave."/>
+    <dia pl="6" str="Donde puedo encontrar estas runas? Y si las encuentro, que hago con ellas?"/>
+    <dia npc="6" str="Arlo las tenia todas. No tengo ni idea de como se apodero de ellas, Pero el las guardo bien. Pero la última vez que entro en la vieja ciudad después de entrar esparció las runas por todo el bosque oscuro. Hizo lo posible para asegurarse de que nadie vuelva a juntar las runas. Escondio una de las runas en el gran cementerio, esta al noreste. No estoy muy seguro de donde puede estar la segunda, pero creo que la oculto en las cuevas de los golem de cristal. La tercera runa la lanzó hacia el bosque de los troll, al noreste de aquí, cerca de la casa de Spike. Si eres capaz de reunir las tres runas todo lo que tienes que hacer es preparar la invocación al norte del portal de mi casa. La gente no sabe que es un dispositivo de teletransporte de nuestros antepasados para entrar a la ciudad subterránea. Algunos piensan que los espíritus malignos pueden ser convocados."/> 
+	<dia pl="7" str="Gracias Jorick. Voy a buscar las tres runas. Espero encontrar respuestas en la vieja ciudad." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Quién eres? Cuanto tiempo llevas aquí?"/>
+    <dia npc="0" str="Mi misión era limpiar esta cueva. El comandante me dijo que las brujas habían excavado estas cuevas con sus propias manos. A medida que fui bajando me di cuenta de que estaba mintiendo. Esta cueva a sido diseñada correctamenta y construida por personas que sabían perfectamente lo que estaban haciendo. Las brujas no hubieran podido excavar todo esto. Creo que este sitio es un centro de entrenamiento."/>
+    <dia pl="1" str="Necesitas alguna ayuda? Qué pasó?"/>
+    <dia npc="1" str="Ha sido tan largo. Me maldijeron, sabes. Durante muchos años he pensado que moriría, pero de repente, como es que estoy hablando contigo? No puedo hablarte de mi misión, pero si puedo decirte que no lo he conseguido. Los demás lo lograron? Están los bosques limpios?"/>
+    <dia pl="2" str="No lo sé. Y.."/>
+    <dia npc="2" str="No importa. Tengo que aceptar mi destino. Tu también tendrás que aceptar el tuyo."/>
+    <dia pl="3" str="Qué quieres decir?" jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

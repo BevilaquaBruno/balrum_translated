@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="No puedes hacerlo."/>
+    <dia npc="0" str="Por qué?"/>
+    <dia pl="1" str="Es mi culpa. No debería haber matado al oso. Teñir su pelaje es hacer trampa y deshonesto. No lo hagas!"/>
+    <dia npc="1" str="Tienes razón. Gracias por detenerme. Se lo contaré todo a Diego."/>
+	<dia pl="2" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

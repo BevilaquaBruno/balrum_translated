@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Qué a pasado aquí, abuelo? estas bien?"/>
+    <dia npc="0" str="Estoy bien hijo, pero mira nuestra casa. Se ha quemado casi toda entera. Gracias a los dioses he podido detener el fuego. Como tardabas tanto de volver de cazar, no podía dormir. Puedo decir que tu tardía a salvado mi vida, y nuestro hogar. O al menos lo que queda de ella. Hubiera sido mi último lugar de descanso."/>
+	<dia pl="1" str="Cómo a ocurrido esto?"/>
+    <dia npc="1" str="Mi chico, no tengo ni idea de como ha ocurrido. Deje las velas fuera. Así que no han podido ser la causa del incendio. El fuego se inició lejos de la antorcha. No se que ha podido causar el fuego. Estoy viejo, pero aún puedo lanzar un potente hechizo de congelación. Fue suficiente para detener las llamas."/>
+	<dia pl="2" str="Soy tan feliz de que estés bien, abuelo. La casa la podemos reparar pero nose que haría sin ti. Eres como un padre para mi."/>
+    <dia npc="2" str="No te preocupes hijo, sigo aquí. dejemos de hablar de mi. Estoy bien, pero nuestros vecinos han desparecido. Pack, Frieda y la pequeña Audie no están. Su casa se quemo entera. Parece una coincidencia. La gente empieza a estar preocupada por lo que a sucedido."/>
+	<dia pl="3" str="Que podemos hacer? Han empezado a buscarlos? Que a dicho Arlo de todo esto?"/>
+    <dia npc="3" str="Los hombre ya han empezado a buscarlos. En cuanto al fuego, Arlo sospecha de las antorchas. Esto debe ser embarazoso para Aron, pero como he dicho, en nuestra casa el fuego no lo inicio la antorcha."/>
+	<dia pl="4" str="Que estas insinuando?"/>
+    <dia npc="4" str="No lo sé, hijo, pero algo malo esta ocurriendo. Deberías ir hablar con los vecinos de Pack y Frieda, Cardew y Thurza. Ellos a lo mejor han visto u oído algo. Antes de irte toma esto. Me lo dieron tus padres. Me dijeron que te lo diera cuando necesitaras protección y ha llegado el momento. Esto te llevara a un lugar seguro. Construye una casa allí y siempre que sientas que tu vida esta en peligro utiliza la runa. Por favor mi chico, no hagas preguntas. "/>
+	<dia pl="5" str="No me vas a contar nada de mis padres. Vale, no haré preguntas yo siempre estaré a tu lado abuelo!"/>
+    <dia npc="5" str="Es casi el amanecer, y el humo casi se ha desvanecido. Estaré bien. Pobre niña Audie. Como han podido desaparecer? No han encontrado sus cuerpos. Creo que lo mejor es que nos centremos en ellos, hijo. Créeme, estaré bien."/>
+	<dia pl="6" str="Volveré pronto."/>
+    <dia npc="6" str="Casi se me olvida. Cuando tengas tiempo repara los daños. Esperemos que lo peor ya haya pasado y que la familia pack este bien."/>
+	<dia pl="7" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

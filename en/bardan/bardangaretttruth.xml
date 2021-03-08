@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I talked to your son."/>
+    <dia npc="0" str="What happened?"/>
+    <dia pl="1" str="Your son forgot to clean the churns a few times. That was what made the milk sour."/>
+    <dia npc="1" str="I knew it. He's simply not cut out to be a good farmer. I have to send him back to the church. Thank you for sorting this out. Here is the money. Please take it to Adia."/>
+	<dia pl="2" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

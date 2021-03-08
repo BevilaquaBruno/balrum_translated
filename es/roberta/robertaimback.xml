@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="He vuelto."/>
+    <dia npc="0" str="Aquí tienes. Bébetela tan pronto como sea posible. Y te pondrás bien."/>
+	<dia pl="3" str="Gracias Roberta." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

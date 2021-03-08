@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Me lo imaginaba! El abuelo me contó cuentos de los druidas que podían hablar con los animales. Eres un druida!"/>
+    <dia npc="0" str="Como puedes llamarme así. Por favor no se lo digas a nadie. Vamos a mantener esto en secreto, vale."/>
+	<dia pl="1" str="Entonces, puedes hablar con los animales?"/>
+	<dia npc="1" str="Si. O para ser más precisos fui capaz de hablar con ellos."/>
+	<dia pl="2" str="Pasó alguna cosa?"/>
+	<dia npc="2" str="En este lugar pasó. Cada día este lugar debilita más mis poderes. Hace unos años podía hablar con cualquier criatura, era una manera de poder ayudarles. Pero ahora no los entiendo y ellos a mi tampoco. El bosque oscuro es malo. En estos bosques resuenan energías de vida y de muerte al mismo tiempo, hoy en día todos mis poderes se han ido."/>
+	<dia pl="3" str="Escuchar esto me pone triste. Hay alguna forma de ayudarte a recuperar tus poderes?"/>
+	<dia npc="3" str="Eres muy amable por tu parte, pero la única manera es dejando este lugar. "/>
+	<dia pl="4" str="Si encuentro un buen lugar, te lo diré." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

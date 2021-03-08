@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="You look upset. What's the problem?"/>
+    <dia npc="0" str="Welcome traveler. I assume you come in peace. You are right. I am upset. There is a large crocodile killing our people. We lived in harmony with the wild creatures for centuries but this horrible beast keeps attacking our fishers."/>
+    <dia pl="1" str="Where can I find the beast?"/>
+    <dia npc="1" str="What will you do? We don't want to kill the creature. It will only anger the other ones."/>
+    <dia pl="2" str="There is no other choice. The beast is a danger to your village. Think about the children."/>
+    <dia npc="2" str="You are right traveler. Thank you for opening my eyes. If you do this task I will reward you with a special item. My ancestors received the key to the crypt near our village from your ancestors many centuries ago. I will give you that key."/>
+	<dia pl="3" str="I will slay the beast." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

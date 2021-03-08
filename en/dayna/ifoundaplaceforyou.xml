@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I found a place for you!"/>
+    <dia npc="0" str="What are you talking about?"/>
+	<dia pl="1" str="I found a cave full of deer. There were trees underground! It was beautiful! I felt safe there. I think you should visit that place."/>
+	<dia npc="1" str="Interesting. Tell me where that place is. 'You show Dayna where you found the cave on your map.' I will go there. Thank you for telling me!"/>
+	<dia pl="2" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

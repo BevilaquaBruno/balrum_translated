@@ -1,0 +1,1802 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--%data% data-->
+<!--%n% new line-->
+<!--%l% line skip-->
+<objects>
+	<tooltip> 
+    <MIN_DAMAGE n="Deals %data% to %data% damage to the target." /> 
+    <CRAFTINGDAMAGE n="Damage: %data% to %data%/%data% to %data%." /> 
+    <HEALTH_REGEN n="Restores %data% Health." /> 
+    <MANA_REGEN n="Restores %data% Mana." /> 
+    <CRAFT_COOKING_HEALTHREGEN n="Restores %data% Health over %data% turns." />
+    <CRAFT_COOKING_MANAREGEN n="Restores %data% Mana over %data% turns." />
+    <CRAFT_COOKING_BUFF_HEALTHREGEN n="Restores %data% Health each turn." />
+    <CRAFT_COOKING_BUFF_MANAREGEN n="Restores %data% Mana each turn." />
+    <WORTH n="Worth: %data% Thaler" />  
+    <REQUIREMENT_DEXTERITY n="Requires %data% Base Dexterity." />
+    <REQUIREMENT_STRENGTH n="Requires %data% Base Strength." />
+    <REQUIREMENT_INTELLECT n="Requires %data% Base Intellect." />
+    <REQUIREMENT_WISDOM n="Requires %data% Base Wisdom." />
+    <COMMENT n="Right-click to use. (1 turn)" />
+    <COMMENT_LOOT n="Right-click to loot." />
+    <COMMENT_FOOD n="Right-click to eat. (1 turn)" />
+    <COMMENT_SPELL n="Left-click to pick up ability icon." />
+    <COMMENT_SPELL2 n="Right-click to select ability. Needs to be in a quickslot." />
+    <COMMENT_POTION n="Right-click to drink. (1 turn)" />
+    <COMMENT_EQUIPMENT n="Right-click to equip. (1 turn)" />
+    <COMMENT_EQUIPMENT_02 n="Right-click to unequip. (1 turn)" />
+    <COMMENT_BOOK_SCROLL n="Right-click to read. (1 turn)" />
+    <COMMENT_LEARN n="Right-click to learn. (1 turn)" />
+    <COMMENT_ALREADYKNOW n="You already know that." />
+    <COMMENT_DAMAGE_IT n="Click to damage." />
+    <COMMENT_AUTO_USE n="Automatically used." />
+    <LORE_CRAFTING n="Crafting:" />
+    <COMBINABLE n="Combinable." />
+    <COMBINABLE_RESULT n="Can be created by combining." />
+    <TASTES_MUCH_BETTER n="It tastes much better when roasted." />
+    <SET_GIVE_EXTRA n="Set bonus with %data% items:" />
+    <CRAFTED_BY n=" " />
+    <TWO_HANDED n="Two Handed" />  
+    <STACK n="Stackable: %data%" />
+    <USE_TRAP n="(Drag the trap into a highlighted area.)" />
+    <LORE_WEAPON_DAGGER n="Daggers have a higher hit chance." />
+    <USE_SEEDS n="Drag the seed into a field. A hoe is needed to plant the seed. (You have to be standing next to the field that you want to use.)" />
+    <FIND_SEEDS n="There might be seeds inside!" />
+    <CRITICAL n="(Critical Craft)" />
+    <STAFFNEEDED n="Requires a staff." />
+    <DAGGERNEEDED n="Requires a dagger." />
+    <AXENEEDED n="Requires an axe." />
+    <SHIELDNEEDED n="Requires a shield." />
+    <REQURESTWOH n="Requires a two handed weapon." />
+    
+    <SIMPLESTAT_STRENGTH n="Strength %data%." />
+    <SIMPLESTAT_ARMOUR n="Armour %data%." />
+    <SIMPLESTAT_DEXTERITY n="Dexterity %data%." />
+    <SIMPLESTAT_INTELLIGENCE n="Intelligence %data%." />
+    <SIMPLESTAT_WISDOM n="Wisdom %data%." />
+    
+    <LOWTHREAT n="Threat: Low" />
+    <MEDIUMTHREAT n="Threat: Medium" />
+    <HIGHTHREAT n="Threat: High" />
+    <RANGED n="Range: Long" />
+    <MELEE n="Range: Close" />
+    <SELF n="Range: Personal" />
+    
+    <PETSPELLUSAGE n="Usage: When selected it will be used by your pet during the next turn if the distance and other requirements are met." />
+    <RANGEDSPELLUSAGE n="Usage: When selected can be used by right clicking an enemy." />
+    <MELESPELLUSAGE n="Usage: When selected can be used by left clicking an enemy." />
+    <SELFSPELLUSAGE n="Usage: A right click or quickslot use will automatically cast the spell." />
+    
+    <GRANTS_DAMAGE n="Grants weapon damage in crafting." />
+    <GRANTS_CRITICAL n="Adds 5% extra craft critical chance." />
+    <ADD_PROC n="Grants weapons a special on hit effect when used in crafting." />
+    
+    <SPELLDAMAGETYPE n="Type: %data%" />
+    <SPELLBOOKUSABLE n="Can be used directly in the Spellbook." />
+    <HUNGER n="Hunger: %data%%" />   
+    <THIRST n="Thirst: %data%%" />   
+    <REST n="Rest: %data%%" />
+    <DURABILITY n="Durability: %data%/%data%" />
+    <TRAP_DISARM_CHANCE n="You have %data%% chance to deactivate this trap." />
+    <INGREDIENTS n="Ingredients:" /> 
+    <LEARN n="Requirements to learn:" />    
+    <TURNS2 n=" for %data% turns." />    
+    
+    <DAMAGE_REDUCTION_PERCENT_FROM_SHIELD n="Physical Damage reduction on block: %data%%." />
+    <MODIFY_VITALITY n="Modifies Vitality by %data%." />
+    <MODIFY_STRENGTH n="Modifies Strength by %data%." />
+    <MODIFY_DEXTERITY n="Modifies Dexterity by %data%." />
+    <MODIFY_WISDOM n="Modifies Wisdom by %data%." />
+    <MODIFY_ARMOR n="Modifies Armour by %data%." />
+    <MODIFY_INTELLIGENCE n="Modifies Intelligence by %data%." />
+    <MODIFY_MELEE_EXPERTISE n="Modifies Melee Expertise by %data%%." />
+    <MODIFY_MAGIC_EXPERTISE n="Modifies Magic Expertise by %data%%." />
+    
+    <MODIFY_DODGE_CHANCE n="Modifies Dodge Chance by %data%%." />
+    <MODIFY_PARRY_CHANCE n="Modifies Parry Chance by %data%%." />
+    <MODIFY_BLOCK_CHANCE n="Modifies Block Chance by %data%%." />
+    <MODIFY_HIT_CHANCE_WEAPON n="Modifies Weapon Hit Chance by %data%%." />
+    <MODIFY_CRIT_CHANCE_WEAPON n="Modifies Weapon Critical Chance by %data%%." />
+    <MODIFY_HITCHANCE_SPELL n="Modifies Spell Hit Chance by %data%%." />
+    <MODIFY_CRIT_CHANCE_SPELL n="Modifies Spell Critical Chance by %data%%." />
+  
+  	<ARCANE_RES n="Arcane Resistance %data%%." />
+  	<SHADOW_RES n="Shadow Resistance %data%%." />
+  	<FROST_RES n="Frost Resistance %data%%." />
+  	<FIRE_RES n="Fire Resistance %data%%." />
+  	<POISON_RES n="Poison Resistance %data%%." />
+       
+    <ABSORBFIRE n="Absorbs %data% Fire Damage." />
+    <ABSORBFROST n="Absorbs %data% Frost Damage." />
+    <ABSORBPHYSICAL n="Absorbs %data% Physical Damage." />
+    <ABSORBPOISON n="Absorbs %data% Poison Damage." />
+    <ABSORBSHADOW n="Absorbs %data% Shadow Damage." />
+    <ABSORBARCANE n="Absorbs %data% Arcane Damage." />
+       
+    <MODIFY_OUTGOING_ARCANE_DAMAGE n="Modifies Arcane Damage by %data%." /> 
+    <MODIFY_OUTGOING_FIRE_DAMAGE n="Modifies Fire Damage by %data%." /> 
+    <MODIFY_OUTGOING_FROST_DAMAGE n="Modifies Frost Damage by %data%." /> 
+    <MODIFY_OUTGOING_SHADOW_DAMAGE n="Modifies Shadow Damage by %data%." /> 
+    <MODIFY_OUTGOING_POISON_DAMAGE n="Modifies Poison Damage by %data%." /> 
+    <MODIFY_OUTGOING_PHISICAL_DAMAGE n="Modifies Physical Damage by %data%." />  
+       
+    <MODIFY_INCOMING_ARCANE_DAMAGE n="Modifies Incoming Arcane Damage by %data%." /> 
+    <MODIFY_INCOMING_FIRE_DAMAGE n="Modifies Incoming Fire Damage by %data%." /> 
+    <MODIFY_INCOMING_FROST_DAMAGE n="Modifies Incoming Frost Damage by %data%." /> 
+    <MODIFY_INCOMING_SHADOW_DAMAGE n="Modifies Incoming Shadow Damage by %data%." /> 
+    <MODIFY_INCOMING_POISON_DAMAGE n="Modifies Incoming Poison Damage by %data%." /> 
+    <MODIFY_INCOMING_PHISICAL_DAMAGE n="Modifies Incoming Physical Damage by %data%." /> 
+    
+    <MOISTURE n="Moisture: %data%%" />
+    <FERTILITY n="Fertility: %data%" />
+    <DISEASED n="Diseased!" />
+    <SPELL_REQUIRES_RANGED_WEAPON n="Requires a ranged weapon and ammunition." />
+    <SPELL_REQUIRES_MELEE_WEAPON n="Requires a melee weapon." />
+    <SPELL_REQUIRES_MANA n="Requires %data% mana." />  
+    <SPELL_COOLDOWN n="Cooldown: %data% turn(s)" />
+    <SPELL_UNARMED n="Can be used unarmed." />
+    <SPELL_PETSPELL n="Pet ability." />
+    <USE n="%data% Turn" />    
+ 
+ 	<CRAFT_OVERMAXIMUM n="Attributes over maximum:" />
+ 	<CRAFT_ENHANCE n="Cannot enhance item with:" />  
+ 	<CRAFT_ACT_MAX_SHORT n="%data%/%data%" />
+ 	<CRAFT_ACT_MAX_PERCENT n="%data%%/%data%" />
+ 	<CRAFT_HUNGER n="Hunger: %data%" />   
+    <CRAFT_THIRST n="Thirst: %data%" />   
+    <CRAFT_REST n="Rest: %data%" />
+ 
+ 	<NOT_USABLE_DAMAGE n="'Damage'" /> 
+    <NOT_USABLE_HEALTH_REGEN n="'Healthregen'" />
+    <NOT_USABLE_MANA_REGEN n="'Manaregen'" />
+    <NOT_USABLE_HUNGER n="'Hunger'" />
+    <NOT_USABLE_THIRST n="'Thirst'" />
+    <NOT_USABLE_REST n="'Rest'" />
+ 	<NOT_USABLE_ABSORBFIRE n="'Absorb Fire Damage'" />
+    <NOT_USABLE_ABSORBFROST n="'Absorb Frost Damage'" />
+    <NOT_USABLE_ABSORBPHYSICAL n="'Absorb Physical Damage'" />
+    <NOT_USABLE_ABSORBPOISON n="'Absorb Poison Damage'" />
+    <NOT_USABLE_ABSORBSHADOW n="'Absorb Shadow Damage'" />
+    <NOT_USABLE_ABSORBARCANE n="'Absorb Arcane Damage'" />
+    <NOT_USABLE_FIRE_RES n="'Fire Resistance'" />
+    <NOT_USABLE_FROST_RES n="'Frost Resistance'" /> 
+    <NOT_USABLE_POISON_RES n="'Poison Resistance'" />
+    <NOT_USABLE_SHADOW_RES n="'Shadow Resistance'" /> 
+    <NOT_USABLE_ARCANE_RES n="'Arcane Resistance'" />  
+    <NOT_USABLE_DAMAGE_REDUCTION_PERCENT_FROM_SHIELD n="'Modifies Physical Damage reduction'" />
+    <NOT_USABLE_MODIFY_VITALITY n="'Modifies Vitality'" /> 
+    <NOT_USABLE_MODIFY_STRENGTH n="'Modifies Strength'" /> 
+    <NOT_USABLE_MODIFY_ARMOR n="'Modifies Armour'" /> 
+    <NOT_USABLE_MODIFY_DEXTERITY n="'Modifies Dexterity'" /> 
+    <NOT_USABLE_MODIFY_INTELLIGENCE n="'Modifies Intelligence'" /> 
+    <NOT_USABLE_MODIFY_WISDOM n="'Modifies Wisdom'" />         
+    <NOT_USABLE_MODIFY_INCOMING_ARCANE_DAMAGE n="'Modifies Incoming Arcane Damage'" /> 
+    <NOT_USABLE_MODIFY_INCOMING_FIRE_DAMAGE n="'Modifies Incoming Fire Damage'" /> 
+    <NOT_USABLE_MODIFY_INCOMING_FROST_DAMAGE n="'Modifies Incoming Frost Damage'" /> 
+    <NOT_USABLE_MODIFY_INCOMING_SHADOW_DAMAGE n="'Modifies Incoming Shadow Damage'" /> 
+    <NOT_USABLE_MODIFY_INCOMING_POISON_DAMAGE n="'Modifies Incoming Poison Damage'" /> 
+    <NOT_USABLE_MODIFY_INCOMING_PHISICAL_DAMAGE n="'Modifies Incoming Physical Damage'" /> 
+    <NOT_USABLE_MODIFY_OUTGOING_ARCANE_DAMAGE n="'Modifies Arcane Damage'" /> 
+    <NOT_USABLE_MODIFY_OUTGOING_FIRE_DAMAGE n="'Modifies Fire Damage'" /> 
+    <NOT_USABLE_MODIFY_OUTGOING_FROST_DAMAGE n="'Modifies Frost Damage'" /> 
+    <NOT_USABLE_MODIFY_OUTGOING_SHADOW_DAMAGE n="'Modifies Shadow Damage'" /> 
+    <NOT_USABLE_MODIFY_OUTGOING_POISON_DAMAGE n="'Modifies Poison Damage'" /> 
+    <NOT_USABLE_MODIFY_OUTGOING_PHISICAL_DAMAGE n="'Modifies Physical Damage'" /> 
+    <NOT_USABLE_MODIFY_DODGE_CHANCE n="'Modifies Dodge Chance'" />
+    <NOT_USABLE_MODIFY_PARRY_CHANCE n="'Modifies Parry Chance'" />
+    <NOT_USABLE_MODIFY_BLOCK_CHANCE n="'Modifies Block Chance'" />
+    <NOT_USABLE_MODIFY_HIT_CHANCE_WEAPON n="'Modifies Weapon Hit Chance'" />
+    <NOT_USABLE_MODIFY_CRIT_CHANCE_WEAPON n="'Modifies Weapon Critical Chance'" />
+    <NOT_USABLE_MODIFY_HITCHANCE_SPELL n="'Modifies Spell Hit chance'" />
+    <NOT_USABLE_MODIFY_CRIT_CHANCE_SPELL n="'Modifies Spell Critical Chance'" />
+    <NOT_USABLE_MODIFY_MELEE_EXPERTISE n="'Modifies Melee Expertise'" />
+    <NOT_USABLE_MODIFY_MAGIC_EXPERTISE n="'Modifies Magic Expertise'" />
+    
+    
+    <USABLE_HEALTH_REGEN n="Healthregen" />
+    <USABLE_MANA_REGEN n="Manaregen" />
+    <USABLE_HUNGER n="Hunger" />
+    <USABLE_THIRST n="Thirst" />
+    <USABLE_REST n="Rest" />
+    <USABLE_MODIFY_VITALITY n="Vitality" /> 
+    <USABLE_MODIFY_STRENGTH n="Strength" /> 
+    <USABLE_MODIFY_ARMOR n="Armour" /> 
+    <USABLE_MODIFY_DEXTERITY n="Dexterity" /> 
+    <USABLE_MODIFY_INTELLIGENCE n="Intelligence" /> 
+    <USABLE_MODIFY_WISDOM n="Wisdom" /> 
+    <USABLE_DAMAGE_REDUCTION_PERCENT_FROM_SHIELD n="Physical Damage reduction" />
+    
+    <USABLE_MODIFY_INCOMING_ARCANE_DAMAGE n="Incoming Arcane Damage" /> 
+    <USABLE_MODIFY_INCOMING_FIRE_DAMAGE n="Incoming Fire Damage" /> 
+    <USABLE_MODIFY_INCOMING_FROST_DAMAGE n="Incoming Frost Damage" /> 
+    <USABLE_MODIFY_INCOMING_SHADOW_DAMAGE n="Incoming Shadow Damage" /> 
+    <USABLE_MODIFY_INCOMING_POISON_DAMAGE n="Incoming Poison Damage" /> 
+    <USABLE_MODIFY_INCOMING_PHISICAL_DAMAGE n="Incoming Physical Damage" /> 
+    
+    <USABLE_MODIFY_OUTGOING_ARCANE_DAMAGE n="Outgoing Arcane Damage" /> 
+    <USABLE_MODIFY_OUTGOING_FIRE_DAMAGE n="Outgoing Fire Damage" /> 
+    <USABLE_MODIFY_OUTGOING_FROST_DAMAGE n="Outgoing Frost Damage" /> 
+    <USABLE_MODIFY_OUTGOING_SHADOW_DAMAGE n="Outgoing Shadow Damage" /> 
+    <USABLE_MODIFY_OUTGOING_POISON_DAMAGE n="Outgoing Poison Damage" /> 
+    <USABLE_MODIFY_OUTGOING_PHISICAL_DAMAGE n="Outgoing Physical Damage" /> 
+    
+    <USABLE_MODIFY_DODGE_CHANCE n="Dodge Chance" />
+    <USABLE_MODIFY_PARRY_CHANCE n="Parry Chance" />
+    <USABLE_MODIFY_BLOCK_CHANCE n="Block Chance" />
+    <USABLE_MODIFY_HIT_CHANCE_WEAPON n="Weapon Hit Chance" />
+    <USABLE_MODIFY_CRIT_CHANCE_WEAPON n="Weapon Critical Chance" />
+    <USABLE_MODIFY_HITCHANCE_SPELL n="Spell Hit Chance" />
+    <USABLE_MODIFY_CRIT_CHANCE_SPELL n="Spell Critical Chance" />
+    <USABLE_MODIFY_MELEE_EXPERTISE n="'Modifies Melee Expertise'" />
+    <USABLE_MODIFY_MAGIC_EXPERTISE n="'Modifies Magic Expertise'" />
+    
+    <USABLE_FIRE_RES n="Fire Resistance" />
+    <USABLE_FROST_RES n="Frost Resistance" /> 
+    <USABLE_POISON_RES n="Poison Resistance" />
+    <USABLE_SHADOW_RES n="Shadow Resistance" /> 
+    <USABLE_ARCANE_RES n="Arcane Resistance" />  
+
+	<USABLE_ADDITIONAL_RES n="Additional Resistances" />
+	<USABLE_ADDITIONAL_INCOMING_DAMAGE n="Additional Incoming Damage" /> 
+    <USABLE_ADDITIONAL_OUTGOING_DAMAGE n="Additional Outgoing Damage" />         
+
+         
+    
+    <ALCHEMY_EFF_NODAAMGEBLOCK n="%data%x Crystal Block BUFF (%data% turn)" /> 
+    <ALCHEMY_EFF_RANDOM_TELEPORT n="%data%x Random Teleport EVENT" /> 
+    <ALCHEMY_EFF_SPEED n="%data%x Extra Speed BUFF (%data% turns)" /> 
+    <ALCHEMY_EFF_REFLECT n="%data%x Reflect Damage BUFF (%data% turns)" />  
+    <ALCHEMY_EFF_BRAIN_PURGE n="%data%x Brain Purge EVENT" />
+    <ALCHEMY_EFF_INVISIBILITY n="%data%x Invisibility BUFF (%data% turns)" />
+    <ALCHEMY_EFF_PREDATOR_VISION n="%data%x Predator Vision BUFF (%data% turns)" />
+    <ALCHEMY_EFF_FIERY_STEPS n="%data%x Fiery Steps BUFF (%data% turn)" />
+    <ALCHEMY_EFF_CRITICAL_MODIFYER300 n="%data%x 300% Critical Damage Bonus BUFF (%data% turns)" />
+    <ALCHEMY_EFF_REMOVE_X_AGRO_FROM_PLAYER n="%data%x Lose Threat EVENT (-%data% Threat)" />
+    <ALCHEMY_EFF_TURN_MANA_INTO_HP n="%data%x Transform %data% Mana into %data% Health EVENT" />
+    <ALCHEMY_EFF_TURN_HP_INTO_MANA n="%data%x Transform %data% Health into %data% Mana EVENT" />
+    <ALCHEMY_EFF_EXTRA_TURN_FOR_PLAYER n="%data%x Extra Turn BUFF" />
+    <ALCHEMY_EFF_REMOVE_CURSE_AND_BLEED n="%data%x Cure Wounds And Curses EVENT" />
+    <ALCHEMY_EFF_AOE_STUN n="%data%x Mass Stun EVENT (range %data%)" />
+    <ALCHEMY_EFF_STEAL_HP n="%data%x Mass Steal Health (%data% Damage) EVENT (range %data%)" />
+    <ALCHEMY_EFF_FIRENOVA n="%data%x Firenova (%data%-%data% Damage) EVENT (range %data%)" />
+    <ALCHEMY_EFF_AOE_FEAR n="%data%x Mass Fear EVENT (range %data%)" />
+    <ALCHEMY_EFF_AOE_FREEZE n="%data%x Mass Freeze EVENT (range %data%)" /> 
+    <ALCHEMY_EFF_AOE_POISON n="%data%x Mass Poison EVENT (range %data%)" />
+    <ALCHEMY_EFF_NO_FEAR n="%data%x Fear Immunity BUFF (%data% turn)" />
+    <ALCHEMY_EFF_NO_STUN n="%data%x Stun Immunity BUFF (%data% turn)" />
+    <ALCHEMY_EFF_MELEE_CRIT n="%data%x Extra Weapon Critical Chance BUFF (%data% turn)" />
+    <ALCHEMY_EFF_SPELL_CRIT n="%data%x Extra Spell Critical Chance BUFF (%data% turn)" />
+    
+    <PROC_BURN n="On hit: Has a small chance of burning the target." />
+    <PROC_FREEZE n="On hit: Has a small chance of freezing the target." />
+    <PROC_HEAL n="On hit: Has a small chance of healing the bearer." />
+    <PROC_POSION n="On hit: Has a small chance of poisoning the target." />  
+    <PROC_RED n="On hit: Has a small chance of weakening the target." />  
+  </tooltip>
+  <set_names>
+     <set_names setid="0" n="Set: Rusty Armour %data%/%data%" />
+     <set_names setid="1" n="Set: Fiery %data%/%data%" />
+     <set_names setid="2" n="Set: Iron Armour %data%/%data%" /> 
+     <set_names setid="3" n="Set: Demon Soul Armour %data%/%data%" />
+     <set_names setid="4" n="Set: Ancient Vampire Lord Armour %data%/%data%" /> 
+     <set_names setid="5" n="Set: Wanderer's Armour %data%/%data%" />
+     <set_names setid="6" n="Set: Griffin Armour %data%/%data%" /> 
+  </set_names>
+  <obj>
+    <obj id="1261" type="NAME" n="Woods" />
+    <obj id="251" type="NAME" n="Shovels" />
+  
+  	<obj id="56" type="NAME" n="Rotten Apple" />
+  	<obj id="62" type="NAME" n="Rotten Bread" />
+  	<obj id="64" type="NAME" n="Rotten Carrot" />
+  	<obj id="65" type="NAME" n="Rotten Cut Block of Cheese" />
+  	<obj id="41" type="NAME" n="Rotten Block of Cheese" />
+  	<obj id="577" type="NAME" n="Rotten Piece of Cheese" />
+  	<obj id="578" type="NAME" n="Rotten Chong Fish" />
+  	<obj id="571" type="NAME" n="Rotten Emperor Fish" />
+  	<obj id="572" type="NAME" n="Rotten Bear Meat" />
+  	<obj id="573" type="NAME" n="Rotten Deer Meat" />
+  	<obj id="574" type="NAME" n="Rotten Human Meat" />
+  	<obj id="575" type="NAME" n="Rotten Pig Meat" />
+  	<obj id="580" type="NAME" n="Rotten Wolf Meat" />
+  	<obj id="581" type="NAME" n="Rotten Melon" />
+  	<obj id="582" type="NAME" n="Rotten Naga Fish" />
+  	<obj id="583" type="NAME" n="Rotten Owl Egg" />
+  	<obj id="567" type="NAME" n="Rotten Pear" />
+  	<obj id="635" type="NAME" n="Rotten Potato" />
+  	<obj id="636" type="NAME" n="Rotten Dish" />
+	<obj id="640" type="NAME" n="Rotten Dish" />
+  	<obj id="606" type="NAME" n="Rotten Tomato" />
+  
+    <obj id="0" type="NAME" n="Raw Pig Meat" />
+    <obj id="1" type="NAME" n="Half Baked Pig Meat" />
+    <obj id="2" type="NAME" n="Baked Pig Meat" />
+    <obj id="3" type="NAME" n="Burnt Pig Meat" />
+    <obj id="8" type="NAME" n="Raw Bear Meat" />
+    <obj id="9" type="NAME" n="Half Baked Bear Meat" />
+    <obj id="10" type="NAME" n="Baked Bear Meat" />
+    <obj id="11" type="NAME" n="Burnt Bear Meat" />
+    <obj id="12" type="NAME" n="Raw Deer Meat" />
+    <obj id="13" type="NAME" n="Half Baked Deer Meat" />
+    <obj id="14" type="NAME" n="Baked Deer Meat" />
+    <obj id="15" type="NAME" n="Burnt Deer Meat" />
+    <obj id="20" type="NAME" n="Raw Wolf Meat" />
+    <obj id="21" type="NAME" n="Half Baked Wolf Meat" />
+    <obj id="22" type="NAME" n="Baked Wolf Meat" />
+    <obj id="23" type="NAME" n="Burnt Wolf Meat" />
+    <obj id="24" type="NAME" n="Raw Human Meat" />
+    <obj id="25" type="NAME" n="Half Baked Human Meat" />
+    <obj id="26" type="NAME" n="Baked Human Meat" />
+    <obj id="27" type="NAME" n="Burnt Human Meat" />
+    <obj id="31" type="NAME" n="Maps" />
+    <obj id="31" type="LORE1" n="I draw the layout of a new area on these papers." />
+    <obj id="32" type="NAME" n="Poisoned Cheese" />
+    <obj id="33" type="NAME" n="Owl Egg" />
+    <obj id="34" type="NAME" n="Songbird Egg" />
+    <obj id="35" type="NAME" n="Phoenix Egg" />
+    <obj id="35" type="LORE1" n="Barnabas told me these eggs have incredible healing power." />
+    <obj id="36" type="NAME" n="Apple" />
+    <obj id="37" type="NAME" n="Unripe Wheat" />
+    <obj id="38" type="NAME" n="Almost Ripe Wheat" />
+    <obj id="39" type="NAME" n="Ripe Wheat" />
+    <obj id="40" type="NAME" n="Osric's Chicken" />
+    <obj id="42" type="NAME" n="Emperor Fish Prepared" />
+    <obj id="43" type="NAME" n="Chong Fish Prepared" />
+    <obj id="44" type="NAME" n="Uku Fish Prepared" />
+    <obj id="45" type="NAME" n="Naga Fish Prepared" />
+    <obj id="46" type="NAME" n="A Block of Cheese" />
+    <obj id="47" type="NAME" n="A Cut Block of Cheese" />
+    <obj id="48" type="NAME" n="A Piece of Cheese" />
+    <obj id="49" type="NAME" n="A Block of Exquisite Cheese" />
+    <obj id="49" type="LORE1" n="Its taste is really powerful." />
+    <obj id="50" type="NAME" n="A Piece of Exquisite Cheese" />
+    <obj id="50" type="LORE1" n="Its taste is really powerful." />
+    <obj id="51" type="NAME" n="Sloe Berries" />
+    <obj id="51" type="LORE1" n="Has a chance to remove burning effects and slowly regenerates mana when consumed." />
+    <obj id="52" type="NAME" n="Sun Berries" />
+    <obj id="52" type="LORE1" n="Cures a minor poison, minor curse or a minor disease." />
+    <obj id="53" type="NAME" n="Rose Hips" />
+    <obj id="53" type="LORE1" n="Slowly regenerates health when consumed." />
+    <obj id="54" type="NAME" n="Goose Berry" />
+    <obj id="54" type="LORE1" n="Removes some weakening effects." />
+    <obj id="55" type="NAME" n="Pinkberry" />
+    <obj id="57" type="NAME" n="Troll Ears" />
+    <obj id="57" type="LORE1" n="Old legends say it contains the essence of life." />
+    <obj id="58" type="NAME" n="Rock" />
+    <obj id="58" type="LORE1" n="It grows in the cool shadows of large rocks." />
+    <obj id="59" type="NAME" n="Ghost Mushroom" />
+    <obj id="59" type="LORE1" n="Emits a faint blue light." />
+    <obj id="60" type="NAME" n="Amanita" />
+    <obj id="60" type="LORE1" n="Poisonous." />
+    <obj id="61" type="NAME" n="Brittle Cap" />
+    <obj id="61" type="LORE1" n="This mushroom is very brittle." />
+    <obj id="63" type="NAME" n="Pig Ear Mushroom" />
+    <obj id="63" type="LORE1" n="Why do wizards like it so much?" />
+    <obj id="66" type="NAME" n="Walnut" />
+    <obj id="66" type="LORE1" n="When I was younger I had trouble opening these." />
+    <obj id="67" type="NAME" n="Onion" />
+    <obj id="68" type="NAME" n="Garlic" />
+    <obj id="69" type="NAME" n="Bread" />
+    <obj id="70" type="NAME" n="Pear" />
+    <obj id="71" type="NAME" n="Tomato" />
+    <obj id="72" type="NAME" n="Ripe Potato" />
+    <obj id="73" type="NAME" n="Ripe Carrot" />
+    <obj id="74" type="NAME" n="Ripe Corn" />
+    <obj id="75" type="NAME" n="Unripe Melon" />
+    <obj id="76" type="NAME" n="Almost Ripe Melon" />
+    <obj id="77" type="NAME" n="Ripe Melon" />
+    <obj id="79" type="NAME" n="The King Mushroom" />
+    <obj id="79" type="LORE1" n="Rightly called the king of mushrooms because of its size and golden cap." />
+    <obj id="80" type="NAME" n="Death Cap" />
+    <obj id="80" type="LORE1" n="A common mushroom of the forest, because even animals stay away from it." />
+    <obj id="81" type="NAME" n="Unripe Pumpkin" />
+    <obj id="82" type="NAME" n="Almost Ripe Pumpkin" />
+    <obj id="83" type="NAME" n="Ripe Pumpkin" />
+    <obj id="84" type="NAME" n="Emperor Fish" />
+    <obj id="85" type="NAME" n="Chong Fish" />
+    <obj id="86" type="NAME" n="Uku Fish" />
+    <obj id="87" type="NAME" n="Garga Fish" />
+    <obj id="88" type="NAME" n="Naga Fish" />
+    <obj id="89" type="NAME" n="Salt" />
+    <obj id="89" type="LORE1" n="Never forget to use some salt!" /> 
+    <obj id="90" type="NAME" n="Sloe" />
+    <obj id="91" type="NAME" n="Strange Meat" />
+    <obj id="91" type="LORE1" n="I probably should not eat this." />
+    <obj id="92" type="NAME" n="Gooseberry" />
+    <obj id="93" type="NAME" n="Strange Bread" />
+    <obj id="93" type="LORE1" n="Heavier than it looks." />
+    <obj id="94" type="NAME" n="Wild Deer Steak" />
+    <obj id="95" type="NAME" n="Vegetable Dish" />
+    <obj id="97" type="NAME" n="Spicy Potato Soup" />
+    <obj id="98" type="NAME" n="Half Baked Bear Steak" />
+    <obj id="99" type="NAME" n="Mushroom Omelette" />
+    <obj id="100" type="NAME" n="Venison Steak" />
+    <obj id="101" type="NAME" n="Unripe Carrot" />
+    <obj id="102" type="NAME" n="Almost Ripe Carrot" />
+    <obj id="103" type="NAME" n="Unripe Corn" />
+    <obj id="104" type="NAME" n="Almost Ripe Corn" />
+    <obj id="105" type="NAME" n="Unripe Potato" />
+    <obj id="106" type="NAME" n="Almost Ripe Potato" />
+    <obj id="107" type="NAME" n="Smoked Pork Sausage" />
+    <obj id="107" type="LORE1" n="The best sausage in Darkwood." />
+    <obj id="108" type="NAME" n="Cheesy Wolf Steak" />
+    <obj id="109" type="NAME" n="Nightmare Berries" />
+    <obj id="109" type="LORE1" n="Only found in really dark places. Needed for casting certain spells." />
+    <obj id="110" type="NAME" n="Arda's Special Sweet Cake" />
+    <obj id="110" type="LORE1" n="Arda makes the sweetest cakes." />
+    <obj id="111" type="NAME" n="Beehive" />
+    <obj id="112" type="NAME" n="Coffee Bean" />
+    <obj id="112" type="LORE1" n="A good boost of energy." />
+    <obj id="113" type="NAME" n="Raw Chicken Meat" />
+    <obj id="114" type="NAME" n="Half Baked Chicken Meat" />
+    <obj id="115" type="NAME" n="Baked Chicken Meat" />
+    <obj id="116" type="NAME" n="Burnt Chicken Meat" />
+    <obj id="913" type="NAME" n="Flour" />
+    <obj id="910" type="NAME" n="Dough" />
+    <obj id="1226" type="NAME" n="Burnt Bread" />
+    <obj id="297" type="NAME" n="Misthide Armour" />
+    <obj id="298" type="NAME" n="Special Alchemy Bottle" />
+    <obj id="298" type="LORE1" n="Alchemists often use these special bottles." />
+    <obj id="287" type="NAME" n="Predator Senses" />
+    <obj id="287" type="LORE1" n="See your prey in the dark." /> 
+    <obj id="299" type="NAME" n="Sturdy Lockpick" />
+    <obj id="299" type="LORE1" n="This lockpick will last much longer than traditional ones." />
+    <obj id="302" type="NAME" n="Empty Bucket" />
+    <obj id="303" type="NAME" n="Water Bucket" />
+    <obj id="304" type="NAME" n="Honey Bucket" />
+    <obj id="305" type="NAME" n="Milk" />
+    <obj id="306" type="NAME" n="Fishing Rod" />
+    <obj id="307" type="NAME" n="Fishing Rod" />
+    <obj id="308" type="NAME" n="Antique Hammer" />
+    <obj id="308" type="LORE1" n="This hammer looks almost new but it was used for countless years." />
+    <obj id="254" type="NAME" n="Hammer" />
+    <obj id="254" type="LORE1" n="Used in Building." />
+    <obj id="311" type="NAME" n="Saw" />
+    <obj id="311" type="LORE1" n="Used in Building." />
+    <obj id="309" type="NAME" n="Hoe" />
+    <obj id="309" type="LORE1" n="Indispensable when planting seeds." />
+    <obj id="253" type="NAME" n="Durable Hoe" />
+    <obj id="253" type="LORE1" n="Indispensable when planting seeds." />
+    <obj id="432" type="NAME" n="Shovel" />
+    <obj id="424" type="NAME" n="Knightly Shovel" />
+    <obj id="310" type="NAME" n="Pickaxe" />
+    <obj id="310" type="LORE1" n="Used in Mining." />
+    <obj id="658" type="NAME" n="Durable Pickaxe" />
+    <obj id="658" type="LORE1" n="Used in Mining." />
+    <obj id="313" type="NAME" n="Woodcutter's Axe" />
+    <obj id="313" type="LORE1" n="Used to chop down trees." />
+    <obj id="296" type="NAME" n="Durable Woodcutter's Axe" />
+    <obj id="296" type="LORE1" n="Used to chop down trees." />
+    <obj id="247" type="NAME" n="Immune to Stun Potion" />
+    <obj id="295" type="NAME" n="Watersack" />
+    <obj id="295" type="LORE1" n="It can hold water enough for a day." />  
+    <obj id="314" type="NAME" n="Bear Slayer" />
+    <obj id="314" type="LORE1" n="Used by the bear hunters." />
+    <obj id="315" type="NAME" n="Claw" />
+    <obj id="315" type="LORE1" n="One of its edges is serrated." />
+    <obj id="316" type="NAME" n="Claymore" />
+    <obj id="317" type="NAME" n="Fine Sword" />
+    <obj id="317" type="LORE1" n="A well balanced sword." />
+    <obj id="318" type="NAME" n="Heavy Sword" />
+    <obj id="320" type="NAME" n="Nightfall" />
+    <obj id="321" type="NAME" n="Old Sword" />
+    <obj id="321" type="LORE1" n="This sword must have seen a lot of things." />
+    <obj id="322" type="NAME" n="Red River" />
+    <obj id="322" type="LORE1" n="It's warm to the touch." />      
+    <obj id="327" type="NAME" n="Worn Breastplate" />
+    <obj id="328" type="NAME" n="Worn Chain Vest" />
+    <obj id="329" type="NAME" n="Chain Vest" />
+    <obj id="330" type="NAME" n="Worn Plate" />
+    <obj id="331" type="NAME" n="Rusty Armour" />
+    <obj id="331" type="LORE1" n="This armour is almost falling apart.. almost." />
+    <obj id="332" type="NAME" n="Ritual Breastplate" />
+    <obj id="332" type="LORE1" n="There are all kinds of animals carved into the metal." />
+    <obj id="333" type="NAME" n="Rusty Plate" />
+    <obj id="333" type="LORE1" n="This armour has been used before. There are deep cuts on its surface. " />
+    <obj id="334" type="NAME" n="Wildwood Armour" />
+    <obj id="335" type="NAME" n="Amulet of Minor Cold Protection" />
+    <obj id="335" type="LORE1" n="Leonard gave this to me. It should protect me from the ghosts." />
+    <obj id="336" type="NAME" n="Leather Vest" />
+    <obj id="337" type="NAME" n="Leather Gloves" />
+    <obj id="338" type="NAME" n="Leather Belt" />
+    <obj id="339" type="NAME" n="Leather Pants" />
+    <obj id="340" type="NAME" n="Leather Shoes" />
+    <obj id="341" type="NAME" n="Pine Armour" />
+    <obj id="341" type="LORE1" n="This armour is made of wood." />
+    <obj id="342" type="NAME" n="Iron Helmet" />
+    <obj id="343" type="NAME" n="Veteran Armour" />
+    <obj id="343" type="LORE1" n="The marks indicate that this armour belonged to a high ranking soldier." />
+    <obj id="344" type="NAME" n="Iron Breastplate" />
+    <obj id="345" type="NAME" n="Iron Gloves" />
+    <obj id="346" type="NAME" n="Iron Belt" />
+    <obj id="347" type="NAME" n="Iron Leggings" />
+    <obj id="348" type="NAME" n="Iron Shoes" />
+    <obj id="349" type="NAME" n="Dark Iron Breastplate" />
+    <obj id="349" type="LORE1" n="Dark iron was discovered ages ago. Somehow people have forgotten how to smelt it." />
+    <obj id="350" type="NAME" n="Knight's Armour" />
+    <obj id="351" type="NAME" n="Commander's Armour" />
+    <obj id="351" type="LORE1" n="This armour belonged to a commander. The blood indicates a fatal blow to the heart." />
+    <obj id="352" type="NAME" n="Cloth Robe" />
+    <obj id="353" type="NAME" n="Plate of the Gladiator" />
+    <obj id="353" type="LORE1" n="The design of this armour allows the wearer to move swiftly." />
+    <obj id="354" type="NAME" n="Ironsoul Breastplate" />
+    <obj id="354" type="LORE1" n="A literally heavy armour." />
+    <obj id="355" type="NAME" n="Cook's Robes" />
+    <obj id="356" type="NAME" n="Shirt" />
+    <obj id="357" type="NAME" n="Worn Robes" />
+    <obj id="358" type="NAME" n="Black Robes" />
+    <obj id="359" type="NAME" n="Robes of the Forest" />
+    <obj id="359" type="LORE1" n="Leaves are sewn into it." />
+    <obj id="360" type="NAME" n="Sky Robes" />
+    <obj id="361" type="NAME" n="Dark Ritual Robes" />
+    <obj id="361" type="LORE1" n="There's dried blood all over this robe." />
+    <obj id="362" type="NAME" n="Priest Robes" />
+    <obj id="362" type="LORE1" n="Doesn't make you holy." />
+    <obj id="363" type="NAME" n="Robes of the Lich" />
+    <obj id="363" type="LORE1" n="Cold emanates from it." />
+    <obj id="364" type="NAME" n="Boar Hide Armour" />
+    <obj id="365" type="NAME" n="Thick Leather Armour" />
+    <obj id="366" type="NAME" n="Padded Wolf Hide Armour" />
+    <obj id="367" type="NAME" n="Burglar Armour" />
+    <obj id="367" type="LORE1" n="Light as a feather." />
+    <obj id="368" type="NAME" n="Robes of the Unforgiving" />
+    <obj id="368" type="LORE1" n="Inside around the neck it reads: 'Never forget.'" />
+    <obj id="369" type="NAME" n="Midnight Armour" />
+    <obj id="369" type="LORE1" n="Its surface glows in the moonlight." />
+    <obj id="370" type="NAME" n="Robe of the Necromancer" />
+    <obj id="370" type="LORE1" n="There is red indecipherable writing on it." />
+    <obj id="371" type="NAME" n="Predator Armour" />
+    <obj id="371" type="LORE1" n="It's made of wood and all kinds of leathers." />
+    <obj id="622" type="NAME" n="Robe of Lies" />
+    <obj id="372" type="NAME" n="Worn Plate Gloves" />
+    <obj id="373" type="NAME" n="Worn Chain Gloves" />
+    <obj id="374" type="NAME" n="Rusty Gloves" />
+    <obj id="375" type="NAME" n="Loose Chain Gloves" />
+    <obj id="376" type="NAME" n="Rusty Plate Gloves" />
+    <obj id="377" type="NAME" n="Plate Gauntlets" />
+    <obj id="378" type="NAME" n="Cold Gauntlets" />
+    <obj id="379" type="NAME" n="Warrior's Plate Gloves" />
+    <obj id="380" type="NAME" n="Knight's Chain Gloves" />
+    <obj id="381" type="NAME" n="Gauntlets of the Gladiator" />
+    <obj id="382" type="NAME" n="Ironsoul Gloves" />
+    <obj id="383" type="NAME" n="Simple Cloth Gloves" />
+    <obj id="384" type="NAME" n="Blacksmith's Gloves" />
+    <obj id="385" type="NAME" n="Thick Cloth Gloves" />
+    <obj id="386" type="NAME" n="Dirty Gloves" />
+    <obj id="387" type="NAME" n="Owl Feather Gloves" />
+    <obj id="388" type="NAME" n="Spider Silk Gloves" />
+    <obj id="389" type="NAME" n="Nettle Gloves" />
+    <obj id="390" type="NAME" n="Dark Leather Gloves" />
+    <obj id="391" type="NAME" n="Thief's Gloves" />
+    <obj id="392" type="NAME" n="Old Leather Gloves" />
+    <obj id="393" type="NAME" n="Gloves of the Ranger" />
+    <obj id="394" type="NAME" n="Black Bear Gloves" />
+    <obj id="395" type="NAME" n="Rusted Chain Leggings" />
+    <obj id="396" type="NAME" n="Rusty Greaves" />
+    <obj id="397" type="NAME" n="Worn Leggings" />
+    <obj id="398" type="NAME" n="Fleming's Rusty Iron Armour" />
+    <obj id="399" type="NAME" n="Simple Trap" />
+    <obj id="400" type="NAME" n="Simple Arrow" />
+    <obj id="401" type="NAME" n="Poison Arrow" />
+    <obj id="401" type="LORE1" n="Has a small chance to poison the target." />
+    <obj id="402" type="NAME" n="Frost Arrow" />
+    <obj id="402" type="LORE1" n="Has a small chance to freeze the target." />
+    <obj id="403" type="NAME" n="Steel Arrow" />
+    <obj id="403" type="LORE1" n="Deals additional 20-30 damage." />
+    <obj id="404" type="NAME" n="Fire Arrow" />
+    <obj id="404" type="LORE1" n="When using fire arrows you deal pure Fire damage instead of Physical damage. Deals additional 10-20 damage." />
+    <obj id="405" type="NAME" n="Unbalanced Bow" />
+    <obj id="406" type="NAME" n="Oak Bow" />
+    <obj id="407" type="NAME" n="Warrior's Plate Leggings" />
+    <obj id="408" type="NAME" n="Hunter's Bow" />
+    <obj id="409" type="NAME" n="Longbow" />
+    <obj id="410" type="NAME" n="Mortal" />
+    <obj id="411" type="NAME" n="Pine Bow" />
+    <obj id="411" type="LORE1" n="A perfectly balanced bow." />
+    <obj id="412" type="NAME" n="Short Bow" />
+    <obj id="413" type="NAME" n="Tense Bow" />
+    <obj id="414" type="NAME" n="Chill" />
+    <obj id="414" type="LORE1" n="It's cold to the touch." />
+    <obj id="415" type="NAME" n="Worn Bow" />
+    <obj id="415" type="LORE1" n="It almost falls apart." />
+    <obj id="416" type="NAME" n="Pine Leggings" />
+    <obj id="422" type="NAME" n="Hunter's Knife" />
+    <obj id="423" type="NAME" n="Sharp Dagger" />
+    <obj id="425" type="NAME" n="Kitchen Knife" />
+    <obj id="426" type="NAME" n="Shiv" />
+    <obj id="427" type="NAME" n="Hardened Leather Vest" />
+    <obj id="428" type="NAME" n="Hardened Leather Gloves" />
+    <obj id="429" type="NAME" n="Hardened Leather Pants" />
+    <obj id="430" type="NAME" n="Hardened Leather Shoes" />
+    <obj id="569" type="NAME" n="Hardened Leather Belt" />
+    <obj id="431" type="NAME" n="Lockpick" />
+    <obj id="433" type="NAME" n="Rusty Sword" />
+    <obj id="434" type="NAME" n="Short Sword" />
+    <obj id="435" type="NAME" n="The Butcher" />
+    <obj id="436" type="NAME" n="Worn Sword" />
+    <obj id="437" type="NAME" n="Vest of the Adventurer" />
+    <obj id="438" type="NAME" n="Unknown Item" />
+    <obj id="438" type="COMMENT" n="Cardew's Ring" />
+    <obj id="439" type="NAME" n="Cardew's Magical Ring" />
+    <obj id="440" type="NAME" n="Cape of a Warlock" />
+    <obj id="441" type="NAME" n="Wildwood Leggings" />
+    <obj id="442" type="NAME" n="Dark Iron Greaves" />
+    <obj id="443" type="NAME" n="Ironsoul Greaves" />
+    <obj id="444" type="NAME" n="Greaves of the Gladiator" />
+    <obj id="445" type="NAME" n="Crimson Pants" />
+    <obj id="446" type="NAME" n="Cloth Pants" />
+    <obj id="447" type="NAME" n="Dirty Pants" />
+    <obj id="448" type="NAME" n="Acolyte's Pants" />
+    <obj id="449" type="NAME" n="Warm Pants" />
+    <obj id="450" type="NAME" n="Nettle Pants" />
+    <obj id="451" type="NAME" n="Spider Silk Leggings" />
+    <obj id="452" type="NAME" n="Wolf Skin Leggings" />
+    <obj id="453" type="NAME" n="Wood Pants" />
+    <obj id="454" type="NAME" n="Fur Pants" />
+    <obj id="455" type="NAME" n="Thick Bear Skin Leggings" />
+    <obj id="456" type="NAME" n="Rusty Helmet" />
+    <obj id="457" type="NAME" n="Golden Helmet" />
+    <obj id="457" type="LORE1" n="Pure gold." />
+    <obj id="458" type="NAME" n="Plate Helmet" />
+    <obj id="459" type="NAME" n="Bark Helmet" />
+    <obj id="460" type="NAME" n="Chain Cap" />
+    <obj id="461" type="NAME" n="Paladin's Helmet" />
+    <obj id="462" type="NAME" n="Wildwood Helmet" />
+    <obj id="463" type="NAME" n="Servant of Eogor" />
+    <obj id="464" type="NAME" n="Gothic Helmet" />
+    <obj id="465" type="NAME" n="Ironsoul Headpiece" />
+    <obj id="466" type="NAME" n="Headpiece of the Gladiator" />
+    <obj id="467" type="NAME" n="Wizard's Hat" />
+    <obj id="468" type="NAME" n="White Hat" />
+    <obj id="469" type="NAME" n="Hat of the Seas" />
+    <obj id="470" type="NAME" n="Shadow Hat" />
+    <obj id="471" type="NAME" n="Troll's Cap" />
+    <obj id="472" type="NAME" n="Assassin's Hood" />
+    <obj id="473" type="NAME" n="Dirty Leather Cap" />
+    <obj id="474" type="NAME" n="Unholy Shroud" />
+    <obj id="474" type="LORE1" n="Only the bravest should wear it." />
+    <obj id="475" type="NAME" n="Black Hat of the Huntress" />
+    <obj id="476" type="NAME" n="Stalker's Cap" />
+    <obj id="477" type="NAME" n="Rusty Waistguard" />
+    <obj id="478" type="NAME" n="Chain Waistguard" />
+    <obj id="479" type="NAME" n="Cold Waistguard" />
+    <obj id="480" type="NAME" n="Black Waistguard" />
+    <obj id="481" type="NAME" n="Paladin's Waistguard" />
+    <obj id="482" type="NAME" n="Bark Waistguard" />
+    <obj id="483" type="NAME" n="Knight's Waistguard" />
+    <obj id="484" type="NAME" n="Dark Iron Waistguard" />
+    <obj id="485" type="NAME" n="Ironsoul Waistguard" />
+    <obj id="486" type="NAME" n="Waistguard of the Gladiator" />
+    <obj id="487" type="NAME" n="Wool Belt" />
+    <obj id="488" type="NAME" n="Nettle Belt" />
+    <obj id="489" type="NAME" n="Loose Cloth Belt" />
+    <obj id="490" type="NAME" n="Frog Tongue Belt" />
+    <obj id="491" type="NAME" n="Pirate's Belt" />
+    <obj id="492" type="NAME" n="Torn Leather Belt" />
+    <obj id="493" type="NAME" n="Belt of the Night" />
+    <obj id="494" type="NAME" n="Boar Skin Belt" />
+    <obj id="495" type="NAME" n="Thick Leather Belt" />
+    <obj id="496" type="NAME" n="Belt of the Underground" />
+    <obj id="497" type="NAME" n="Lightweight Plate Boots" />
+    <obj id="498" type="NAME" n="Veteran Boots" />
+    <obj id="499" type="NAME" n="Rusty Boots" />
+    <obj id="500" type="NAME" n="Boots of the Chase" />
+    <obj id="501" type="NAME" n="Warrior's Boots" />
+    <obj id="502" type="NAME" n="Dark Iron Boots" />
+    <obj id="503" type="NAME" n="Troll's Boots" />
+    <obj id="504" type="NAME" n="Bloody Iron Boots" />
+    <obj id="505" type="NAME" n="Ironsoul Boots" />
+    <obj id="506" type="NAME" n="Gladiator Boots" />
+    <obj id="507" type="NAME" n="Boots of Protection" />
+    <obj id="508" type="NAME" n="Worn Shoes" />
+    <obj id="509" type="NAME" n="Nettle Boots" />
+    <obj id="510" type="NAME" n="Rat Hide Boots" />
+    <obj id="511" type="NAME" n="Thick Boar Skin Boots" />
+    <obj id="512" type="NAME" n="Pirate's Boots" />
+    <obj id="513" type="NAME" n="Dirty Leather Boots" />
+    <obj id="514" type="NAME" n="Raptor Leather Boots" />
+    <obj id="514" type="LORE1" n="I have never seen leather like this." />
+    <obj id="515" type="NAME" n="Sneaking Boots" />
+    <obj id="516" type="NAME" n="Mantis Chitin Boots" />
+    <obj id="517" type="NAME" n="Firewalker's Boots" />
+    <obj id="518" type="NAME" n="Muddy Leather Boots" />
+    <obj id="519" type="NAME" n="Moon Amulet" />
+    <obj id="520" type="NAME" n="Circlet of the Woods" />
+    <obj id="521" type="NAME" n="Golden Necklace" />
+    <obj id="522" type="NAME" n="Worn Necklace" />
+    <obj id="523" type="NAME" n="Ash Amulet" />
+    <obj id="524" type="NAME" n="Necklace of Regeneration" />
+    <obj id="524" type="LORE1" n="Slowly regenerates health." />
+    <obj id="525" type="NAME" n="Wolf Tooth Necklace" />
+    <obj id="526" type="NAME" n="Pendant of the Witch" />
+    <obj id="527" type="NAME" n="Human Heart Pendant" />
+    <obj id="527" type="LORE1" n="A small human heart is inside." />
+    <obj id="528" type="NAME" n="Chain" />
+    <obj id="529" type="NAME" n="Victory Amulet" />
+    <obj id="529" type="LORE1" n="Energy pulsates inside." />
+    <obj id="530" type="NAME" n="Crimson Chain" />
+    <obj id="531" type="NAME" n="Fire Necklace" />
+    <obj id="532" type="NAME" n="Ring of the Wild" />
+    <obj id="532" type="LORE1" n="It feels like it's alive." />
+    <obj id="533" type="NAME" n="Crimson Ring" />
+    <obj id="534" type="NAME" n="Skull Ring" />
+    <obj id="535" type="NAME" n="Silver Ring" />
+    <obj id="536" type="NAME" n="Nettle Ring" />
+    <obj id="537" type="NAME" n="Gold Ring" />
+    <obj id="537" type="LORE1" n="Constant usage made it thin." />
+    <obj id="538" type="NAME" n="Cold Ring" />
+    <obj id="539" type="NAME" n="Rusty Ring" />
+    <obj id="540" type="NAME" n="Ring of Lies" />
+    <obj id="541" type="NAME" n="Blood Ring" />
+    <obj id="542" type="NAME" n="Ring of the River" />
+    <obj id="543" type="NAME" n="Ring of Sacrifice" />
+    <obj id="544" type="NAME" n="Servant of Adacus" />
+    <obj id="544" type="LORE1" n="I saw many people at Kyler's village wearing rings like this one." />
+    
+    <obj id="545" type="NAME" n="Heart of the Mountain" />
+    <obj id="545" type="LORE1" n="Heals the bearer." />
+    <obj id="546" type="NAME" n="Brooch of Negligence" />
+    <obj id="546" type="LORE1" n="Increases physical damage but decreases avoidances." />
+    <obj id="547" type="NAME" n="Artifact of the Bleeding Tree" />
+    <obj id="547" type="LORE1" n="Summons a small plant." />
+    <obj id="548" type="NAME" n="Spider Web" />
+    <obj id="548" type="LORE1" n="Creates a web around the target. (Needs selected target)" />
+    <obj id="549" type="NAME" n="Crying Skull" />
+    <obj id="549" type="LORE1" n="Makes your target flee in fear. (Needs selected target)" />
+    <obj id="550" type="NAME" n="Skull of the Ghost Deer" />
+    <obj id="550" type="LORE1" n="Illuminates the dark." />
+    <obj id="551" type="NAME" n="Rotting Voodoo Doll" />
+    <obj id="551" type="LORE1" n="Makes you bleed but increases your total health." />
+    <obj id="552" type="NAME" n="Laws of Adacus" />
+    <obj id="552" type="LORE1" n="Increases your armour." />
+    <obj id="553" type="NAME" n="Antler of the Berserker" />
+    <obj id="553" type="LORE1" n="Increases your strength." />
+    <obj id="554" type="NAME" n="Shard of the Mine" />
+    <obj id="554" type="LORE1" n="Illuminates the dark." />
+    <obj id="555" type="NAME" n="Tablet of Sacrifice" />
+    <obj id="555" type="LORE1" n="Increases your magical abilities." />
+    <obj id="556" type="NAME" n="Tablet of the Swamp" />
+    <obj id="556" type="LORE1" n="Increases your physical abilities." />
+    <obj id="589" type="NAME" n="Grandpa's Lucky Trinket" />
+    <obj id="589" type="LORE1" n="Grandpa told me this trinket helped him out countless times. Sometimes the trinket aids you against your target, sometimes it does something to you." />
+    
+    <obj id="557" type="NAME" n="Knife" />
+    <obj id="558" type="NAME" n="Skinning Knife" />
+    <obj id="559" type="NAME" n="Fang" />
+    <obj id="560" type="NAME" n="Poisoned Fang" />
+    <obj id="561" type="NAME" n="Rusty Dagger" />
+    <obj id="562" type="NAME" n="Ritual Dagger" />
+    <obj id="562" type="LORE1" n="Needed sacrifice." />
+    <obj id="563" type="NAME" n="Scalpel" />
+    <obj id="564" type="NAME" n="Bark Leggings" />
+    <obj id="565" type="NAME" n="Fire Trap" />
+    <obj id="566" type="NAME" n="Poison Trap" />
+    <obj id="568" type="NAME" n="Ghost Sword" />
+    <obj id="570" type="NAME" n="Bloody Belt" />
+    <obj id="570" type="LORE1" n="I wonder why there is blood on it." />   
+    <obj id="576" type="NAME" n="Wisp in a Bottle" />
+    <obj id="576" type="LORE1" n="Barnabas uses these kind of bottles in his experiments. He told me the energy that it contains can bring certain plants to life. If I open this bottle near a wisp, its energy will be captured in it." />
+    <obj id="579" type="NAME" n="Claw" />
+    <obj id="584" type="NAME" n="Safe Place Rune" />
+    <obj id="584" type="LORE1" n="I got this rune from Grandpa. He told me that it takes me to a place that is safe. It only takes me there, no one else." />  
+    <obj id="585" type="NAME" n="Darkwood Northwest Teleport" />
+    <obj id="586" type="NAME" n="Darkwood Northeast Teleport" />
+    <obj id="587" type="NAME" n="Darkwood Southeast Teleport" />
+    <obj id="588" type="NAME" n="Darkwood Southwest Teleport" />
+    <obj id="590" type="NAME" n="Golem Slayer" />    
+    <obj id="590" type="LORE1" n="Only these special swords can harm golems." />  
+    <obj id="591" type="NAME" n="Frost Trap" />
+    <obj id="592" type="NAME" n="Hugh's Magical Sword" />
+    <obj id="593" type="NAME" n="Buck's Medicine" />
+    <obj id="593" type="LORE1" n="This potion should remove weakening effects." />
+    <obj id="594" type="NAME" n="Taming Elixir" />
+    <obj id="594" type="LORE1" n="Used in taming traps." />        
+    <obj id="595" type="NAME" n="Animal Taming Trap" />
+    <obj id="595" type="LORE1" n="With this trap you are able to tame wild animals. Your hunting skill determines what kind of animals you can tame. Taming is not an easy process, you might have to try multiple times. If the taming is successful your previous pet will be set free." />  
+    <obj id="596" type="NAME" n="Web Trap" />  
+    <obj id="597" type="NAME" n="Blazing Sword" />    
+    <obj id="598" type="NAME" n="Bandit's Blade" />   
+    <obj id="599" type="NAME" n="Thief's Dagger" />   
+    <obj id="1214" type="NAME" n="Speed Potion" />
+    <obj id="1214" type="LORE1" n="Significantly increases your walking speed. Also increases attributes." />       
+    <obj id="600" type="NAME" n="Minor Healing Potion" />
+    <obj id="601" type="NAME" n="Healing Potion" />
+    <obj id="602" type="NAME" n="Minor Mana Potion" />
+    <obj id="603" type="NAME" n="Mana Potion" />
+    <obj id="604" type="NAME" n="Simple Bottle" />
+    <obj id="605" type="NAME" n="Laboratory Bottle" />
+    <obj id="607" type="NAME" n="Crystal Bottle" />
+    <obj id="608" type="NAME" n="Emerald Bottle" />
+    <obj id="609" type="NAME" n="Wine" />
+    <obj id="609" type="LORE1" n="Cheap but tasty wine." />
+    <obj id="610" type="NAME" n="Mug of Beer" />
+    <obj id="610" type="LORE1" n="Finally I'm old enough for these." />
+    <obj id="611" type="NAME" n="Shield Expertise Potion" />
+    <obj id="611" type="LORE1" n="Your block chance is significantly increased." />
+    <obj id="612" type="NAME" n="Oil" />
+    <obj id="614" type="NAME" n="Reveal Invisible Potion" />
+    <obj id="614" type="LORE1" n="Reveals invisible creatures near you." />
+    <obj id="255" type="NAME" n="Empty Oil Glass" />
+    <obj id="613" type="NAME" n="Bear Hide Potion" />
+    <obj id="613" type="LORE1" n="Your armour is significantly increased." />
+    <obj id="616" type="NAME" n="Potion of Absorb Fire Damage" />
+    <obj id="616" type="LORE1" n="Fire damage is absorbed until the effect cannot absorb any more damage." />
+    <obj id="617" type="NAME" n="Potion of Transform into Small Rat" />
+    <obj id="617" type="LORE1" n="I might be able to fit through narrow places." />
+    <obj id="618" type="NAME" n="Potion of Light" />
+    <obj id="618" type="LORE1" n="Conjures a bright light for a few turns." />
+    <obj id="619" type="NAME" n="Fred's Special Beer" />
+    <obj id="619" type="LORE1" n="Fred's special beer. No one can drink more than one of these." /> 
+    <obj id="621" type="NAME" n="Random Teleport Potion" />
+    <obj id="621" type="LORE1" n="Teleport to a random position in sight." />
+    <obj id="623" type="NAME" n="Emanate Wisp Energy Potion" />
+    <obj id="623" type="LORE1" n="Grows back nearby tree stumps." />
+    <obj id="624" type="NAME" n="Transform into Larva Potion" />
+    <obj id="624" type="LORE1" n="Transforms you into a larva." />
+    <obj id="627" type="NAME" n="Potion of Absorb Shadow Damage" />
+    <obj id="627" type="LORE1" n="Shadow damage is absorbed until the effect cannot absorb any more damage." />
+    <obj id="631" type="NAME" n="Wolf's Reflexes Potion" />
+    <obj id="631" type="LORE1" n="Your dodge chance is significantly increased." />
+    <obj id="632" type="NAME" n="Potion of Absorb Poison Damage" />
+    <obj id="632" type="LORE1" n="Poison damage is absorbed until the effect cannot absorb any more damage." />
+    <obj id="633" type="NAME" n="Potion of Absorb Physical Damage" />
+    <obj id="633" type="LORE1" n="Physical damage is absorbed until the effect cannot absorb any more damage." />
+    <obj id="641" type="NAME" n="Swashbuckling Potion" />
+    <obj id="641" type="LORE1" n="Your parry chance is significantly increased." />
+    <obj id="643" type="NAME" n="Potion of Absorb Frost Damage" />
+    <obj id="643" type="LORE1" n="Frost damage is absorbed until the effect cannot absorb any more damage." />
+    <obj id="646" type="NAME" n="Potion of Absorb Arcane Damage" />
+    <obj id="646" type="LORE1" n="Arcane damage is absorbed until the effect cannot absorb any more damage." />
+    <obj id="648" type="NAME" n="Experimental Silverbark Potion" />
+    <obj id="649" type="NAME" n="Buck's Secret Potion" />
+    <obj id="650" type="NAME" n="Cider" />
+    <obj id="650" type="LORE1" n="Usually made from apples." />
+    
+    <obj id="256" type="NAME" n="Empty Tea Cup" />
+    <obj id="257" type="NAME" n="Empty Coffee Cup" />
+    <obj id="651" type="NAME" n="Land Nettle Tea" />
+    <obj id="652" type="NAME" n="Wild Yellow Cress Tea" />
+    <obj id="653" type="NAME" n="Rosehip Tea" />
+    <obj id="654" type="NAME" n="Coffee" />
+    <obj id="654" type="LORE1" n="A good boost of energy." />
+    <obj id="655" type="NAME" n="Cure Plant Potion" />
+    <obj id="655" type="LORE1" n="Cures diseased plants." />
+    
+    <obj id="656" type="NAME" n="Young Pig" />
+    <obj id="656" type="LORE1" n="Can be released near a pig trough." />
+    <obj id="657" type="NAME" n="Spider Egg" />
+    <obj id="657" type="LORE1" n="Can be released near a spider trough." />
+    <obj id="659" type="NAME" n="Wild Bow" />
+    <obj id="660" type="NAME" n="Frog Amulet" />
+    
+    <obj id="901" type="NAME" n="Herbalism Book" />
+    <obj id="901" type="LORE1" n="Teaches skill level 2." />
+    <obj id="902" type="NAME" n="Alchemy Book" />
+    <obj id="902" type="LORE1" n="Teaches skill level 1." />
+    <obj id="903" type="NAME" n="The Big Book of Arcane Arts" />
+    <obj id="903" type="LORE1" n="Teaches skill level 2." />
+    <obj id="904" type="NAME" n="Book of Sword Play" />
+    <obj id="904" type="LORE1" n="Teaches skill level 2." />
+    <obj id="905" type="NAME" n="Unknown Book" />
+    <obj id="906" type="NAME" n="Diary of a Thief" />
+    <obj id="907" type="NAME" n="Preparation Scroll" />
+    <obj id="907" type="LORE1" n="Guaranteed critical strike for next ability." />
+    <obj id="908" type="NAME" n="The secret of the crystal golems. (Part 1)" />
+    <obj id="909" type="NAME" n="Brain Purge Scroll" />
+    <obj id="909" type="LORE1" n="Resets all ability cooldowns." />
+    <obj id="911" type="NAME" n="Treasure Map" />
+    <obj id="914" type="NAME" n="Treasure Map 1. Part" />
+    <obj id="914" type="LORE1" n="A piece of a treasure map. On the back it says 1/8. I should be able to use this when I have all parts." />
+    <obj id="915" type="NAME" n="Treasure Map 2. Part" />
+    <obj id="915" type="LORE1" n="A piece of a treasure map. On the back it says 2/8. I should be able to use this when I have all parts." />
+    <obj id="916" type="NAME" n="Treasure Map 3. Part" />
+    <obj id="916" type="LORE1" n="A piece of a treasure map. On the back it says 3/8. I should be able to use this when I have all parts." />
+    <obj id="917" type="NAME" n="Treasure Map 4. Part" />
+    <obj id="917" type="LORE1" n="A piece of a treasure map. On the back it says 4/8. I should be able to use this when I have all parts." />
+    <obj id="918" type="NAME" n="Treasure Map 5. Part" />
+    <obj id="918" type="LORE1" n="A piece of a treasure map. On the back it says 5/8. I should be able to use this when I have all parts." />
+    <obj id="919" type="NAME" n="Treasure Map 6. Part" />
+    <obj id="919" type="LORE1" n="A piece of a treasure map. On the back it says 6/8. I should be able to use this when I have all parts." />
+    <obj id="920" type="NAME" n="Treasure Map 7. Part" />
+    <obj id="920" type="LORE1" n="A piece of a treasure map. On the back it says 7/8. I should be able to use this when I have all parts." />
+    <obj id="921" type="NAME" n="Treasure Map 8. Part" />
+    <obj id="921" type="LORE1" n="A piece of a treasure map. On the back it says 8/8. I should be able to use this when I have all parts." />
+    <obj id="922" type="NAME" n="Book of Teleportation" />
+    <obj id="923" type="NAME" n="Letter of a Historian" />
+    <obj id="924" type="NAME" n="Documents of a Historian" />
+    <obj id="925" type="NAME" n="Unreadable Letter from the Tower" />
+    <obj id="925" type="LORE1" n="I should give this letter to Leonard. He might be able to read it." />
+    <obj id="926" type="NAME" n="The Guard's Family Heirloom" />
+    <obj id="927" type="NAME" n="Darkwood" />
+    <obj id="927" type="LORE1" n="Over the years Leonard made a large map of Darkwood." />
+    <obj id="928" type="NAME" n="Book of Knowledge" />
+    <obj id="929" type="NAME" n="The secret of the crystal golems. (Part 2)" />
+    <obj id="930" type="NAME" n="The secret of the crystal golems. (Part 3)" />
+    <obj id="931" type="NAME" n="My family" /> //crazy old witch
+    <obj id="932" type="NAME" n="Filthy fat blisters" /> //big golem cave
+    <obj id="933" type="NAME" n="We could come down here together" /> //frogswamp cave
+    <obj id="934" type="NAME" n="Exploration Day 1." />
+    <obj id="935" type="NAME" n="Exploration Day 2." />
+    <obj id="936" type="NAME" n="Exploration Day 3." />   
+    <obj id="937" type="NAME" n="Eternity" /> //wolfcave
+    <obj id="938" type="NAME" n="Labyrinth" />
+    <obj id="939" type="NAME" n="Choose a side" /> //top of the tower
+    <obj id="940" type="NAME" n="The bones" /> //rand konyv top of the tower libraryjaban
+    <obj id="941" type="NAME" n="Final resting place" /> //the void
+    <obj id="942" type="NAME" n="Your first task" /> //Le a voidhoz ghostplace in the forest
+    <obj id="943" type="NAME" n="Summon" /> //A torony legalja dw1
+    <obj id="944" type="NAME" n="Rest in peace" /> //A nagy temeto dw2
+    <obj id="945" type="NAME" n="Let them see the truth" /> //regi nagy templom dw3
+    <obj id="946" type="NAME" n="There are too many of them!" /> //spider falu
+    <obj id="947" type="NAME" n="Our duty" /> //andom katona levele a tetteikrol
+    <obj id="948" type="NAME" n="Time we spent together" /> //Edithez szerelmes level
+    <obj id="949" type="NAME" n="My deer leg" />
+    <obj id="950" type="NAME" n="Here you will be safe" /> //safeplace
+    <obj id="951" type="NAME" n="New order" /> //rhys megrendelő levele
+    <obj id="952" type="NAME" n="Edith only cares about him" /> //dudley feltekeny
+    <obj id="953" type="NAME" n="Voodoo" />
+    <obj id="954" type="NAME" n="Healer" /> //Hullagyujto levele
+    <obj id="955" type="NAME" n="The wrath of the Old God. (part 1)" />
+    <obj id="956" type="NAME" n="The wrath of the Old God. (part 2)" />
+    <obj id="957" type="NAME" n="The wrath of the Old God. (part 3)" />
+    <obj id="958" type="NAME" n="The wrath of the Old God. (part 4)" />	
+	<obj id="959" type="NAME" n="Diaries of the soldier (part 1)" />
+	<obj id="960" type="NAME" n="Diaries of the soldier (part 2)" />
+	<obj id="961" type="NAME" n="Diaries of the soldier (part 3)" />
+	<obj id="962" type="NAME" n="Diaries of the soldier (part 4)" />
+	<obj id="963" type="NAME" n="My research" />
+	<obj id="995" type="NAME" n="Fred's Special Beer Recipe" />
+	<obj id="998" type="NAME" n="Delicious Tea Recipe" />
+	<obj id="294" type="NAME" n="Dear Thurza" /> 
+    <obj id="250" type="NAME" n="Invisible Herbs" /> 
+	<obj id="288" type="NAME" n="How to make a Fire Arrow" />
+    <obj id="289" type="NAME" n="How to make Dough" />
+    <obj id="290" type="NAME" n="A well balanced Coffee" />
+    <obj id="291" type="NAME" n="Special Traps" />
+    <obj id="292" type="NAME" n="How to make a Splint" />
+    <obj id="293" type="NAME" n="How to make Cider" /> 
+    <obj id="249" type="NAME" n="The Portal" /> 
+    <obj id="252" type="NAME" n="They Glow" /> 
+    
+
+    
+    <obj id="786" type="NAME" n="Underground City" />
+    <obj id="787" type="NAME" n="The Church Treasury" />
+    <obj id="788" type="NAME" n="We cannot dig deeper" />
+    <obj id="789" type="NAME" n="There won't be enough space" />
+    <obj id="790" type="NAME" n="What have we done?" />
+    <obj id="791" type="NAME" n="The Old Creatures" />
+    <obj id="792" type="NAME" n="They Can Talk" />
+    <obj id="793" type="NAME" n="Patty, you have to come" />
+    <obj id="794" type="NAME" n="How should I approach her?" />
+	<obj id="795" type="NAME" n="One day we will have our revenge" />
+    <obj id="796" type="NAME" n="Keep Up" />
+    <obj id="797" type="NAME" n="Very Important Persons" />
+    <obj id="798" type="NAME" n="Dark Iron" />
+    <obj id="799" type="NAME" n="The Bear Hunters" />
+    <obj id="800" type="NAME" n="The outbreak at the asylum" />
+    <obj id="801" type="NAME" n="New Methods" />
+    <obj id="802" type="NAME" n="They are Dead" />
+    <obj id="803" type="NAME" n="Credit" />
+    <obj id="804" type="NAME" n="Continue" />
+    <obj id="805" type="NAME" n="The Glowing Rock" />
+    <obj id="806" type="NAME" n="The Old Gods" />
+    <obj id="807" type="NAME" n="After the Immortals" />
+    <obj id="808" type="NAME" n="The Mad God" />
+    <obj id="809" type="NAME" n="Mortals" />
+    <obj id="810" type="NAME" n="Necromancers" />
+    <obj id="811" type="NAME" n="Dark Rituals" />
+    <obj id="812" type="NAME" n="Darkwood" />
+    <obj id="813" type="NAME" n="Surface" />
+    <obj id="814" type="NAME" n="The Ashes of the City" />
+	<obj id="815" type="NAME" n="Nasrus" />                  
+    
+	<obj id="1133" type="NAME" n="Forget Crime Scroll" />	
+	<obj id="1133" type="LORE1" n="You learn a new spell if you read it. Each learned Forget Crime spell is only usable once." />	
+    <obj id="1201" type="NAME" n="Cut Leaf Berry" />
+    <obj id="1201" type="LORE1" n="A remarkably tough plant." />
+    <obj id="1201" type="LORE2" n="Stops bleeding." />
+    <obj id="1204" type="NAME" n="Trillium" />
+    <obj id="1204" type="LORE1" n="Before battle knights wore it on their armour." />
+    <obj id="1204" type="LORE2" n="Can only see them in the dark!" />
+    <obj id="1205" type="NAME" n="Undead Cress" />
+    <obj id="1205" type="LORE1" n="It endures for years without water, even when it's torn." />
+    <obj id="1206" type="NAME" n="Moss" />
+    <obj id="1206" type="LORE1" n="A small clump of moss." />
+    <obj id="1207" type="NAME" n="Life Herb" />
+    <obj id="1207" type="LORE1" n="A popular plant amongst the healers." />
+    <obj id="1208" type="NAME" n="Wild Yellow Cress" />
+    <obj id="1208" type="LORE1" n="Due to its full-bodied taste it's a popular spice." />
+    <obj id="1209" type="NAME" n="Ash Ambrosia" />
+    <obj id="1209" type="LORE1" n="Ash plants only grow at places where great disasters happened." />
+    <obj id="1210" type="NAME" n="Life Plant" />
+    <obj id="1210" type="LORE1" n="Life emanates from this plant." />
+    <obj id="1211" type="NAME" n="Land Nettle" />
+    <obj id="1211" type="LORE1" n="Over the years I became immune to these." />
+    <obj id="1212" type="NAME" n="Blindweed" />
+    <obj id="1212" type="LORE1" n="Some of the blindweeds turn into black ones." />
+    <obj id="1212" type="LORE2" n="Can only see them in the dark!" />
+    <obj id="1213" type="NAME" n="Sneezeweed" />
+    <obj id="1213" type="LORE1" n="More potent than pepper!" />
+    <obj id="1221" type="NAME" n="Fireroot" />
+    <obj id="1221" type="LORE1" n="Very flammable." />
+    <obj id="1221" type="LORE2" n="Can only see them in the dark!" />
+    <obj id="1222" type="NAME" n="Windroot" />
+    <obj id="1222" type="LORE1" n="It makes a calming noise in the wind. It is cold to the touch." />
+    <obj id="1223" type="NAME" n="Stinkroot" />
+    <obj id="1223" type="LORE1" n="You can smell it from a distance." />
+    <obj id="1224" type="NAME" n="Triangle Key" />
+    <obj id="1225" type="NAME" n="Tower Key" />
+    
+    <obj id="1227" type="NAME" n="Splint" />
+    <obj id="1227" type="LORE1" n="Can be used to heal fractured bones and stop minor bleeding." />
+    
+    <obj id="1229" type="NAME" n="Skull" />
+    <obj id="1229" type="LORE1" n="A human skull. The jaw is missing." />    
+    <obj id="1231" type="NAME" n="Piece of a Rune" />
+    <obj id="1231" type="LORE1" n="I found this piece at the old cemetery." />
+    <obj id="1232" type="NAME" n="Piece of a Rune" />
+    <obj id="1232" type="LORE1" n="I found this piece at the cave of the crystal golems." />
+    <obj id="1233" type="NAME" n="Piece of a Rune" />
+    <obj id="1233" type="LORE1" n="This piece was in a troll's chest." />
+    <obj id="1234" type="NAME" n="A hungry bug" />
+    <obj id="1234" type="LORE1" n="This bug is eating everything!" />
+    <obj id="1235" type="NAME" n="Animal Skull" />
+    <obj id="1236" type="NAME" n="Spotless Metal Bar" />
+    <obj id="1240" type="NAME" n="Wolf Leather" />
+    <obj id="1241" type="NAME" n="Bear Leather" />
+    <obj id="1242" type="NAME" n="Deer Leather" />
+    <obj id="1243" type="NAME" n="Silver Bark" />
+    <obj id="1243" type="LORE1" n="Its surface sparkles and its light as a feather. Recently Barnabas has been experimenting with these." />
+    <obj id="1244" type="NAME" n="Gold Ore" />
+    <obj id="1246" type="NAME" n="Gold Bar" />
+    <obj id="1247" type="NAME" n="Strange Key" />
+    <obj id="1247" type="LORE1" n="This key was in a loaf of bread." />
+    <obj id="1248" type="NAME" n="Silver Ore" />
+    <obj id="1250" type="NAME" n="Silver Bar" />
+    <obj id="1252" type="NAME" n="Moonstone Ore" />
+    <obj id="1252" type="LORE1" n="People say moonstone can only be smelted at a specific time." />
+    <obj id="1254" type="NAME" n="Moonstone Bar" />
+    <obj id="1256" type="NAME" n="Iron Ore" />
+    <obj id="1258" type="NAME" n="Iron Bar" />
+    <obj id="1260" type="NAME" n="Dalantium Ore" />
+    <obj id="1262" type="NAME" n="Dalantium Bar" />
+    <obj id="1264" type="NAME" n="Coal" />
+    <obj id="1265" type="NAME" n="Clay" />
+    <obj id="1266" type="NAME" n="Stone" />
+    <obj id="1267" type="NAME" n="Unknown Stone Tablet" />
+    <obj id="1270" type="NAME" n="Voodoo Doll" />
+    <obj id="1271" type="NAME" n="Frog" />
+    <obj id="1271" type="LORE1" n="A small poisonous frog." />
+    <obj id="1272" type="NAME" n="Pearl" />
+    <obj id="1273" type="NAME" n="Ruby" />
+    <obj id="1274" type="NAME" n="Emerald" />
+    <obj id="1275" type="NAME" n="Topaz" />
+    <obj id="1276" type="NAME" n="Diamond" />
+    <obj id="1277" type="NAME" n="Crystal" />
+    <obj id="1278" type="NAME" n="Spider Eye" />
+    <obj id="1279" type="NAME" n="Dragonfly" />
+    <obj id="1279" type="LORE1" n="They are hard to catch because they move really fast." />
+    <obj id="1280" type="NAME" n="Black Spider Leg" />
+    <obj id="1280" type="LORE1" n="A huge hairy spider leg." />
+    <obj id="1281" type="NAME" n="Antler" />
+    <obj id="1283" type="NAME" n="Spider Web" />
+    <obj id="1283" type="LORE1" n="A huge sticky spider web." />   
+    <obj id="1285" type="NAME" n="Bee" />
+    <obj id="1286" type="NAME" n="Wolf Tooth" />
+    <obj id="1287" type="NAME" n="Bear Tooth" />
+    <obj id="1288" type="NAME" n="Spider Fang" />
+    <obj id="1289" type="NAME" n="Ash" />
+    <obj id="1291" type="NAME" n="Lilac" />
+    <obj id="1291" type="LORE1" n="Women's favourite." />
+    <obj id="1292" type="NAME" n="Meadow Holly" />
+    <obj id="1292" type="LORE1" n="There's always a few leaves of this plant in the pockets of suspicious people." />
+    <obj id="1293" type="NAME" n="Bird's Nest" />
+    <obj id="1293" type="LORE1" n="You'd think it's a bird's nest." />
+    <obj id="1295" type="NAME" n="Fumewort" />
+    <obj id="1295" type="LORE1" n="A small little flower. It loves the sun." />
+    <obj id="1298" type="NAME" n="Steel Bar" />
+    <obj id="1299" type="NAME" n="Wood" />
+    <obj id="1300" type="NAME" n="Pine Wood" />
+    <obj id="1301" type="NAME" n="Perfect Pine Wood" />
+    <obj id="1301" type="LORE1" n="A truly sturdy and flawless piece of wood." />
+    <obj id="1304" type="NAME" n="Linen" />
+    <obj id="1304" type="LORE1" n="Minimum given armor by Linen is determined by your Create Armour skill." />
+    <obj id="248" type="NAME" n="Ancient Linen" />
+    <obj id="248" type="LORE1" n="Minimum given armor by Ancient Linen is determined by your Create Armour skill." />
+    <obj id="1305" type="NAME" n="Manure" />
+    <obj id="1306" type="NAME" n="Nails" />
+    <obj id="1308" type="NAME" n="%data% Strange Thaler" />
+    <obj id="1308" type="LORE1" n="A large serpent is carved into most of these." />
+    <obj id="1309" type="NAME" n="Honey Jar" />
+    <obj id="259" type="NAME" n="Empty Honey Jar" />
+    <obj id="1310" type="NAME" n="%data% Thaler" />
+    <obj id="1310" type="LORE1" n="The Shield of Adacus, or sometimes a tall vase, is carved into these." />
+    <obj id="1311" type="NAME" n="Bone" />
+    <obj id="1312" type="NAME" n="Broken Bone" />
+    <obj id="1313" type="NAME" n="A Piece of Bone" />
+    <obj id="1314" type="NAME" n="Lard" />
+    <obj id="1263" type="NAME" n="Life Herb Seeds" />
+    <obj id="1284" type="NAME" n="Ghost Mushroom Spores" />
+    <obj id="1245" type="NAME" n="Sneezeweed Seeds" />
+    <obj id="1315" type="NAME" n="Melon Seeds" />
+    <obj id="1316" type="NAME" n="Wheat Seeds" />
+    <obj id="1317" type="NAME" n="Corn Seeds" />
+    <obj id="1318" type="NAME" n="Carrot Seeds" />
+    <obj id="1319" type="NAME" n="Pumpkin Seeds" />
+    <obj id="1322" type="NAME" n="Black Blindweed" />
+    <obj id="1322" type="LORE1" n="This plant is really old. If a blindweed turns into a black blindweed it can outlive many human generations." />
+    <obj id="1323" type="NAME" n="Gravemoss" />
+    <obj id="1323" type="LORE1" n="Slowly eats up the graves." />
+    <obj id="1324" type="NAME" n="Itchweed" />
+    <obj id="1324" type="LORE1" n="Carefully with this one. Its twitch itches for weeks." />
+    <obj id="1325" type="NAME" n="Milk Thistle" />
+    <obj id="1325" type="LORE1" n="Very tasty." />
+    <obj id="1326" type="NAME" n="Door Handle" />
+    <obj id="1327" type="NAME" n="Glass" />
+    <obj id="1328" type="NAME" n="Claybrick" />
+    <obj id="1329" type="NAME" n="Brick" />
+    <obj id="1330" type="NAME" n="Simple Torch" />
+    <obj id="1331" type="NAME" n="Durable Torch" />
+    <obj id="1332" type="NAME" n="Life Plant Seeds" />
+    <obj id="1333" type="NAME" n="Pig Ear Mushroom Spores" />
+    <obj id="1334" type="NAME" n="Lilac Seeds" />
+    <obj id="1335" type="NAME" n="Cut Leaf Berry Seeds" />
+    <obj id="1336" type="NAME" n="Land Nettle Seeds" />
+    <obj id="1338" type="NAME" n="Flawless Deer Leather" />
+    <obj id="1339" type="NAME" n="Blood" />
+    <obj id="1339" type="LORE1" n="Cold to the touch." />
+    <obj id="1340" type="NAME" n="Bug Fat" />
+    <obj id="1341" type="NAME" n="Ectoplasma" />
+    <obj id="1341" type="LORE1" n="The remains of a ghost." />
+    <obj id="1342" type="NAME" n="Frog Poison Sack" />
+    <obj id="1342" type="LORE1" n="Full of poison." />
+    <obj id="1343" type="NAME" n="Frog Tongue" />
+    <obj id="1343" type="LORE1" n="Sticky." />
+    <obj id="1344" type="NAME" n="Frost Scroll" />
+    <obj id="1344" type="LORE1" n="Freeze surrounding enemies." />
+    <obj id="1345" type="NAME" n="Insect Leg" />
+    <obj id="1345" type="LORE1" n="It's twitching." />
+    <obj id="1346" type="NAME" n="Chitin" />
+    
+    <obj id="1347" type="NAME" n="Larva Fang" />
+    <obj id="1348" type="NAME" n="Mantis Fang" />
+    <obj id="1349" type="NAME" n="Rat Tail" />
+    <obj id="1350" type="NAME" n="Snake Scale" />
+    <obj id="1351" type="NAME" n="Snake Fang" />
+    <obj id="1351" type="LORE1" n="It's dripping poison." />
+    <obj id="1352" type="NAME" n="Tick Fang" />
+    <obj id="1353" type="NAME" n="Troll Leather" />
+    <obj id="1354" type="NAME" n="War Cry Scroll" />
+    <obj id="1354" type="LORE1" n="Boosts melee attributes." />
+    <obj id="1215" type="NAME" n="Empty Glass" />
+    <obj id="1251" type="NAME" n="Empty Mug" />
+    <obj id="1255" type="NAME" n="Fred's Room Key (1)" />
+    <obj id="1259" type="NAME" n="Fred's Room Key (2)" />
+    <obj id="1216" type="NAME" n="Chicken Egg" />
+    <obj id="1217" type="NAME" n="Young Chicken" />
+    <obj id="1217" type="LORE1" n="Can be released near a chicken trough." />
+    <obj id="1228" type="NAME" n="Magical Seed" />
+    <obj id="1228" type="LORE1" n="I wonder what kind of plant is this." />
+    <obj id="1237" type="NAME" n="Xain's Note" />
+    <obj id="246" type="NAME" n="Initiation" />
+
+
+
+	<obj id="644" type="NAME" n="The First Twin Ring" />
+	<obj id="644" type="LORE1" n="When both twin rings are equipped there is a 33% chance on a spell miss to recover 50% of the used mana." />
+	<obj id="645" type="NAME" n="The Second Twin Ring" />
+	<obj id="645" type="LORE1" n="When both twin rings are equipped there is a 33% chance on a spell miss to recover 50% of the used mana." />
+	<obj id="117" type="NAME" n="Silence Ring " />
+	<obj id="117" type="LORE1" n="All silence effects cooldowns are reduced by 35%." />
+	<obj id="118" type="NAME" n="Panic Ring" />
+	<obj id="118" type="LORE1" n="When your health is low this ring will grant you an additional 7% dodge chance." />
+	<obj id="119" type="NAME" n="Twin Moons Ring" />
+	<obj id="119" type="LORE1" n="" />
+	<obj id="120" type="NAME" n="Leech Ring" />
+	<obj id="120" type="LORE1" n="This ring will tap into the fading soul of a fallen enemy. Healing you for 5% of the enemies health." />
+	<obj id="121" type="NAME" n="Melting Sand Ring" />
+	<obj id="121" type="LORE1" n="Increases fire damage by 20." />
+	<obj id="122" type="NAME" n="Heartbeat Ring" />
+	<obj id="122" type="LORE1" n="When health is under 50% it slowly regenerates health." />
+	<obj id="123" type="NAME" n="Dark Deal Ring" />
+	<obj id="123" type="LORE1" n="When mana is under 50% it slowly regenerates mana." />
+	<obj id="124" type="NAME" n="Everlasting Ring" />
+	<obj id="124" type="LORE1" n="Slower item durability loss." />
+	<obj id="125" type="NAME" n="Ring of Thorns" />
+	<obj id="125" type="LORE1" n="Grants additional 15% critical damage bonus." />
+	<obj id="126" type="NAME" n="Poison Tail Ring" />
+	<obj id="126" type="LORE1" n="All poison effects cooldowns are reduced by 35%." />
+	<obj id="127" type="NAME" n="Ring of Despair" />
+	<obj id="127" type="LORE1" n="When health is under 20% all outgoing damages are increased by 10." />
+	<obj id="128" type="NAME" n="Bloodthirst" />
+	<obj id="128" type="LORE1" n="All bleeding effects durations are reduced by 35%." />
+	<obj id="129" type="NAME" n="Soul Energy Ring" />
+	<obj id="129" type="LORE1" n="This ring will tap into the fading soul of a fallen enemy. 5% of the enemies health will be regenerated as mana." />
+	<obj id="130" type="NAME" n="Sound Eater Ring" />
+	<obj id="130" type="LORE1" n="When chopping down trees or mining you make no sound." />
+	<obj id="131" type="NAME" n="Fire Block Ring" />
+	<obj id="131" type="LORE1" n="On a successful block blasts the enemy with fire." />
+	<obj id="132" type="NAME" n="Swiftness Ring" />
+	<obj id="132" type="LORE1" n="On a successful dodge strike back immediately dealing a small amount of damage." />
+	<obj id="133" type="NAME" n="Suffering" />
+	<obj id="133" type="LORE1" n="" />
+	<obj id="134" type="NAME" n="Patient Master Ring" />
+	<obj id="134" type="LORE1" n="While crafting you receive an additional 15% critical craft chance." />
+	<obj id="135" type="NAME" n="Cats Eye Ring" />
+	<obj id="135" type="LORE1" n="" />
+	<obj id="136" type="NAME" n="Tolerance Limit Ring" />
+	<obj id="136" type="LORE1" n="" />
+	<obj id="137" type="NAME" n="Karma Ring" />
+	<obj id="137" type="LORE1" n="" />
+	<obj id="138" type="NAME" n="Red Exchange Ring" />
+	<obj id="138" type="LORE1" n="" />
+	<obj id="139" type="NAME" n="Blue Exchange Ring" />
+	<obj id="139" type="LORE1" n="" />
+	<obj id="140" type="NAME" n="Yellow Exchange Ring" />
+	<obj id="140" type="LORE1" n="" />
+	<obj id="141" type="NAME" n="Master Swordsman Ring" />
+	<obj id="141" type="LORE1" n="On a successful parry strike back immediately dealing a small amount of damage." />
+	<obj id="142" type="NAME" n="Beastmaster Ring" />
+	<obj id="142" type="LORE1" n="This ring will tap into the fading soul of a fallen enemy. Healing your pet for 10% of the enemies health." />
+	<obj id="143" type="NAME" n="Beast Bloodlust" />
+	<obj id="143" type="LORE1" n="" />
+	<obj id="144" type="NAME" n="Masterful Diversion Ring" />
+	<obj id="144" type="LORE1" n="" />
+	<obj id="145" type="NAME" n="Heroic Master Ring" />
+	<obj id="145" type="LORE1" n="" />
+	<obj id="146" type="NAME" n="Phoenix Ring" />
+	<obj id="146" type="LORE1" n="This ring enables you to resurrect your pet without a Phoenix Egg. When your pet is resurrected by the power of the ring a small cooldown effect will appear." />
+	<obj id="147" type="NAME" n="First Ring Of The Firelord" />
+	<obj id="147" type="LORE1" n="" />
+	<obj id="148" type="NAME" n="Second Ring Of The Firelord" />
+	<obj id="148" type="LORE1" n="" />
+	<obj id="149" type="NAME" n="Third Ring Of The Firelord" />
+	<obj id="149" type="LORE1" n="" />
+	<obj id="150" type="NAME" n="Fourth Ring Of The Firelord" />
+	<obj id="150" type="LORE1" n="" />
+	<obj id="151" type="NAME" n="First Ring Of The Warlord" />
+	<obj id="151" type="LORE1" n="" />
+	<obj id="152" type="NAME" n="Second Ring Of The Warlord" />
+	<obj id="152" type="LORE1" n="" />
+	<obj id="153" type="NAME" n="Third Ring Of The Warlord" />
+	<obj id="153" type="LORE1" n="" />
+	<obj id="154" type="NAME" n="Fourth Ring Of The Warlord" />
+	<obj id="154" type="LORE1" n="" />
+	<obj id="155" type="NAME" n="First Ring Of The Assassin" />
+	<obj id="155" type="LORE1" n="" />
+	<obj id="156" type="NAME" n="Second Ring Of The Assassin" />
+	<obj id="156" type="LORE1" n="" />
+	<obj id="157" type="NAME" n="Third Ring Of The Assassin" />
+	<obj id="157" type="LORE1" n="" />
+	<obj id="158" type="NAME" n="Fourth Ring Of The Assassin" />
+	<obj id="158" type="LORE1" n="" />
+	<obj id="159" type="NAME" n="Light Sword" />
+	<obj id="159" type="LORE1" n="A surprisingly light weapon." />
+	<obj id="160" type="NAME" n="Cold Blade" />
+	<obj id="160" type="LORE1" n="Forged in the frozen realms." />
+	<obj id="161" type="NAME" n="Thick Sword" />
+	<obj id="162" type="NAME" n="Fine Broadsword" />
+	<obj id="163" type="NAME" n="Firm Sword" />
+	<obj id="164" type="NAME" n="Grave Sword" />
+	<obj id="164" type="LORE1" n="Its handle is a large brown bone." />
+	<obj id="768" type="NAME" n="Phoenix Blade" />
+	<obj id="768" type="LORE1" n="Decorated with phoenix feathers. Undestroyable." />
+	<obj id="165" type="NAME" n="Wolf Slayer" />
+	<obj id="165" type="LORE1" n="Once used by the members of the long forgotten hunters guild." />
+	<obj id="166" type="NAME" n="Scimitar" />
+	<obj id="166" type="LORE1" n="Crafted by a blacksmith from another realm." />
+	<obj id="167" type="NAME" n="Rapier" />
+	<obj id="167" type="LORE1" n="Crafted by a blacksmith from another realm." />
+	<obj id="168" type="NAME" n="Savage Sword" />
+	<obj id="168" type="LORE1" n="The blade is decorated with large snake scales." />
+	<obj id="169" type="NAME" n="The Bastard" />
+	<obj id="170" type="NAME" n="Blessed Sword" />
+	<obj id="170" type="LORE1" n="A blade blessed by the high priests." />
+	<obj id="171" type="NAME" n="City Watch Sword" />
+	<obj id="172" type="NAME" n="Eagle" />
+	<obj id="172" type="LORE1" n="Decorated with strangely large feathers." />
+	<obj id="173" type="NAME" n="Bane" />
+	<obj id="173" type="LORE1" n="Black poison is dripping from its blade." />
+	<obj id="174" type="NAME" n="Blade of the Brotherhood" />
+	<obj id="174" type="LORE1" n="Once wielded by the guild master of the outcasts." />
+	<obj id="175" type="NAME" n="Grand Sword" />
+	<obj id="175" type="LORE1" n="Legends say this sword was found by sailors who claim a titan threw this sword after their ship." />
+	<obj id="176" type="NAME" n="Executioner" />
+	<obj id="176" type="LORE1" n="Used in dark sacrificial rituals." />
+	<obj id="177" type="NAME" n="Blade of Darkness" />
+	<obj id="177" type="LORE1" n="It absorbs light." />
+	<obj id="178" type="NAME" n="Heavy Bow" />
+	<obj id="179" type="NAME" n="Recurve Bow" />
+	<obj id="179" type="LORE1" n="It has an unusual shape." />
+	<obj id="180" type="NAME" n="Ironwood Bow" />
+	<obj id="181" type="NAME" n="Maple Bow" />
+	<obj id="182" type="NAME" n="Birch Bow" />
+	<obj id="183" type="NAME" n="Hawk Bow" />
+	<obj id="183" type="LORE1" n="Decorated with hawk feathers." />
+	<obj id="184" type="NAME" n="Marksman's Bow" />
+	<obj id="184" type="LORE1" n="There are many small carvings that help the archer when dealing with great distances." />
+	<obj id="185" type="NAME" n="Bone Bow" />
+	<obj id="185" type="LORE1" n="Made out of many small bones." />
+	<obj id="186" type="NAME" n="Serpent Bow" />
+	<obj id="186" type="LORE1" n="Decorated with many snake scales." />
+	<obj id="187" type="NAME" n="Living Sinew Bow" />
+	<obj id="188" type="NAME" n="Stalker's Bow" />
+	<obj id="189" type="NAME" n="Black Bow" />
+	<obj id="190" type="NAME" n="Letter Opener" />
+	<obj id="191" type="NAME" n="Sharp Blade" />
+	<obj id="192" type="NAME" n="Hefty Blade" />
+	<obj id="193" type="NAME" n="Unmarked Dagger" />
+	<obj id="193" type="LORE1" n="Untraceable." />
+	<obj id="194" type="NAME" n="Flawless Razor" />
+	<obj id="195" type="NAME" n="High Blade" />
+	<obj id="196" type="NAME" n="Steel Blade" />
+	<obj id="197" type="NAME" n="Voodoo Blade" />
+	<obj id="197" type="LORE1" n="Used by shamans during their healing rituals." />
+	<obj id="198" type="NAME" n="Grace" />
+	<obj id="198" type="LORE1" n="Legends say the cuts this blade makes won't cause pain." />
+	<obj id="199" type="NAME" n="Moonstone Blade" />
+	<obj id="199" type="LORE1" n="Its blade was created while both moons were shining down on the realm." />
+	<obj id="200" type="NAME" n="Ripper" />
+	<obj id="200" type="LORE1" n="Used to quickly cut out organs." />
+	<obj id="201" type="NAME" n="Silent Dagger" />
+	<obj id="202" type="NAME" n="Haste" />
+	<obj id="202" type="LORE1" n="Incredibly light and thin dagger." />
+	<obj id="203" type="NAME" n="Rage" />
+	<obj id="203" type="LORE1" n="Glows red when blood touches its blade." />
+	<obj id="204" type="NAME" n="Walking Stick" />
+	<obj id="205" type="NAME" n="Farmer's Broom" />
+	<obj id="205" type="LORE1" n="Heavily damaged by tree bark beetles." />
+	<obj id="206" type="NAME" n="Quarterstaff" />
+	<obj id="206" type="LORE1" n="Made out of perfect pinewood." />
+	<obj id="207" type="NAME" n="Plain Wood Staff" />
+	<obj id="207" type="LORE1" n="Initiates of the mages guild carry these staffs." />
+	<obj id="208" type="NAME" n="Battle Staff" />
+	<obj id="208" type="LORE1" n="Used by the monks of the old monastery." />
+	<obj id="209" type="NAME" n="Greatstaff" />
+	<obj id="210" type="NAME" n="Iron Staff" />
+	<obj id="210" type="LORE1" n="A staff made out of iron." />
+	<obj id="211" type="NAME" n="Cane" />
+	<obj id="211" type="LORE1" n="Grandpa had one of these." />
+	<obj id="212" type="NAME" n="Staff of Creed" />
+	<obj id="212" type="LORE1" n="Staff of the high priest of the first temple." />
+	<obj id="213" type="NAME" n="Scarlet Rain Staff" />
+	<obj id="213" type="LORE1" n="Blood is constantly dripping from it." />
+	<obj id="214" type="NAME" n="Faithful Staff" />
+	<obj id="215" type="NAME" n="Spirit Staff" />
+	<obj id="215" type="LORE1" n="A small forest spirit resides in it." />
+	<obj id="216" type="NAME" n="Mage's Staff" />
+	<obj id="217" type="NAME" n="Staff of Whispers" />
+	<obj id="217" type="LORE1" n="I can hear incomprehensible whispers coming from it." />
+	<obj id="218" type="NAME" n="Corrupted Staff" />
+	<obj id="219" type="NAME" n="Frozen Rod" />
+	<obj id="219" type="LORE1" n="Carved out of an unknown material from another realm." />
+	<obj id="220" type="NAME" n="Ritual Greatstaff" />
+	<obj id="220" type="LORE1" n="This staff was used in ancient rituals by the people of the islands." />
+	<obj id="221" type="NAME" n="Thorny Staff" />
+	<obj id="222" type="NAME" n="Mushroom Staff" />
+	<obj id="222" type="LORE1" n="It never stops growing." />
+	<obj id="223" type="NAME" n="Ancient White Staff" />
+	<obj id="224" type="NAME" n="Magister's Staff" />
+	<obj id="225" type="NAME" n="Quiet" />
+	<obj id="225" type="LORE1" n="This staff dampens the sounds around its bearer." />
+	<obj id="226" type="NAME" n="Firecore Staff" />
+	<obj id="226" type="LORE1" n="It has a burning core. Small embers are falling from it." />
+	<obj id="227" type="NAME" n="Archmage's Staff" />
+	<obj id="228" type="NAME" n="Skull Staff" />
+	<obj id="228" type="LORE1" n="There is a large skull on it. The skull is too big to be human." />
+	<obj id="229" type="NAME" n="Staff of Tranquility" />
+	<obj id="229" type="LORE1" n="Its wielder will feel everlasting calmness." />
+	<obj id="230" type="NAME" n="Wood Shield" />
+	<obj id="231" type="NAME" n="Worn Wooden Shield" />
+	<obj id="231" type="LORE1" n="Some of its planks are missing." />
+	<obj id="232" type="NAME" n="Buckler" />
+	<obj id="232" type="LORE1" n="A small but effective shield." />
+	<obj id="233" type="NAME" n="Iron Shield" />
+	<obj id="234" type="NAME" n="Warrior's Shield" />
+	<obj id="234" type="LORE1" n="Tainted with blood." />
+	<obj id="235" type="NAME" n="Steel Shield" />
+	<obj id="236" type="NAME" n="Stone Buckler" />
+	<obj id="237" type="NAME" n="Thick Bark Shield" />
+	<obj id="237" type="LORE1" n="Green moss is growing on it." />
+	<obj id="238" type="NAME" n="Tower Shield" />
+	<obj id="239" type="NAME" n="Greatshield" />
+	<obj id="240" type="NAME" n="Heavy Shield" />
+	<obj id="241" type="NAME" n="Ghost Shield" />
+	<obj id="242" type="NAME" n="Knight's Shield" />
+	<obj id="243" type="NAME" n="Wall of Nature" />
+	<obj id="243" type="LORE1" n="It grips the bearers hand firmly." />
+	<obj id="244" type="NAME" n="Skull Buckler" />
+	<obj id="244" type="LORE1" n="Decorated with surprisingly small skulls." />
+	<obj id="245" type="NAME" n="Shield of Knowledge" />
+	<obj id="245" type="LORE1" n="A small torn black book is in its inside." />
+	<obj id="312" type="NAME" n="Ward of the Black Sun" />
+	<obj id="312" type="LORE1" n="Legends say this shield was forged in the forgotten plains by the ancient immortal blacksmiths." />	
+	<obj id="319" type="NAME" n="Shield of Lies" />	
+	<obj id="615" type="NAME" n="Bone Buckler" />
+	<obj id="615" type="LORE1" n="Made completely out of bones." />
+	<obj id="620" type="NAME" n="Templars Shield" />
+	<obj id="625" type="NAME" n="Solaire Shield" />
+	<obj id="625" type="LORE1" n="Shield of the banished sun." />
+	<obj id="626" type="NAME" n="Crest of the Brotherhood" />
+	<obj id="628" type="NAME" n="Phalanx" />
+	<obj id="629" type="NAME" n="Barrier" />
+	<obj id="630" type="NAME" n="Echo" />
+	<obj id="630" type="LORE1" n="Blocked strikes echoes far away." />
+	<obj id="634" type="NAME" n="Battle Axe" />
+	<obj id="637" type="NAME" n="Stone Greataxe" />
+	<obj id="637" type="LORE1" n="Made out of a single piece of rock." />
+	<obj id="638" type="NAME" n="Golem Axe" />
+	<obj id="638" type="LORE1" n="Once the stone golems wielded these weapons." />
+	<obj id="639" type="NAME" n="Black Knight Greataxe" />
+	<obj id="639" type="LORE1" n="Used by the immortal Black Knights of the Forgotten Plains. An extremely heavy weapon." />
+	<obj id="642" type="NAME" n="Decapitator" />
+	<obj id="642" type="LORE1" n="Once wielded by the great executioner golem." />
+	<obj id="300" type="NAME" n="Guardsman Armor" />
+	<obj id="301" type="NAME" n="Mercenary's Breastplate" />
+	<obj id="301" type="LORE1" n="Made from different kinds of leathers and animal furs." />
+	<obj id="323" type="NAME" n="Chitin Armor" />
+	<obj id="323" type="LORE1" n="There are large pieces of beetle armour on it." />
+	<obj id="324" type="NAME" n="Splint Mail" />
+	<obj id="325" type="NAME" n="Mantis Armor" />
+	<obj id="326" type="NAME" n="Legion Armor" />
+	<obj id="417" type="NAME" n="Stone Breastplate" />
+	<obj id="418" type="NAME" n="Crystal Breastplate" />
+	<obj id="419" type="NAME" n="Crypt Keeper Armor" />
+	<obj id="419" type="LORE1" n="Its made out of the remains of the dead." />
+	<obj id="420" type="NAME" n="Dalantium Armor" />
+	<obj id="421" type="NAME" n="Banded Mail" />
+	<obj id="647" type="NAME" n="Demon Soul Armor" />
+	<obj id="661" type="NAME" n="Ancient Vampire Lord Breastplate" />
+	<obj id="674" type="NAME" n="Stone Gloves" />
+	<obj id="675" type="NAME" n="Golem Gloves" />
+	<obj id="676" type="NAME" n="Legion Gloves" />
+	<obj id="677" type="NAME" n="Mantis Gloves" />
+	<obj id="678" type="NAME" n="Crystal Gloves" />
+	<obj id="679" type="NAME" n="Gloves of Destiny" />
+	<obj id="680" type="NAME" n="Guardsman Gloves" />
+	<obj id="681" type="NAME" n="Demon Soul Gloves" />
+	<obj id="682" type="NAME" n="Ancient Vampire Lord Gloves" />
+	<obj id="695" type="NAME" n="Judgement Leggings" />
+	<obj id="696" type="NAME" n="Stone Greaves" />
+	<obj id="696" type="LORE1" n="Made out of rock." />
+	<obj id="697" type="NAME" n="Splint Mail Leggings" />
+	<obj id="698" type="NAME" n="Chitin Leggings" />
+	<obj id="698" type="LORE1" n="Made from the armour of giant beetles." />
+	<obj id="699" type="NAME" n="Crystal Greaves" />
+	<obj id="699" type="LORE1" n="The large crystals are kept together with thick iron rings." />
+	<obj id="700" type="NAME" n="Crypt Keeper Greaves" />
+	<obj id="700" type="LORE1" n="Made from things found in ancient graves." />
+	<obj id="701" type="NAME" n="Demon Soul Greaves" />
+	<obj id="702" type="NAME" n="Leggings of the Ancient Vampire Lord" />
+	<obj id="712" type="NAME" n="Prisoner Helmet" />
+	<obj id="713" type="NAME" n="Chitin Helmet" />
+	<obj id="713" type="LORE1" n="Decorated with the horns of giant beetles." />
+	<obj id="714" type="NAME" n="Legion Helmet" />
+	<obj id="715" type="NAME" n="Golem Helmet" />
+	<obj id="715" type="LORE1" n="The Architect could control the golems with these helmets." />
+	<obj id="716" type="NAME" n="Crystal Helmet" />
+	<obj id="717" type="NAME" n="Helmet of Judgement" />
+	<obj id="717" type="LORE1" n="Weared by the royal judge of the castle." />
+	<obj id="718" type="NAME" n="Guardsman Helmet" />
+	<obj id="719" type="NAME" n="Demon Soul Helmet" />
+	<obj id="720" type="NAME" n="Headpiece of the Ancient Vampire Lord" />
+	<obj id="730" type="NAME" n="Banded Mail Waistguard" />
+	<obj id="731" type="NAME" n="Stone Waistguard" />
+	<obj id="732" type="NAME" n="Waistguard of Fortitude" />
+	<obj id="733" type="NAME" n="Judgement Waistguard" />
+	<obj id="734" type="NAME" n="Desert Opal Belt" />
+	<obj id="734" type="LORE1" n="Decorated with a large blue opal from the deserts." />
+	<obj id="735" type="NAME" n="Old Dalantium Waistguard" />
+	<obj id="735" type="LORE1" n="A worn and damaged dalantium belt." />
+	<obj id="769" type="NAME" n="Royal Guard Waistguard" />
+	<obj id="736" type="NAME" n="Demon Soul Belt" />
+	<obj id="737" type="NAME" n="Ancient Vampire Lord Waistguard" />
+	<obj id="662" type="NAME" n="Moth Robes" />
+	<obj id="663" type="NAME" n="Traveller's Robe" />
+	<obj id="664" type="NAME" n="Faded Leather Armor" />
+	<obj id="665" type="NAME" n="Confessor's Robes" />
+	<obj id="666" type="NAME" n="Grandmaster's Robes" />
+	<obj id="666" type="LORE1" n="Robes of the first mage grandmaster." />
+	<obj id="667" type="NAME" n="Shadow Armor" />
+	<obj id="667" type="LORE1" n="This armour makes its wearer harder to notice." />
+	<obj id="668" type="NAME" n="Hexer Robes" />
+	<obj id="668" type="LORE1" n="Mostly made out of alligator leather and beetle chitin." />
+	<obj id="669" type="NAME" n="Raptor Leather Armor" />
+	<obj id="670" type="NAME" n="Bandit's Armor" />
+	<obj id="671" type="NAME" n="Adept's Tunic" />
+	<obj id="671" type="LORE1" n="Plain looking robes made out of light leathers." />
+	<obj id="672" type="NAME" n="Wanderer's Robes" />
+	<obj id="673" type="NAME" n="Griffin Armor" />
+	<obj id="683" type="NAME" n="Bandit's Gloves" />
+	<obj id="684" type="NAME" n="Cow Leather Gloves" />
+	<obj id="685" type="NAME" n="Moth Gloves" />
+	<obj id="686" type="NAME" n="Lizard Leather Gloves" />
+	<obj id="687" type="NAME" n="Raptor Leather Gloves" />
+	<obj id="688" type="NAME" n="Faded Leather Gloves" />
+	<obj id="689" type="NAME" n="Gloves of Healing" />
+	<obj id="689" type="LORE1" n="Worn by the healers." />
+	<obj id="690" type="NAME" n="Shadow Gloves" />
+	<obj id="690" type="LORE1" n="Used to aid in climbing walls." />
+	<obj id="691" type="NAME" n="Gauntlets of Dexterity" />
+	<obj id="692" type="NAME" n="Tattered Gloves" />
+	<obj id="693" type="NAME" n="Wanderer's Gloves" />
+	<obj id="694" type="NAME" n="Griffin Gloves" />
+	<obj id="703" type="NAME" n="Monastery Leggings" />
+	<obj id="704" type="NAME" n="Prisoner Pants" />
+	<obj id="705" type="NAME" n="Lizard Leather Pants" />
+	<obj id="705" type="LORE1" n="Made out of dried lizard leather." />
+	<obj id="706" type="NAME" n="Faded Leather Pants" />
+	<obj id="707" type="NAME" n="Confessor's Leggings" />
+	<obj id="708" type="NAME" n="Moth Leggings" />
+	<obj id="709" type="NAME" n="Tattered Pants" />
+	<obj id="710" type="NAME" n="Wanderer's Leggings" />
+	<obj id="711" type="NAME" n="Griffin Leggings" />
+	<obj id="721" type="NAME" n="Bandit's Cap" />
+	<obj id="722" type="NAME" n="Meteor Shard Cap" />
+	<obj id="722" type="LORE1" n="Its material is unknown." />
+	<obj id="723" type="NAME" n="Cow Leather Hat" />
+	<obj id="724" type="NAME" n="Hexer Hat" />
+	<obj id="724" type="LORE1" n="Worn by shamans." />
+	<obj id="725" type="NAME" n="Confessor's Hat" />
+	<obj id="726" type="NAME" n="Chicken Feather Hat" />
+	<obj id="727" type="NAME" n="Headpiece of the Principate" />
+	<obj id="727" type="LORE1" n="In vino veritas." />
+	<obj id="728" type="NAME" n="Wanderer's Hat" />
+	<obj id="729" type="NAME" n="Griffin Cap" />
+	<obj id="738" type="NAME" n="Bandit's Belt" />
+	<obj id="739" type="NAME" n="Belt of Sand" />
+	<obj id="739" type="LORE1" n="An unknown power holds together a large amount of sand to create a belt." />
+	<obj id="740" type="NAME" n="Belt of the Novice" />
+	<obj id="741" type="NAME" n="Belt of Discipline" />
+	<obj id="742" type="NAME" n="Cow Leather Belt" />
+	<obj id="743" type="NAME" n="Tendril Belt" />
+	<obj id="744" type="NAME" n="Tattered Belt" />
+	<obj id="745" type="NAME" n="Servant's Belt" />
+	<obj id="745" type="LORE1" n="There is a strange lock mechanism on it." />
+	<obj id="746" type="NAME" n="Wanderer's Belt" />
+	<obj id="747" type="NAME" n="Griffin Belt" />
+	<obj id="757" type="NAME" n="Laborer's Shoes" />
+	<obj id="757" type="LORE1" n="These shoes are falling apart." />
+	<obj id="758" type="NAME" n="Hexer Shoes" />
+	<obj id="759" type="NAME" n="Captain's Boots" />
+	<obj id="759" type="LORE1" n="The salt from the sea damaged the leather." />
+	<obj id="760" type="NAME" n="Tendril Shoes" />
+	<obj id="761" type="NAME" n="Cow Leather Shoes" />
+	<obj id="762" type="NAME" n="Shoes of the Sands" />
+	<obj id="762" type="LORE1" n="Its base is made out of stone to absorb the heat from the sand." />
+	<obj id="763" type="NAME" n="Rabbit Fur Shoes" />
+	<obj id="764" type="NAME" n="Bandit's Shoes" />
+	<obj id="765" type="NAME" n="Shade Shoes" />
+	<obj id="766" type="NAME" n="Wanderer's Shoes" />
+	<obj id="767" type="NAME" n="Griffin Boots" />
+	<obj id="748" type="NAME" n="Scale Boots" />
+	<obj id="748" type="LORE1" n="Made out of unrecognizable scales." />
+	<obj id="749" type="NAME" n="Golem Boots" />
+	<obj id="750" type="NAME" n="Rock Boots" />
+	<obj id="751" type="NAME" n="Royal Guard Boots" />
+	<obj id="752" type="NAME" n="Crab Armor Boots" />
+	<obj id="752" type="LORE1" n="Made by an old fisherman." />
+	<obj id="753" type="NAME" n="Gargoyle Boots" />
+	<obj id="754" type="NAME" n="Fighter's Boots" />		
+	<obj id="755" type="NAME" n="Demon Soul Boots" />
+	<obj id="756" type="NAME" n="Ancient Vampire Lord Boots" />
+	<obj id="770" type="NAME" n="Chain of Times" />
+	<obj id="771" type="NAME" n="Scarab Amulet" />
+	<obj id="772" type="NAME" n="Necklace of the Oasis" />
+	<obj id="773" type="NAME" n="Periapt of the Forgotten" />
+	<obj id="774" type="NAME" n="Covenant of the Moon Amulet" />
+	<obj id="775" type="NAME" n="Eye of the Kingdom" />
+	<obj id="776" type="NAME" n="Amulet of Life" />
+	<obj id="777" type="NAME" n="Pouch of Fear" />
+	<obj id="778" type="NAME" n="Talisman of Eogor" />
+	<obj id="779" type="NAME" n="Talisman of Adacus" />
+	<obj id="780" type="NAME" n="Talisman of the Mad God" />
+	<obj id="781" type="NAME" n="Chain of the Betrayed" />
+	<obj id="782" type="NAME" n="Amulet of the Mage Lord" />
+	<obj id="783" type="NAME" n="Amulet of the Militia" />
+	<obj id="784" type="NAME" n="Jewels of the Lady" />
+	<obj id="785" type="NAME" n="Medal of the Guardian" />
+	<obj id="817" type="NAME" n="Necromancer's Remains" />
+	<obj id="817" type="LORE1" n="The remains of one of the Darkwood Necromancers." />
+	<obj id="818" type="NAME" n="Necromancer's Remains" />
+	<obj id="818" type="LORE1" n="The remains of one of the Darkwood Necromancers." />
+	<obj id="819" type="NAME" n="Necromancer's Remains" />
+	<obj id="819" type="LORE1" n="The remains of one of the Darkwood Necromancers." />
+	<obj id="820" type="NAME" n="Necromancer's Remains" />
+	<obj id="820" type="LORE1" n="The remains of one of the Darkwood Necromancers." />
+	<obj id="821" type="NAME" n="Balrum" />
+	<obj id="821" type="LORE1" n="Over the years Leonard made a large map of Balrum." />
+	<obj id="822" type="NAME" n="Mages' Guild Coin" />
+	<obj id="822" type="LORE1" n="The initiates need to bring back this special coin to the mages as their first task." />
+	<obj id="823" type="NAME" n="Mages' Library Teleporter Rune" />
+	<obj id="823" type="LORE1" n="I should be able to teleport to the mages' library by standing between the obelisks." />
+	<obj id="824" type="NAME" n="Stone Essence" />
+	<obj id="825" type="NAME" n="Mage's Diary" />
+	<obj id="826" type="NAME" n="Warrior's Diary" />
+	<obj id="827" type="NAME" n="Explosive Barrel" />
+	<obj id="827" type="LORE1" n="Bolt gave this barrel to me to demolish the old coal mine walls. I should place it near the warrior's corpse." />
+    <obj id="828" type="NAME" n="Mahoka" />
+	<obj id="829" type="NAME" n="Summon Morven" />
+	<obj id="830" type="NAME" n="Church Ornament" />
+	<obj id="831" type="NAME" n="Thieves Camp Teleport" />
+	<obj id="832" type="NAME" n="Ruins Magic Key" />
+	<obj id="833" type="NAME" n="Elegant Dagger" />
+	<obj id="833" type="LORE1" n="This must be the dagger Gail needs." />
+	<obj id="834" type="NAME" n="Lester's Old Rune" />
+	<obj id="835" type="NAME" n="Lester's Old Rune" />
+	<obj id="836" type="NAME" n="Ancient Library Teleporter" />
+	<obj id="836" type="LORE1" n="This rune will take me to the mages' old library. There has to be a book there that contains the locations of the Necromancers remains." />
+	<obj id="837" type="NAME" n="Ancient Library Teleporter" />
+	<obj id="837" type="LORE1" n="This rune will take me to the mages' old library. There has to be a book there that contains the locations of the Necromancers remains." />
+	<obj id="838" type="NAME" n="Raptor Ring" />
+	<obj id="838" type="LORE1" n="Critical melee attacks recover a small amount of health." />
+	<obj id="839" type="NAME" n="Mantis Ring" />
+	<obj id="839" type="LORE1" n="Critical spell attacks recover a small amount of mana." />
+	<obj id="840" type="NAME" n="Moth Dust" />
+	<obj id="841" type="NAME" n="Ivo's Good Spirit" />
+	<obj id="842" type="NAME" n="Strange Liquid" />
+	<obj id="842" type="LORE1" n="The liquid inside the bottle is glowing." />
+	<obj id="843" type="NAME" n="Gamblers Key" />
+	<obj id="844" type="NAME" n="Multiple Children's Book" />
+	<obj id="845" type="NAME" n="Lona's Love Letter" />
+	<obj id="846" type="NAME" n="Giant Paw's Leather" />
+	<obj id="847" type="NAME" n="Wisp" />
+	<obj id="848" type="NAME" n="Flameberry" />
+	<obj id="848" type="LORE1" n="Even though I picked them a while ago they are still warm." />
+	<obj id="849" type="NAME" n="Pet Larva" />
+	<obj id="850" type="NAME" n="Pet Rat" />
+	<obj id="851" type="NAME" n="Pet Deer" />
+	<obj id="852" type="NAME" n="Pet Deer" />
+	<obj id="854" type="NAME" n="Pet Frog" />   
+	<obj id="855" type="NAME" n="Roberta's husbands Taming Trap" />
+	<obj id="855" type="LORE1" n="Rats, larvae, deers and frogs are friendly animals. I should tame one for Roberta." />
+	<obj id="853" type="NAME" n="Beetle Gland" />   
+	<obj id="853" type="LORE1" n="A huge gland from a giant beetle." />     
+	<obj id="856" type="NAME" n="Ivo's Cheap Spirit" /> 
+	<obj id="857" type="NAME" n="Ring of Light" />
+	<obj id="857" type="LORE1" n="An extremely rare ring that emits light." />      
+	<obj id="858" type="NAME" n="Island Crypt Key" />   
+	   
+	<obj id="859" type="NAME" n="A Suspicious Book" />  
+	<obj id="859" type="LORE1" n="I feel a strong urge to start reading it." />  
+	<obj id="860" type="NAME" n="Daichi's Femur" />
+	<obj id="860" type="LORE1" n="A strange bone." />  
+	<obj id="861" type="NAME" n="Nil Pelea Sine Lucre" />  
+	<obj id="861" type="LORE1" n="A exceptionally well crafted sword with a inscription saying 'No fighting without profit'. Its size might intimidate ordinary people, this might be helpful when haggling. " /> 
+	<obj id="862" type="NAME" n="Immolator of Palverz" />  
+	<obj id="863" type="NAME" n="Hellforge Hammer" />  
+	<obj id="863" type="LORE1" n="Forged in the depths of the River of Flame. It glows ominously." />  
+	<obj id="864" type="NAME" n="The Sword of Mists" />
+	<obj id="864" type="LORE1" n="Found in the desert clasped in the dead hands of a very angry looking warrior. The sword's power recharges when the blade touches water. The sword's power was only discovered by accident." />  
+	<obj id="865" type="NAME" n="Philosophers Stone" /> 
+	<obj id="865" type="LORE1" n="A mystical stone the size of an average chicken." />		 
+	<obj id="866" type="NAME" n="Amicus Rune" />
+	<obj id="866" type="LORE1" n="A stone that increases my bond with my companion." />   
+	<obj id="867" type="NAME" n="Staff of Necromancy" />
+	<obj id="867" type="LORE1" n="This staff looks unfinished. As I touch it I feel a cold energy emanating from it. The energy all of a sudden becomes significantly more powerful. This is a dangerous unstable staff." /> 
+	<obj id="868" type="NAME" n="Strange Brick" />
+	<obj id="868" type="LORE1" n="A floating city has once been told, that lost a brick of old." />    
+	<obj id="869" type="NAME" n="Weege's Teleport to Self" /> 
+	<obj id="869" type="LORE1" n="Useful if you can't find yoursef." /> 
+	<obj id="870" type="NAME" n="Twisted Rose of Dreams" />  
+	<obj id="870" type="LORE1" n="Love planted the seed %n%Loss bore the curse %n%Nothing can keep them apart %n%yet they shall never be together again." />
+	<obj id="871" type="NAME" n="Dark Animal Skull" />  
+	<obj id="872" type="NAME" n="Dark Bone" />  
+	<obj id="873" type="NAME" n="Dark Broken Bone" />  
+	<obj id="874" type="NAME" n="A Piece of Dark Bone" />  
+	<obj id="875" type="NAME" n="Dark Chitin" />  
+	<obj id="882" type="NAME" n="Beetle Chitin" />  
+	<obj id="883" type="NAME" n="Centipede Chitin" />  
+	<obj id="876" type="NAME" n="Crocodile Scale" />  
+	<obj id="877" type="NAME" n="Reptile Scale" />  
+	<obj id="878" type="NAME" n="Desert Reptile Scale" />  
+	<obj id="885" type="NAME" n="Desert Mantis Leg" /> 
+	<obj id="884" type="NAME" n="Centipede Leg" /> 
+	<obj id="879" type="NAME" n="Lizard Tongue" /> 
+	<obj id="881" type="NAME" n="Raptor Tooth" /> 
+	<obj id="880" type="NAME" n="Moth Eye" /> 
+	<obj id="886" type="NAME" n="Raw Cow Meat" />
+    <obj id="887" type="NAME" n="Half Baked Cow Meat" />
+    <obj id="888" type="NAME" n="Baked Cow Meat" />
+    <obj id="889" type="NAME" n="Burnt Cow Meat" /> 
+    <obj id="890" type="NAME" n="Raw Reptile Meat" />
+    <obj id="891" type="NAME" n="Half Baked Reptile Meat" />
+    <obj id="892" type="NAME" n="Baked Reptile Meat" />
+    <obj id="893" type="NAME" n="Burnt Reptile Meat" />
+    <obj id="999" type="NAME" n="Farming Book" />
+    <obj id="999" type="LORE1" n="Teaches skill level 2." />
+    <obj id="1000" type="NAME" n="Carpentry Book" />
+    <obj id="1000" type="LORE1" n="Teaches skill level 2." />
+    <obj id="1001" type="NAME" n="Mining/Smelting Book" />
+    <obj id="1001" type="LORE1" n="Teaches skill level 2." />
+    <obj id="1002" type="NAME" n="Calf" />
+    <obj id="1003" type="NAME" n="Major Healing Potion" />
+    <obj id="1004" type="NAME" n="Major Mana Potion" />
+    <obj id="1005" type="NAME" n="Sapphire Crystal" />
+    <obj id="1006" type="NAME" n="Emerald Crystal" />
+    <obj id="1007" type="NAME" n="Crimson Crystal" />
+    <obj id="1008" type="NAME" n="Sun Crystal" />
+    <obj id="1009" type="NAME" n="Ancient Golem Slayer" /> 
+    <obj id="1009" type="LORE1" n="Only these special swords can harm golems." /> 
+    <obj id="1010" type="NAME" n="Balrum Northwest Teleport" />
+    <obj id="1011" type="NAME" n="Balrum Northeast Teleport" />
+    <obj id="1012" type="NAME" n="Balrum Southeast Teleport" />
+    <obj id="1013" type="NAME" n="Balrum Southwest Teleport" />
+    <obj id="1014" type="NAME" n="Ghost Ring" />
+    <obj id="1014" type="LORE1" n="This ring is light as a feather and cold like ice." />
+    <obj id="1015" type="NAME" n="Ullok's Ring" />
+    <obj id="1016" type="NAME" n="Ulger's Dalantium Armor" />
+    <obj id="1017" type="NAME" n="Silverbark Bow" />
+    <obj id="1018" type="NAME" n="Troll Painting" />
+    <obj id="1019" type="NAME" n="Dead Troll" />
+    <obj id="1020" type="NAME" n="Ronstock's Research" />
+    <obj id="1020" type="LORE1" n="Multiple pages about strange experiments throughout the years. Most of it is incomprehensible hotchpotch." />
+    <obj id="1021" type="NAME" n="A strange white mask" />
+    <obj id="1022" type="NAME" n="Guitar" />
+    <obj id="1022" type="LORE1" n="A very old looking guitar." />
+    <obj id="1023" type="NAME" n="Rusty Axe" />
+    <obj id="1023" type="LORE1" n="The name 'Luglug' is inscribed on the axe with primitive writing." />
+    <obj id="1024" type="NAME" n="Magic Skvader Meat" />
+    <obj id="1024" type="LORE1" n="This meat has a strange smell." />
+    <obj id="1025" type="NAME" n="Tantaluz' Guitar" />
+    <obj id="1025" type="LORE1" n="I received this guitar from Robert Zayin." />
+    
+    
+    <obj id="1026" type="NAME" n="The Shame of the Gods" />
+    <obj id="1027" type="NAME" n="She Left" />
+    <obj id="1028" type="NAME" n="Wolves of the Castle" />
+    <obj id="1029" type="NAME" n="The King's Pet" />
+    <obj id="1030" type="NAME" n="Leonard" />
+    <obj id="1031" type="NAME" n="The Helpful Royal Alchemist" />
+    <obj id="1032" type="NAME" n="The King's Right Hand" />
+    <obj id="1033" type="NAME" n="The Tale of the Fearless Farmer" />
+    <obj id="1034" type="NAME" n="Rhys" />
+    <obj id="1035" type="NAME" n="Hain" />
+    <obj id="1036" type="NAME" n="The Crazy Healer" />
+	<obj id="1037" type="NAME" n="The Great Adventurer's Son" />
+	<obj id="1038" type="NAME" n="Barrel Boy" />
+	<obj id="1039" type="NAME" n="Benedict the Traitor" />
+	<obj id="1040" type="NAME" n="The Dragons" />
+	<obj id="1041" type="NAME" n="The Islands" />
+	<obj id="1042" type="NAME" n="Dark Iron" />
+	<obj id="1043" type="NAME" n="Moonstone" />
+	<obj id="1044" type="NAME" n="Black Creatures" />
+    <obj id="1045" type="NAME" n="Arcane Arts" />
+    <obj id="1046" type="NAME" n="Shadow Blade" />
+    <obj id="1047" type="NAME" n="Fury of the Colossus" />
+    <obj id="816" type="NAME" n="Item List" />
+    <obj id="1048" type="NAME" n="Rat" />
+    <obj id="1049" type="NAME" n="Wolf" />
+    <obj id="1050" type="NAME" n="Bear" />
+    <obj id="1051" type="NAME" n="Deer" />
+    <obj id="1052" type="NAME" n="Mantis" />
+    <obj id="1053" type="NAME" n="Spider" />
+    <obj id="1054" type="NAME" n="Crab" />
+    <obj id="1055" type="NAME" n="Giant Beetle" />
+    <obj id="1056" type="NAME" n="Moth" />
+    <obj id="1057" type="NAME" n="Giant Frog" />
+    <obj id="1058" type="NAME" n="Crocodile" />
+    <obj id="1059" type="NAME" n="Raptor" />
+    <obj id="1060" type="NAME" n="Lizard" />
+   	<obj id="1061" type="NAME" n="Drakeling" />
+   	<obj id="1062" type="NAME" n="The Island" />
+   	<obj id="1062" type="LORE1" n="I found this strange rune near the village. I think it's not working properly." />
+   	<obj id="1063" type="NAME" n="Triangle Shaped Rune" />
+   	<obj id="1064" type="NAME" n="Circle Shaped Rune" />
+   	<obj id="1065" type="NAME" n="Rectangle Shaped Rune" />
+   	<obj id="1066" type="NAME" n="Rebel Party" />
+   	<obj id="1067" type="NAME" n="Dangerous Desert" />
+   	<obj id="1068" type="NAME" n="The Test" />
+   	<obj id="1069" type="NAME" n="I'm losing my mind" />
+   	<obj id="1070" type="NAME" n="Fred's beer is really strong" />
+   	<obj id="1071" type="NAME" n="The List" />
+   	<obj id="1072" type="NAME" n="The List" />
+   	<obj id="1073" type="NAME" n="The List" />
+   	<obj id="1074" type="NAME" n="The List" />
+   	<obj id="1076" type="NAME" n="White Gloves of the Librarian" />
+   	<obj id="1076" type="LORE1" n="These gloves are used to clean old dusty documents." />
+   	<obj id="1077" type="NAME" n="Wisp" />
+   	<obj id="1077" type="LORE1" n="These wisps have the ability to regrow trees and they even protect plants from diseases." />
+    </obj>
+</objects>

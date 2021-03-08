@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+	<dia pl="0" str="I need your help Grandpa!"/>
+    <dia npc="0" str="Calm down Son. What can I help you with?"/>
+    <dia pl="10" str="Thurza found a stone tablet in the debris at the Packs house."/>
+    <dia pl="11" str="I have found a stone tablet at the Packs house."/>
+    <dia npc="1" str="A stone tablet? Put it on the table, Son!"/>
+    <dia pl="2" str="I never seen anything like it. What can it be? Can you read the writing on it?"/>
+    <dia npc="2" str="Interesting, it looks like the fire didn't damage the stone tablet at all. As if someone had put it in the debris on purpose after the fire. It is an ancient stone tablet but the writing on it is fresh. Who, or what, made this? I might be able to read the text but I will need time. And how did it end up in the Packs' house?"/>
+    <dia pl="3" str="I don't know. I hope you can read it, Grandpa. It might help us in finding the Packs."/>
+    <dia npc="3" str="Give me some time boy. Go to Brown, it is time for your alchemy lessons. Ask Brown if he knows anything about stone tablets."/>
+	<dia pl="4" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

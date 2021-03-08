@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="He encontrado a los ladrones. Son todos niños pequeños."/>
+    <dia npc="0" str="Son niños dices? Qué más has averiguado?"/>
+    <dia pl="1_0" str="Los niños tienen un cuidador. Se hace llamar Morven. Solo roban lo que necesitan para vivir. Sus padres fueron asesinados por los rebeldes y vagan por los bosques desde hace mucho tiempo. Morven los acogió y los escondió bajo tierra." jumpNPCd= "1" jumpPlayerd = '3'/>
+    <dia pl="1_1" str="Sus padres fueron asesinados y vagan por los bosques desde hace mucho tiempo. Solo roban lo que necesitan para sobrevivir."  jumpNPCd= "2" jumpPlayerd = '3'/>
+    <dia npc="1" str="Morven! El debe enseñar a los niños a ser ladrones. Morven es un miembro del gremio de los ladrones. Gracias por traernos esta información. Vamos a actuar de inmediato. Llevaremos a los niños con los magos. Ellos no les perjudicaran."/>
+    <dia pl="2" str=" "/>
+    <dia npc="2" str="Ahora lo entiendo. Ellos no hacen daño a nadie ahí abajo. Necesitan esa comida para vivir son pequeños luchadores. Esperemos que algún día tomemos la capital de nuevo. Hasta entonces están más seguros allí."/>
+    <dia pl="3" str="He terminado la tarea que me dijiste, me periten formar parte de la alianza?" jumpNPCd= "3" jumpPlayerd = '4'/>
+    <dia npc="3" str="Habla con los chicos de aquí. Si te ganas su confianza te daremos la bienvenida al gremio!"/>
+    <dia pl="4" str=" Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

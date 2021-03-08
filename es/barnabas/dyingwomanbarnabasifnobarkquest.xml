@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Barnabas! Una mujer esta muy enferma. Sus ojos se vuelven amarillos y esta tan débil que no se puede mover. Necesita una poción especial!"/>
+    <dia npc="0" str="Los ojos amarillos? Lo siento muchacho. No tiene cura. No conozco nada que pueda ayudarla. Ella estará muerta en cuestión de días."/>
+    <dia pl="1" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

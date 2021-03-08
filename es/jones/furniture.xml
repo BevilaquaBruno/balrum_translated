@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Nuestra casa casi se quema. El abuelo esta bien, pero necesito reparar los daños de la casa. Voy a tener que construir un pequeño armario ya que el que teníamos a quedado reducido a cenizas."/>
+    <dia npc="0" str="Cómo a podido pasar algo así? Dos casas en la aldea se incendian el mismo día. Tu abuelo es duro. Sabe manejar bien el fuego. No sabes como construir un armario, yo te enseño. Me puedes comprar la madera a mi, Pero vivimos en el bosque y tu mismo la puedes talar gratis. Por favor no le digas a Selina que te dije de talar arboles antes de comprarmelos a mi."/>
+    <dia pl="1" str="Gracias Jones. No se lo diré a Selina. Cuando podremos continuar con las siguiente clase?"/>
+    <dia npc="1" str="Cuando quieras, chico! Eres un buen estudiante. La próxima vez te enseñare a construir sillas y mesas robustas."/>
+	<dia pl="2" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

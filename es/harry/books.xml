@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+   <dia pl="0" str="Tienes un montón de libros en casa."/>
+   <dia npc="0" str="Así es. Los libros expanden tu mente y protegen nuestros grandes logros. Si pudiera hacer una única cosa hasta el día de mi muerte, estaría leyendo. Leería cientos y cientos de libros magníficos."/>
+   <dia pl="1" str="Estoy buscando trabajo. No necesitas nada?"/>
+   <dia npc="1" str="Realmente no. Pero si encuentras algún libro tráemelo y yo te los compraré a muy buen precio!"/>
+   <dia pl="2" str="Si encuentro libros te los traeré." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

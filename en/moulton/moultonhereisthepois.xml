@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Here are the poison sacks."/>
+    <dia npc="0" str="Finally! I thought you got scared, boy! I will start right away."/>
+    <dia pl="1" str="When will it happen?"/>
+    <dia npc="1" str="We cannot know. Let's hope they don't find out."/>
+	<dia pl="2" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

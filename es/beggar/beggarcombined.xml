@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Aquí tienes."/>
+    <dia npc="0" str="Gracias, joven. He estado aquí durante muchos años. Ahora puedo obtener mi venganza!"/>
+    <dia pl="1" str="Venganza?"/>
+    <dia npc="1" str="Un viejo mago loco me hizo esto. Me maldijo y sedujo a mi bella esposa."/>
+    <dia pl="2" str="Cual es su nombre?"/>
+    <dia npc="2" str="Su nombre es Lee. Ahora que puedo hablar voy a encontrarlo y darle lo que se merece."/>
+	<dia pl="3" str="Qué vas hacer?"/>
+    <dia npc="3" str="Maldecirlo, porsupuesto. Matarlo no sería suficiente castigo. He pensado en esto durante tanto tiempo. Al principio quería  convertirlo en un cerdo, Pero alguien lo podría matar. Yo quiero que sufra durante décadas. Voy a convertirlo en una rata. Una rata espantosa, grande y gorda. Tal y como es el."/>
+    <dia pl="4" str="Estás seguro de esto?"/>
+    <dia npc="4" str="A ti te podría hacer lo mismo. Me quito la libertad y se llevo a mi esposa."/>
+	<dia pl="5" str="Ten cuidado." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

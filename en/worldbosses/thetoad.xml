@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I have slain the giant toad living in the cave next to Doyle's house."/>
+    <dia npc="0" str="Doyle should have cleared that cave by himself. You did him a huge favor. Here take this as a reward because he most certainly won't give you anything worthwhile."/>
+    <dia pl="1" str="Thank you!" jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Qué huele tan horrible?"/>
+    <dia npc="0" str="Huele demasiado verdad? No paro de decirle a Worrell que tiene que limpiar su casa, de ahí viene el olor tan insoportable. Siempre que le menciono algo de ese olor no me escucha."/>
+    <dia pl="1" str="Debería hablar con el?"/>
+    <dia npc="1" str="Eso sería genial. Espero que te escuche."/>
+	<dia pl="2" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

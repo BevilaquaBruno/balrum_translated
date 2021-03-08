@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Can we speak now?"/>
+    <dia npc="0" str="Luckily for you none of them was harmed. You cannot speak of this to anyone. They are only children and they are safe down there."/>
+    <dia pl="1" str="I found them. Someone else might find them too."/>
+    <dia npc="1" str="You are right. I have to take additional precautions. Max told me you were kind with them. Who are you?"/>
+    <dia pl="2" str="I'm on a mission for the mages' guild."/>
+    <dia npc="2" str="'Morven stares at you and quickly casts a spell and disappears'"/>
+	<dia pl="3" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+   <dia pl="0" str="Mira este libro Harry."/>
+   <dia npc="0" str="'Harry se mira el libro que has encontrado e inmediatamente se cae al suelo.' Este libro es el mal! Creo que podría ser un libro de teletransporte."/>
+   <dia pl="1" str="Un libro de teletransporte?"/>
+   <dia npc="1" str="Se trata de un libro que cuando se lee, la persona que lo sostiene, es teletransportada a un lugar desconocido."/>
+   <dia pl="2" str="Como sabes esto?"/>
+   <dia npc="2" str="Por que vi un libro como este, una vez. Antes de entrar en el bosque oscuro mi querido amigo Otello encontró un libro de teletransporte. Y lo leyó. Fue mi culpa. Le dije de leerlo y no lo he vuelto a ver desde ese día. Los libros pueden ser peligrosos a veces, especialmente los libros del bosque oscuro. En cualquier circunstancia no lo leas, chico!"/>
+   <dia pl="3" str="Fin." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

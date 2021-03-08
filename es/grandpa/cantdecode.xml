@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Has sido capaz de traducir la piedra abuelo?"/>
+    <dia npc="0" str="Tristemente no, hijo. No soy capaz de traducir las escrituras. He intentado todo lo que sé."/>
+    <dia pl="1" str="Qué vamos hacer ahora?"/>
+    <dia npc="1" str="Podría conocer a alguien que nos puede ayudar. Tu profesor de magia Leonard. Creo que será capaz de descifrar la tabla de piedra. Cogé la piedra y ves a visitar a Leonard."/>
+	<dia pl="2" str=" Estaré de vuelta tan pronto como sea posible abuelo!" jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

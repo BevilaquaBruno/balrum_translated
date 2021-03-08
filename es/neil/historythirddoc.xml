@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="He encontrado otro documento, Neil!"/>
+    <dia npc="0" str="'Neil lee el documento y te mira fijamente..' No puedo seguir con esto. No quiero saber lo que pasó en estos bosques. Estaban haciendo cosas oscuras y todo tipo de mal para conseguir la atención del dios loco. Tenemos que parar. Gracias Adacus al rey Triston y sus soldados por que los pararon . Eso es lo que importa. No el pasado. Gracias por tu ayuda, chico. Toma, coge estos guantes. Los encontré en una cripta. Tu les darás un buen uso y es lo mejor que tengo."/>
+	<dia pl="1" str="Este lugar es el mal. Esperemos que los nigromantes no vuelvan a caminar por las tierras de Balrum nunca más." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

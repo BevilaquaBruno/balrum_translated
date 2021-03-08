@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="He hablado con tu hijo."/>
+    <dia npc="0" str="Qué a pasado?"/>
+    <dia pl="1" str="Su hijo se olvidó de limpiar los bidones. Eso fue lo que causo la leche agria."/>
+    <dia npc="1" str="Lo sabía. El simplemente no está hecho para ser un buen agricultor. Tengo que mandarlo de vuelta a la iglesia. Gracias por solucionar esto. Aquí esta el dinero. Por favor devuélveselo a Adia."/>
+	<dia pl="2" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

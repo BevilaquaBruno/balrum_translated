@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--%data% data-->
+<!--%n% new line-->
+<!--%l% line skip-->
+<dialogs>
+
+<dialogs id="0" n="I cannot make you any stronger. You should find another teacher." />
+<dialogs id="1" n="I cannot make you any more dexterous. You should find another teacher." />
+<dialogs id="2" n="I cannot make you any smarter. You should find another teacher." />
+<dialogs id="3" n="I cannot make you any wiser. You should find another teacher." />
+<dialogs id="4" n="I cannot increase your base mana any more. You should find another teacher." />
+<dialogs id="5" n="I would like to increase my strength. Costs: %data% thaler and %data% LP." />
+<dialogs id="6" n="I would like to be more dexterous. Costs: %data% thaler and %data% LP." />
+<dialogs id="7" n="I would like to become smarter. Costs: %data% thaler and %data% LP." />
+<dialogs id="8" n="I would like to be wiser. Costs: %data% thaler and %data% LP." />
+<dialogs id="9" n="I would like to increase my base mana. Costs: %data% thaler and %data% LP." />
+
+
+<dialogs id="10" n=" Alchemy." />
+<dialogs id="11" n=" Arcane Arts." />
+<dialogs id="12" n=" Archery." />
+<dialogs id="13" n=" Survival." />
+<dialogs id="14" n=" Cooking." />
+<dialogs id="15" n=" Armour Crafting." />
+<dialogs id="16" n=" Weapon Crafting." />
+<dialogs id="17" n=" Farming." />
+<dialogs id="18" n=" Hunting." />
+<dialogs id="19" n=" Mining and Smelting." />
+<dialogs id="20" n=" Lockpicking." />
+<dialogs id="21" n=" Swordplay." />
+<dialogs id="22" n=" Creating Traps." />
+<dialogs id="23" n=" Carpentry." />
+
+<dialogs id="24" n="I want to learn Alchemy!" />
+<dialogs id="25" n="I want to learn the secrets of the Arcane!" />
+<dialogs id="26" n="I want to learn how to handle a bow!" />
+<dialogs id="27" n="I want to learn how to Survive in the woods!" />
+<dialogs id="28" n="I want to learn how to Cook!" />
+<dialogs id="29" n="I want to learn the secrets of Armour Crafting!" />
+<dialogs id="30" n="I want to learn how to Craft Weapons!" />
+<dialogs id="31" n="I want to learn how to Farm!" />
+<dialogs id="32" n="I want to learn the art of Hunting." />
+<dialogs id="33" n="I want to learn how to Mine and Smelt." />
+<dialogs id="34" n="I want to learn how to Pick Locks." />
+<dialogs id="35" n="I want to learn how to handle a blade." />
+<dialogs id="36" n="I want to learn how to use Traps." />
+<dialogs id="37" n="I want to learn how to work with wood." />
+<dialogs id="38" n=" Costs: %data% thaler and %data% LP." />
+<dialogs id="39" n=" Costs: %data% thaler." />
+<dialogs id="40" n=" Removes %data% debuff(s). Costs: %data% thaler." />
+<dialogs id="41" n="I cannot teach you another main skill. (You are already dual class)" />                         
+</dialogs>

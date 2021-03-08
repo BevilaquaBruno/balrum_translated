@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Va todo bien, padre?"/>
+    <dia npc="0" str="Horrible! Horrible! Un ladrón robo nuestro precioso adorno. Como se atreve?"/>
+    <dia pl="1" str="El debe haber tenido sus razones."/>
+    <dia npc="1" str="Como sabes que era un hombre?"/>
+    <dia pl="2" str="No lo sé, padre?"/>
+    <dia npc="2" str="No importa. Era viejo y no tenia ningún valor de todos modos."/>
+    <dia pl="3" str="Esperemos que el ladrón no vuelva más padre."/>
+    <dia npc="3" str="No me asusta, muchacho."/>
+	<dia pl="4" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

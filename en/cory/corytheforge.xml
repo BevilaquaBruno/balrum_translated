@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="What are you doing here?"/>
+    <dia npc="0" str="What? Who are you? Are you worth my time? I haven't seen you around here."/>
+    <dia pl="1" str="I'm only interested in the smithy."/>
+    <dia npc="1" str="I see. Interesting. Well I'm just like Harad. I was an apprentice here at the smithy. Now we only clean the place. There is no one to teach us."/>
+	<dia pl="2" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

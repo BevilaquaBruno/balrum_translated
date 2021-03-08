@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Who are you?"/>
+    <dia npc="0" str="My name is Tilford. I thought after my death maybe someone would move into my house and fill it with life again. Sadly this little house is rotting away."/>
+    <dia pl="1" str="What happened to you?"/>
+    <dia npc="1" str="I was one of the cowards who tried to repel the rebel attack. The knights were exhausted; some of them were even drunk. We had to help them, but we weren't enough. At least we delayed their victory. We won time for the ones who left the realm. So my death wasn't meaningless."/>
+    <dia pl="2" str="Where did they go?"/>
+    <dia npc="2" str="To a faraway land. Balrum is not the only realm, you know. I hope they found peace, wherever they are. Sadly some of them fled to the nearby woods. The rebels hunted them down."/>
+	<dia pl="3" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

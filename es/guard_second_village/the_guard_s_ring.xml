@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Aquí estoy."/>
+    <dia npc="0" str="Voy a ser honesto contigo. Pensé que vendrías corriendo y llorando. Pero tengo que decir que hay mas en ti de lo que parece."/>
+    <dia pl="10" str="Aquí esta tu anillo. Las arañas no eran rival para mí." jumpNPCd= "1" jumpPlayerd = '2'/> 
+    <dia pl="11" str="Mate un montón de bichos, Pero me vencieron." jumpNPCd= "2" jumpPlayerd = '2'/>
+    <dia npc="1" str="Gracias! No voy a olvidar esto. Has demostrado ser digno de confianza! Eres libre de ir a ver a Kyler."/> 
+    <dia npc="2" str="Gracias por intentarlo. Veo las múltiples cicatrices que esos bichos te han causado en el cuerpo. Ninguno de mis amigos me quería ayuda, pero tu lo hiciste. Esto demuestra qué eres digno de confianza! Eres libre de ir a ver a Kyler."/>
+	<dia pl="2" str="Voy para allí." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

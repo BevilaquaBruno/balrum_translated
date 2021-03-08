@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Good day to you."/>
+    <dia npc="0" str="Greetings, young man. My name is Roberta. What can I do for you?"/>
+    <dia pl="1" str="I'm looking for work. Do you need anything done?"/>
+    <dia npc="1" str="I could use a young man around the house like yourself. Let me think."/>
+    <dia pl="2" str="..."/>
+    <dia npc="2" str="Hmm... ahh"/>
+	<dia pl="3" str="..."/>
+    <dia npc="3" str="Mmm... Yes, I need your services, young man. You know I have been living in this house alone for a very long time. I was thinking maybe a pet would brighten my gray days. What do you think young man?"/>
+    <dia pl="4_0" str="I think it's a good idea, Roberta!" jumpNPCd= "5" jumpPlayerd = '6'/>
+    <dia pl="4_1" str="A pet might be a heavy burden at your age."/>
+    <dia npc="4" str="You might be right. Silly me to think a pet would brighten my life."/>
+    <dia pl="5" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia npc="5" str="Can you find me a pet? Needless to say, the creature has to be a friendly one. You know, the kind that doesn't want to eat you alive as soon as it sees you. Oh I'm so excited! I'm going to clean the house and make some space for the little creature. And I should gather some food. Oh silly me, I don't even know what the creature likes to eat. Here take my husband's special taming traps. He was a proud hunter back in the day. Use it to capture the creature. Hurry back, young man!"/>
+	<dia pl="6" str="I will be back with your pet Roberta." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

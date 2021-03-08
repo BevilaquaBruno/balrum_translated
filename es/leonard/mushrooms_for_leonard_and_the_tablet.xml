@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Aquí están las setas que Barnabas te debía."/>
+    <dia npc="0" str="Perfecto. Espero que la próxima vez no se le olvide."/>
+	<dia pl="1" str="Qué sabes de la tabla de piedra? Has podido traducirla?"/>
+    <dia npc="1" str="Si, mi chico, he podido."/>
+    <dia pl="2" str="Y? Qué es lo que dice?"/>
+    <dia npc="2" str="Chico, la aldea esta en grave peligro."/>
+    <dia pl="3" str="Que? Cual es el problema?"/>
+    <dia npc="3" str="Esto es lo que significan las escrituras. 'Audie, Pack, Frieda. En la vida y la muerte me pertenecen para siempre.'"/>
+    <dia pl="4" str="Quien a escrito tal cosa? Qué puede significar esto?"/>
+    <dia npc="4" str="Ahora me acuerdo. Vi una tabla de piedra parecida en la torre del nigromante. A lo mejor los nigromantes no están muertos, entonces el bosque oscuro es un lugar peligroso para vivir. Cuando exploraba la torre solo era capaz de llegar a la segunda planta. Sentí una presencia oscura pero pensé que eran los fantasmas que merodean los pasillos. No sé, pero puede haber algo en esa torre que todavía no sabemos. Fueron muchos los que intentaron explorar esa torre pero ninguno regreso. Por eso Arlo tiene prohibida la entrada. Yo guardo la llave de la torre por eso."/>
+    <dia pl="5" str="Ahora entiendo por que el abuelo me dijo que no me acercará. Tenemos que avisar a todo el mundo de esto!"/>
+    <dia npc="5" str="No, chico! No se lo digas a nadie. si el pánico se desata la gente podría irse del bosque y hasta que no sepamos con certeza que esta pasando los bosques son más seguros que el mundo exterior."/>
+    <dia pl="6" str="Sin embargo los Pack ya estarán muertos!"/>
+    <dia npc="6" str="Me temo que es demasiado tarde, mi chico. Tenemos que evitar que algo así vuelva a suceder. El mundo exterior es un lugar peligroso para las mujeres y los niños, incluso para un hombre fuerte como tu."/>
+    <dia pl="7" str="Lo entiendo. Como a podido ocurrir esto? Y por qué ahora?"/>
+    <dia npc="7" str="No lo sé. Podríamos saber mas si exploramos la torre asta arriba."/>
+    <dia pl="8" str="Haré lo que pueda."/>
+    <dia npc="8" str="Esta no es una tarea fácil. Ahí adentro vas a tener que utilizar lo que yo te enseñe y lo que te enseñaron los demás maestros. Toma, Coge estas pociones."/>
+    <dia pl="9" str="Gracias, Leonard."/>
+    <dia npc="9" str="Aquí esta la llave de la torre. Tendrás que encontrar la manera de subir por ti mismo. El segundo piso es un gran laberinto. A penas encontré el camino de regreso. Así que no se que te encontrarás mas allá de la segunda planta. "/>
+    <dia pl="10" str="Deséame suerte, Leonard."/>
+    <dia npc="10" str="Ve con mucho cuidado, mi hijo. El destino de la aldea podría estar en tus manos. Yo miraré en todos mis libros. Tal vez encuentre algo que nos pueda ayudar."/>
+	<dia pl="11" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

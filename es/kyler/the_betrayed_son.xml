@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Spike me dijo que acogiste al hijo de su hermana."/>
+    <dia npc="0" str="En efecto. Lo acogimos hace muchos años. Nosotros decidimos que tenia que ser criado por el padre Hain."/>
+    <dia pl="1" str="Qué nombre le puso el padre Hain al niño?"/>
+    <dia npc="1" str="Le puso el nombre de Clay. El ya es un adulto. "/>
+    <dia pl="2" str="Donde vive?"/>
+    <dia npc="2" str="Clay vivió con el padre Hain durante mucho tiempo. Pero cuando tuvo la edad dejo la aldea. Estaba deseando irse la verdad. No se donde estará ahora. El padre Hain lo debe saber, pregúntale a el."/>
+    <dia pl="3" str="Lo haré. Quien es el padre de Clay?"/>
+    <dia npc="3" str="Todo lo que se es que vive cerca del pantano."/>
+    <dia pl="4" str="Fin." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Que tengas un buen día."/>
+    <dia npc="0" str="Saludos, joven. Me llamo Roberta. Qué puedo hacer por ti?"/>
+    <dia pl="1" str="Estoy buscando trabajo. No necesitas nada?"/>
+    <dia npc="1" str="Me vendría bien un joven como tu por la casa. Déjame pensar."/>
+    <dia pl="2" str="..."/>
+    <dia npc="2" str="Hmm... ahh"/>
+	<dia pl="3" str="..."/>
+    <dia npc="3" str="Mmm... Si, necesito tus servicios, joven. Llevo viviendo sola en esta casa durante mucho tiempo. Estaba pensando que quizás una mascota iluminaría mis días grises. Qué piensas, joven?"/>
+    <dia pl="4_0" str="Pienso que es una buena idea, Roberta!" jumpNPCd= "5" jumpPlayerd = '6'/>
+    <dia pl="4_1" str="Una mascota puede ser una carga pesada para su edad."/>
+    <dia npc="4" str="Puede que tengas razón. Tonta de mi pensar que una mascota iluminaría mi vida."/>
+    <dia pl="5" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia npc="5" str="Me podrías encontrar una mascota? No hace falta decir, que la mascota tiene que ser amistosa. Ya sabes, del tipo que no quiera comerme a la primera que me vea. Oh estoy muy emocionada! Limpiaré la casa y haré un poco de espacio para la criatura. Y debería recoger algo de comida. Oh tonta de mi, ni siquiera se que le gusta de comer a la criatura. Te doy estas trampas de domación que tenia mi marido. El era un orgulloso cazador en su día. Utilízalas para capturar a la criatura. Vuelve pronto, joven!"/>
+	<dia pl="6" str="Estaré de vuelta con tu mascota Roberta." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

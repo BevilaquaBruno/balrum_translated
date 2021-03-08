@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I made all four potions Brown!"/>
+    <dia npc="0" str="Good, good. You are getting better and better. Someday you might take my place. Now that you have proven your skills at the alchemy table feel free to use it any time you want to."/>
+    <dia pl="1" str="Thank you Brown." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

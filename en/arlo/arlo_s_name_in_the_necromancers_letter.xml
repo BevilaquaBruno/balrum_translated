@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I know that you talked to the necromancers, Arlo."/>
+    <dia npc="0" str="What are you talking about?"/>
+    <dia pl="1" str="I found a letter at the top of the old tower. Necromancers were talking about you in it."/>
+    <dia npc="1" str="What nonsense are you blabbering about? How did you get into the tower? "/>
+    <dia pl="2" str="Leonard gave me the key. I know that you did something Arlo, and I will find out what it was!"/>
+    <dia npc="2" str="Stop! Whatever you are doing it has to stop!"/>
+    <dia pl="3" str="Tell me, Arlo, what happened when the people entered the woods!"/>
+    <dia npc="3" str="Leave me, you insolent kid. I'm not going to listen to this nonsense any more!"/>
+	<dia pl="4" str="Fine. Let's take the harder path, Arlo. I will be back." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

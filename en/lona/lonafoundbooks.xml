@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I found a few books; take a look at them."/>
+    <dia npc="0" str="'Lona takes a quick look at the books. She joggles them around as if she was hoping something might fall out.' Thank you, they are good books. The children will like them."/>
+    <dia pl="1" str="What were you looking for?"/>
+    <dia npc="1" str="I have a confession. Although the children do need more books, when I told you to find some I had a selfish motive. My husband died when the rebels attacked. He wrote me the most wonderful love letter when we were young and it disappeared with the other books people took from the school. It was in an old book in my desk. I know it's silly to hope it might show up."/>
+    <dia pl="2" str="It's not silly. If I find your letter, I will bring it back to you."/>
+    <dia npc="2" str="Thank you. It would mean so much to me. Can I ask you another favor, this time truly for the children?"/>
+	<dia pl="3" str="Tell me what do you need?"/>
+    <dia npc="3" str="Can you repair the walls? Wind blows through the school and the rebels won't move one finger to help us with the repairs."/>
+    <dia pl="4" str="I sure can. I will start right away."/>
+    <dia npc="4" str="Thank you so much!"/>
+	<dia pl="5" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

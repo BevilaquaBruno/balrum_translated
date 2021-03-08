@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="What happened here, Grandpa? Are you all right?"/>
+    <dia npc="0" str="I'm alright son, but look at our home. The whole house nearly burnt down. Thank the Gods I could stop the fire from burning up everything. You never come late when you are out hunting, this kept me from going to sleep. I think we can say that you being late saved my life, and our home. At least what is left of it. It would have been my last resting place."/>
+	<dia pl="1" str="How could have this happened?"/>
+    <dia npc="1" str="My boy, I have no idea how this could have happened. I put the candles out. So they couldn't have caused the fire. The fire started far away from the torch, so there is nothing else I can think of. I'm old, but I can still cast a powerful freeze spell. It was barely enough to stop the flames."/>
+	<dia pl="2" str="I'm so glad that you are alright, Grandpa. The house can be repaired but I don't know what I would do without you. You are like a father to me."/>
+    <dia npc="2" str="Don't worry son, I'm here to stay. Enough about me. I'm fine, but our neighbours disappeared. Pack, Frieda and their little girl Audie are missing. Their house burnt down to the ground. This can't be a coincidence. People are worried that they might be next."/>
+	<dia pl="3" str="What can we do? When will the search for them begin? What does Arlo say about it?"/>
+    <dia npc="3" str="Men are already out searching for them. As for the fire, Arlo suspects it might be the torches. That's really embarrassing for Aron, since he made them, but as I said, the fire at our home didn't start because of a bad torch."/>
+	<dia pl="4" str="What are you implying?"/>
+    <dia npc="4" str="I don't know, Son, but something is really wrong. You should go and talk to Pack and Frieda's neighbours, Cardew and Thurza. They might have seen or heard something. Before you go take this. Your parents gave it to me. They told me that I should give it to you when you need protection. I think the time has come. It will take you to a place where no one can find you. Build a house there and whenever you feel that your life's in danger use the rune. Please my boy, don't ask questions. "/>
+	<dia pl="5" str="You won't tell me anything about my parents. Fine, I will not ask questions but I won't leave you Grandpa!"/>
+    <dia npc="5" str="It is almost dawn, and even the smoke is gone. I'll be fine. That poor little girl Audie. How could they just disappear? No bodies were found. I think it's best if you look into it, Son. Trust me, I'll be fine."/>
+	<dia pl="6" str="I'll be back soon."/>
+    <dia npc="6" str="I almost forgot. When you have time please repair the damage. Let's hope the worst is over and Pack's family will be found."/>
+	<dia pl="7" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

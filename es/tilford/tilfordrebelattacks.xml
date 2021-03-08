@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Quién eres?"/>
+    <dia npc="0" str="Me llamo Tilford. He pensado que después de mi muerte tal vez podría venir alguien a la casa y la llene de vida otra vez. Por desgracia esta pequeña casa se esta pudriendo."/>
+    <dia pl="1" str="Qué te ha pasado?"/>
+    <dia npc="1" str="Yo era uno de los cobardes que intento repeler el ataque rebelde. Los caballeros estaban agotados; algunos de ellos incluso fueron borrachos. Tuvimos que ayudarlos, pero no éramos suficientes. Al menos retrasemos su victoria. Ganamos tiempo para los que abandonaron el reino. Así que mi muerte no tenia sentido."/>
+    <dia pl="2" str="A donde fueron?"/>
+    <dia npc="2" str="A una tierra lejana. Balrum no es el único reino, lo sabes? Espero que encontrarán la paz, donde quiera que estén. Lamentablemente algunos huyeron a los bosques oscuros. Los rebeldes los persiguieron."/>
+	<dia pl="3" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

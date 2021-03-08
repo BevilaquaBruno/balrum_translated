@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="What do you think about the Packs and the fires Brown?"/>
+    <dia npc="0" str="There's not enough information about what happened, boy. I can't say I have an opinion on the matter."/>
+    <dia pl="1" str="The only certain thing is that the Packs are missing."/>
+    <dia npc="1" str="I doubt that they will be found. When bad things happen in life there is always a little good too. The good was that your grandfather survived and that you were not home when the tragedy happened."/>
+    <dia pl="20" str="How can you say that they won't be found? They will find them, I know it." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia pl="21" str="I feel the same. The Packs are most likely lost forever." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

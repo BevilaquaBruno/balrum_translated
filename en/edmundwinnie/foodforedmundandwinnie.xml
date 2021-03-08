@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I'm back from the hunt. Here are the two pieces of meat I promised to bring."/>
+    <dia npc="0" str="Thank you, my boy. I don't know what would we do without you. Thank the gods for this long life they gave us. Together we are almost a hundred and eighty years old you know.  Each day you grow stronger. We saw you growing up. Your grandfather raised you to be a decent, honest man. What do we owe you, my boy?"/>
+	<dia pl="10" str="Don't be silly. You owe me nothing. Here's the meat. Salt it well." jumpNPCd = "1" jumpPlayerd = "2"/>
+	<dia pl="11" str="10 thalers should be more than enough." jumpNPCd = "2" jumpPlayerd = "2"/>
+	<dia pl="12" str="Grandpa told me I should ask for at least 10 thalers." jumpNPCd = "3" jumpPlayerd = "2"/>
+    <dia npc="1" str="Thank you, son. The meat looks delicious. We should make a good goulash tomorrow!"/>
+    <dia npc="2" str="Here is your well deserved payment. The meat looks delicious."/>
+    <dia npc="3" str="Here is your well deserved payment. The meat looks delicious."/>
+    <dia pl="2" str="Take care." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

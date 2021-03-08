@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Soy nuevo. Estoy buscando trabajo."/>
+    <dia npc="0" str="Un placer conocerte. Me llamo Fay soy el alquimista de aquí. Así que  quieres ser un miembro de la alianza, recuerdo cuando yo era un novato. Aquellos eran buenos días. Los no-muertos cada vez están más cerca de nosotros, pero ahora estoy divagando. Tengo un trabajo para ti! Hay una cueva cerca de la torre. He estado escuchando historias de que en la cueva hay un antiguo miembro de la alianza llevando a cabo sus experimentos. El anciano fue expulsado de la alianza debido a su obsesión con las pociones de transformación. Corren rumores de que a transformado a campesinos en monstruos. Tu misión es encontrarlo y averiguar la verdad."/>
+    <dia pl="1" str="Y si el hombre sigue en la cueva y intenta hacerme daño?"/>
+    <dia npc="1" str="Cuando todavía era miembro el siempre estaba tranquilo, siempre lo veías con uno o dos libros. El nunca le hizo daño a nadie pero transformo algun animal de los nuestros. Pero chico, siempre es mejor estar preparado para lo peor. Toma, coge estás pociones."/>
+    <dia pl="2" str="Gracias. Iré a preparar mis cosas." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Hola Edith."/>
+    <dia npc="0" str="Hola. Como estas hoy?"/>
+    <dia pl="10" str="Yo bien gracias. Solo quería asegurarme de que estas bien." jumpNPCd = "1" jumpPlayerd = "2"/>
+    <dia pl="11" str="Estoy bien gracias. Estaba pensando en ti, así que aquí estoy." jumpNPCd = "2" jumpPlayerd = "2"/>
+    <dia npc="1" str="Come ves, todo esta bien. Mi madre esta preparando los campos para la segunda plantación. Ayer por la noche me paso una cosa muy rara. Soñé algo y creo que tu salias en el."/>
+    <dia npc="2" str="Eres muy amable por tu parte. Anoche tuve un sueño, y tu estabas en el."/>
+    <dia pl="2" str="Un sueño? Qué soñaste? Qué paso en el sueño?" jumpNPCd = "3" jumpPlayerd = "3"/>   
+    <dia npc="3" str="Estabamos comiendo pan de miel; todo era hermoso, y de repente vino Osric y montaba a uno de sus cerdos enormes."/>
+    <dia pl="3" str="Ese es un sueño extraño. sucedió algo mas?"/>
+    <dia npc="4" str="Si, hay mas. Apenas lo recuerdo, pero de repente todas las flores y las plantas que nos rodeaban estaban podridas. Esto, que podría significar? Tu que crees?"/>
+    <dia pl="40" str="Los sueños a veces no tienen ninguna lógica. No creo que eso signifique nada." jumpNPCd = "5" jumpPlayerd = "5"/>   <dia pl="41" str="Creo que quiere decir que debemos hacer una merienda en el bosque. Los dos solos." jumpNPCd = "6" jumpPlayerd = "6" />
+    <dia npc="5" str="Puede que tengas razón. Pensándolo de nuevo me imagino a Osric montando un cerdo y tiene que ser divertido."/>
+    <dia pl="5" str="Nos vemos más tarde." jumpNPCd = "0" jumpPlayerd = "0"/>
+    <dia npc="6" str="Tenia la esperanza de hacer algo juntos."/>
+    <dia pl="6" str="Tengo un par de cosas que hacer Edith, pero sería precioso."/>
+    <dia npc="7" str="Se que estas ocupado con muchas cosas. Ayudar a tu abuelo es una cosa muy noble. Tal vez algún día hagamos una comida juntos."/>
+    <dia pl="7" str="Algún día lo haremos Edith. Cuídate." jumpNPCd = "0" jumpPlayerd = "0"/>
+</dialogs>

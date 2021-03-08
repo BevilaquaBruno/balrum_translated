@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="'You were just about to ask her about Dayna but you suddenly realise that people outside of Darkwood cannot know that there are people living in the woods.' Greetings. I'm looking for work."/>
+    <dia npc="0" str="Welcome! Ah, a new face. I sure have work for you, but I cannot offer much in return. I'm the only healer left in Erdal and the rebels are not helping with anything. The children are weak because the amount and the quality of the food they eat is not adequate. They get sick easily, so we need more and more medicinal herbs. It would be great if you could bring me twenty life herbs and ten goose berries."/>
+    <dia pl="1_0" str="Sorry, I have other things to do." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia pl="1_1" str="I can help! And don't worry about the payment. Knowing that the children will benefit from my help is enough."/>
+    <dia npc="1" str="Thank you stranger. It's nice to find helpful people like you in these times. If you would like to learn about healing feel free to ask me. These old tomes I collect taught me countless tricks that would interest you, I'm sure."/>
+    <dia pl="2" str="I have this strange feeling. Are you a druid?"/>
+    <dia npc="2" str="How did you know? Yes I am. A few years ago.. well not a few, many years ago me and my good friend Dayna were sent to Erdal from another realm to aid those in need of help. We were taught to judge someone after we helped them. You might wonder why that's important, but when you think about it when someone's life is in danger you should not think about what the person did or didn't do because that would take precious time and even a short amount of time can make a difference."/>
+    <dia pl="3" str="It was a lucky guess."/>
+    <dia npc="3" str="Yes. It sure was a lucky guess, young man."/>
+    <dia pl="4" str="I will be back with the herbs and berries."/>
+    <dia npc="4" str="Thank you, and be safe."/>
+	<dia pl="5" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

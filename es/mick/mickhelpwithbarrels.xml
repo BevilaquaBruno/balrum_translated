@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Tienes un montón de barriles."/>
+    <dia npc="0" str="Como debe de ser. Soy un fabricante de barriles de vino."/>
+    <dia pl="1" str="Estoy buscando trabajo. Necesitas alguna ayuda?"/>
+    <dia npc="1" str="Mi ayudante, Travis, no lo encuentro por ninguna parte. No soy tan joven y fuerte como antes y el es el que trae la madera a mi tienda. Realmente no me importa. El era un ayudante pésimo y algo borracho para su edad, pero si lo ves podrías decirle que lo estoy esperando por que necesito su ayuda. Mientras me puedes traer un poco de madera y algunas cortezas?"/>
+    <dia pl="2" str="Por qué necesitas la corteza?"/>
+    <dia npc="2" str="Es mi ingrediente secreto. Esto hace que el sabor a miel le de un toque final dulce. Prenso la corteza y la meto en los barriles junto con la miel. No solo le dan un espíritu a su exquisito sabor, sino que también le dan un bonito color."/>
+    <dia pl="3" str="Quien suministra sus barriles y cuanta madera necesitas?"/>
+    <dia npc="3" str="Solo queda una única destilería en Erdal. Hace mucho tiempo había varias pero los rebeldes exigieron tanto de ellos que huyeron del reino. Ahora Ivo tiene que satisfacer la sed de los rebeldes. Voy a necesitar un montón! cuarenta troncos. Lo puedes dejar dentro del circulo. Ya entenderás lo que quiero decir."/>
+    <dia pl="4_0" str="Voy a ayudarte viejo. Te traeré lo que necesitas." jumpNPCd= "5" jumpPlayerd = '6'/>
+    <dia pl="4_1" str="No tengo tanto tiempo para ayudarte ahora."/>
+    <dia npc="4" str="Entonces por que nos haces perder el tiempo a ambos?"/>
+	<dia pl="5" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+	<dia npc="5" str="Gracias joven."/>
+    <dia pl="6" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

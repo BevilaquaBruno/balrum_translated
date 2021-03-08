@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Aquí esta tu hierba, Ward. No te lo fumes todo de golpe."/>
+    <dia npc="0" str="Gracias, chico!"/>
+    <dia pl="1" str="Le dirás a Bolt que me ayudé?"/>
+    <dia npc="1" str="La verdad es que no le diré a Bolt que has conseguido hierba para mí. Ha ha! Claro, niño. Yo le diré que eres un buen compañero."/>
+	<dia pl="2" str="Gracias." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

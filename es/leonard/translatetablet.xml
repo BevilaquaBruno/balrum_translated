@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Encontramos una tabla de piedra en casa de los Pack. Serías capaz de traducirla, Leonard?"/>
+    <dia npc="0" str="Podría ser capaz de traducirla, chico. Déjala aquí."/>
+    <dia pl="1" str="Aquí está."/>
+    <dia npc="1" str="Hmm, es una piedra muy interesante. Siento la presencia de un poder oscuro en su interior. Ya lo sentí en el momento que entro por la puerta. No se de que, pero esta tabla de piedra me es familiar, pero no recuerdo de que."/>
+    <dia pl="2" str="Cuanto tiempo te llevará traducirla?"/>
+    <dia npc="2" str="No lo sé mi chico. Hazme un favor. Mientras estoy trabajando con la tabla de piedra be a buscarme unas cuantas setas a Barnabas, te va bien? Se a olvidado de traerme lo que le pedí. Siempre se olvida de traerme mis setas, pero nunca se olvida de las facturas."/>
+    <dia pl="3" str="El abuelo también le compra ingredientes, y si, por lo general se olvida de cosas."/>
+    <dia npc="3" str="Es un hombre muy inteligente, pero se le olvidan las cosas simples con mucha facilidad."/>
+    <dia pl="4" str="Vale Leonard, iré a ver a Barnabas y te traeré las setas."/>
+    <dia npc="4" str="Lo más rápido posible, chico!"/>
+    <dia pl="5" str="Fin." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

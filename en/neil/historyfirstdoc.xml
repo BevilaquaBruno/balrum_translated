@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+   <dia pl="0" str="I found another document!"/>
+   <dia npc="0" str="'Neil quickly runs through the paper you gave him, his face turns pale.' This is a list of people's names and their age and their gender. I have a horrible feeling that these were innocent people lured into the woods by the necromancers. They must have used them for their unholy rituals. If you find anything else, come to me!"/>
+   <dia pl="1" str="I will Neil." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

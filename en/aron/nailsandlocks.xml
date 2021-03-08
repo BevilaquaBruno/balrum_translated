@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Our home nearly burnt down. Grandpa is fine, but I need to repair the damage to the house. I'll need a few nails and a decent door handle."/>
+    <dia npc="0" str="Horrible thing to happen! Thank the Gods your grandfather is alright. The old man used his magic, I hear. What do you need again?"/>
+    <dia pl="1" str="I need a few nails. The big ones for the walls. And I need a good door handle for a new door."/>
+    <dia npc="1" str="Feel free to browse. If you're putting down a new floor you might need stone. I taught you how to mine the stone. If you're lucky you might find iron, or even more rare materials while cracking those large rocks. If so, you can sell them to me, or make tools or even weapons out of them. I'll gladly teach you the art of blacksmithing. It would be good for you, and for me too. Nowadays I only make farm equipment and other boring things."/>
+	<dia pl="2" str="Thank you Aron." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

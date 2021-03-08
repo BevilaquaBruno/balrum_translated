@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Necesitas algo?"/>
+    <dia npc="0" str="Bueno, joven, gracias por preguntar. Si no te importa sería genial que fueras a buscar unas cuantas botellas de medicina a Ivo. Esas botellas alivian mi dolor."/>
+    <dia pl="1" str="Sufres dolor?"/>
+    <dia npc="1" str="No te preocupes, chico. He vivido toda mi vida con dolor. Son mis piernas, sabes. Ellas fueron la razón por la que no he podido convertirme en un caballero. Supongo que podría haber sido peor. Solo tienes que mirar a tu alrededor y ver que no importa lo mal que te veas, siempre hay alguien que tiene una vida peor que tu."/>
+    <dia pl="2" str="Supongo que tienes razón. Cuantas necesitas?"/>
+    <dia npc="2" str="Con 4 haré, mi chico. Toma, coge el dinero. Debería ser suficiente para el viejo Ivo. Guárdate las monedas que te devuelva. Dile que son para mi, por que el solo le da las cosas buenas algunas personas. Los rebeldes beben botellas aguadas y baratas. He he..."/>
+	<dia pl="3" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="He escuchado rumores de que derrotaste a un golem una vez Fox!"/>
+    <dia npc="0" str="Una vez me ordenaron dar caza a un golem. El golem se acerco demasiado a un pueblo y empezó a matar a gente brutalmente. No había nada especial en está caza, excepto una cosa."/>
+    <dia pl="1" str="Qué era lo especial?"/>
+    <dia npc="1" str="No era capaz de hacer daño a la criatura, ninguna de mis armas podía dañarlo."/>
+    <dia pl="2" str="Entonces como lo derrotaste?"/>
+    <dia npc="2" str="En ese momento yo era el aprendiz de un gran cazador. Me dijo que un joven herrero había descubierto la manera de herir a estás criaturas. El arma tenia que estar compuesta de ciertos cristales. Es un procedimiento sencillo. Tengo la sensación de que estás buscando a los golem que deambulan por estos bosques. Sería irresponsable por mi parte no darte un arma.. Toma, aquí tienes, pero ten cuidado. Es un arma muy vieja, ya no vale mucho."/>
+	<dia pl="3" str="Estas en lo correcto Fox, como siempre. Gracias por el arma." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

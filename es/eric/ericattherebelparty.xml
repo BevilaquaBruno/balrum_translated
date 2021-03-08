@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Qué se supone que hacemos aquí, Eric?"/>
+    <dia npc="0" str="Eres un niño tonto. Divertirnos. Es una fiesta despues de todo, no es eso cierto? Espera un minuto. Ya sé lo que es esto. Quieres divertirte un poco conmigo?"/>
+    <dia pl="1_0" str="No te ofendas Eric, pero no." jumpNPCd= "2" jumpPlayerd = '3'/>
+    <dia pl="1_1" str="Claro que si."/>
+    <dia npc="1" str="Sígueme, niño tonto."/>
+    <dia pl="2" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia npc="2" str="Sin resentimientos, tonto. Diviértete."/>
+	<dia pl="3" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

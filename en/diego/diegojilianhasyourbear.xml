@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Jilian has your bear. She is trying to dye it so you won't recognize it."/>
+    <dia npc="0" str="If that is true, I'm afraid she cannot take part in the challenge. The hunters here are all honorable people. She has to be banished. Thank you for bringing this information to me. All I can give you in return is my knowledge. I can teach you a thing or two."/>
+	<dia pl="1" str="What Jilian did is a sad thing." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

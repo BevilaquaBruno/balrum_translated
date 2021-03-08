@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="What happened?"/>
+    <dia npc="0" str="A lot of things happened. Good things. Exhausting things."/>
+    <dia pl="1" str="I feel dizzy. I think I'm sick."/>
+    <dia npc="1" str="That happens from time to time, so don't be surprised. Go and visit Roberta. She knows how to cure you after a night like this."/>
+	<dia pl="2" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

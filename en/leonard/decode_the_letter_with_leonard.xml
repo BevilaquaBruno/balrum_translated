@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I'm back from the necromancer's tower."/>
+    <dia npc="0" str="The modest boy returns! I knew that you'd be able to handle the task! I was sure of your return. Ever since I began training you I suspected that you have great potential."/>
+	<dia pl="1" str="Thank you for your kind words, Leonard. I found a few of the men who tried to explore the tower. They are all dead. I fought my way through the ghosts and skeletons and got out of the labyrinth."/>
+    <dia npc="1" str="Interesting. Were you able to get to the highest floor?"/>
+    <dia pl="2" str="It was challenging but I managed to get to the third floor. The whole floor was one room. The room of Lord Benedict. I fought Lord Benedict and found a letter."/>
+    <dia npc="2" str="A letter?"/>
+    <dia pl="3" str="The letter has the same kind of writing on it, like the stone tablet. Can you translate it, too?"/>
+    <dia npc="3" str="Of course. I found some help in my books so the translation should not take much time now."/>
+    <dia pl="4" str="Here is the letter."/>
+    <dia npc="4" str="The letter says: 'Arlo will be the best for our plans. He is not religious like Kyler. He won't take us seriously. He will accept our every condition without hesitation. We have to be patient, my brothers. The 5th necromancer.'"/>
+    <dia pl="5" str="Arlo talked to the necromancers?"/>
+    <dia npc="5" str="It looks like it, Son. I don't know what to make of it."/>
+    <dia pl="6" str="I have to go to Arlo right now!"/>
+    <dia npc="6" str="I'm curious about what he will say. It looks like something happened between the necromancers and Arlo when our people entered the woods. I don't understand this. Are the necromancers still here in the woods? They were slaughtered a long time ago by the kings."/>
+    <dia pl="7" str="They were slaughtered?"/>
+    <dia npc="7" str="People call these woods 'dark' for a reason. Dark and evil things happened here a long time ago. This place was used by witches and necromancers in the past. They summoned creatures and had bloody rituals in the name of Nasrus. This was tolerated for hundreds of years because no one dared to face them. When children started to disappear in villages near the woods King Triston gathered the strongest and bravest of the lands and entered the woods. They slaughtered everyone without question because they could not tell who was innocent and who was evil. There was one last woman holding the bodies of several lifeless children in her arms. When they killed her, legends say that her scream was heard everywhere in Balrum."/>
+    <dia pl="8" str="We live in a forest where sacrifices and mass murder happened?"/>
+    <dia npc="8" str="You can probably say that everywhere, Son, but you are right. This place is not a holy place, and this is what we use to protect ourselves."/>
+    <dia pl="9" str="Why didn't I know about this? No one told me about necromancers and murder."/>
+    <dia npc="9" str="To protect you, Son. Only a few of us know what really happened here, and the others simply think that the woods are dangerous and dark magic is lurking in them."/>  
+    <dia pl="10" str="I think I know enough. I will go to Arlo and speak with him."/>
+    <dia npc="10" str="I'm sorry, my boy, that you had to find out the truth this way. Be careful with Arlo, he might be devious."/>
+	<dia pl="11" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

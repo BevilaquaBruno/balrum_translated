@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="He matado al oso de Diego."/>
+    <dia npc="0" str="Qué? Por qué? Por qué has hecho eso? Qué vamos hacer?"/>
+    <dia pl="1" str="Tengo su pelaje. Puedes quedarte-lo."/>
+    <dia npc="1" str="Lárgate de aquí. Yo no lo quiero."/>
+    <dia pl="2" str="Penaba que querías ganar de está manera, no?"/>
+    <dia npc="2" str="Hay una cosa que se llama honor, sabes... tenemos que respetar a la bestia. No puedo hacerme con el trofeo fuera del desafió. Los otros - y especialmente Diego - se pondrían furiosos. Hmm. Qué pasa si cambiamos su pelaje a negro?"/>
+	<dia pl="3" str="Qué?"/>
+    <dia npc="3" str="Si Diego ve el oso lo reconocerá. Tenemos que teñirlo."/>
+    <dia pl="4_0" str="Eso no es realmente una cosa honorable." jumpNPCd= "5" jumpPlayerd = '6'/>
+    <dia pl="4_1" str="Como podemos teñir su pelo?"/>
+    <dia npc="4" str="Dámelo. Puedo hacer su pelaje negro. Gracias por tu ayuda. Aunque debo decir, que mi conciencia me dice que esto no esta bien. Por otro lado tenemos que honrar al gran oso. Te prometí mi conocimiento. A partir de ahora te enseñaré todo lo que sé."/>
+	<dia pl="5" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia npc="5" str="Tienes razón. No podemos hacer esto. Guarda el trofeo. Ahora por favor, déjame."/>
+	<dia pl="6" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

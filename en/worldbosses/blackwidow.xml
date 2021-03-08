@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I killed the huge black spider in the spiders' cave!"/>
+    <dia npc="0" str="Let's hope those spiders won't infest the graveyard from now on!"/>
+    <dia pl="1" str="Thank you!"  jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

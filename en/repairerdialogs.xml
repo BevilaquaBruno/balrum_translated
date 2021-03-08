@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <diastr s="I need to repair my items."/>
+    <diastr s="Can you repair my items?"/>
+    <diastr s="I need someone who can repair worn items."/>
+</dialogs>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Busco algo de trabajo."/>
+    <dia npc="0" str="Bien. Tengo algo que hacer. Quiero explorar una cueva cercana, pero la ciénaga que hay antes de llegar esta llena de ranas gigantes. Te veo un compañero capaz de hacerlo, si te ocupas de esas criaturas te enseñare a sobrevivir en la naturaleza. No me pidas dinero por que no tengo."/>
+    <dia pl="1" str="Trataré de hacer frente a esas ranas." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

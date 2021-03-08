@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Have you seen or heard anything, Cardew?"/>
+    <dia npc="0" str="I know, I know."/>
+    <dia pl="1" str="What do you know, Cardew? Speak slowly."/>
+    <dia npc="1" str="The smoked pork sausage is my favourite. Osric never gives me one. Where did I put the deer leg? Have you seen my juicy deer leg?"/>
+    <dia pl="2" str="No Cardew I have not seen your food. Think Cardew, do you know anything about the disappearance of the Packs?"/>
+    <dia npc="2" str="Packs?"/>
+    <dia pl="3" str="Your neighbours, Pack, Frieda and Audie."/>
+    <dia npc="3" str="Audie? We play hide and seek sometimes. She might have my deer leg!"/>
+    <dia pl="4" str="Please Cardew, try to focus. They are missing and their house has burnt down. Have you seen anything suspicious?"/>
+    <dia npc="4" str="Do you want to play hide and seek with me? But where is my deer leg? Please tell Audie to bring back my deer leg."/>
+	<dia pl="5" str="Take care, Cardew." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

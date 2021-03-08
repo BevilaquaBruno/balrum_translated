@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="What happened to your ring, Cardew?"/>
+    <dia npc="0" str="Rhys. He stole my ring! He stole my ring! He stole my ring!"/>
+    <dia pl="1" str="Calm down, Cardew. Why do you think Rhys stole your ring?"/>
+    <dia npc="1" str="I told him my ring is valuable. It's blue you know."/>
+    <dia pl="2" str="And he took it from you?"/>
+    <dia npc="2" str="He stole my ring! He stole my ring! He stole my ring!"/>
+	<dia pl="3" str="I will talk to Rhys about your ring." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

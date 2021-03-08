@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I want to join your guild. I have to earn the trust of a few of you to be able to join. Do you need any help?"/>
+    <dia npc="0" str="Welcome! I remember when I was a rookie. That was many years ago. I never thought this would be what became of the warriors guild. Look at us, we are hiding in the woods in our pathetic little camp. One day we will take back the capital. One day we will!"/>
+    <dia pl="1" str="Do you need any help?"/>
+    <dia npc="1" str="As you see, I'm quite old. I'm one of the oldest members of the guild. I'm in constant pain, you see. My bones hurt with every step I make. This heavy armor took its toll on my body. Come closer boy."/>
+    <dia pl="2" str="'You walk closer'."/>
+    <dia npc="2" str="Let's keep our voices down alright? Do you happen to have some weed on you? It helps with the pain you know!"/>
+	<dia pl="3" str="No I don't have any. Are you allowed to smoke that in camp?"/>
+    <dia npc="3" str="Keep your voice down boy! No we are not allowed to. That's why I'm whispering. Can you get me some? If you do I'll be sure to tell Bolt to allow you to join us!"/>
+    <dia pl="4" str="Alright, I will get you some to ease your pain."/>
+    <dia npc="4" str="Thank you, boy! The weed farms are north-west from here. Wait, I'll mark your map. Don't speak of this to anyone!"/>
+	<dia pl="5" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

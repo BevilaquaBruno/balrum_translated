@@ -1,0 +1,260 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--%data% data-->
+<!--%n% new line-->
+<!--%l% line skip-->
+<spells>    
+    <spell id="0" type="NAME" n="Disparo cegador" />
+    <spell id="0" type="BUFF_TURN" n="Ciega al objetivo por %data% turnos." /> 
+    <spell id="1" type="NAME" n="Golpe brutal" /> 
+    <spell id="1" type="DAMAGE" n="Un ataque brutal que se ocupa de %data%-%data% además de daño por arma." />
+    <spell id="2" type="NAME" n="Heridas profundas" /> 
+    <spell id="2" type="BUFF_DAMAGE_AND_TURN" n="Hace que el objetivo sangre por %data%-%data% daño físico por %data% turnos. Causa el 30% de daño por arma." /> 
+    <spell id="3" type="NAME" n="Temor" /> 
+    <spell id="3" type="BUFF_TURN" n="Hace que el enemigo entre en miedo por %data% turnos." /> 
+    <spell id="4" type="NAME" n="Bola de fuego nivel 1" /> 
+    <spell id="4" type="DAMAGE" n="Inflige %data%-%data% daño de fuego y tiene una probabilidad del 50% de quemar al objetivo después." /> 
+    <spell id="4" type="LORE1" n="Quema a los objetivos y sufren más daños." /> 
+    <spell id="5" type="NAME" n="Bola de fuego nivel 2" /> 
+    <spell id="5" type="DAMAGE" n="Inflige %data%-%data% daño de fuego y tiene una probabilidad del 50% de quemar al objetivo después." />
+    <spell id="5" type="LORE1" n="Quema a los objetivos y sufren más daños." /> 
+    <spell id="6" type="NAME" n="Olvidar crimen" /> 
+    <spell id="6" type="LORE1" n="Tu objetivo se olvidará de todos tus crímenes." /> 
+    <spell id="7" type="NAME" n="Congelar" /> 
+    <spell id="7" type="BUFF_TURN" n="Congela al objetivo durante %data% turnos." /> 
+    <spell id="8" type="NAME" n="Cura corteza de plata" /> 
+    <spell id="8" type="LORE1" n="Prueba de curar a Fleta." /> 
+    <spell id="8" type="LORE2" n="Elimindo lanzar con éxito." /> 
+    <spell id="9" type="NAME" n="Sanar nivel 1" /> 
+    <spell id="9" type="EXCEPTION" n="Te cura por %data%-%data% salud." /> 
+    <spell id="9" type="COMMENT" n="Click derecho para lanzartelo a ti mismo." /> 
+    <spell id="10" type="NAME" n="Regalo del bosque" /> 
+    <spell id="10" type="LORE1" n="Convoca a un árbol de curación para ayudarte a ti y a tu mascota." /> 
+    <spell id="10" type="COMMENT" n="Click derecho para lanzar." />
+    <spell id="11" type="NAME" n="Disparo multiple" /> 
+    <spell id="11" type="LORE1" n="Ataca hasta tres enemigos." />  
+    <spell id="12" type="NAME" n="Anochecer" />  
+    <spell id="12" type="BUFF_DAMAGE_AND_TURN" n="Maldice al objetivo durante %data%-%data% daño de las Sombras cada turno por %data% turnos." /> 
+    <spell id="13" type="NAME" n="No Mercy" />  
+    <spell id="13" type="DAMAGE" n="Si la %r%salud del objetivo está por debajo de 25%%r% puedes realizar un poderoso golpe final. Causa %data%-%data% además de daño por arma." /> 
+    <spell id="13" type="SPELL_REQUIRES_MELEE_WEAPON_SPECIAL" n="%r%Requiere un arma cuerpo a cuerpo%r% y una %r%Rosa mosqueta%r%." />  
+    <spell id="14" type="NAME" n="Oportunidad" /> 
+    <spell id="14" type="DAMAGE" n="Después %r%que el objetivo para o esquiva%r% tienes la oportunidad de devolver el golpe de inmediato. Causa %data%-%data% de daño, más daño por arma." />  
+    <spell id="15" type="NAME" n="Disparo perfecto" /> 
+    <spell id="15" type="LORE1" n="Realizar un tiro perfecto que resulta en un impacto crítico. Un tiro perfecto nunca se pierde." />  
+    <spell id="16" type="NAME" n="Organismo polimorfo" /> 
+    <spell id="16" type="BUFF_TURN" n="Transforma a tu enemigo en un cerdo. Mientras que el enemigo esta transformado va a deambular durante %data% turnos. Cualquier daño anulará la transformación." />    
+    <spell id="17" type="NAME" n="Puro" /> 
+    <spell id="17" type="LORE1" n="Tu próximo hechizo no costará maná. Este hechizo tiene un tiempo de reutilización aleatoria." /> 
+    <spell id="17" type="COMMENT" n="Click derecho para lanzartelo a ti mismo." /> 
+    <spell id="18" type="NAME" n="Piroexplosión nivel 1" />
+    <spell id="18" type="LORE1" n="Quema de los objetivos y sufren más daños." /> 
+    <spell id="18" type="DAMAGE" n="Infliges %data%-%data% daño de fuego y tienes una probabilidad del 75% de quemar seriamente al objetivo después. Necesita estar cargado hasta arriba. (este hechizo requiere 2 turnos)" />
+    <spell id="19" type="NAME" n="Lluvia de fuego" />
+    <spell id="19" type="LORE1" n="Quema de los objetivos y sufren más daños." /> 
+    <spell id="19" type="DAMAGE" n="Da rienda suelta a la lluvia de fuego que causa %data%-%data% daño de fuego a tus enemigos. Tiene una probabilidad del 50% de quemar seriamente al objetivo después." />
+    <spell id="20" type="NAME" n="Disparo" />
+    <spell id="21" type="NAME" n="Ataque" />
+    <spell id="22" type="NAME" n="Cuchillada" />
+    <spell id="22" type="DAMAGE" n="Acuchilla hasta tres dianas frente a ti. Causa %data%-%data% además de daño por arma." />
+    <spell id="23" type="NAME" n="Golpe fuerte" />
+    <spell id="23" type="DAMAGE" n="Un fuerte ataque que causa %data%-%data% además de daño por arma." />
+    <spell id="24" type="NAME" n="Aturdir" />
+    <spell id="24" type="BUFF_TURN" n="Aturde a tus objetivos durante %data% turnos." />
+    <spell id="25" type="NAME" n="Teleport personal" />
+    <spell id="25" type="LORE1" n="No se puede teletransportar al caminar." />
+    <spell id="25" type="LORE2" n="Requiere una %r%baya nightmare%r%." />
+    <spell id="25" type="LORE3" n="Uso: Cuando se selecciona puedes especificar dónde teletransportarte con un clic derecho." />
+    <spell id="26" type="NAME" n="Bola nula" />
+    <spell id="26" type="DAMAGE" n="Infliges %data%-%data% daño de las Sombras y tienes una probabilidad del 30% de maldecir al objetivo después." />
+    <spell id="27" type="NAME" n="Flecha agua" />
+    <spell id="27" type="LORE1" n="Debe ser capaz de extinguir antorchas en las paredes y otras pequeñas llamas." />
+    <spell id="28" type="NAME" n="Rugido" />
+    <spell id="29" type="NAME" n="Enfurecer" />
+    <spell id="30" type="NAME" n="Ocultar espesor" />
+    <spell id="31" type="NAME" n="Cuenta atrás enfurecimiento" />
+    <spell id="32" type="NAME" n="Cegar" />
+    <spell id="33" type="NAME" n="Heridas profundas" />
+    <spell id="34" type="NAME" n="Fuegonova" />
+    <spell id="35" type="NAME" n="Bola de fuego" />
+    <spell id="36" type="NAME" n="Veneno menor" />
+    <spell id="37" type="NAME" n="Croak poderoso" />
+    <spell id="38" type="NAME" n="Aturdir" />
+    <spell id="39" type="NAME" n="Grito de guerra" />
+    <spell id="40" type="NAME" n="Sanar" />
+    <spell id="41" type="NAME" n="Desaparecer" />
+    <spell id="41" type="BUFF_TURN" n="Desapareces por %data% turnos." />
+    <spell id="42" type="NAME" n="Veneno larva" />
+    <spell id="43" type="NAME" n="Saliava de larva" />
+    <spell id="44" type="NAME" n="Mantis Humanoide sangrar" />
+    <spell id="45" type="NAME" n="Veneno de mantis" />
+    <spell id="46" type="NAME" n="Golpe fuerte de mantis" />
+    <spell id="47" type="NAME" n="Veneno" />
+    <spell id="48" type="NAME" n="Curar a otro" />
+    <spell id="49" type="NAME" n="Espejo" />
+    <spell id="50" type="NAME" n="Drenar maná" />
+    <spell id="51" type="NAME" n="Temor" />
+    <spell id="52" type="NAME" n="Golpe fuerte" />
+    <spell id="53" type="NAME" n="Teleport personal" />
+    <spell id="55" type="NAME" n="Piroexplosión" />
+    <spell id="56" type="NAME" n="Plaga" />
+    <spell id="57" type="NAME" n="Rabia" />
+    <spell id="58" type="NAME" n="Adrenalina" />
+    <spell id="59" type="NAME" n="Reflejar" />
+    <spell id="60" type="NAME" n="Ataque a distancia" />
+    <spell id="61" type="NAME" n="Ataque cuerpo a cuerpo" />
+    <spell id="63" type="NAME" n="Hipnotizar" />
+    <spell id="64" type="NAME" n="Poner huevo" />
+    <spell id="65" type="NAME" n="Paralizar" />
+    <spell id="66" type="NAME" n="Telaraña" />
+    <spell id="67" type="NAME" n="Sangre infectada" />
+    <spell id="68" type="NAME" n="Parasitismo" />
+    <spell id="71" type="NAME" n="Aullido" />
+    <spell id="75" type="NAME" n="Rugido de oso" />
+    <spell id="75" type="LORE1" n="Asusta a tu objetivo, disminuyen sus defensas." />
+    <spell id="76" type="NAME" n="Pellejo grueso de oso" />
+    <spell id="76" type="BUFF_TURN" n="Aumenta la defensa de los osos por %data% turnos." />
+    <spell id="77" type="NAME" n="Canción del Bosque" />
+    <spell id="77" type="EXCEPTION" n="El ciervo, te sana un %data%-%data% salud." />
+    <spell id="78" type="NAME" n="Drenar maná mantis" />
+    <spell id="79" type="NAME" n="Temor" />
+    <spell id="79" type="BUFF_TURN" n="Asusta al objetivo por %data% turnos." />
+    <spell id="80" type="NAME" n="Tomar el control" />
+    <spell id="80" type="LORE1" n="La mascota trata de desviar la atención del objetivo." />
+    <spell id="81" type="NAME" n="Sombra saliba" />
+    <spell id="81" type="LORE1" n="Lanza una bola de saliva hacia el objetivo." />
+    <spell id="82" type="NAME" n="Telaraña" />
+    <spell id="82" type="BUFF_TURN" n="Cubre al objetivo con una pegajosa telaraña por %data% turnos." />
+    <spell id="83" type="NAME" n="Aturdir" />
+    <spell id="83" type="BUFF_TURN" n="Aturde al objetivo por %data% turnos." />
+    <spell id="84" type="NAME" n="Aullido de lobo" />
+    <spell id="84" type="BUFF_TURN" n="Asusta al objetivo, reduce su daño por %data% turnos." />
+    <spell id="85" type="NAME" n="Lobo enfurecido" />
+    <spell id="85" type="BUFF_TURN" n="Aumenta el daño del lobo por %data% turnos." />
+    <spell id="86" type="NAME" n="Focalizar regate" />
+    <spell id="86" type="BUFF_TURN" n="Incrementa la probabilidad de esquivar por %data% turnos." /> 
+    <spell id="87" type="NAME" n="Paredes de cristal" />           
+    <spell id="87" type="LORE1" n="Invoca grandes cristales alrededor del lanzador, la creación de una barrera protectora por 6 turnos. Los cristales solo aparecerán si no hay nada en el camino." />  
+    <spell id="88" type="NAME" n="Curar mascota nivel 1" />           
+    <spell id="88" type="DAMAGE" n="Cura a tu mascota por %data%-%data%." />  
+    <spell id="89" type="NAME" n="Golpe la ira" />           
+    <spell id="89" type="DAMAGE" n="Mientras estas %r%herido%r%, utiliza tu ira para atacar el objetivo por %data%-%data% además de daño por arma." />  
+	<spell id="90" type="NAME" n="Ven aquí" />           
+    <spell id="90" type="LORE1" n="Atrae al objetivo hacía ti. Se necesita al menos una ranura libre." />
+	<spell id="91" type="NAME" n="Flecha perforación" />           
+    <spell id="91" type="DAMAGE" n="Dispara a través de tus enemigos. Objetivos tienen que estar en línea. Un máximo de 3 enemigos se ven afectados. Causa %data%-%data% además de daño por arma. " />  
+	<spell id="92" type="NAME" n="Destrozar armadura" />           
+    <spell id="92" type="EXCEPTION" n="Disminuye la armadura de tu objetivo en un %data%. Apilable hasta %data% veces." />
+    <spell id="93" type="NAME" n="Explosión de sangre" />
+    <spell id="94" type="NAME" n="Bola arcana" />
+    <spell id="95" type="NAME" n="Tiro de roca" />
+    <spell id="96" type="NAME" n="Curación debilitada" />
+    <spell id="97" type="NAME" n="Toque de muerte" />
+    <spell id="98" type="NAME" n="Bola veneno" />
+    <spell id="99" type="NAME" n="Amenazas indiferentes" />
+    <spell id="100" type="NAME" n="Sombra saliba" />
+    <spell id="101" type="NAME" n="Rabia" />
+    <spell id="102" type="NAME" n="Masa de aturdimiento" />
+    <spell id="103" type="NAME" n="Distraer" />
+    <spell id="103" type="LORE1" n="Tira una piedra hacía tu objetivo para traer su atención. Solamente los objetivos inactivos pueden ser distraídos!" />
+    <spell id="104" type="NAME" n="Curación debilitada (Cuerpo a cuerpo)" />
+    <spell id="104" type="BUFF_TURN" n="Los enemigos afectados por la curación debilitada reciben una penalización del 50% en cada efecto curativo por %data% turnos." />
+    <spell id="105" type="NAME" n="Silencio" />
+    <spell id="105" type="BUFF_TURN" n="No se puede usar hechizos, mientras esta bajo este efecto. Duración %data% turnos." />
+    <spell id="106" type="NAME" n="Teleport objetivo " />
+    <spell id="106" type="LORE1" n="Teleport al objetivo a un lugar cercano aleatorio." />
+    <spell id="107" type="NAME" n="Curación debilitada (Hechizo)" />
+    <spell id="107" type="BUFF_TURN" n="Los enemigos afectados por la curación debilitada reciben una penalización del 50% en cada efecto curativo por %data% turnos." />
+    <spell id="108" type="NAME" n="Amenaza baja" />
+    <spell id="108" type="LORE1" n="Disminuye el valor acumulado de las amenazas del la lanzador." />
+    <spell id="109" type="NAME" n="Cegar" />
+    <spell id="109" type="BUFF_TURN" n="Cega al objetivo por %data% turnos." />
+    <spell id="110" type="NAME" n="Bola escarha" />
+    <spell id="111" type="NAME" n="Curar mascota nivel 2" />           
+    <spell id="111" type="DAMAGE" n="Cura a la mascota por %data%-%data%." />
+    <spell id="112" type="NAME" n="Tiro limpio" />           
+    <spell id="112" type="BUFF_DAMAGE_AND_TURN" n="Hace que el objetivo sangre por %data%-%data% daño físico por %data% turnos y causa el 100% de daño por arma." />  
+	<spell id="113" type="NAME" n="Caos de fuego" /> 
+	<spell id="113" type="LORE1" n="Quema a los objetivos y sufren más daños." /> 
+    <spell id="113" type="DAMAGE" n="Da rienda suelta a la lluvia de fuego que causa %data%-%data% daño de fuego a tus enemigos. Tienes una probabilidad del 100% de quemar seriamente al objetivo después." />
+	<spell id="114" type="NAME" n="Flecha de la miseria" />
+    <spell id="114" type="BUFF_DAMAGE_AND_TURN" n="Hace que el objetivo sangre por %data%-%data% daño físico por %data% turnos y causa 100% de daño por arma. El daño causado por la hemorragia te sanará." />  
+	<spell id="115" type="NAME" n="Canción del Druida" />
+	<spell id="115" type="LORE1" n="Canta la canción de la década de los druidas para recuperar el 25% de tu salud en un total de 5 turnos." />
+	<spell id="116" type="NAME" n="Bola de fuego nivel 3" />
+	<spell id="116" type="LORE1" n="Quema de los objetivos y sufren más daños." /> 
+	<spell id="116" type="DAMAGE" n="Infliges %data%-%data% daño de fuego y tienes una probabilidad del 50% de quemar al objetivo después." />
+	<spell id="117" type="NAME" n="Curar nivel 2" />
+	<spell id="117" type="DAMAGE" n="Curate a ti mismo por %data%-%data% salud." /> 
+	<spell id="118" type="NAME" n="Bola de hielo" />
+	<spell id="118" type="DAMAGE" n="Infliges %data%-%data% daños por escarcha y tienes una probabilidad del 30% de congelar al objetivo." />
+	<spell id="119" type="NAME" n="Tiro limpio mejorado" />
+	<spell id="119" type="BUFF_DAMAGE_AND_TURN" n="Hace que el objetivo sangre por %data%-%data% daño físico por %data% turnos y causa 110% daño por arma." /> 
+	<spell id="120" type="NAME" n="Heridas profundas Mejorado" />
+	<spell id="120" type="BUFF_DAMAGE_AND_TURN" n="Hace que el objetivo sangre por %data%-%data% daño físico por %data% turnos. Causa el 40% de daño por arma." />
+	<spell id="121" type="NAME" n="Meditación" />
+	<spell id="121" type="BUFF_TURN" n="Medita por %data% turnos. Cada habilidad/hechizo tiene una probabilidad del 50% de restablecer el tiempo de reutilización." />
+	<spell id="122" type="NAME" n="Anochecer nivel 2" />
+	<spell id="122" type="BUFF_DAMAGE_AND_TURN" n="Maldice al objetivo durante %data%-%data% daño de las Sombras cada turno por %data% turnos." /> 
+	<spell id="123" type="NAME" n="Curar mascota nivel 3" />
+	<spell id="124" type="NAME" n="Visión de depredador" />
+	<spell id="124" type="LORE1" n="Encuentra a tu presa en la oscuridad." />
+	<spell id="125" type="NAME" n="Dormir (hechizo)" />
+	<spell id="125" type="BUFF_TURN" n="Pone al objetivo en un profundo sueño durante %data% turnos." />
+	<spell id="126" type="NAME" n="Dormir (cuerpo a cuerpo)" />
+	<spell id="126" type="BUFF_TURN" n="Pone al objetivo en un profundo sueño durante %data% turnos." />
+	<spell id="127" type="NAME" n="Machaque colosal" />
+    <spell id="127" type="DAMAGE" n="Un ataque devastador que causa %data%-%data% además de daño por arma tienes una probabilidad del 35% de aturdir al objetivo." />
+	<spell id="128" type="NAME" n="Sigilo" />
+	<spell id="128" type="LORE1" n="Disminuye significativamente tu visibilidad." />
+	<spell id="129" type="NAME" n="Toque de los Wisps" />
+	<spell id="129" type="LORE1" n="Mientras que el efecto está activo toda la sanación realizada por ti, se incrementa un 25%." />
+	<spell id="130" type="NAME" n="Maldición negra" />
+	<spell id="131" type="NAME" n="Golpe abdominal" />
+	<spell id="132" type="NAME" n="Reparto debilitado" />
+	<spell id="133" type="NAME" n="Lepra" />
+	<spell id="134" type="NAME" n="Cerebro congelado" />
+	<spell id="135" type="NAME" n="Tirar a la basura" />
+	<spell id="136" type="NAME" n="Quitina de escarabajo" />
+	<spell id="137" type="NAME" n="Aturdir a distancia" />
+	<spell id="138" type="NAME" n="Resistencia al fuego" />
+	<spell id="139" type="NAME" n="Sifón de maná" />
+	<spell id="139" type="DAMAGE" n="Roba %data%-%data% maná de tu objetivo." />
+	<spell id="140" type="NAME" n="Sifón de vida" />
+	<spell id="140" type="DAMAGE" n="Roba %data%-%data% vida de tu objetivo." />
+	<spell id="141" type="NAME" n="Escarabajo bomba" />
+	<spell id="142" type="NAME" n="Destrozar armadura mejorado" />           
+    <spell id="142" type="EXCEPTION" n="Disminuye la armadura de tu objetivo un %data%. Apilable hasta %data% veces." />
+    <spell id="143" type="NAME" n="Golpe con escudo" />
+    <spell id="143" type="BUFF_TURN" n="Silencia al objetivo durante %data% turnos." />
+    <spell id="144" type="NAME" n="Absorbe escudo" />
+    <spell id="144" type="EXCEPTION" n="Levanta tu escudo para absorber %data% daño magico." />
+    <spell id="145" type="NAME" n="Descubrir" />
+    <spell id="145" type="LORE1" n="Mira en la distancia para revelar áreas no exploradas." />
+    <spell id="146" type="NAME" n="Limpieza de mascotas" />
+    <spell id="146" type="LORE1" n="Elimina los efectos perjudiciales básicos de tu mascota." />
+    <spell id="147" type="NAME" n="Tiro cercano" />
+    <spell id="147" type="DAMAGE" n="Cuando un enemigo esta uno o dos cuadros tu te ocupas un %data%-%data% además de daño por arma." />
+    <spell id="148" type="NAME" n="Trampa improvisada" />
+    <spell id="148" type="LORE1" n="Coloca una trampa improvisada en el suelo. Requiere %r%1 de madera%r%." />
+    <spell id="149" type="NAME" n="Disparo silenciador" />
+    <spell id="149" type="BUFF_TURN" n="Silencia al objetivo durante %data% turnos." />
+    <spell id="150" type="NAME" n="Curación debilitada (distancia)" />
+    <spell id="150" type="BUFF_TURN" n="Los enemigos afectados por la curación debilitada reciben una penalización del 50% en cada efecto curativo por %data% turnos." />
+    <spell id="151" type="NAME" n="Dormir (distancia)" />
+    <spell id="151" type="BUFF_TURN" n="Pone al objetivo en un profundo sueño durante %data% turnos." />
+    <spell id="152" type="NAME" n="Trampa improvisada mejorada" />
+    <spell id="152" type="LORE1" n="Coloca una trampa improvisada en el suelo. Requiere %r%1 de madera%r%." />
+    <spell id="153" type="NAME" n="Aliento de fuego" />
+    <spell id="154" type="NAME" n="Resistencia a la magia" />
+    <spell id="155" type="NAME" n="Resistencia al fuego" />
+    <spell id="156" type="NAME" n="Fluido de veneno" />
+    <spell id="157" type="NAME" n="Tiro de setas" />
+    <spell id="158" type="NAME" n="Corte preciso" />
+    <spell id="158" type="DAMAGE" n="Realiza un ataque preciso entre las placas de la armadura de tus enemigo con un golpe que ignorará la armadura. Causa %data%-%data% además de daño por arma." />
+    <spell id="159" type="NAME" n="Sucia puñalada" />
+    <spell id="159" type="DAMAGE" n="Sucia apuñalada es un ataque que sólo se puede realizar mientras el objetivo esta aturdido. Causa %data%-%data% además de daño por arma." />
+    <spell id="160" type="NAME" n="Espada oscura" />
+    <spell id="160" type="BUFF_DAMAGE_AND_TURN" n="Deja un pequeño fragmento de la cuchilla en el cuerpo de la víctima. El fragmento causará %data%-%data% daño de las sombras después de %data% turnos. El uso de esta habilidad disminuirá la durabilidad de la daga usada." />
+    <spell id="161" type="NAME" n="Muerte" />
+    <spell id="162" type="NAME" n="Enfermedad de las Catacumbas" />
+</spells>

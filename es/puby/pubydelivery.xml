@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Tengo una entrega para tu gente."/>
+    <dia npc="0" str="Quién eres? No te conozco a ti, a ti, a ti."/>
+    <dia pl="1" str="Los chicos de la granja no podían hacer la entrega. Te lo entrego de su parte."/>
+    <dia npc="1" str="Por que han enviado a una vaca para traernos nuestro mahoka?"/>
+    <dia pl="2" str="Una vaca? De qué estás hablando?"/>
+    <dia npc="2" str="No sabía que podía hablar con vacas, vacas, vacas. Mi vida habría sido diferente si hubiera sabido que puedo hablar con las vacas. Dime vaca, tienes un poco de leche, leche, leche?"/>
+	<dia pl="3" str="Aquí, toma el paquete." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

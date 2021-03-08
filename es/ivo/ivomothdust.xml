@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Traigo ingredientes, Ivo. Es un polvo especial."/>
+    <dia npc="0" str="'Ivo huele y prueba muy cuidadosamente todos los ingredientes que cree que podrían ser interesantes. El cierra los ojos y respira profundamente.' Creo que tenemos algo aquí joven. Este polvo es extraordinario. Sin duda lo intentaré. Dónde lo encontraste?"/>
+    <dia pl="1" str="Proviene de las alas de una polilla gigante."/>
+    <dia npc="1" str="Interesante, una polilla gigante dices. Eso no será fácil de obtener. Gracias por tu ayuda. Toma, aquí tienes una botella de mi espíritu más antiguo. Te lo has ganado. También déjame decirte un secreto de mi comercio. El secreto está en la edad del espíritu de estos toneles especiales que se ven aquí. Y el secreto más grande es que la que le doy a los rebeldes solo está envejecida dos semanas. Los idiotas no son lo suficientemente sofisticados para notar la diferencia. Tengo que añadir un poco de color al producto para obtener esté maravilloso color rojo oscuro y así parece que esta envejecido. Un día les daré uno sin color añadido. Puede ser que sean lo suficientemente tontos para no darse cuenta."/>
+	<dia pl="2" str="Cuídate, Ivo." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

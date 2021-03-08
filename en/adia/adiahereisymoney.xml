@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Here is your money Adia."/>
+    <dia npc="0" str="Thank you. What did Bardan say?"/>
+    <dia pl="1" str="They made a mistake. One of the churns went wrong. He sends his apologies."/>
+    <dia npc="1" str="They need to pay more attention up there at the farm. Here is your cut boy."/>
+    <dia pl="2" str="Thank you." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

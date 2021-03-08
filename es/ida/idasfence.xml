@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Necesitas algo, Ida? Estoy buscando trabajo."/>
+    <dia npc="0" str="Sabes algo de carpintería?"/>
+    <dia pl="1" str="Si, sé un poco."/>
+    <dia npc="1" str="Entonces seras capaz de arreglar las vallas! Están en mal estado y necesito a alguien que las arregle por mi. Ya sabes lo importante que es la granja para la aldea y esas vallas mantienen a los animales salvajes lejos de mis cosechas. Fui a ver a Jones para que me ayudara pero me dijo que las vallas ya estaban bien como están... tu que opinas, necesito las vallas reparadas tan pronto como sea posible. Te puedo dar algunas verduras frescas si me ayudas. Que me dices?"/>
+    <dia pl="2" str="Te ayudaré Ida. Si la granja no esta protegida adecuadamente, la aldea esta en peligro. Esta granja suministra la mayor parte de verduras."/>
+    <dia npc="2" str="Gracias. Toma, algunas zanahorias por avanzado."/>
+	<dia pl="3" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

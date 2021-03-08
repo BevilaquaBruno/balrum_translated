@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Aquí esta tu vino."/>
+    <dia npc="0" str="Eres un buen muchacho. Siento no haberte sonreído antes."/>
+    <dia pl="1" str="Usted debe de ser un luchador, verdad?"/>
+    <dia npc="1" str="Yo era un luchador en la arena. en esos días que te digo, nadie me pudo vencer. Ni uno! Pero esos días se han perdido en la historia. No hay nada que hacer ahora. Incluso cuando era un mercenario joven con poca experiencia, la vida era más emocionante."/>
+    <dia pl="2" str="..."/>
+    <dia npc="2" str="Yo era un campeón! 'La gente gritaba: te conocemos, te conocemos.' Ahora la mejor diversión que tengo es cuando enseño a los jóvenes algunos movimientos. Si estas interesado en el arte del combate cuerpo a cuerpo no dudes en hablar conmigo."/>
+    <dia pl="3" str="..."/>
+    <dia npc="3" str="No puedo seguir así. Me estoy volviendo loco lentamente. Tengo que hacer algo con mi vida."/>
+	<dia pl="4" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

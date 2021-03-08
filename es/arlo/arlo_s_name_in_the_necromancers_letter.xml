@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Se que has hablado con los nigromantes, Arlo."/>
+    <dia npc="0" str="De que estas hablando?"/>
+    <dia pl="1" str="He encontrado una carta en la parte superior de la vieja torre. Los nigromantes hablan de ti aquí."/>
+    <dia npc="1" str="Que tonterías estas diciendo? Como entraste en la torre? "/>
+    <dia pl="2" str="Leonard me dio la llave. Se que hiciste algo Arlo, y lo averiguaré!"/>
+    <dia npc="2" str="Para! Lo que tu estas diciendo lo tienes que dejar!"/>
+    <dia pl="3" str="Dímelo, Arlo, Que ocurrió cuando todo el mundo entro al bosque!"/>
+    <dia npc="3" str="Déjame, niño insolente. No voy a escuchar mas tonterías!"/>
+	<dia pl="4" str="Bueno. Vamos a coger el camino duro, Arlo. Volveré." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Como están las cosas?"/>
+    <dia npc="0" str="Estos golems. Nos hacen la vida imposible."/>
+    <dia pl="1" str="Por qué?"/>
+    <dia npc="1" str="Cada día aumentan en numero. Mis hombres han estado tratando de luchar contra ellos, pero creo que voy a tener que cerrar la mina debido a que se esta poniendo la cosa imposible. Ellos vienen de todas direcciones. Me temo que encontremos su cueva secreta y los hemos enojado. No se que hacer."/>
+    <dia pl="2" str="Deberías pedir ayuda."/>
+    <dia npc="2" str="Hace muchos años los magos nos ayudaron con los golem. Uno de ellos necesitaba su esencia. El mago que estaba experimentando con los golem utilizaba potentes hechizos contra ellos. Al menos esto es lo que me han dicho."/>
+    <dia pl="3" str="Ellos necesitan su esencia?"/>
+    <dia npc="3" str="Los golem más poderosos tienen esencias de piedra en su interior. El mago estaba tratando de controlarlos de alguna manera."/>
+    <dia pl="4" str="Como se combaten los golem cuando los magos no están aquí para ayudar?"/>
+    <dia npc="4" str="Mi padre me explico cuentos acerca de un grupo de mineros cuyo trabajo consistía en derrotar a tales bestias. Ellos son solo ahora una leyenda."/>
+    <dia pl="5" str="Donde puedo encontrar un golem muy poderoso?"/>
+    <dia npc="5" str="No seas imprudente muchacho! Esas criaturas son peligrosas! Puedes buscar por las minas de aquí, pero si intentas encontrar a uno te estas poniendo en gran peligro. Toma esta espada, no tendrás ninguna oportunidad contra ellos sin ella."/>
+    <dia pl="6" str="Gracias." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

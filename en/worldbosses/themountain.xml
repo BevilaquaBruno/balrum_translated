@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I have defeated the giant stone golem in the stone golem's cave!"/>
+    <dia npc="0" str="The golems are really powerful creatures. I have no idea how you managed to kill the beast but I congratulate you! Please accept this for your heroic deed!"/>
+    <dia pl="1" str="Thank you!" jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

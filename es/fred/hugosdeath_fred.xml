@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Fred! Recuerdas cuando murió Hugo?"/>
+    <dia npc="0" str="Claro que lo recuerdo, niño. El era uno de mis mejores amigos. Que quieres?"/>
+    <dia pl="1" str="No te parece sospechoso que el cayera en el pozo que el mismo estaba cavando, y que fue por la noche cuando se supone que no hay nadie trabajando?"/>
+    <dia npc="1" str="Si, ya hable con Arlo sobre esto. Ya le dije hace años que Hugo no se había emborrachado esa noche. Pero el y los demás no me escucharon. Supongo que podría haber sido un error. A lo mejor el tenia algunas cervezas. Yo tenia unas cuantas esa noche, que recuerde bien. Como no, para que preguntas? Todas las noches tengo una.. cuantas cervezas. Soy el posadero, no es ninguna sorpresa. vale, niño?"/>
+    <dia pl="2" str="De alguna manera creo que la muerte de Hugo no fue un accidente."/>
+    <dia npc="2" str="Fue hace mucho tiempo. No deberías meterte en el pasado, niño. Que diferencia hay si el hubiera saltado o si alguien lo empujo? Esta muerto, Tienen el mismo fin las dos. Era un buen amigo. Un amigo con los que se podía contar. Excepto cuando iba borracho, ha ha. El bueno de Hugo."/>
+	<dia pl="3" str="Gracias Fred. Podría haber sido un error. Puede que tengas razón acerca de no jugar con el pasado."/>
+    <dia npc="3" str="Ahora, no te vengas abajo! Coge la cerveza niño. Vamos a beber en memoria de Hugo. Estas bebiendo cerveza fría de una jarra vieja y sucia. A medida que sientes el frió a través de tu cuerpo la sensación de que la muerte de Hugo no fue un accidente crece mas en ti.'"/>
+	<dia pl="4" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

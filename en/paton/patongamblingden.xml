@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="What is this place?"/>
+    <dia npc="0" str="Who let you in? Are you friend or foe? Speak quickly!"/>
+    <dia pl="1" str="I'm neither, but I can tell you I'm not with the rebels."/>
+    <dia npc="1" str="Telling me you are not with the rebels means you probably are with the rebels."/>
+    <dia pl="2" str="How can I prove myself?"/>
+    <dia npc="2" str="You see what's happening down here. Rich men come here and gamble. This is the only fun they can have that the rebels don't know about. Throw in a decent amount of money for them. You look like a fellow who can spare some. Then I will believe your story."/>
+    <dia pl="3" str="How much?"/>
+    <dia npc="3" str="A thousand thalers will do."/>
+	<dia pl="4" str="I have to think about this." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

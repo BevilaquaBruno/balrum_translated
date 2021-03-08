@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="He terminado las reparaciones, abuelo."/>
+    <dia npc="0" str="Buen trabajo, hijo! Lo hubiera hecho yo mismo pero ya no estoy tan fuerte como antes. Deberías construir tu casa cuando tengas tiempo."/>
+    <dia pl="1" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

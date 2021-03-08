@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Father Hain. May I ask where Clay is?"/>
+    <dia npc="0" str="Why do you ask, my dear?"/>
+    <dia pl="1" str="I spoke to Clay's uncle, Spike. He told me what happened to Clay's mother. I just want to meet him. I never knew my parents. My grandfather took care of me."/>
+    <dia npc="1" str="I'm sorry, my child. Not knowing your parents must be hard. But you're lucky to have your grandfather. Clay was not so lucky. I could not bring myself to tell him that his own father had turned away from him, and then after that his uncle did the same too. They both abandoned him. Because his own family turned their backs on him the village decided that I should take care of Clay. And that is what I did. He doesn't know that his father and his uncle are both alive."/>
+    <dia pl="2" str="Kyler told me that Clay was in a hurry to leave this village."/>
+    <dia npc="2" str="Our relationship deteriorated as he got older. He was a difficult child. "/>
+    <dia pl="3" str="Do you know where he lives now?"/>
+    <dia npc="3" str="He lives south of the village, near the great rocks."/>
+    <dia pl="4" str="End." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

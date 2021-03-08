@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="What are you doing here?"/>
+    <dia npc="0" str="My name is Pell. I'm on guard duty."/>
+    <dia pl="1" str="It must be quite boring."/>
+    <dia npc="1" str="It is the most boring thing ever. Nothing will come this way. The king's warriors have disbanded and the other kingdoms are far away over the seas. Who would attack the city? No one, I tell you. Still, I have to stay out here and stare at the trees."/>
+    <dia pl="2" str="That's a guard's life."/>
+    <dia npc="2" str="Such a great life."/>
+	<dia pl="3" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

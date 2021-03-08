@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Estoy buscando trabajo. Necesitas alguna ayuda?"/>
+    <dia npc="0" str="Pareces un compañero capaz! Escucha. Hay un monstruo por estas aguas. A los pescadores cada vez les es más difícil encontrar pescado a medida que pasan los días. A menudo vemos a la criatura. Es grande y verde con una boca llena de grandes dientes monstruosos. Nunca había visto una bestia como esta antes, por eso te lo digo. Nos ayudaras? Darás caza a la bestia?"/>
+    <dia pl="1" str="Qué hay para mi?"/>
+    <dia npc="1" str="Los rebeldes nos quitan la mayor parte de nuestro pescado. Así que no tenemos dinero, si es lo que estas buscando. No estas interesado en otra cosa?"/>
+    <dia pl="2" str="Te escucho."/>
+    <dia npc="2" str="Un día, cuando estaba a punto de recoger mi equipo de pesca algo se engancho en mi equipo de pesca. Cuando lo saque del agua, vi con asombro que era un anillo. Es un anillo fuerte, realmente extraño. Corrí a casa y se lo enseñe a mi esposa. Yo quería dárselo a ella, pero ella decía que tenia que haber alguna razón extraña por el que el anillo estubiera en el agua y no quería ni tocarlo. Podría dártelo a ti."/>
+	<dia pl="3" str="Interesante. Mataré a la bestia."/>
+    <dia npc="3" str="Debes estar preparado viajero. Es una enorme bestia!"/>
+	<dia pl="4" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

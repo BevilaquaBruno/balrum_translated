@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Necesitas ayuda en la casa, Arda?"/>
+    <dia npc="0" str="Solo hay otro día aburrido. Nada que hacer realmente. Pero podría ser capaz de endulzar el día con una deliciosa tarta, que te parece? Ni siquiera recuerdo cuando hice un pastel de melón. A todo el mundo en la aldea le encanta. Lo haré con mucho con mucho azúcar! Tengo todos los ingredientes para hacerla menos uno. No tengo ningún melón. Me podrías traer tres melones? A cambio te daré dos trozos de la tarta!"/>
+    <dia pl="10" str="Trato hecho! Tenemos un melón maduro en los campos de casa, así que solo necesito encontrar dos más!" jumpNPCd= "1" jumpPlayerd = '2'/>
+    <dia pl="11" str="Que sean tres trozos grandes y tenemos un acuerdo." jumpNPCd= "2" jumpPlayerd = '2'/>
+    <dia npc="1" str="Estupendo! Voy a buscarlos. "/>
+	<dia npc="2" str="Muy bien. trato hecho. Voy a prepararlo todo."/>
+	<dia pl="2" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

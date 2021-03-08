@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--%data% data-->
+<!--%n% new line-->
+<!--%l% line skip-->
+<npc>
+<npc id="1" n="Arda makes the best potato soup in the village. She is the mother of Edith. In the past she was a vivid person full of life, but when her husband died she changed. Sometimes she asks me to harvest her crops and I always gladly help her."/>
+<npc id="2" n="When the people escaped into Darkwood, Arlo was appointed as the leader. Arlo openly has no faith in the Gods of Balrum, and this led to troubles with other elders. Right after the people started building this village, Kyler gathered those who fear the Gods and left to build another village. Arlo never forgave Kyler for separating the people. Arlo spoils his wife with presents, but nevertheless she looks unhappy. Muddy is their only child."/>
+<npc id="3" n="Aron is the only blacksmith in the village. He was a famous smith before the bandits took over Balrum. Now he only makes farming accessories. Over the years he taught me how to prospect for metals. Grandpa said he once made a magical weapon."/>
+<npc id="4" n="Barnabas is a herbalist. He thinks that these woods have magical powers which help with plant growth. He also thinks that the light of the wisp creatures help plants stay healthy while increasing their growth rate. No one really likes him. He seems to forget things rather easily."/>
+<npc id="5" n="Bartok was a painter before the bandits took over Balrum. He still paints, but not that often. I would like to learn how to paint, but Bartok doesn't look like a person who would be happy to teach me. I often see him around the nearby rocks, staring at them."/>
+<npc id="6" n="Brown is an alchemist. He taught me a little bit of alchemy. I would like to learn more from him. If someone needs a special potion for curing a disease he always knows some recipe that will work. People don't like him because he keeps a skeletal servant. I personally have no problem with Sam."/>
+<npc id="7" n="Cardew is the friendly village idiot. He is a decent fellow, but I would never trust him with anything. He forgets things that happened to him pretty quickly. If he remembers something he is certain to remember it incorrectly. He has trouble sleeping."/>
+<npc id="8" n="I don't know much about Dayna. She decided to live far away from everyone when the people separated into two villages. She hates Fox for being a hunter. When I was younger, someone told me that she can talk to animals."/>
+<npc id="9" n="Eudora is the loving wife of Arlo. She usually stays quiet when Arlo is near, but when he's not around, she seems to be quite talkative. I often see Eudora running after her disobedient son Muddy. Muddy is a difficult child."/>
+<npc id="10" n="Fox is a lonely hunter. People say he can shoot a rabbit from 200 yards. When I was younger he looked after me when I wandered into the woods. He keeps spiders for their sticky webs so he can make special traps out of them."/>
+<npc id="11" n="Fred owns the inn. He is a big fellow. He's the kind of innkeeper who never gives out free drinks. Every now, and then there is a fight in the inn. Fred usually lets them fight for a while, then breaks it up by beating them."/>
+<npc id="12" n="I can thank Grandpa for so much. He took me in when my parents died, and brought me up. Grandpa knows a little bit about everything. A true Jack of all trades. He once told me that someone taught him about magic a long time ago, but whenever I ask about it he quickly changes the subject. Grandpa never told me a lot about my parents and he says that it's best for me not to know about them. People somehow seem distant towards him."/>
+<npc id="13" n="Ida owns the largest farm in the woods. People come to her for all kinds of vegetables. She always works on the farm, and never seems tired."/>
+<npc id="14" n="Jones is a decent man. He is a carpenter. He lives with his wife Selina, and their son Philip. People talk behind his back because he never goes to the inn. I say he doesn't need to, since he has a wonderful wife and usually has something to repair or build. He taught me how to create sturdy walls and how to make simple furniture."/>
+<npc id="15" n="People say that Leonard was a great wizard. Grandpa tells me that he was a wizard a long time ago, but his powers left him. I always feel a strange vibe when I visit him. He is usually searching for rare mushrooms in the woods."/>
+<npc id="16" n="I hate Myron. He bullied me when I was younger. Now that I've grown up he doesn't have the guts to try. It would be fun to have a fight with him now."/>
+<npc id="17" n="Osric has a lot of livestock. People go to him for meat. He treats his pigs really well. His prices are a little high because he knows that he is the only one in the forest who has any pork. He makes a delicious smoked pork sausage. Long ago he was a mercenary."/>
+<npc id="18" n="Rhys is a shady person. Grandpa told me not to trust him. He often starts fights in the inn, and he usually wins them. I could learn a thing or two from him about fighting. He never works, but he still manages to live pretty well."/>
+<npc id="19" n="Rufus never talks. He works and does whatever you ask him to do, and asks for nothing in return, but he never talks. People take advantage of him."/>
+<npc id="20" n="I have no problem with Sam. He doesn't do much. People think that Brown knows black magic, and that is why Sam helps him."/>
+<npc id="21" n="Selina is Jones' wife. She helps the people in the village with their farms. She also makes clothes. She is the only one who can make clothes in the village, which makes her really important. Her son Philip always helps her with her work."/>
+<npc id="22" n="Thurza is a beautiful woman who has a horrible alcoholic husband. I don't know why she is with him. Lately, she seems to be more anxious than usual."/>
+<npc id="23" n="Wilson is Arlos' henchman. He acts like a bodyguard when the two leaders of the villages meet. Grandpa says Wilson, and Arlo fought in many battles together before we escaped into the woods. He is a fearless soldier. He teached me how to fight."/>
+<npc id="24" n="I see an old priest in dirty white robes. He smells of booze, and his hands are shaking. His church is in a much better state than he is."/>
+<npc id="26" n="The workers here seem to be working day and night. Most of them must be well past their fortieth birthday. All of them have large dirty hands, and they all look tired. The man overseeing them is Gosfrid. People say Gosfrid works them really hard, although he never worked a single day in his life."/>
+<npc id="27" n="The workers here seem to be working day and night. Most of them must be well past their fortieth birthday. All of them have large dirty hands, and they all look tired. The man overseeing them is Gosfrid. People say Gosfrid works them really hard, although he never worked a single day in his life."/>
+<npc id="28" n="The workers here seem to be working day and night. Most of them must be well past their fortieth birthday. All of them have large dirty hands, and they all look tired. The man overseeing them is Gosfrid. People say Gosfrid works them really hard, although he never worked a single day in his life."/>
+<npc id="29" n="The workers here seem to be working day and night. Most of them must be well over their fortieth birthday. All of them have large dirty hands, and they all look tired. The man who is overseeing them is Gosfrid. People say Gosfrid works them really hard although he never worked a single day in his life."/>
+<npc id="30" n="Gosfrid coordinates the workers in Kyler's village. People say that he works them like animals."/>
+<npc id="31" n="Mary is the wife of Edgar. Grandpa told me they are the wealthiest family in the woods. Edgar must have been an important person in the outside world before we entered the woods. Lily is their only child."/>
+<npc id="32" n="Vena is the wife of Hugh. She helps Hugh with whatever he needs, and she supports him in his weird experiments."/>
+<npc id="35" n="Elfreda is a kind old woman. Grandpa sometimes visits her. She cooks for the people in Kyler's village. Her husband was a wealthy man. He died a long time ago."/>
+<npc id="37" n="I see a young man in his small, tidy home. He is wearing black leather armour. He looks like a strong capable man who most likely built this house by himself. His eyes are strangely dark."/>
+<npc id="38" n="No one knows why, but Doyle likes to live near the swamp. He is an adventurer who doesn't like to stay home. One of his goals is to explore all of the woods, but often the monsters of Darkwood won't let him discover a new area."/>
+<npc id="39" n="I have known Spike since I was young. He sometimes visits the village. More specifically, the village inn. He chose to live alone between the two villages. He was a wealthy man before Darkwood and he stayed wealthy in Darkwood too."/>
+<npc id="40" n="Kyler is the leader of the second village. People say that he is a highly religious, honest man. The village he is supervising is a religious, peaceful place. Grandpa told me that Kyler has always been a confident man who stands by his decisions and if someone needs help he never says no. Every month he invites the upper class villagers to his house to decide on the issues affecting the village."/>
+<npc id="41" n="I see a man in dark leather. His face is smooth; he's probably never worked a day in his life. He's taken extreme precautions to make sure no one can enter his home easily. I wonder why."/>
+<npc id="43" n="Fleta is barely able to stand on her feet. Her eyes are yellow from a disease. The way she looks tells me that she needs help."/>
+<npc id="44" n="I see a skinny man in front of me. It doesn't even bother him that I'm staring at him, he just runs around like a madman. He is murmuring something, but I can't understand what it is."/>
+<npc id="45" n="We explored Darkwood together when we were little with Edith, even though we weren't supposed to leave the village. We did so many things together. She is my best friend. Her father died a long time ago, she hasn't been the same since."/>
+<npc id="46" n="Winnie and Edmund celebrated their fiftieth anniversary a few months ago. Winnie is a great cook, but nowadays she can't even put carrot soup on the table because their pockets won't allow even the essential things in life. When I was young they looked after me when Grandpa was away. They are like family to me."/>
+<npc id="47" n="Edmund was a fisherman before Darkwood. He and Winnie celebrated their fiftieth anniversary a few months ago. They always lived a modest life, but here in the woods they have to do without even the essential things. When I can, I try to help them."/>
+<npc id="48" n="I see a large man in old rusty plate armour guarding the entrance to the village elders. He looks like he is about to fall over, and sleep right here in the mud."/>
+<npc id="49" n="I see an old man with extremely pale skin. Even though he looks old he seems to be in good shape. I wonder why anyone would build a house next to a large old ruin."/>
+<npc id="50" n=" "/>
+<npc id="51" n="There are four hooded figures standing in front of me. As I look closer at them I notice they have no eyes only large hollow eye sockets. There are small bones on their clothes and small skulls on their belts. A sudden chill runs through my spine as I step closer to them."/>
+<npc id="52" n="Hugh is the blacksmith in Kyler's village. He is a good friend of Aron. Sometimes they meet for a drink, and every once in a while even work together. Hugh is always experimenting with something. Usually his experiments turn out really bad."/>
+<npc id="53" n="Bingham is a young man who lives alone in his big house. He is one of the strongest men in the village because his job is to chop up firewood. Although we are a similar age, we have never really liked each other."/>
+<npc id="54" n="No one knows Buck. He lives among the people, but never talks to anyone. I don't know him, but I have a feeling that he is bad news."/>
+<npc id="56" n="Walker is the alchemist in Kyler's village. He has a large alchemy lab built right next to his home. He spends most of his time in his lab, experimenting with new potions."/>
+<npc id="57" n="Harry loves his books. Every time I saw him, he was either holding a book or reading one. He has a large collection of books at his home."/>
+<npc id="59" n="Neil is the so-called intellectual who likes to know about everything. Every time he knows something that someone else doesn't, he quickly, and loudly points out to everyone that he knows the answer."/>
+<npc id="60" n="I found a cave for Dayna where she can regain her powers. She was feeling weak in Darkwood. This cave is somehow sealed off from the rest of the woods. She might be able to teach me something when she fully recovers."/>
+<npc id="61" n="Dudley is my best friend. He is Osric's only child. Dudley is a decent guy who does whatever his father asks him without question. Lately, we have been exploring the old ruins around the village. Sometimes we find useful stuff, but mostly junk. Last time we almost got stuck in a ruin, but luckily Fox heard our shouts, and saved us."/>
+<npc id="62" n="I'm helping Fleming with his armour problem. The armour he is wearing started to rust. With Aron's help it can be new, and shiny again!"/>
+<npc id="63" n="I see a skinny man in front of me. It doesn't even bother him that I'm staring at him, he just runs around like a madman. He is murmuring something, but I can't understand what it is."/>
+<npc id="64" n="Rhys is a shady person. Grandpa told me not to trust him. He often starts fights in the inn, and he usually wins them. I could learn a thing or two from him about fighting. He never works, but he still manages to live pretty well. I now know that he is a thief."/>
+<npc id="67" n="I see a man in dark leather. His face is smooth; probably he has never worked a day in his life. He has taken extreme precautions to make sure no one can enter his home easily. He will teach me thieving skills."/>
+<npc id="71" n="No one knows why, but Doyle likes to live near the swamp. He is an adventurer who doesn't like to stay home. One of his goals is to explore all of the woods, but often the monsters of Darkwood won't let him discover a new area."/>
+<npc id="73" n="I see an old woman in torn, dirty black robes. She is wearing a large hat that shades her eyes, but even with that hat I can see that her eyes have a dark yellow tint."/>
+<npc id="95" n="Fleta looks at me and quietly says 'Thank you'. I should leave her alone. She needs to recover."/>
+<npc id="101" n="Philip is the son of Jones and Selina. He is always doing something around the house. In his free time he plays with a little colorful box his father made him."/>
+<npc id="102" n="Muddy likes to annoy people. He knows that he can get away with almost anything because his father is the leader of the village. He usually follows me, and Dudley around. There is no reason to try to scare him away because he will only try harder to annoy us. His real name is Oscar, but he forced his parents into calling him Muddy."/>
+<npc id="2008" n="I see a huge frog standing in front of me. Somehow I feel safe in its presence."/>
+<npc id="2009" n="Manoken"/>
+<npc id="105" n="I see a young woman with dark hair. She seems to be upset about something. She is cleaning her house with sudden, angry movements."/>
+<npc id="106" n="In front of me stands an old man who looks well-off and calm. By the looks of him there is always food on his dinner table. I think he is the owner of the cattle farm here."/>
+<npc id="107" n="In front of me is a man who is only skin and bones. His skin is a strange dark color. He looks at me and then quickly looks back at the ground. I wonder when he last had a decent meal."/>
+<npc id="108" n="This man has a funny smile on his face. His eyes follow me around. I get the feeling that at any moment he will say something, but he never does."/>
+<npc id="109" n="He is probably the owner of this large pig farm. It must be hard to run this place, because despite being the owner of such a big facility he is slim and looks rather strong."/>
+<npc id="110" n="In front of me sands a large man wearing heavy armor. His armor tells me he is of high rank. It's surprising how easily he walks around in his armor."/>
+<npc id="111" n="I see a young man whose eyes are constantly looking around, as if he is looking for something. He looks suspicious."/>
+<npc id="113" n="This man has strangely large eyes. If I look closer, his eyes are really red. He seems to walk around as if he had no weight."/>
+<npc id="114" n="At first I could not tell that under the dark hood there was a woman's face. There are several strange runes on the tables around her. She is walking around reading an old book."/>
+<npc id="115" n="This mage's clothes are dirty and torn apart. His hands are slightly shaking. He is carrying around a large chunk of stone."/>
+<npc id="116" n="I see a young mage in front of me. She stands out from the other mages. She walks around with real grace. She's beautiful."/>
+<npc id="117" n="Under the dark hood a woman's eyes are staring hard at me, watching every movement I make. I have a feeling it would be wise not to anger her."/>
+<npc id="118" n="I see a young man wearing good clothes. He doesn't pay attention to me at all. He is certainly on the heavier side."/>
+<npc id="119" n="I see a large man standing in front of me. His eyes follow me around. He looks tired but I doubt anyone can slip in the camp without him noticing."/>
+<npc id="120" n="In front of me stands a middle aged man. He looks a bit bored and sad at the same time. He is wearing rough dirty gloves. Gloves a blacksmith would use."/>
+<npc id="121" n="I've seen this man before. He seems to follow me around. He is well built. I need to keep an eye on him. He might be dangerous."/>
+<npc id="122" n="This man must have seen a lot of things in his life. His hair is dark gray. I see a lot of barrels lying around. There is a strange smell floating around his house."/>
+<npc id="123" n="This man has really strange clothing. As I look closer I realize his clothes are most likely made out of rat fur. I quickly back off because of his unbearable smell."/>
+<npc id="124" n="His dark leather armor has small golden seams. There is a large monocle in his hands. He must be an important person."/>
+<npc id="125" n="This man has a strange, but familiar armor. It looks like the armor Fox is wearing. He must know about Fox. I should be careful not to talk about Fox near him."/>
+<npc id="126" n="In front of me stands a proud mage who has a strikingly straight stance. He is quite tall and looks down on me with his dark blue eyes."/>
+<npc id="127" n="She must be a teacher. She is carrying a large book around and she has a small leather pouch full of chalk."/>
+<npc id="128" n="This man has a really large head. His large nose is dark red, just like his cheeks. He looks like he could kill a bear with his bare hands."/>
+<npc id="129" n="In front of me stands an old priest. His garments are different from the other priests. He must be the high priest of this church."/>
+<npc id="130" n="This young boy looks to be in charge. All the others stand behind him. Their little eyes are constantly following me around."/>
+<npc id="131" n="I see an old, but capable-looking, man. He is carrying around a large hammer and a chisel. He has a lot of barrels lying around."/>
+<npc id="132" n="Under the dark leather armor there is a slim middle aged man. He tries to cover the large scars running over his entire face with his hood."/>
+<npc id="134" n="I see an old warrior standing in front of me. His armor has started to deteriorate but I can see deep scratches around the rust. He probably tries to keep his armor in good shape."/>
+<npc id="135" n="A strange, fat man stands in front of me. His clothes are made out of expensive linen. He looks really wealthy."/>
+<npc id="136" n="This man has truly large eyes. As I look at him I feel something is not right. He never seems to blink."/>
+<npc id="137" n="I see a young girl cleaning near the church. She has simple, but good clothing. She doesn't seem to notice me."/>
+<npc id="138" n="I see a middle aged woman. Her clothes look worn and are full of small patches. She looks really tired."/>
+<npc id="140" n="He looks like a strong man. Like the others he's wearing heavy armor. While he walks his armor makes a loud clanking sound. He must have lost a lot of weight."/>
+<npc id="141" n="He must be the head of the Asylum. I saw him walking around taking notes on the patients. He has frighteningly small, sharp teeth."/>
+<npc id="142" n="This red haired mage always seems to be smiling. He has a high pitched voice and a slender build. The others seem to keep a distance from him."/>
+<npc id="143" n="A beautiful young woman stands in front of me. Her eyes are entrancing. She has thin red clothing that fits her body perfectly."/>
+<npc id="144" n="I haven't seen his kind before. His skin is dark and his hair is even darker. He must have come from another kingdom. He has large hands and looks very strong."/>
+<npc id="145" n="The smell of fish can be felt everywhere. I see an old man going about his daily life as a fisherman. His hands are rough and full of small scars."/>
+<npc id="147" n="I see an old, but proud mage standing in front of me. His long beard and pointy hat make it clear to anyone that he is a wizard. His special robes also indicate that he must be one of the high mages."/>
+<npc id="148" n="Surprisingly, this old man is a member of the warriors' guild. He can barely move in his heavy armor but his pride won't allow him to take it off."/>
+<npc id="149" n="Two enormous eyes glow in the dark and damp chambers of the royal crypt. Grandpa told me fascinating tales about the dragons. I never thought that one day I would stand in front of such a magnificent creature."/>
+<npc id="150" n="This young man can barely stand on his feet. He might be drunk, but I think he is under the influence of a much stronger substance."/>
+<npc id="151" n="This young woman seems to be a hunter. She looks like she can protect herself. No woman in Darkwood is so muscular."/>
+<npc id="152" n="I see a man with a longbow and a sharp dagger on his side. He must be a hunter. There is a large bear paw hanging from his belt."/>
+<npc id="153" n="A middle aged hunter. He seems frightened. He keeps stomping around his house aimlessly, staring ahead."/>
+<npc id="155" n="She looks old, but her eyes somehow give the impression that she is really young. The years of hard work have made her hands rough and dry."/>
+<npc id="156" n="An old man stands in front of me. He is taller and thicker than the average man. I assume he is the owner of this large farm."/>
+<npc id="157" n="He looks like he's having a bad day. He's probably a member of the rebels. I shouldn't make him angry."/>
+<npc id="158" n="Her skin is unusually pale. Her eyes look tired. She probably manages this whole place on her own."/>
+<npc id="163" n="Her movement immediately tells me something is wrong with her. Her arms and legs sometimes twitch uncontrollably."/>
+<npc id="164" n="As far as I can tell this middle aged woman lives alone here, in isolation. She looks rather calm and confident. She's not surprised at my arrival."/>
+<npc id="165" n="For her age she looks to be in really good shape. She has a lot of nets lying around everywhere."/>
+<npc id="166" n="Her clothes tell me she is really wealthy. And she is most certainly not starving."/>
+<npc id="167" n="Another wealthy merchant. I guess there are only a few of them left in the kingdom, so business must be really good."/>
+<npc id="168" n="Another rebel guard. He seems different from the others. Guarding these towers all day long must be a really boring job."/>
+<npc id="169" n="He must be a priest of some sort. His clothes are different from Hain's. I sense a deep calmness in his presence."/>
+<npc id="170" n="This middle aged man seems to be reading all the time. Sometimes I see him taking notes. I sense the same calmness with him as with Norcross."/>
+<npc id="171" n="I see an attractive young woman in front of me. She looks upset. She is busy doing her daily chores around the house."/>
+<npc id="172" n="I see a grumpy old man. He constantly makes a deep murmuring noise and there is a funny smell around him."/>
+<npc id="173" n="I see a large man standing in front of me. He must have a high position with the rebels. His armor is different form the other rebels. He doesn't like the fact that I'm staring at him."/>
+<npc id="174" n="This old man keeps the castle garden alive. He sometimes stops and talks to his plants."/>
+<npc id="176" n="He must be in charge here. Or at least he must be a very important person amongst the rebels."/>
+<npc id="177" n="She looks upset and frightened. She keeps stopping and just listens around, as if she's heard something."/>
+<npc id="178" n="This gray-haired woman seems to be an alchemist. There are a number of strange bottles lying around her house. The smell of her home is indescribable."/>
+<npc id="179" n="This young woman looks really upset. She is holding something in her hand behind her back."/>
+<npc id="180" n="She is a beautiful young woman. It looks like she cannot stop smiling."/>
+<npc id="181" n="He looks tired. He might be a hunter; I'm not sure, but his clothing seems to be made from the leather of different animals."/>
+<npc id="182" n="The ghost of an old man. He doesn't look hostile."/>
+<npc id="183" n="This young man is really strange. The way he walks is different. It's more like the way women walk and the clothing he wears is really colorful."/>
+<npc id="184" n="Under her dark hood her face is kind and pretty. I sense a darkness when she looks at me."/>
+<npc id="185" n="He is a large and strong man. There are multiple torches hanging form his belt and a large pickaxe in his hands. He must be a miner."/>
+<npc id="186" n="His skin is dark and his hair is even darker. I think he was born in another kingdom. He looks a bit drunk."/>
+<npc id="187" n="He must be the owner of this Inn. Like Fred, he is a larger man. Strange how every inn has a rather large innkeeper. He seems sad."/>
+<npc id="188" n="The smell of freshly cut wood is strong here. He is carrying a large woodcutter's axe. He looks like he only needs to swing it a few times and even the thickest trees will fall."/>
+<npc id="189" n="There are all kinds of wooden items around him. He must be a carpenter, and by the looks of it he must be a good one."/>
+<npc id="190" n="His face is covered with fine coal powder. He is wearing large gloves, probably to protect his hands from heat."/>
+<npc id="191" n="This young man is reading an old and thick book. He doesn't seem to notice me."/>
+<npc id="192" n="There is a lot of fine clothing in this house. The old man might be a tailor. Some of the robes here are familiar. Leonard wore a robe like these. Maybe he could teach me a thing or two."/>
+<npc id="194" n="Grandpa told me fascinating tales about the dragons. I never thought that one day I would stand in front of such a magnificent creature. I never knew there were mortal dragons. Even the mortal dragons are so powerful that they can cheat death."/>
+<npc id="195" n="An invisible man. I can only see his footsteps in the water. I wonder who he is and why does he live down in this damp and dark place. I see lots of crates around him. He must be some kind of trader."/>
+<npc id="196" n="This young man must be studying to become a priest. His cheeks and nose are suspiciously red. The bottom of his robes are really dirty."/>
+<npc id="202" n="I see an old, but proud mage standing in front of me. His long beard and pointy hat make it clear to anyone that he is a wizard. His special robes also indicate that he must be one of the high mages."/>
+<npc id="203" n="He looks really tired. His eyes are halfway closed."/>
+<npc id="213" n="This young woman seems to be a hunter. She looks like she can protect herself. No woman in Darkwood is so muscular."/>
+<npc id="214" n="I see a man with a longbow and a sharp dagger on his side. He must be a hunter. There is a large bear paw hanging from his belt."/>
+<npc id="223" n="Although he's old he looks like a capable man. The unforgiving sun and the dry desert air made his skin cracky. I wonder why he's not wearing a hat."/>
+<npc id="224" n="There are various animal feathers on his clothing and he has some kind of painting all over his body. He must be the leader of this village."/>
+<npc id="100" n="Grandpa told me fascinating tales about the dragons. I never thought that one day I would stand in front of such a magnificent creature. This giant crimson dragon was sleeping when I entered his chambers. As soon as I took my first step he woke up. He doesent seem to be bothered by my presence."/>
+<npc id="252" n="In front of me stands an old priest. His garments are different from the other priests. He must be the high priest of this church."/>
+<npc id="254" n="As I approach this tall and slender man it becomes clear that he is a mage. He looks old but he moves around swiftly and effortlessly. Under a dark long hooded cloak his black eyes pop out of his very pale skin. He saw me approaching, but doesn't seem to be bothered by my presence. There is a noticeable smell of old books in his cabin."/>
+<npc id="255" n="At first I thought this is Sam but as I approached this walking and murmuring skeleton I realised he is very different from Sam. I have an uneasy feeling that he is afraid of something."/>
+<npc id="256" n="In front of me stands a short hunchbacked man. Judging by his long beard he is really old. There are all kinds of paintings on the walls around him. As I look closer at them they all portray large trolls. The old man whistles a lot. I could hear him from far away. Suddenly a strange rabbit-like creature jumps out from behind him. I never saw anything like it before."/>
+<npc id="257" n="She is a beautiful woman. Her long blond hair runs down on her shoulders. Her eyes are clear blue but as I look into them I sense great sorrow. She must be a mage because there are various potions around her and there is a wooden wand in her hand."/>
+<npc id="258" n="He looks really strong. He moves around really fast. He is holding his hands up all the time as if he is ready to attack someone at any moment."/>
+<npc id="259" n="In front of me stands a young man. There is a strange instrument on his back. As I look around his home I notice there are numerous instruments hanging from the walls. He must be a musician. He reaches for one of his instruments and starts playing. The music he plays is fast and resembles nothing I have heard before. His fingers are moving so fast I can barely see them."/>
+<npc id="260" n="She must be from another land. Her skin is much darker than mine. Her short-cropped hair is deep black. There are many strange white markings on her face. I have never seen leather like the one she is wearing. I almost didn't notice but she has two daggers on her and a large bow made of an unfamiliar wood. Her eyes follow me around without a blink."/>
+<npc id="261" n="She is a young and graceful woman. Her long red hair runs down onto her shoulders. Somehow she reminds me of Dayna. I sense the same calmness around her as I feel with Dayna. Maybe she's a druid too? As I gaze around her home I see that there are many labelled vases with dried herbs in them. There are also a lot of neatly ordered books on her shelves, some of them are really old."/>
+<npc id="262" n="This man is clearly a warrior of some kind. His face is riddled with scars - even his long grizzled hair cannot hide them. His armour offers good protection and great mobility. He has a scowl on his face and as I look closer I notice he has only one eye. The weapon he carries around is huge."/>
+</npc>

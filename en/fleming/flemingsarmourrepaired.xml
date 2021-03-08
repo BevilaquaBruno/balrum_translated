@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+	<dia pl="0" str="I'm back Fleming."/>
+    <dia npc="0" str="Welcome! Where is my armour? I hope your blacksmith took good care of it!"/>
+    <dia pl="10" str="I'm sorry Fleming but your armour is ruined. Aron could not save it from the rust." jumpNPCd = "1" jumpPlayerd = "2"/>
+    <dia pl="11" str="Aron did a fine job! Here is your shiny new armour, Fleming. Your father would be proud. Use it for good." jumpNPCd = "2" jumpPlayerd = "3"/>
+    <dia npc="1" str="What? You are lying! Where did you hide my armour? Tell me now!"/>
+	<dia npc="2" str="Thank you, fellow adventurer. May our paths cross again some day."/>
+	<dia pl="2" str="I'm not lying Fleming. Aron smelted down your armour into 10 ingots." jumpNPCd = "3" jumpPlayerd = "3"/>
+    <dia npc="3" str="Smelted down my armour? 'Fleming's eyes turn red, but not because of anger - he is fighting back tears.' Father told me that I would never be like him. He was right. I'm not even a proper adventurer. I'm only roaming these woods like a coward. My adventures end here."/>
+    <dia pl="3" str="End." jumpNPCd = "0" jumpPlayerd = "0"/>
+</dialogs>

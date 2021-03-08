@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Hice la entrega."/>
+    <dia npc="0" str="Genial! Aquí tienes tu bolsa. Ha sido bueno hacer negocios contigo. Vuelve pronto."/>
+	<dia pl="1" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

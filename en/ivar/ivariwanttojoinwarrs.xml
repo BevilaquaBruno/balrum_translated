@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="How are things?"/>
+    <dia npc="0" str="Let's keep our voices down. Are you the one who knows about the warrior's guild?"/>
+    <dia pl="1_0" str="How do you know about that?" jumpNPCd= "2" jumpPlayerd = '3'/>
+    <dia pl="1_1" str="Warriors' guild? They disbanded a long time ago right?"/>
+    <dia npc="1" str="I made a mistake. You are not the one I'm looking for. Excuse me."/>
+    <dia pl="2" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia npc="2" str="I see a lot of things, you know. I keep my eyes wide open."/>
+    <dia pl="3" str="Yes, I talked to them. Why do you ask?"/>
+    <dia npc="3" str="I want to join them. Can you introduce me to them? I think if someone who knows them introduces me I have a better chance of being accepted."/>
+	<dia pl="4" str="Sure thing. Follow me." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

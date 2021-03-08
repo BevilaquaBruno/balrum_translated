@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Yo he vencido al golem de piedra gigante en la cueva de los golem de pierda!"/>
+    <dia npc="0" str="Los golems son criaturas muy poderosas. No tengo ni idea de como te las has arreglado para derrotar a la bestia, pero te felicito! Por favor acepta esto por tu hazaña!"/>
+    <dia pl="1" str="Gracias!" jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

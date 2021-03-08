@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Nuestra casa casi se quema. El abuelo esta bien, pero necesito reparar los daños de la casa. Voy a necesitar unos cuantos clavos y una maneta para la puerta."/>
+    <dia npc="0" str="Que cosa mas horrible! Gracias a los dioses que tu abuelo esta bien. El viejo aun sabe utilizar la magia bien. Entonces que es lo que necesitas?"/>
+    <dia pl="1" str="Unos cuantos clavos. De los grandes para las paredes. Y también necesitare una maneta para la puerta nueva."/>
+    <dia npc="1" str="Siéntete como en casa. Si estas construyendo el piso de abajo necesitaras piedra. Yo te enseño a extraer piedra. Si tienes suerte encontraras hierro, o incluso los materiales mas raros a medida que vayas agrietando las rocas grandes. Si es así, puedes vendermelas, o puedes crear herramientas y armas fuera de aquí. Yo con mucho gusto te enseñare el arte de la herrería. Será bueno para ti y para mi. Hoy en día solo hago herramientas agrícolas y otros trabajos aburridos."/>
+	<dia pl="2" str="Gracias Aron." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

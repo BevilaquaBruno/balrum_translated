@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="What do you do here?"/>
+    <dia npc="0" str="We create charcoal out of wood. People heat their homes with it. We also smelt ores here. Why are you interested?"/>
+    <dia pl="1" str="I'm looking for a decent armor. Could you make one for me?"/>
+    <dia npc="1" str="I cannot make you an armor I'm not a blacksmith. But I can make special metal bars for you. The toughest armor you can make is made out of dalantium. If you bring me raw dalantium, I will smelt it four you for 500 thalers. And when you have enough you should find a master blacksmith who can make armor out of it for you."/>
+	<dia pl="2" str="If I find any, I will bring it. Thank you." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

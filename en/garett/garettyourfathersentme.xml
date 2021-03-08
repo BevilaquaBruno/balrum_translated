@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Your father sent me. Do you know why the milk you sell is sour?"/>
+    <dia npc="0" str="Sour? Father? I don't know what you are talking about. This milk here is fine."/>
+    <dia pl="1_0" str="Alright son. No need to be alarmed. I'm sure it was a mistake. I will leave you to your work." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia pl="1_1" str="Listen here, boy. Something is wrong with the milk you sell. Your father looked really upset about this."/>
+    <dia npc="1" str="I might have forgotten to clean the milk churns a few times."/>
+    <dia pl="2" str="What should I do with you now? Should I tell your father about this?"/>
+    <dia npc="2" str="Please don't tell father! He would send me back to keep the church clean. That church is huge. I promise I will work harder. I will keep the churns clean!"/>
+	<dia pl="3" str="Keep the churns clean and you won't have to go back to the church. You should start right now before your father comes here." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

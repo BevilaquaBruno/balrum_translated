@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Aquí esta tu anillo Cardew."/>
+    <dia npc="0" str="Mi anillo! Mi anillo azul! Muchísimas gracias!"/>
+    <dia pl="1" str="De nada, Tenias razón. Rhys te robo el anillo pero lo devolvió sin dudar, no te enfades con el."/>
+    <dia npc="1" str="Mi anillo mágico! Mira como brilla! "/>
+    <dia pl="2" str="Que tipo de poder mágico tiene el anillo?"/>
+    <dia npc="2" str="Te lo diré, pero no se lo digas a nadie! Mi anillo puede llevarme a un lugar. A un lugar de paz. Someteré el anillo a mi ataúd así Rhys no sera capaz de robármelo otra vez!"/>
+	<dia pl="3" str="¡Muy bien Cardew." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

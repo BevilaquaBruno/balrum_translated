@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Tu padre me envía. La leche que estáis vendiendo esta agria?"/>
+    <dia npc="0" str="Agria? Papa? No se de que me estás hablando. La leche está bien."/>
+    <dia pl="1_0" str="Muy bien hijo. No hay necesidad de alarmarse. Estoy seguro de que fue un error. Te dejo que trabajes." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia pl="1_1" str="Escúchame, chico. Algo esta mal en la leche que vendes. Tu padre estaba muy molesto contigo."/>
+    <dia npc="1" str="Podría haberme olvidado de limpiar el bidón de leche lo hice hace un par de meses."/>
+    <dia pl="2" str="Qué tengo que hacer contigo ahora? Se lo digo a tu padre?"/>
+    <dia npc="2" str="Porfavor no se lo cuentes a mi padre! El me mandara otra vez a mantener la iglesia limpia. Esa iglesia es enorme. Prometo trabajar más duro. Voy a mantener los bidones limpios!"/>
+	<dia pl="3" str="Mantén los bidones limpios y no tendrás que volver a la iglesia. Deberías estar limpiando los bidones antes de que venga tu padre aquí." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

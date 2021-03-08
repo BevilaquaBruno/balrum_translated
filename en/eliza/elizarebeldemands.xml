@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="How are things?"/>
+    <dia npc="0" str="Well young man, things are not good."/>
+    <dia pl="1" str="What's the problem?"/>
+    <dia npc="1" str="The rebels. Their demands are outrageous. They need more and more wheat. Moulton and I cannot keep up."/>
+    <dia pl="2" str="How can I help?"/>
+    <dia npc="2" str="I don't think you can help, darling. The only way we could keep up is if we somehow managed to grow the crops faster."/>
+    <dia pl="3" str="There might be a way. Have you heard about forest wisps? When these wisps are near plants the plants grow faster and stay healthy."/>
+    <dia npc="3" str="Well I'll be damned. Forest wisps on my farm? Are these creatures peaceful? What if they attack me or one of my workers?"/>
+    <dia pl="4" str="If you don't anger them they won't be any trouble. What do you say? Should I bring one to your farm?"/>
+    <dia npc="4" str="You have a certain aura around you. I trust you, boy! Yes let's try this!"/>
+	<dia pl="5" str="I'll be back with a wisp." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

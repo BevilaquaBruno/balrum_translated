@@ -1,0 +1,169 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<!--%data% data-->
+<!--%n% new line-->
+<!--%l% line skip-->
+<npc>
+<npc id="1" n="Arda hace la mejor sopa de patata de la aldea. Ella es la madre de Edith. En el pasado era una persona intensa llena de vida, pero cuando su marido murió, ella cambió. A veces me pide que recoja sus cosechas y yo siempre le ayudo con mucho gusto."/>
+<npc id="2" n="Cuando el pueblo escapó al bosque oscuro, Arlo fue designado como el líder. Arlo abiertamente dice que no tiene fe en los dioses de Balrum, y esto a traído problemas con los demás ancianos. Justo después de que la gente empezara a construir la aldea, Kyler se reunió con los que temen a los dioses y se marcharon a construir otra aldea. Arlo nunca perdono a Kyler por separar a las personas. El se gasta todo en regalos para su esposa, pero sin embargo ella se ve infeliz. Muddy es su único hijo."/>
+<npc id="3" n="Aron es el único herrero de la aldea. El era un famoso herrero antes de que los rebeldes se hicieran con el control de Balrum. Ahora solo hace herramientas para la agricultura. Con los años me ha enseñado a tratar los metales. El abuelo me dijo que una vez hizo un arma mágica."/>
+<npc id="4" n="Barnabas es un herborista. El piensa que estos bosques tienen poderes mágicos que ayudan al crecimiento de las plantas. También piensa que la luz de las criaturas wisp ayuda a mantenerlas saludables al mismo tiempo que aumenta su crecimiento. En realidad, nadie lo quiere. Parece olvidarse de las cosas con bastante facilidad."/>
+<npc id="5" n="Bartok era pintor antes de que los bandidos se hicieran al cargo de Balrum. Todavía suele pintar, pero no tan a menudo. Me gustaría aprender a pintar, pero Bartok no parece una persona que le gustaría enseñarme. A menudo lo veo alrededor de las rocas cercanas, mirándolas."/>
+<npc id="6" n="Brown es alquimista. Me enseña un poco de alquimia. Me gustaría aprender más de el. Si alguien necesita una poción especial para curar una enfermedad el siempre sabe alguna receta que puede funcionar. La gente no se acerca mucho a el por que tiene un esqueleto como sirviente. Yo personalmente no tengo problemas con Sam."/>
+<npc id="7" n="Cardew es el tonto amigable de la aldea. El es un tipo decente, pero nunca le confiaría nada. Se olvida de las cosas que lo ocurren con bastante rapidez. Si recuerda algo que es cierto, lo hace de manera incorrecta. El tiene problemas para dormir."/>
+<npc id="8" n="No se mucho sobre Dayna. Ella decidió vivir lejos de todo el mundo cuando las personas decidieron separarse. Ella no soporta a Fox por ser un cazador. Cuando era más joven, alguien me dijo que podía hablar con los animales."/>
+<npc id="9" n="Eudora es la cariñosa esposa de Arlo. Normalmente se queda callada si Arlo esta cerca, pero cuando el no esta, ella parece ser bastante habladora. A menudo veo a Eudora corriendo detrás de su hijo Muddy por que es un desobediente. Muddy es un niño difícil."/>
+<npc id="10" n="Fox es un cazador solitario. La gente dice que puede dispararle a un conejo a 200 yardas. Cuando era más joven el cuidaba de mi en el bosque. El tiene arañas por sus telarañas pegajosa, así puede crear trampas especiales."/>
+<npc id="11" n="Fred es el propietario de la posada. El es un hombre grande. Es el tipo de posadero que nunca da cerveza gratis. De vez en cuando, hay alguna pelea en la posada. Fred normalmente les deja luchar un rato, pero luego empieza a golpearlos."/>
+<npc id="12" n="Le estoy tan agradecido al abuelo por todo lo que ha hecho. El me acogió cuando mis padres murieron, y me ha criado. El abuelo sabe un poco de todo. Es un verdadero aprendiz de todo. Una vez me dijo que alguien le enseñaba magia cuando era joven, pero cada vez que le pregunto sobre eso, cambia de tema. Nunca me a contado nada sobre mis padres y dice que es mejor para mi que no sepa nada de ellos. La gente también parece distante en este tema."/>
+<npc id="13" n="Ida es propietaria de la granja más grande del bosque. La gente viene a ella a buscar todo tipo de vegetales. Siempre trabaja en la granja, y nunca parece cansarse."/>
+<npc id="14" n="Jones es un hombre decente. El es carpintero. Vive con su esposa Selina, y su hijo Philip. La gente habla a sus espaldas por que nunca va a la posada. Yo digo que no lo necesita, ya que tiene una bonita esposa y siempre tiene algo que reparar o construir. El me enseño a crear muros robustos y hacer muebles sencillos."/>
+<npc id="15" n="La gente dice que Leonard es un gran mago. El abuelo me dijo que era un mago hace mucho tiempo, pero sus poderes lo abandonaron. Siempre siento una extraña sensación cuando lo visito. Normalmente siempre esta por el bosque buscando setas raras."/>
+<npc id="16" n="Odio a Myron. Me acoso cuando era más joven. Ahora que he crecido no tiene las agallas para volver hacerlo. Sería divertido tener una pelea con el."/>
+<npc id="17" n="Osric tiene una gran cantidad de ganado. La gente va a buscarle carne. El cuida a sus cerdos muy bien. Sus precios son un poco altos, por que sabe que el es el único en el bosque con algunos cerdos. A demás hace una deliciosa salchicha de cerdo ahumada. Hace mucho tiempo era un mercenario."/>
+<npc id="18" n="Rhys es una persona sombría. El abuelo me dijo que no confíe en el. Ha menudo se mete en peleas en la posada, y por lo general las gana. Podría aprender un par de cosas de el sobre la lucha. Nunca trabaja, pero se las arregla para vivir bastante bien."/>
+<npc id="19" n="Rufus nunca habla. El trabaja y hace lo que le pidan que haga, y nunca pide nada a cambio, pero el nunca habla. La gente se aprovecha de el."/>
+<npc id="20" n="Nunca he tenido ningún problema con Sam. El no hace nada. La gente piensa que Brown sabe magia oscura, y es por eso que Sam le ayuda."/>
+<npc id="21" n="Selina es la esposa de Jones. Ella ayuda a las personas de la aldea en las granjas. También hace ropa. Ella es la única persona que puede hacer ropa en la aldea, por eso la hace realmente importante. Su hijo Philip siempre le ayuda con su trabajo."/>
+<npc id="22" n="Thurza es una hermosa mujer que tiene un terrible esposo alcohólico. No se por que ella está con el. Últimamente, parece estar más ansiosa de lo habitual."/>
+<npc id="23" n="Wilson es el hombre de confianza de Arlo. Se comporta como un guardaespaldas cuando los dos líderes de las aldeas se reúnen. El abuelo dice que Wilson y Arlo lucharon muchas batallas juntos antes de refugiarnos en los bosques. El es un soldado valiente. Me enseña como luchar."/>
+<npc id="24" n="Veo a un anciano sacerdote con ropas blancas y sucias. El huele a alcohol, y sus manos tiemblan. Su iglesia esta en mejor estado de lo que parece."/>
+<npc id="26" n="Los trabajadores de aquí parecen estar trabajando día y noche. La mayoría de ellos deben haber pasado su cincuenta cumpleaños. Todos ellos tienen las manos sucias y se ven muy cansados. El encargado de estos hombres es Gosfrid. La gente dice que Gosfrid les hace trabajar muy duro, aunque el nunca a trabajado ni un solo día de su vida."/>
+<npc id="27" n="Los trabajadores de aquí parecen estar trabajando día y noche. La mayoría de ellos deben haber pasado su cincuenta cumpleaños. Todos ellos tienen las manos sucias y se ven muy cansados. El encargado de estos hombres es Gosfrid. La gente dice que Gosfrid les hace trabajar muy duro, aunque el nunca a trabajado ni un solo día de su vida."/>
+<npc id="28" n="Los trabajadores de aquí parecen estar trabajando día y noche. La mayoría de ellos deben haber pasado su cincuenta cumpleaños. Todos ellos tienen las manos sucias y se ven muy cansados. El encargado de estos hombres es Gosfrid. La gente dice que Gosfrid les hace trabajar muy duro, aunque el nunca a trabajado ni un solo día de su vida."/>
+<npc id="29" n="Los trabajadores de aquí parecen estar trabajando día y noche. La mayoría de ellos deben tener más de su cincuenta cumpleaños. Todos ellos tienen las manos sucias y se ven muy cansados. El hombre que los supervisa es Gosfrid. La gente dice que Gosfrid les hace trabajar muy duro, aunque el nunca a trabajado ni un solo día de su vida."/>
+<npc id="30" n="Gosfrid coordina a los trabajadores de la aldea de Kyler. La gente dice que les hace trabajar como esclavos."/>
+<npc id="31" n="Mary es la esposa de Edgar. El abuelo me dijo que son la familia más rica del bosque. Edgar debe haber sido una persona importante en el mundo exterior antes de venir a los bosques. Lily es su única hija."/>
+<npc id="32" n="Vena es la esposa de Hugh. Ella ayuda a Hugh en todo lo que necesita, y también le apoya en sus experimentos extraños."/>
+<npc id="35" n="Elfreda es una amable anciana. El abuelo a veces la visita. Ella cocina para la gente de la aldea de Kyler. Su marido era un hombre rico, pero murió hace mucho tiempo."/>
+<npc id="37" n="Veo a un hombre joven en su pequeña casa muy ordenada. El usa una armadura de cuero negro. Se ve un hombre fuerte capaz de construir esta casa. Sus ojos son extrañamente oscuros."/>
+<npc id="38" n="Nadie sabe por que, pero a Doyle le gusta vivir cerca de pantano. Es un aventurero que no le gusta quedarse en casa. Uno de sus objetivos es explorar todos los bosques, pero a menudo las criaturas del bosque oscuro no le dejan acceder a nuevas áreas."/>
+<npc id="39" n="Conozco a Spike desde que era joven. El a veces viene de visita a la aldea. Más específicamente, a la posada de la aldea. El eligió vivir solo entre los dos pueblos. El era un hombre rico antes de venir al bosque oscuro, y siguió siéndolo en el bosque oscuro también."/>
+<npc id="40" n="Kyler es el líder de la segunda aldea. La gente dice que es un hombre muy religioso y honesto. La aldea que el supervisa es religiosa, un lugar pacífico. El abuelo me dijo que Kyler siempre ha sido un hombre de confianza nunca te interpongas en sus decisiones y si alguien necesita ayuda nunca dice que no. Cada mes invita a los aldeanos de clase alta a su casa para decidir las cuestiones que afectan a la población."/>
+<npc id="41" n="Veo a un hombre de piel oscura. Su cara es suave; El probablemente no haya trabajado nunca. Ha tomado precauciones para que nadie entrará a su casa fácilmente. Me pregunto por que."/>
+<npc id="43" n="Fleta apenas es capaz de mantenerse en pie. Sus ojos son de un color amarillo por una enfermedad. De la manera que se ve algo me dice que necesita ayuda."/>
+<npc id="44" n="Veo a un hombre flaco frente a mi. Ni siquiera le molesta que lo este mirando, solo me mira como un loco. El murmura algo, pero no puedo entender lo que es."/>
+<npc id="45" n="Exploramos el bosque oscuro juntos cuando éramos pequeños con Edith, A pesar de que no nos alejamos mucho de la aldea hicimos muchas cosas juntos. Ella es mi mejor amiga. Su padre murió hace mucho tiempo y ella no ha sido la misma desde entonces."/>
+<npc id="46" n="Winnie y Edmund celebraron su cincuenta aniversario hace unos meses. Winnie es una gran cocinera, pero hoy en día ya no puede poner una sopa de zanahorias en las mesa debido a que su bolsillo no le permite tener las cosas esenciales en la vida. Cuando era pequeño ellos me cuidaban cuando el abuelo no estaba. Son como una familia para mi."/>
+<npc id="47" n="Edmund era un pescador antes de venir al bosque oscuro. El y Winnie celebraron su cincuenta aniversario hace unos meses. Ellos siempre han llevado una vida modesta, pero aquí en el bosque tienen que prescindir de cosas esenciales. Cuando puedo trato de ayudarles."/>
+<npc id="48" n="Veo a un hombre grande con una armadura vieja y oxidada que guarda la entrada a los ancianos del pueblo. Parece como si estuviera a punto de caerse y dormirse aquí mismo en el barro."/>
+<npc id="49" n="Veo a un anciano con la piel extremadamente pálida. A pesar de que se ve viejo parece estar en buena forma. Me pregunto por que alguien podría construir una casa al lado de unas antiguas ruinas."/>
+<npc id="50" n=" "/>
+<npc id="51" n="Hay cuatro figuras encapuchadas colocadas delante de mi. Al mirarlas más de cerca noto que no tienen ojos, solo los grandes cuencos de los ojos huecos. Hay pequeños huesos en su ropa y pequeños cráneos en el cinturón. Un repentino escalofrío recorre mi espina dorsal cuando me acerco a ellos."/>
+<npc id="52" n="Hugh es el herrero de la aldea de kyler. El es buen amigo de Aron. A veces se reúnen para tomar una copa, y de vez en cuando trabajan juntos. Hugh siempre esta experimentando con algo. Normalmente sus experimentos acaban muy mal."/>
+<npc id="53" n="Bingham es un joven que vive solo en su gran casa. El es uno de los hombres más fuertes de la aldea por que su trabajo consiste en talar leña. Aunque tenemos una edad similar, en realidad nunca nos hemos gustado."/>
+<npc id="54" n="Nadie conoce a Buck. El vive entre la gente, pero nunca habla con nadie. No lo sé, pero tengo la sensación de que es una mala noticia."/>
+<npc id="56" n="Walker es el alquimista de la aldea de Kyler. Tiene un gran laboratorio construido al lado de su casa. El pasa la mayor parte de su tiempo en ese laboratorio, experimentando con nuevas pociones."/>
+<npc id="57" n="Harry ama sus libros. Cada vez que lo veo, esta sosteniendo un libro o leyéndolo. Tiene una gran colección de libros en su casa."/>
+<npc id="59" n="Neil es el llamado intelectual que le gusta saber de todo. Siempre sabe algo que otra persona no sabe, y rápidamente,señala a todo el mundo que sabe la respuesta."/>
+<npc id="60" n="He encontrado una cueva para Dayna donde podrá recuperar todos sus poderes. Ella se siente débil en el bosque oscuro. Esta cueva esta totalmente aislada del resto de los bosques. Cuando se recupere podría ser capaz de enseñarme algo."/>
+<npc id="61" n="Dudley es mi mejor amigo. El es el hijo de Osric. Dudley es un chico decente que hace lo que le pide su padre sin dudarlo. Últimamente, hemos estado explorando las ruinas antiguas de toda la aldea. A veces encontramos cosas útiles, pero sobre todo chatarra. La última vez casi quedamos atrapados en unas ruinas, pero por suerte Fox escucho nuestros gritos, y nos salvó."/>
+<npc id="62" n="Estoy ayudando a Fleming con su problema de la armadura. La armadura que lleva puesta ha comenzado a oxidarse. Con la ayuda de Aron, volverá a ser nueva y brillante!"/>
+<npc id="63" n="Veo a un hombre delgado frente a mi. No le molesta que lo este mirando, solo me mira como un loco. El murmura algo, pero no puedo entender lo que es."/>
+<npc id="64" n="Rhys es una persona sombría. El abuelo me dijo que no confíe en el. A menudo se mete en peleas en la posada, y por lo general las gana. Podría aprender un par de cosas de el sobre la lucha. El nunca trabaja, pero se las arregla para vivir bastante bien. Ahora sé que es un ladrón."/>
+<npc id="67" n="Veo a un hombre de piel oscura. Su cara es suave; El probablemente no haya trabajado nunca. Ha tomado precauciones para que nadie entrará a su casa fácilmente. Me va a enseñar habilidades de ladrón."/>
+<npc id="71" n="Nadie sabe por que, pero a Doyle le gusta vivir cerca de pantano. Es un aventurero que no le gusta quedarse en casa. Uno de sus objetivos es explorar todos los bosques, pero a menudo las criaturas del bosque oscuro no le dejan acceder a nuevas áreas."/>
+<npc id="73" n="Veo a una anciana con batas negras rasgadas y sucias. Ella lleva un gran sombrero que le da sombra a sus ojos, pero incluso con ese sombrero puesto, puedo ver como sus ojos son amarillo oscuro."/>
+<npc id="95" n="Fleta me mira y me dice en voz baja 'Gracias'. Debería dejarla sola. Necesita recuperarse."/>
+<npc id="101" n="Philip es el hijo de Jones y Selina. Siempre está haciendo algo en casa. En su tiempo libre juega con una cajita de colores que su padre hizo."/>
+<npc id="102" n="A Muddy le gusta molestar a la gente. El sabe que puede salirse con casi cualquier cosa, por que su padre es el líder de la aldea. Normalmente, nos sigue a mi y ha Dudley. No tratamos de ahuyentarlo por que lo único que pasa es que le ponemos mas difícil molestarnos. Su nombre real es Oscar, pero su padre empezó a llamarlo Muddy."/>
+<npc id="2008" n="Veo una enorme rana de pie delante de mi. De alguna manera me siento seguro con su presencia."/>
+<npc id="2009" n="Manoken"/>
+<npc id="105" n="Veo a una mujer joven con el pelo oscuro. Ella parece estar molesta por algo. Esta limpiando su casa con movimientos bruscos y enojados."/>
+<npc id="106" n="Delante de mi se encuentra un anciano que se ve acomodado y tranquilo. Por el aspecto que tiene siempre tiene comida en la mesa. Creo que el es el dueño de la granja."/>
+<npc id="107" n="Delante de mi hay un hombre que es solo piel y huesos. Su piel es de color oscuro extraño. Me mira y luego de repente mira hacia atrás al suelo. Me pregunto cual fue la última vez que tuvo una comida decente."/>
+<npc id="108" n="Este hombre tiene una sonrisa divertida. Sus ojos me siguen a todas partes. Me da la sensación de que en cualquier momento me va a decir algo, pero nunca lo hace."/>
+<npc id="109" n="Probablemente el sea el dueño de esta granja de cerdos. Debe ser difícil llevar este lugar, a pesar de ser el dueño de esta gran instalación es un tipo delgado y se le ve bastante fuerte."/>
+<npc id="110" n="Delante de mi en las arenas, hay un hombre grande con armadura pesada. Su armadura me dice que es de alto rango. Es sorprendente con que facilidad se mueve con la armadura."/>
+<npc id="111" n="Veo a un joven cuyos ojos están constantemente mirando a su alrededor, como si estuviera buscando algo. Parece sospechoso."/>
+<npc id="113" n="Este hombre tiene los ojos grandes y extraños. Si lo miro de cerca, sus ojos son realmente rojos. Parece que camina y a su alrededor es como si no tuviera ningún peso...como si flotará."/>
+<npc id="114" n="Al principio no me di cuenta de que debajo de la capucha había un rostro de mujer. Hay varias runas extrañas en las mesas. Ella esta caminando al rededor con un libro en las manos."/>
+<npc id="115" n="La ropa de este mago están sucias y desgarradas. Sus manos tiemblan ligeramente. El lleva un gran trozo de piedra."/>
+<npc id="116" n="Veo un mago joven delante de mí. Ella se distingue de los otros magos. Camina con verdadera gracia, es hermosa."/>
+<npc id="117" n="Debajo de esa capucha oscura unos ojos de una mujer me están mirando duro, observando cada movimiento que hago. Tengo la sensación de que sería prudente no hacerla enfadar."/>
+<npc id="118" n="Veo a un hombre joven que llevaba buena ropa. No presta atención a mi en absoluto."/>
+<npc id="119" n="Veo a un hombre grande que se coloca delante de mí. Sus ojos me siguen a todas partes. Parece cansado, pero dudo que alguien pueda desplazarse por el campamento sin que el lo sepa."/>
+<npc id="120" n="Delante de mí hay un hombre de mediana edad. Se ve aburrido y triste al mismo tiempo. El esta usando guantes sucios. Guantes de herrero."/>
+<npc id="121" n="Yo he visto a este hombre antes. Parece que me sigue a todas partes. Tengo que mantener un ojo en el. Podría ser peligroso."/>
+<npc id="122" n="Este hombre debe haber visto muchas cosas en su vida. Su cabello es de color gris oscuro. Veo un montón de barriles por ahí. Hay un olor extraño flotando alrededor de su casa."/>
+<npc id="123" n="Este hombre tiene unas extrañas ropas. Al mirarlo más de cerca parece que sus ropas están hechas de piel de rata. Rápidamente retrocedí por su olor insoportable."/>
+<npc id="124" n="Su armadura de cuero oscuro tiene pequeñas costuras de oro. Tiene un gran monóculo en sus manos. Tiene que ser una persona importante."/>
+<npc id="125" n="Este hombre tiene una armadura extraña, pero familiar. Parece que es la misma armadura que lleva Fox. El debe conocer a Fox. Debería tener cuidado de no hablar sobre el."/>
+<npc id="126" n="Delante de mí hay un mago orgulloso que tiene una postura sorprendentemente recta. Es bastante alto y me mira hacía abajo con los ojos de color azul oscuro."/>
+<npc id="127" n="Ella debe ser una maestra. Lleva un libro grande y tiene una pequeña bolsa de cuero llena de tiza."/>
+<npc id="128" n="Este hombre tiene una cabeza grande. Su nariz es grande y de color rojo, al igual que sus mejillas. Parece que podría matar a un oso con sus propias manos."/>
+<npc id="129" n="Delante de mí se encuentra un viejo sacerdote. Sus prendas son diferentes de los otros sacerdotes. Debe ser el sumo sacerdote de esta iglesia."/>
+<npc id="130" n="Este muchacho joven parece estar al cargo. Todos los demás están detrás de el. Sus pequeños ojos están constantemente mirándome."/>
+<npc id="131" n="Veo un viejo, pero con aspecto de hombre. El esta llevando un gran martillo y un cincel. Tiene un montón de barriles por ahí."/>
+<npc id="132" n="Bajo la armadura de cuero oscuro hay un hombre de mediana edad delgado. Trata de cubrir unas grandes cicatrices que le recorren la cara con una capucha."/>
+<npc id="134" n="Veo un viejo guerrero de pie delante de mí. Su armadura ha comenzado a deteriorarse, pero puedo ver rayas profundas de oxido alrededor. Probablemente trató de mantener la armadura en buen estado."/>
+<npc id="135" n="Un hombre extraño y gordo, se encuentra en frente de mí. Sus ropas están hechas de lino caro. Parece muy rico."/>
+<npc id="136" n="Este hombre tiene realmente grandes ojos. En cuanto lo miro siento que algo no está bien. Nunca parece parpadear."/>
+<npc id="137" n="Veo una chica joven limpiando cerca de la iglesia. Ella tiene ropa sencilla, pero bueno. No parece fijarse en mí."/>
+<npc id="138" n="Veo a una mujer de mediana edad. Sus ropas se ven desgastadas y llenas de pequeños parches. Parece estar muy cansada."/>
+<npc id="140" n="Parece un hombre fuerte. Al igual que los demas el esta usando una armadura pesada. Mientrás camina su armadura hace un ruido muy fuerte. Él debe haber perdido mucho peso."/>
+<npc id="141" n="Él debe ser el director del asilo. Lo vi caminando por aquí tomando nota a los pacientes. El tiene los dientes pequeños y afildos, son aterradores."/>
+<npc id="142" n="Este mago pelirrojo siempre parece estar sonriendo. El tiene una voz aguda y una estructura delgada. Los otros parecen mantener distancia con el."/>
+<npc id="143" n="Una mujer joven hermosa se coloca frente de mí. Sus ojos son cautivadores. Ella tiene ropa roja delgada que se ajusta a su cuerpo a la perfección."/>
+<npc id="144" n="No he visto a esta especie antes. Su piel es oscura y su pelo es aún más oscuro. Debe haber venido de otro reino. Él tiene las manos grandes y parece muy fuerte."/>
+<npc id="145" n="El olor a pescado se puede sentir en todas partes. Veo un anciano que lleva su vida cotidiana como pescador. Sus manos son ásperas y llenas de pequeñas cicatrices."/>
+<npc id="147" n="Veo un viejo, pero orgulloso mago de pie frente a mí. Su barba larga y sombrero puntiagudo se ve claro que es un mago. Sus ropas especiales también indican que debe ser uno de los grandes magos."/>
+<npc id="148" n="Sorprendentemente, este anciano es un miembro del gremio de los guerreros. Apenas puede moverse con la pesada armadura, pero su orgullo no le permitirá tomar la decisión de irse."/>
+<npc id="149" n="Dos enormes ojos brillan en las cámaras oscuras y húmedas de las royal crypts. El abuelo me contó cuentos fascinantes sobre los dragones. Nunca pensé que un día iba a estar delante de una magnífica criatura como esta."/>
+<npc id="150" n="Este joven apenas puede mantenerse en pie. Podría estar bebido, pero creo que está bajo los efectos de una sustancia mucho más fuerte."/>
+<npc id="151" n="Esta joven parece ser una cazadora. Ella parece que puede protegerse sola. Ninguna mujer en el bosque oscuro es tan musculosa."/>
+<npc id="152" n="Veo a un hombre con un arco y una daga afilada a su lado. Debe ser un cazador. Tiene una gran pata de oso que cuelga de su cinturón."/>
+<npc id="153" n="Un cazador de mediana edad. Parece asustado. Él sigue pisando fuerte en su casa sin rumbo, mirando al frente."/>
+<npc id="155" n="Ella se ve vieja, pero sus ojos dan la impresión de que es más joven. Los años de duro trabajo han convertido sus manos ásperas y secas."/>
+<npc id="156" n="Un anciano está de pie delante de mí. Es más alto y más grueso que el hombre promedio. Entiendo que es el propietario de esta finca grande."/>
+<npc id="157" n="Parece que está teniendo un mal día. El probablemente sea un miembro de los rebeldes. No debería hacerlo enfadar."/>
+<npc id="158" n="Su piel es inusualmente pálida. Sus ojos se ven cansados. Probablemente ella se las ha arreglado todo este tiempo por su cuenta."/>
+<npc id="163" n="Su movimiento me dice inmediatamente que algo va mal con ella. Los brazos y las piernas a veces se contraen incontrolablemente."/>
+<npc id="164" n="Por lo que yo pueda decir es que esta mujer de mediana edad vive aquí sola, de forma aislada. Ella se ve tranquila y confiada. No se ha sorprendido de mi llegada."/>
+<npc id="165" n="Para su edad, parece estar en muy buena forma. Tiene una gran cantidad de moscas que vuelan a su alrededor ."/>
+<npc id="166" n="Sus ropas me dicen que es muy rica. Sin duda no pasa hambre."/>
+<npc id="167" n="Otro comerciante rico. Supongo que hay sólo unos pocos de ellos en el reino, por lo que el negocio debe ser realmente bueno."/>
+<npc id="168" n="Otro guardia rebelde. Parece diferente a los demás. Vigilar estas torres durante todo el día debe ser un trabajo muy aburrido."/>
+<npc id="169" n="Tiene que ser un sacerdote de cierta clase. Sus ropas son diferentes que las de Hain. Tengo la sensación de una profunda calma con su presencia."/>
+<npc id="170" n="Este hombre de mediana edad parece estar leyendo todo el tiempo. A veces lo veo tomando notas. Siento la misma calma con el inegnio de Norcross."/>
+<npc id="171" n="Veo una joven atractiva delante de mí. Parece alterada. Ella está ocupada haciendo sus tareas diarias alrededor de la casa."/>
+<npc id="172" n="Veo un viejo gruñón. Constantemente hace un ruido de murmullo profundo y hay un olor extraño a su alrededor."/>
+<npc id="173" n="Veo a un hombre grande que se coloca delante de mí. El debe tener una alta posición con los rebeldes. Su armadura es diferente de los otros rebeldes. No le gusta el hecho de que este mirándolo."/>
+<npc id="174" n="Este anciano mantiene el jardín del castillo con vida. A veces se detiene y habla con sus plantas."/>
+<npc id="176" n="Él debe estar al cargo aquí. O por lo menos tiene que ser una persona muy importante entre los rebeldes."/>
+<npc id="177" n="Ella parece alterada y asustada. Se mantiene parada y sólo escucha a su alrededor, como si hubiera oído algo."/>
+<npc id="178" n="Esta mujer de pelo gris parece ser una alquimista. Hay una serie de botellas extrañas apostadas alrededor de su casa. El olor de su casa es indescriptible."/>
+<npc id="179" n="Esta joven se ve muy molesta. Ella está sosteniendo algo en la mano detrás."/>
+<npc id="180" n="Ella es una mujer joven y bella. Parece que no puede dejar de sonreír."/>
+<npc id="181" n="Parece cansado. Él podría ser un cazador; No estoy seguro, pero su ropa parece estar hecha de la piel de diferentes animales."/>
+<npc id="182" n="El fantasma de un anciano. El no parece hostil."/>
+<npc id="183" n="Este joven es muy extraño. La forma en que camina es diferente. Es más parecido a la manera como caminan las mujeres y la ropa que se pone es muy colorida."/>
+<npc id="184" n="Bajo la capucha oscura su cara es amable y bonita. Tengo la sensación de una oscuridad cuando ella me mira."/>
+<npc id="185" n="Es un hombre grande y fuerte. Hay varias antorchas que cuelgan de su cinturón y un gran pico en sus manos. El debe ser un minero."/>
+<npc id="186" n="Su piel es oscura y su pelo es aún más oscuro. Creo que nació en otro reino. Se ve un poco borracho."/>
+<npc id="187" n="Él debe ser el propietario de esta posada. Como Fred, que es un hombre mayor. Es extraño que en todas las posadas tengan a un gran posadero. Parece triste."/>
+<npc id="188" n="El olor a madera recién cortada es fuerte aquí. El está llevando un hacha de leñador grande. Parece que con dos golpes puede cortar los árboles incluso el más grande caerá."/>
+<npc id="189" n="Hay todo tipo de artículos de madera a su alrededor. Él debe ser un carpintero y por el aspecto que tiene, debe ser bueno."/>
+<npc id="190" n="Su rostro está cubierto con polvo de carbón fino. Él está usando guantes grandes, probablemente para proteger sus manos del calor."/>
+<npc id="191" n="Este joven está leyendo un libro viejo y grueso. No parece fijarse en mí."/>
+<npc id="192" n="Hay una gran cantidad de ropa fina en esta casa. El anciano podría ser un sastre. Algunas de las túnicas aquí son familiares. Leonard llevaba una túnica como estas. Tal vez me podría enseñar una o dos cosas."/>
+<npc id="194" n="El abuelo me contó cuentos fascinantes sobre los dragones. Nunca pensé que un día iba a estar delante de una magnífica criatura como esta. No sabía que eran dragones mortales. Incluso los dragones mortales son tan poderosos que pueden engañar a la muerte."/>
+<npc id="195" n="Un hombre invisible. Sólo puedo ver sus pasos en el agua. Me pregunto quién es y por qué él vive en este lugar húmedo y oscuro. Veo un montón de cajas a su alrededor. Tiene que ser algún tipo de comerciante."/>
+<npc id="196" n="Este joven debe estar estudiando para convertirse en un sacerdote. Las mejillas y la nariz están sospechosamente rojas. La parte inferior de la túnica están muy sucias."/>
+<npc id="202" n="Veo un viejo, pero orgulloso mago de pie frente a mí. Su barba larga y sombrero puntiagudo se puede ver claro que es un mago. Sus ropas especiales también indican que debe ser uno de los grandes magos."/>
+<npc id="203" n="Se ve muy cansado. Sus ojos están cerrados por la mitad."/>
+<npc id="213" n="Esta joven parece ser un cazadora. Ella se ve que puede protegerse sola. Ninguna mujer en el bosque oscuro es tan musculosa."/>
+<npc id="214" n="Veo a un hombre con un arco y una daga afilada a su lado. El debe ser un cazador. Tiene una gran pata de oso que cuelga de su cinturón."/>
+<npc id="223" n="A pesar de su edad se ve un hombre capaz. El implacable sol y el aire seco del desierto hacen que su piel este agrietada. Me pregunto por qué no lleva puesto un sombrero."/>
+<npc id="224" n="Hay varias plumas de animales en su ropa y él tiene algún tipo de pintura por todo el cuerpo. El debe ser el líder de esta aldea."/>
+<npc id="100" n="El abuelo me contó cuentos fascinantes sobre los dragones. Nunca pensé que un día iba a estar delante de una magnífica criatura como esta. Este dragón gigante carmesí estaba durmiendo cuando entré en sus aposentos. Tan pronto como di el primer paso se despertó. Él no parece estar molesto por mi presencia."/>
+<npc id="252" n="Delante de mí se encuentra un viejo sacerdote. Sus prendas son diferentes a los otros sacerdotes. El debe de ser el sumo sacerdote de esta iglesia."/>
+<npc id="254" n="A medida que me acerco a este hombre alto y delgado, se hace evidente que es un mago. Se ve viejo, pero el se mueve con rapidez y sin esfuerzo. Bajo una capucha larga oscuro disimula sus ojos negros que parece que se salgan de su piel pálida. Me vio acercandome, pero no parece estar molestado por mi presencia. Hay un fuerte olor que biene de los libros viejos en su cabaña."/>
+<npc id="255" n="Al principio pensé que se trataba de Sam pero al acercarme vi esa forma de caminar y murmurando, me di cuenta que es muy diferente a Sam. Tengo una sensación de inquietud, el tiene miedo de algo."/>
+<npc id="256" n="Delante de mí hay un hombre jorobado. A juzgar por su larga barba es muy viejo. Hay todo tipo de pinturas en las paredes que lo rodean. Al mirar más de cerca todos ellos representan grandes trolls. El anciano silba mucho. Le podía oír desde lejos. De repente, una extraña criatura como un conejo salta a la vista detrás de él. Nunca vi algo así antes."/>
+<npc id="257" n="Ella es una mujer hermosa. Su largo pelo rubio corre hacia abajo sobre sus hombros. Sus ojos son de color azul claro, pero cuando miro en ellos se siente un gran dolor. Ella debe ser una mago porque hay varias pociones alrededor y tiene una varita de madera en la mano."/>
+<npc id="258" n="Se ve muy fuerte. Se mueve muy rápido. Él está señalando con sus manos todo el tiempo, como si el estubiera listo para atacar a alguien en cualquier momento."/>
+<npc id="259" n="Delante de mí hay un hombre joven. Tiene un extraño instrumento en la espalda. Al mirar alrededor de su casa me di cuenta de que hay numerosos instrumentos que cuelgan de las paredes. Tiene que ser un músico. Coge uno de sus instrumentos y comienza a tocar. La música que toca es rápida y no se parece a nada que haya escuchado antes. Sus dedos se mueven tan rápido que casi no puedo verlos."/>
+<npc id="260" n="Ella debe ser de otra tierra. Su piel es mucho más oscura que la mía. Su pelo corto es negro. Tiene muchas marcas blancas extrañas en su cara. Nunca he visto un cuero como el que ella está usando. Yo casi no me doi cuenta, pero ella tiene dos dagas encima y un gran arco hecho de una madera desconocida. Sus ojos me siguen a todas partes sin parpadear."/>
+<npc id="261" n="Ella es una mujer joven y elegante. Su largo pelo rojo cae sobre sus hombros. De algo me recuerda a Dayna. Siento la misma calma mientras estoy con Dayna. Tal vez es un druida también? Al mirar alrededor de su casa veo que hay muchos jarrones etiquetados con hierbas secas en ellos. También hay una gran cantidad de libros perfectamente ordenados en sus estanterías, algunos de ellos son muy viejo."/>
+<npc id="262" n="Este hombre es claramente un guerrero de cierta clase. Su rostro está lleno de cicatrices, incluso su pelo largo canoso no puede ocultarlo. Su armadura ofrece una buena protección y una gran movilidad. El tiene una ceño fruncido en su rostro y al mirar más de cerca noto que tiene un solo ojo. El arma que lleva es enorme."/>
+</npc>

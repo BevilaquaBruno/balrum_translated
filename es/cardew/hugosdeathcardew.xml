@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Qué sabes acerca de la muerte de Hugo, Cardew?"/>
+    <dia npc="0" str="Hugo es mi mejor amigo."/>
+    <dia pl="1" str="Si lo sé, Cardew, pero Hugo ya no esta con nosotros. Recuerdas como murió?"/>
+    <dia npc="1" str="Hugo murió por culpa del profundo pozo. Fue el pozo que le causo problemas. No me gusta el pozo."/>
+    <dia pl="2" str="Qué quieres decir? El pozo le metió en problemas? Murió a causa de algo relacionado con el pozo?"/>
+    <dia npc="2" str="Déjame. Déjame solo. Tu no eres Hugo."/>
+	<dia pl="3" str="Lo siento, Cardew." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

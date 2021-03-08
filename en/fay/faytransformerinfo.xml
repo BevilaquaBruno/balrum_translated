@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I found the mage."/>
+    <dia npc="0" str="What happened? Are the rumors true? Did he transform people into monsters?"/>
+    <dia pl="1" str="He is dead. I found his diary. He wanted to become a master of transformation. The members of the guild made fun of him because his first attempts did not work. He decided to live in the cave so he can continue his work in peace. There was a giant beetle near his corpse. The beetle must have been a transformation attempt."/>
+    <dia npc="1" str="Transformation magic is complicated. The others did make fun of him. They should not have. I'm really sorry for him. Thank you for your help."/>
+	<dia pl="2" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

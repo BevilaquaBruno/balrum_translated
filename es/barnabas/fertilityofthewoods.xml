@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Sabes más acerca de los bosques Barnabas?"/>
+    <dia npc="0" str="No mucho muchacho, pero una cosa es cierta. Estos bosques son una fuente de fertilidad. Solamente sabía esto antes.."/>
+    <dia pl="1" str="Antes qué?"/>
+    <dia npc="1" str="Qué? De qué estábamos hablando? Oh nada. Nada muchacho."/>
+    <dia pl="2" str="..." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

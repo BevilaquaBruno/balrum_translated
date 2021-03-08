@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Aquí está el veneno."/>
+    <dia npc="0" str="Finalmente! Pensé que tenias miedo, muchacho! Voy a comenzar de inmediato."/>
+    <dia pl="1" str="Cuando sucederá?"/>
+    <dia npc="1" str="No lo podemos saber. Esperemos que no se enteren."/>
+	<dia pl="2" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

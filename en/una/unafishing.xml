@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="The smell of fish is really strong here."/>
+    <dia npc="0" str="You don't say."/>
+    <dia pl="1" str="Has anything interesting happened lately?"/>
+    <dia npc="1" str="Not much."/>
+    <dia pl="2" str="Can I help you with something?"/>
+    <dia npc="2" str="Yes you can. I need some good quality linen for my nets. They are getting old and the holes on them are getting too big."/>
+	<dia pl="3" str="Where can I get you the linen you need?"/>
+    <dia npc="3" str="Just south from here is the large flax farm. They should have plenty of linen. Ask around there if you have trouble finding some for me. I cannot give you anything in return. Twelve pieces should do the trick."/>
+    <dia pl="4_0" str="I'll see what I can do." jumpNPCd= "5" jumpPlayerd = '6'/>
+    <dia pl="4_1" str="I don't care about your nets."/>
+    <dia npc="4" str="You should because those nets put food on people's tables."/>
+    <dia pl="5" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia npc="5" str="How noble of you to help me for free! I'll look around. I'm sure I can find you something worth your time."/>
+    <dia pl="6" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

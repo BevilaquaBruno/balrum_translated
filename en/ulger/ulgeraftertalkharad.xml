@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="There is an apprentice blacksmith in the city. His name is Harad. He watches over the old smithy day and night, even though he doesn't work as a smith. He is a dedicated fellow. You two should work together. You could teach him."/>
+    <dia npc="0" str="That would be wonderful, but I cannot go to the city. The rebels would kill me."/>
+    <dia pl="1" str="What if Harad and the smith came to you?"/>
+    <dia npc="1" str="What are you talking about?"/>
+    <dia pl="2" str="I could build the smithy for you here in this cave and I am certain that Harad would be more than willing to come here and work with you."/>
+    <dia npc="2" str="You would do that? We could make all kinds of things. This cave is full of precious metals. If you do this for me I will make you a fine armor. I cannot believe it. A smithy here in the cave. What a great idea."/>
+	<dia pl="3" str="I will start building the facilities and I will talk to Harad as soon as possible."/>
+    <dia npc="3" str="Thank you, stranger. You've given a new meaning to my life. I can never repay you."/>
+	<dia pl="4" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

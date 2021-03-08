@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I'm looking for work."/>
+    <dia npc="0" str="I heard you helped Eliza. I trust you are not a rebel, are you?"/>
+    <dia pl="1" str="I'm not a rebel. Not even close."/>
+    <dia npc="1" str="Can I trust you, boy?"/>
+    <dia pl="2" str="I guess you will send me on a mission so I can earn your trust. Am I right?"/>
+    <dia npc="2" str="Ha ha! You are right, boy! I was going to ask you for a favour, but I have a good feeling about you so it's not necessary. The only thing I have to know about you now is that you can make hard decisions. Like, who lives and who dies."/>
+    <dia pl="3" str="What are you talking about?"/>
+    <dia npc="3" str="These rebels are milking every single person in the realm. They are the worst. Many of us have already fled the kingdom. I have heard stories about what they did to women after they captured the castle. Not only that, but they killed most of the nobles. If you don't believe me, just go to the church and look around. They've moved into the houses that belonged to the nobles."/>
+    <dia pl="4" str="What are you planning?"/>
+    <dia npc="4" str="I have been working on this for years. I might be able to get rid of most of them if I poison the wheat."/>
+    <dia pl="5" str="That is mass murder, old man!"/>
+    <dia npc="5" str="I'm an old man alright but I will never forget what they did. Will you help me or not?"/>
+    <dia pl="6_0" str="I won't be a part of this."/>
+    <dia pl="6_1" str="Those bastards will pay. What do you need?" jumpNPCd= "7" jumpPlayerd = '8'/>
+    <dia npc="6" str="Some day I will have my revenge, boy."/>
+    <dia pl="7" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia npc="7" str="I need a poison they cannot detect. Their alchemist always checks the food. The only poison they cannot identify is snake poison. We will need a lot of it."/>
+    <dia pl="8" str="How much do you need?"/>
+    <dia npc="8" str="Bring me ten of their fangs. Each of them needs to be full of poison."/>
+    <dia pl="9" str="How many of them will die?"/>
+    <dia npc="9" str="They will soon realize that something's wrong. Not all of them will eat from the poisoned food. I know what we are doing is wrong, but I hope we kill many of them."/>
+	<dia pl="10" str="I will be back with the poison."/>
+    <dia npc="10" str="Be careful, boy. I await your return."/>
+	<dia pl="11" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

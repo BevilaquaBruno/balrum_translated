@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Are you a member of the mages' guild?"/>
+    <dia npc="0" str="Welcome traveler. You have completed the puzzles presented to you at the lower levels. This means you have the right to be here. Indeed, I am a member of the mages' guild. What may I help you with?"/>
+    <dia pl="1" str="Leonard, a former member of your guild, sent me here. I need to find the remains of the Darkwood necromancers. Leonard told me your guild knows where they are."/>
+    <dia npc="1" str="Indeed. Many years ago our guild was given the task of sealing the final resting places of the necromancers' remains with powerful magic."/>
+    <dia pl="2" str="Can you tell me where they hid the remains?"/>
+    <dia npc="2" str="I'm afraid I cannot. I can sense that you are not an ordinary traveler. Still I cannot make exceptions. The knowledge that you seek is a secret to outsiders. Only members of the guild or members of the warriors' guild may seek out this information. You are not a member of either guild."/>
+	<dia pl="3" str="My quest is of utmost importance. People's lives are in danger. I need this information."/>
+    <dia npc="3" str="Please. Lower your voice. I understand, but I cannot help you. You have to be a member of one of the guilds so we know that you are to be trusted."/>
+    <dia pl="4_0" str="How can I become a member of the mages' guild?"/>
+    <dia pl="4_1" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia npc="4" str="Continue along these corridors. You will find members of the guild doing their daily tasks. Find a man named Van. He's responsible for the recruits. He will have answers for you."/>
+	<dia pl="5" str="Thank you." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+   <dia pl="0" str="Por qué hay cadáveres en la trastienda? Explícate!"/>
+   <dia npc="0" str="Como, como lo sabes?"/>
+   <dia pl="1" str="He encontrado tu poción. Por que ocultas cadáveres? Dímelo, o se lo voy a decir a los demás ahora mismo."/>
+   <dia npc="1" str="Cálmate. ya se como me ves, pero no soy ningún asesino loco. Estoy estudiando los cuerpos de los difuntos. Soy un sanador, pero digamos que no soy uno tradicional. yo curo sin hechizos, 	Estoy investigando este nuevo tipo de curación por que cada vez hay menos sanadores en Balrum. La gente no lo va a entender, por eso tengo que ocultar mi investigación."/>
+   <dia pl="20" str="Yo no te creo! La gente tiene que saber lo que estas haciendo con sus seres queridos." jumpNPCd= "0" jumpPlayerd = "0"/>
+   <dia pl="21" str="Que es una nueva forma de sanación?"/>
+   <dia npc="2" str="En lugar de curar con magia lo hago con mis manos y con medicina especial."/>
+   <dia pl="3" str="Eso suena a bárbaro pero te creo. Puedo llevarme un poco de tu medicina especial"/>
+   <dia npc="3" str="Si claro, pero por favor no rebeles mi investigación. Sabía que el olor me iba a traer problemas."/>
+   <dia pl="4" str="No lo haré. Cuando haya terminado con los cuerpos, deles el respeto que merecen." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

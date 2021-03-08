@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Por que has construido tu casa entre las dos aldeas, Spike?"/>
+    <dia npc="0" str="No pertenece a ninguna localidad. Yo me encontraba en casa de mi hermana, cuando los dos lideres de la aldea se presentaron en su casa. Su nombre es Posy. Le dijeron que iban a escapar a los bosques para protegerse de los bandidos. Mi hermana quería que fuera con ellos, yo tenia miedo, así que decidí unirme. Despues de unos días en el bosque mi hermana murió cuando dio a luz a su bebe. Ese bastardo de su marido se largo cuando supo que tendría que levantar al niño solo. No me siento cómodo con los demás, ese es el motivó por el que vivo aquí solo."/>
+    <dia pl="1" str="Que paso con el hijo de tu hermana?"/>
+    <dia npc="1" str="A..  No lo sé. Estoy avergonzado, pero yo no lo sabría cuidar. No estaba preparado para un niño pequeño. Uno de los lideres de la ciudad lo adoptó. Creo que dijeron de kyler. No he oído hablar de el desde entonces."/>
+    <dia pl="2" str="Fin." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

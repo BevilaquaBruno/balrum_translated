@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="How are things in the asylum?"/>
+    <dia npc="0" str="Welcome, welcome! Thank you so much for asking. The asylum and its patients are exceptionally well, thank you."/>
+    <dia pl="1" str="I heard screams. Are you sure everything is fine?"/>
+    <dia npc="1" str="Nonsense! You are in an asylum, my child. There ought to be a few screams. You see, the poor souls who live here are quite unstable. We are the ones who make their life a little bit bearable. You see, there is no cure for their illness."/>
+    <dia pl="2" str="How do you know that there is no cure?"/>
+    <dia npc="2" str="My predecessors tried to find a cure. They all failed. I decided to help these people and not to experiment with them. I think that's enough for today. Thank you for visiting."/>
+	<dia pl="3" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

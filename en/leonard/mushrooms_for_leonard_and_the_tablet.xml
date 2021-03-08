@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Here are the mushrooms that Barnabas owed you."/>
+    <dia npc="0" str="Perfect. Next time that old man has to be more precise."/>
+	<dia pl="1" str="What about the stone tablet? Have you translated it yet?"/>
+    <dia npc="1" str="Yes, my boy, I have."/>
+    <dia pl="2" str="And? What does it say?"/>
+    <dia npc="2" str="Boy, the village is great danger."/>
+    <dia pl="3" str="What? What's the problem?"/>
+    <dia npc="3" str="This is what the carvings mean. 'Audie, Puck, Frieda. In life and death you will serve us forever.'"/>
+    <dia pl="4" str="Who would write such a thing? What can this mean?"/>
+    <dia npc="4" str="Now I remember. I saw a familiar stone tablet at the necromancer's tower. If the necromancers are not dead, then Darkwood is a dangerous place to live in. When I was exploring the tower I was only able to get to the second floor. I felt a dark presence but I attributed it to the ghosts that haunt the corridors. I don't know, but something might be in that tower that we don't know about. Many have tried to explore the tower but none have ever come back. This is why Arlo prohibited anyone from entering the tower. I guard the key to the tower."/>
+    <dia pl="5" str="Now I understand why Grandpa told me not to go near the tower. We need to tell everyone about this!"/>
+    <dia npc="5" str="No, boy! Don't tell anyone yet. If panic breaks out people might leave the woods and until we know for certain what's happening the woods are a safer place than the outside world."/>
+    <dia pl="6" str="But the Packs are probably already dead!"/>
+    <dia npc="6" str="I fear that too, my boy. We need to prevent anything like that from happening again. The outside world is a dangerous place to be for women and children. Even for a strong man like you."/>
+    <dia pl="7" str="I understand. How could have this happened? And why now?"/>
+    <dia npc="7" str="I don't know. We might know more if you fully explore the tower."/>
+    <dia pl="8" str="I will do what I can."/>
+    <dia npc="8" str="This is not an easy task. You will need to use everything that you have learned from me and the other masters. Here, take these potions."/>
+    <dia pl="9" str="Thank you, Leonard."/>
+    <dia npc="9" str="Here is the key to the tower. You will need to figure out how to get to the top of the tower by yourself. The second floor is a large maze. I barely found my way out of it. I don't know what awaits you beyond the second floor. "/>
+    <dia pl="10" str="Wish me luck, Leonard."/>
+    <dia npc="10" str="Be extremely careful, my Son. The village's fate might be in your hands. I will go through all of my books. Maybe I will find something that will help us."/>
+	<dia pl="11" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

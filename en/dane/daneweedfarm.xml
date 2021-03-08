@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Are you in charge of this farm?"/>
+    <dia npc="0" str="Sure! Are you interested in some mahoka?"/>
+    <dia pl="1" str="Mahoka?"/>
+    <dia npc="1" str="Weed. We call our weed mahoka. It's so special it has to have its own name. We harvest the weeds early, when they are young. Then we dry them for weeks with smoke. Not some ordinary black smoke. We burn pinewood. So, are you interested?"/>
+    <dia pl="2" str="Yes. I need a pack."/>
+    <dia npc="2" str="Good. Good. Look here. Usually we charge a lot for our product but you are in luck! The goofy people in the asylum ordered a large pack. My men here are unable to deliver the package. They smoked a little too much you see. Take this package to the asylum and I will give you a pack for your troubles."/>
+	<dia pl="3_0" str="I have no time to be a delivery boy."/>
+	<dia pl="3_1" str="Give me the package. I will deliver it for you." jumpNPCd= "4" jumpPlayerd = '5'/>
+    <dia npc="3" str="Alright. Then you can buy a pack from me anytime you want!"/>
+    <dia pl="4" str="Alright. Thanks." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia npc="4" str="Alright then take it. My boys might be out of it now, but the effect will fade and if you cheat on me they will find you."/>
+	<dia pl="5" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

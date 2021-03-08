@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="How can you be alive?"/>
+    <dia npc="0" str="Kill me."/>
+    <dia pl="1" str="I might be able to help you! "/>
+    <dia npc="1" str="I've been here for countless years. Please kill me."/>
+    <dia pl="2" str="Who are you?"/>
+    <dia npc="2" str="I'm one of King Triston's soldiers. The monstrous things we did. Our commander told us that we cannot be certain who is evil and who is innocent. We slaughtered everyone. Even the children. I remember the face of a beautiful young woman. She was right where you are standing. She was staring at me. I was covered in blood. The woman looked me right in the eye and said 'You will never kill us all'. Then she sliced me in half. The pain! I feel the pain! For how many years.. I still feel the pain. She put a spell on me so I could not move. And she forced me to drink a potion. I understand now. I deserve it. We were just like them. Taking innocent lives."/>
+	<dia pl="3" str="How can I help you?"/>
+    <dia npc="3" str="Please kill me! This is the only thing you can do for me."/>
+    <dia pl="40" str="I won't kill you. You deserve to rot for all eternity." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia pl="41" str="I shall do what you ask." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="'Estas apunto de preguntarle por Dayna pero de repente te das cuenta de que la gente de fuera del bosque oscuro no pueden saber que hay personas que viven en el bosque.' Saludos. Estoy buscando trabajo."/>
+    <dia npc="0" str="Bienvenido! Ah, una nueva cara. Claro que tengo trabajo para ti, pero no puedo ofrecer mucho a cambio. Soy la única sanadora que queda en Erdal y los rebeldes no ayudan en nada. Los niños están débiles debido a que los alimentos que comen no son ni de calidad ni cantidad. Esto les hace enfermar con facilidad por lo que cada vez necesitan más y más hierbas. Sería muy amable por tu parte si me trajeras veinte hierbas de la vida y diez grosellas."/>
+    <dia pl="1_0" str="Perdona, tengo otras cosas que hacer." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia pl="1_1" str="Puedo ayudarte! Y no te preocupes por el pago. Sabiendo que los niños se beneficiaran de mi ayuda es suficiente."/>
+    <dia npc="1" str="Gracias extranjero. Es agradable encontrar a gente servicial como tu en estos tiempos. Si deseas saber cosas acerca de la curación solo tienes que preguntar. Estos viejos tiempos que he acumulado me han enseñado un sinfin de trucos que son muy interesantes, estoy segura."/>
+    <dia pl="2" str="Tengo esta sensación extraña. Eres un druida?"/>
+    <dia npc="2" str="Como lo supiste? Si lo soy. Hace unos pocos años.. o no tan pocos, hace muchos años yo y mi buena amiga Dayna fuimos enviadas a Erdal para ayudar aquellos que lo necesitaran. Nos enseñaron a no juzgar a alguien solo ayudarlos. Tu podrías preguntarte por que esto es importante, pero cuando piensas en ello cuando la vida de alguien esta en peligro no debes de pensar en lo que hizo o dejo de hacer, por que eso te hace perder mucho tiempo valioso e incluso un corto periodo de tiempo puede marcar una diferencia."/>
+    <dia pl="3" str="Fue un golpe de suerte."/>
+    <dia npc="3" str="Si. Seguro que fue un golpe de suerte, joven."/>
+    <dia pl="4" str="Volveré cuando tenga las hierbas y bayas."/>
+    <dia npc="4" str="Gracias."/>
+	<dia pl="5" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

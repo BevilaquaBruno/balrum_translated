@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="He encontrado a Murray!"/>
+    <dia npc="0" str="Muy bien! Donde estaba esa maldita cosa? Ahh, no importa. Murray! Ves a buscar mis botellas de cristal, rápido! Míralo. No es bueno para nada. Es realmente necesario perfeccionar mis métodos. Si tan solo pudiera perfeccionar mis métodos. El podría responder a muchas de mis preguntas."/>
+    <dia pl="1" str="Quién es ese arquitecto?"/>
+    <dia npc="1" str="El es el que tubo la idea de construir la ciudad subterránea hace miles de años. Controlo docenas de golems de piedra gigantes que le ayudaron a realizar la excavación y la construcción. Las leyendas dicen que era un gran nigromante. De algún modo logro ser el consultor del rey. Creo que diseño la ciudad subterránea parar su causa maligna. El era un verdadero gran nigromante. No tengo tiempo para hablar de leyendas. Aquí, toma esto, es tuyo. Ahora déjame."/>
+	<dia pl="2" str="Fin" jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

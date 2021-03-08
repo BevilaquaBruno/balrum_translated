@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Puedo hablar contigo ahora?"/>
+    <dia npc="0" str="Por suerte para ti no has hecho daño a ninguno de ellos. No puedes hablar de esto con nadie. Ellos son solo niños y están seguros ahí. Qué quieres?"/>
+    <dia pl="1" str="Necesito encontrar los restos de los nigromantes del bosque oscuro."/>
+    <dia npc="1" str="Una misión interesante. Max me ha dicho que has sido amable con ellos. Fuiste capaz de encontrar a los niños; Tu podrías ser justo el tipo que estamos buscando."/>
+    <dia pl="2" str="Justo el tipo? Que estás insinuando?"/>
+    <dia npc="2" str="Te daré más información si puedo confiar en ti. Hazme un favor. Los tontos de los rebeldes se mantienen alejados de la iglesia de la capital por alguna razón. No lo han visto. Yo se que existe un adorno valioso en esa iglesia. Si me lo traes sabré que eres de confianza."/>
+	<dia pl="3_0" str="Quién te crees que soy? Un ladrón de pacotilla? No voy a robar a la iglesia!"/>
+	<dia pl="3_1" str="Si hago esto, me ayudaras en mi misión?" jumpNPCd= "4" jumpPlayerd = '5'/>
+    <dia npc="3" str="Bueno. Cometí un error. No eres nuestro tipo de persona."/>
+    <dia pl="4" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia npc="4" str="No nos precipitemos. Si lo haces, me pensare si ayudarte."/>
+    <dia pl="5" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

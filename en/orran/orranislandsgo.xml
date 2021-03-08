@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Here is your money Orran. When can we leave?"/>
+    <dia npc="0" str="Right now young man."/>
+    <dia pl="1" str="Take me to Crocodile Island Orran." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

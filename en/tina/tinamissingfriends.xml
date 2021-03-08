@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="You look upset."/>
+    <dia npc="0" str="Don't come closer!"/>
+    <dia pl="1" str="Calm down, I'm not going to harm you."/>
+    <dia npc="1" str="Two of my dear friends are missing and I haven't seen you around. Who are you?"/>
+    <dia pl="2" str="I'm a simple traveler. You don't have to fear me. I came to the city looking for work."/>
+    <dia npc="2" str="I've got work for you. Find my friends!"/>
+    <dia pl="3" str="Not so fast. Tell me everything that happened."/>
+    <dia npc="3" str="They are called Zelma and Patty. They both live here in the commoners' houses. Both of their houses are right next to mine. Zelma went missing weeks ago. Patty disappeared yesterday. I fear for the worst. Who would kidnap them?"/>
+    <dia pl="4" str="I don't know what happened."/>
+    <dia npc="4" str="Zelma told me about a man she was visiting. She and Patty were talking a lot about him. Every time I saw them whispering their cheeks turned red. It has something to do with that man."/>
+    <dia pl="5" str="Do you know anything else? Have you seen the man?"/>
+    <dia npc="5" str="There were a few times when I saw Zelma sneaking into the forest. Right before Zelma disappeared I think I saw the both of them sneaking into the forest together."/>
+    <dia pl="6" str="Can you tell me the direction they went?"/>
+    <dia npc="6" str="To the south. Zelma is a reckless young woman. She was working for Sabrina. She tried to lure Patty to work for Sabrina, too. I think Zelma met that man at the brothel. That's all I know."/>
+    <dia pl="7" str="I will try to find them."/>
+    <dia npc="7" str="Thank you stranger. It's good to see true hearted people can still be found in this corrupted world of ours."/>
+	<dia pl="8" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

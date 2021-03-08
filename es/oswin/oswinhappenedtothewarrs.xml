@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Qué paso con la alianza? Por qué estáis en este campamento?"/>
+    <dia npc="0" str="Los rebeldes ocuparon nuestros cuarteles. Hace muchos años fue en el momento que estabamos luchando para expulsar a los muertos vivientes de nuestras fronteras. Los no-muertos son inofensivos si están lejos de las personas, pero se las arreglaban para pasearse por nuestras fronteras a veces. Conseguimos empujar a las hordas lejos de nuestras fronteras pero perdimos una gran cantidad de hombres y estábamos agotados. Los sangrientos rebeldes salían de la nada. A pesar de que aún se estaban recuperando de la batalla en la capital. No tuvimos oportunidad. Durante años hemos tenido que vivir en estos campamentos. Un día nos vengaremos de esos sucios rebeldes."/>
+	<dia pl="1" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

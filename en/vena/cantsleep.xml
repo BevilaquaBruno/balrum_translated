@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+   <dia pl="0" str="How are you today?"/>
+   <dia npc="0" str="I'm exhausted. This crystal is making a racket. I don't even remember the last time I had a good night's sleep. Only Adacus can tell when Hugh will finish with the damned thing."/>
+   <dia pl="1" str="I might be able to help you with your problem."/>
+   <dia npc="1" str="Do what you have to do. I don't care. Just make it stop!"/>
+   <dia pl="2" str="End." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

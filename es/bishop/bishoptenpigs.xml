@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Eres dueño de esta gran finca?"/>
+    <dia npc="0" str="Si, lo soy. Qué te trae por aquí, joven?"/>
+    <dia pl="1" str="Busco trabajo."/>
+    <dia npc="1" str="Pues has llegado al lugar correcto chico! Yo puedo ofrecerte trabajo. Últimamente mis cerdos no están en muy buen estado de ánimo. Si esto sigue así no habrá suficiente carne para el pueblo. Creo que la única forma es introducir cerdos de otra granja."/>
+    <dia pl="2" str="Necesitas traer cerdos a la granja?"/>
+    <dia npc="2" str="Exacto! Si me traes 10 cerdos te pagaré generosamente."/>
+	<dia pl="3" str="Lo intentaré."/>
+    <dia npc="3" str="En las aldeas encontrarás más seguramente. Espero que tengas éxito."/>
+	<dia pl="4" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

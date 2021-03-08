@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+   <dia pl="0" str="Here is the blindweed you asked for Walker."/>
+   <dia npc="0" str="Good. Are you ready for your next task?"/>
+   <dia pl="1" str="Another task?"/>
+   <dia npc="1" str="I told you, you need to do me a few favours before I'll teach you."/>
+   <dia pl="2" str="What do I need to do this time?"/>
+   <dia npc="2" str="You need to find me a human skull."/>
+   <dia pl="3" str="A human skull?"/>
+   <dia npc="3" str="Your hearing is perfectly good, dear child."/>
+   <dia pl="4" str="End." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

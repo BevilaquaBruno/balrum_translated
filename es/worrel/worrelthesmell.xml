@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Ketty no puede soportar el olor que viene de tu casa."/>
+    <dia npc="0" str="Lo que quieras, chico."/>
+    <dia pl="1" str="Deberías hacer algo. Al menos por el bien de ella."/>
+    <dia npc="1" str="No voy a mover ni el dedo meñique. La casa está bien como está."/>
+    <dia pl="2" str="No me dejas otra opción."/>
+    <dia npc="2" str="Qué vas hacer? Ha, no me hagas reír."/>
+	<dia pl="3" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

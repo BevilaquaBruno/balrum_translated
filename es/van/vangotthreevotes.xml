@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Me he ganado la confianza de Rod, Dex y Fay."/>
+    <dia npc="0" str="La tienes? He oído que ayudaste a Fay y que le hiciste un gran favor a Dex. Estaba lleno de alegría. Tenia algo que ver con los golems. Pero no he oído nada de otra persona."/>
+    <dia pl="1" str="También ayude a Rod. Tenía una tarea inusual pero la hice."/>
+    <dia npc="1" str="Ahh Rod. No le gustan los novatos. No me sorprende que no dijera nada. Entonces vale, con el hacen tres. Lo has hecho bien. A partir de ahora eres miembro del gremio de los magos! Tienes acceso completo a la torre. Iré a dar la noticia de tu éxito a los demás miembros. Estabas buscando respuestas, cuando nos encontraste la primera vez. Encontrarás lo que buscas en la antigua biblioteca. Toma esta runa, te llevara ahí. Cada acontecimiento importante se ha documentado a fondo. Los libros de nuestra biblioteca poseen un gran conocimiento. No te olvides de volver a dejarlos en su lugar y no te olvides de hablar con los demás. De ahora en adelante negociaran contigo y te enseñaran cosas."/>
+    <dia pl="2" str="Gracias, Van!" jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

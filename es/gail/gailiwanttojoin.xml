@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Necesito encontrar las ruinas de los nigromantes del bosque oscuro."/>
+    <dia npc="0" str="Quien te envía?"/>
+    <dia pl="1" str="Morven."/>
+    <dia npc="1" str="Esta bien, necesitas nuestra ayuda para encontrar las ruinas?"/>
+    <dia pl="2" str="Si. Un anciano me dijo que podría encontrar lo que estoy buscando en el gremio de magos."/>
+    <dia npc="2" str="Entonces por que estas aquí? Por qué no estas en el gremio de magos pidiendoles ayuda? No importa. Podríamos ayudarte, pero solo si eres miembro."/>
+    <dia pl="3" str="Qué tengo que hacer para ser uno de los vuestros?"/>
+    <dia npc="3" str="Hacer una simple tarea que te ordenaré, entonces te aceptaremos. Ya has demostrado ser dignó a otros miembros por eso estas aquí."/>
+    <dia pl="4" str="Cual es esa simple tarea?"/>
+    <dia npc="4" str="Algunos ya lo han intentado antes. Lamentablemente no hemos tenido un nuevo recluta desde hace años. Asumo que murieron. Tienes que explorar una antigua ruina. En algún lugar escondida hay una antigua daga. Tráeme esa daga."/>
+	<dia pl="5" str="Esa es una tarea sencilla? Me estas diciendo que los reclutas murieron, y ha esto le llamas una tarea sencilla?"/>
+    <dia npc="5" str="Es una tarea sencilla. No es mi culpa que los reclutas se hagan las cosas difícil ellos mismos. Es tu decisión. Si tienes miedo, entonces no hay razón por la que estés aquí."/>
+    <dia pl="6" str="Yo no tengo miedo."/>
+    <dia npc="6" str="Este es el espíritu! Te marcaré la ubicación. Aquí tienes la llave. Te abrirá la puerta principal de las ruinas. Las ruinas antiguas están protegidas por una poderosa magia. Te deseo suerte! Además, si encuentras algún recluta ahí adentro, por favor identificalos."/>	
+	<dia pl="7" str="Fin." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

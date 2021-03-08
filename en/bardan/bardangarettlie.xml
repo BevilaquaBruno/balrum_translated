@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="I talked to your son."/>
+    <dia npc="0" str="What happened?"/>
+    <dia pl="1" str="A churn of milk went wrong early. Your son is cleaning the churn right now. It won't happen again."/>
+    <dia npc="1" str="I hope it won't happen again. I'm going to tell Garett to taste every churn before he sells them. Thank you for looking into this. Here is the money. Please take it to Adia."/>
+    <dia pl="2" str="End." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>
