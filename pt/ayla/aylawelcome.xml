@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Parece que você precisa de ajuda."/>
+    <dia npc="0" str="Não há nada que eu possa fazer agora. Nada pode mudar o passado. Tudo teria sido muito melhor. Eu seria um grande mago da guilda dos magos agora. Eles me expulsaram por causa do meu chamado temperamento incontrolável. Eu disse a eles que a culpa é dele, não minha. Tudo é culpa dele."/>
+    <dia pl="1" str="De quem você está falando?"/>
+    <dia npc="1" str="Meu irmão. Ronius Stockius. Nossos pais morreram quando éramos jovens. Ele pegou tudo que pôde e me deixou sozinho. Ele me deixou sozinha em nossa casa vazia. Nenhuma coisa. Ele não me deixou nada! Você pode imaginar o que eu tive que fazer para ganhar a vida? Eu não tinha habilidades. Eu era apenas uma criança. Jurei que um dia teria minha vingança."/>
+    <dia pl="2" str="Isso é horrível. Sinto muito pelo que aconteceu com você. Mas as coisas estão bem agora, não estão?"/>
+    <dia npc="2" str="Boa? Você chama minha vida de 'boa'? Eu deveria ser uma grande maga! De uma forma ou de outra terei minha vingança! Você não se parece com aqueles idiotas em sua torre de mago. Hmmm. Você poderia me ajudar!"/>
+    <dia pl="3" str="Te ajudar com o quê?"/>
+    <dia npc="3" str="Com minha vingança! Tire tudo dele. A única coisa valiosa para ele é sua pesquisa. Ele não vai descobrir nada, seu idiota! Mas seus papéis significam tudo para ele. Melhor ainda! Mate ele! Sim, mate-o! O que você disse?"/>
+     <dia pl="4" str="Acho que vou embora agora."/>
+    <dia npc="4" str="Eu sabia que você não me ajudaria. Saia!"/>
+	<dia pl="5" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>
