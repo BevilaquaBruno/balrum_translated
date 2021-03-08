@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Nossa casa quase pegou fogo. Vovô está bem, mas preciso consertar os danos à casa. Vou precisar de alguns pregos e uma maçaneta decente."/>
+    <dia npc="0" str="Uma coisa horrível que aconteceu! Graças aos deuses, seu avô está bem. O velho usou sua magia, ouvi dizer. O que você precisa de novo?"/>
+    <dia pl="1" str="Eu preciso de alguns pregos. Os maiores para as paredes. E preciso de uma boa maçaneta para uma nova porta."/>
+    <dia npc="1" str="Sinta-se à vontade para olhar. Se você está construindo um novo piso, pode precisar de pedra. Eu te ensinei como extrair a pedra. Se você tiver sorte, poderá encontrar ferro ou até mesmo materiais mais raros enquanto quebra aquelas pedras grandes. Nesse caso, você pode vendê-los para mim ou fazer ferramentas ou mesmo armas com eles. Terei prazer em lhe ensinar a arte da ferraria. Seria bom para você e para mim também. Hoje em dia eu só faço equipamentos agrícolas e outras coisas chatas."/>
+	<dia pl="2" str="Obrigado Aron." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

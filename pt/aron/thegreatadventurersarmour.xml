@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Um aventureiro chamado Fleming me deu sua famosa armadura para reparos"/>
+    <dia npc="0" str="Mostra-me o trabalho, rapaz .. Ah, um belo pedaço de metal é este. Seu design me diz que foi feito há séculos. Uma verdadeira armadura pesada. Apenas os guerreiros mais fortes podem suportar seu peso. Está em péssimas condições, devo acrescentar. Existem grandes manchas de ferrugem nas grevas e no avambraço esquerdo."/>
+    <dia pl="1" str="avambraço?"/>
+    <dia npc="1" str="O avambraço é a peça da armadura que protege seu antebraço, garoto. Esta armadura requer limpeza e atenção regulares. O atual proprietário não sabe disso."/>
+    <dia pl="20" str="Você pode consertá-lo, Aron? Fleming é um homem pobre. Ele esperava que você pudesse fazer o trabalho de graça." jumpNPCd= "2" jumpPlayerd = '3'/>
+	<dia pl="21" str="Você pode consertá-lo? Fleming me deu algumas dúzias de táleres para o seu trabalho." jumpNPCd= "3" jumpPlayerd = '4'/>
+	<dia pl="22" str="Eu disse a Fleming que você poderia fazer o trabalho de graça porque hoje em dia você não pode trabalhar com armaduras e armas, então a famosa armadura dele pode ser um deleite para você." jumpNPCd= "4" jumpPlayerd = '5'/>
+    <dia npc="2" str="Seu amigo está sem sorte. Não posso fazer o trabalho por nada. Leve esta bela armadura para outra pessoa e diga a este Fleming que ele não deve esperar trabalho grátis de estranhos."/>
+	<dia pl="3" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia npc="3" str="Sim, meu garoto. Esta armadura é realmente interessante. Mas tenho que repor meu estoque de minério de ferro, porque estou acabando. Traga-me 10 pedaços de ferro e eu consertarei a armadura de Flaming. Fique com os táleres menino."/>
+    <dia pl="4" str="Obrigado Aron! Vou trazer o minério de que você precisa. Quando estará pronto?" jumpNPCd= "5" jumpPlayerd = '6'/>
+    <dia npc="4" str="Querido menino, você não deveria ter dito a ele que eu faria o trabalho de graça. Os reparos levarão muito tempo. Mas se você pudesse fazer meu trabalho enquanto estou consertando, poderíamos fechar um acordo! Estou ficando sem minério de ferro. Traga-me 10 pedaços de ferro e eu consertarei esta bela armadura. Vou começar o trabalho agora."/>
+	<dia pl="5" str="Vou trazer o minério de que você precisa. Quando estará pronto?"/>
+	<dia npc="5" str="Os reparos não devem demorar mais de um dia. Se você me trouxer os minérios, precisarei de pelo menos um dia para consertar esta armadura para você."/>
+	<dia pl="6" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

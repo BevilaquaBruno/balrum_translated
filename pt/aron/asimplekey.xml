@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Encontrei uma velha porta trancada com uma fechadura em forma de triângulo. Você pode fazer uma chave para isso?"/>
+    <dia npc="0" str="Eu com certeza posso garoto, mas por que você precisa abrir essa porta? Ela Foi fechada por um motivo. Você pode ter problemas."/>
+    <dia pl="1" str="Vai ficar tudo bem. O mais provável é que seja apenas uma velha cripta vazia."/>
+    <dia npc="1" str="Mais uma razão para não entrar lá! Mas se você quiser, posso fazer por você. Qual era o tamanho exato do triângulo?"/>
+    <dia pl="2" str="Tinha metade do comprimento do meu polegar. Obrigado por vir, Aron."/>
+    <dia npc="2" str="Aqui está. Nem pergunte, não foi problema nenhum para mim, então você não me deve nada."/>
+	<dia pl="3" str="Obrigado." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

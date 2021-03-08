@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Você sabe alguma coisa sobre as tábuas de pedra Aron?"/>
+    <dia npc="0" str="Durante toda a minha vida trabalhei com metal e pedra, mas nunca ouvi falar de uma placa de pedra. Desculpe, não posso te dizer nada sobre eles."/>
+	<dia pl="1" str="Obrigado de qualquer maneira, Aron." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

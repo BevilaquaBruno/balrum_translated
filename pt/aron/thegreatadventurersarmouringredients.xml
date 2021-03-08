@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+     <dia pl="0" str="Aqui estão os torrões de minério, Aron!"/>
+     <dia npc="0" str="Obrigado! Trabalhar nesta armadura trouxe de volta muitas memórias. Alguns agradáveis, outros nem tanto. Houve momentos em que fui forçado a trabalhar de graça. Esses dias acabaram agora. Sempre quis ser ferreiro, assim como meu pai. Eu tinha mais ou menos a sua idade quando percebi que havia me tornado um ferreiro melhor do que meu pai. Para minha surpresa, papai estava muito orgulhoso de mim. Achei que ele ficaria com ciúme. A armadura foi consertada. É um pouco mais pesado do que era porque ajustei algumas peças e reforcei-as."/>
+     <dia pl="0" str="Parece uma nova armadura! Você não deveria estar fazendo equipamentos agrícolas, Aron. Obrigado." jumpNPCd= '0' jumpPlayerd = '0'/>
+</dialogs>

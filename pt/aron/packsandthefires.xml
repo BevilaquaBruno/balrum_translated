@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Arlo diz que as tochas que você fez começaram os incêndios."/>
+    <dia npc="0" str="Absurdo. Minhas tochas são da mais alta qualidade. Arlo fica furioso se pensa que minhas tochas causaram os incêndios. Nem mesmo uma única tocha que fiz foi trazida de volta para reparos. Você realmente acha que duas tochas falham no mesmo dia? E por que a família desapareceu? Isso não faz sentido."/>
+    <dia pl="1" str="Eu sei que você é um grande mestre. Em nossa casa, o fogo começou longe da tocha na parede. A parede que contém a tocha não foi queimada. Não tenho ideia de como a família desapareceu. Não pode ser por causa de uma tocha."/>
+    <dia npc="1" str="Aí está. Eu sabia que minhas tochas estão bem. Arlo pode parar de me culpar pelos incêndios. Ele deve concentrar sua energia em encontrar os Packs."/>
+    <dia pl="2" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>
