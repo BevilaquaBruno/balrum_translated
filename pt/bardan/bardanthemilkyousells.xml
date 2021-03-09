@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Ouvi dizer que o leite que você vende está azedo. As pessoas estão exigindo um reembolso."/>
+    <dia npc="0" str="O que? Eu não vendo leite azedo! Meu leite é perfeito! Não é minha culpa que os camponeses imbecis deixam o leite ao sol e o bebem tarde demais. Quem reclamou?"/>
+    <dia pl="1" str="Vários clientes seus reclamaram. Três deles para ser exato."/>
+    <dia npc="1" str="Eu não posso acreditar nisso. Então, eles devem estar dizendo a verdade. Aqui está o reembolso. 150 táleres para três dos meus clientes. Espero que este dinheiro seja confiável para você. Volte para eles imediatamente. Aqui está um pouco mais para o seu tempo. E se você tiver algum tempo livre, vá falar com meu filho, Garett. Ele é o único responsável por encher os baldes de leite. Conte a ele sobre isso. Espero que ele não tenha feito algo estúpido."/>
+	<dia pl="2" str="Eu farei o que você pediu. Obrigado." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Falei com seu filho."/>
+    <dia npc="0" str="O que aconteceu?"/>
+    <dia pl="1" str="Uma batida de leite deu errado no início. Seu filho está limpando a batedeira agora. Não vai acontecer de novo."/>
+    <dia npc="1" str="Espero que não volte a acontecer. Vou dizer a Garett para provar cada batedida antes de vendê-los. Obrigado por olhar para isso. Aqui está o dinheiro. Por favor, leve para Adia."/>
+    <dia pl="2" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>
