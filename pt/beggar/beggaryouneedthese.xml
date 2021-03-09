@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Você precisa disso?"/>
+    <dia npc="0" str="Vo.. Misture Is.."/>
+	<dia pl="1" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

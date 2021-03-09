@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Aqui está."/>
+    <dia npc="0" str="Obrigado, meu jovem. Eu sou assim há muitos anos. Agora posso me vingar!"/>
+    <dia pl="1" str="Vingar-se?"/>
+    <dia npc="1" str="Um velho mago lunático fez isso comigo. Ele me amaldiçoou e seduziu minha adorável esposa."/>
+    <dia pl="2" str="Qual o nome dele?"/>
+    <dia npc="2" str="Seu nome é Lee. Agora que posso falar novamente, vou encontrá-lo e dar-lhe o que ele merece."/>
+	<dia pl="3" str="O que você vai fazer?"/>
+    <dia npc="3" str="Amaldiçoa-lo, é claro. Matá-lo não seria uma punição suficiente. Eu pensei sobre isso por muito tempo. No começo eu queria transformá-lo em um porco, mas alguém poderia matá-lo então. Eu quero que ele sofra por décadas. Vou transformá-lo em um rato. Um rato grande e gordo e fedorento, como ele realmente é."/>
+    <dia pl="4" str="Você tem certeza disso?"/>
+    <dia npc="4" str="Você faria o mesmo. Ele tirou minha liberdade e levou minha esposa."/>
+	<dia pl="5" str="Se cuida." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>
