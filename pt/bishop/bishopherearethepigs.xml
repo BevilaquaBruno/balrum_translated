@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Estou de volta com os porcos."/>
+    <dia npc="0" str="Você poderia olhar para isso! Você voltou e com os porcos. Bom trabalho, garoto. Aqui, pegue esse dinheiro. Você ganhou. Vamos torcer para que esses porcos apimentem os ânimos no cercado."/>
+	<dia pl="1" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>
