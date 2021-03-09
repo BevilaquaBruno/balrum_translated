@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Estou procurando trabalho."/>
+    <dia npc="0" str="Também estou procurando trabalho."/>
+    <dia pl="1" str="Como assim?"/>
+    <dia npc="1" str="Não há muito o que fazer ultimamente. Sou carpinteiro e desde criança faço arcos. Você gostaria de comprar um dos meus arcos? Ou talvez eu pudesse fazer um novo para você?"/>
+    <dia pl="2_0" str="Eu não preciso de um arco." jumpNPCd= "5" jumpPlayerd = '6'/>
+    <dia pl="2_1" str="Que tipo de arco você poderia fazer?"/>
+    <dia npc="2" str="Eu quero fazer algo realmente especial. Os antigos lenhadores me falaram sobre materiais que eram como prata brilhante. Eles dizem que essas coisas foram tocadas pelos deuses. Se eu pudesse obter o suficiente, poderia ser capaz de fazer um arco com essa substância. Existem todos os tipos de coisas que têm aquele estranho material prateado. Rochas, árvores até arbustos. O que você disse?"/>
+    <dia pl="3" str="Onde posso encontrar alguns e quantos você precisa?"/>
+    <dia npc="3" str="Essa é a parte difícil. Eu não encontrei nenhum em todos os meus anos. E quanto mais você consegue, melhor, pois não conheço o material. Não sei quanto custaria para criar um arco. Acho que você deveria me trazer pelo menos três peças."/>
+    <dia pl="4" str="Bom. Se eu os encontrar, vou trazê-los para você."/>
+    <dia npc="4" str="Ótimo! Eu não espero que você volte com eles logo. Não será uma tarefa fácil reunir todos eles, mas acho que valerá a pena."/>
+	<dia pl="5" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia npc="5" str="Como quiser."/>
+    <dia pl="6" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

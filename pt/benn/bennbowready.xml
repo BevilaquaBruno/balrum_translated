@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Você está pronto com o arco Benn?"/>
+    <dia npc="0" str="Olha só! É uma obra-prima! Aqui está! Use-o para sempre. Se não for pedir muito, por favor, diga às pessoas que eu fiz isso! Estou muito orgulhoso disso!"/>
+    <dia pl="1" str="Obrigado Benn. Eu irei." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>
