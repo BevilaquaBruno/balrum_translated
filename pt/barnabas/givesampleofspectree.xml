@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Eu achei a árvore! Aqui está uma amostra de sua casca Barnabas."/>
+    <dia npc="0" str="Obrigado meu menino. Agora me deixe em paz, eu preciso estudar isso."/>
+	<dia pl="1" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

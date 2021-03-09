@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Você descobriu alguma coisa sobre a árvore de prata?"/>
+    <dia npc="0" str="É fascinante! A amostra que você me deu está cheia de essência de vida. É incrível. E também muito perigoso. Nas mãos erradas, pode funcionar como uma arma. Todos os tipos de poções podem ser preparados com este ingrediente. Espere. O que você estava perguntando?"/>
+	<dia pl="1" str="Eu estava perguntando sobre a casca que te dei."/>
+    <dia npc="1" str="Sim Sim. É o sonho de um alquimista. Para encontrar uma substância como esta. Nunca ouvi ou li nada parecido. É tão puro que quase posso dizer que é sagrado."/>
+    <dia pl="2" str="Que uso temos para isso?"/>
+    <dia npc="2" str="Agora eu tenho que experimentar mais. O tempo dirá do que ele é capaz, mas acho que será capaz de curar até doenças graves!"/>
+	<dia pl="3" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Aqui estão todos os cogumelos de que o Leonard precisa."/>
+    <dia npc="0" str="Bom trabalho, meu rapaz. Vejo que você encontrou os cogumelos certos. Aqui está a poção que prometi. Agora vá e leve os cogumelos para Leonard."/>
+	<dia pl="1" str="Obrigado Barnabas." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

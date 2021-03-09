@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Leonard me mandou recolher os cogumelos que você deve a ele."/>
+    <dia npc="0" str="É isso! Eu sabia que tinha esquecido algo. Infelizmente, não estou com os cogumelos comigo. Eu usei todos eles ontem."/>
+    <dia pl="1" str="Não posso voltar de mãos vazias para Leonard. Ele estava um pouco zangado com você."/>
+    <dia npc="1" str="Droga. Não posso deixar meus experimentos autônomos agora."/>
+    <dia pl="2" str="Temos que descobrir algo. Tem certeza de que não tem mais nada? Existem muitas plantas por aqui."/>
+    <dia npc="2" str="Não, não sobrou nenhum. Eu tenho uma ideia! Você pode ir buscar os cogumelos sozinho? Eles geralmente crescem em grupos. Eles têm uma cor rosa claro. Você não pode perdê-los. Você precisa encontrar 5 deles."/>
+    <dia pl="30" str="Tudo bem Barnabas, vou fazer o seu trabalho e coletar os cogumelos para Leonard."/>
+    <dia pl="31" str="O que isso traz para mim, se eu fizer o trabalho em vez de você, Barnabas?" jumpNPCd= "4" jumpPlayerd = '5'/>
+    <dia npc="3" str="Obrigado, filho. Volte se você encontrar todos os cinco."/>
+    <dia pl="4" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia npc="4" str="Bem, eu posso te dar uma das minhas belas poções."/>
+	<dia pl="5" str="Tudo bem Barnabas, vou fazer o seu trabalho e coletar os cogumelos para Leonard. É melhor que essa poção seja boa." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

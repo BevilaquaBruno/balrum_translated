@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Você descobriu algo novo sobre os Wisps?"/>
+    <dia npc="0" str="Eu descobri algo? Se eu descobri? Bem, certamente que sim! Essas criaturas incríveis podem curar árvores doentes e até ressuscitar árvores mortas! Incrível! Incrível! .. Ohh eu já te disse isso."/>
+    <dia pl="1" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

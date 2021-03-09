@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Barnabas! Uma mulher esta terrivelmente doente. Os olhos dela estão ficando amarelos. Ela está tão fraca que não consegue se mover. Ela precisa de uma poção especial para curá-la!"/>
+    <dia npc="0" str="Olhos amarelos? Não há cura para isso, estou com medo. Espere! A casca que você coletou para mim pode ajudá-la. Vale a tentativa! Aqui, dê esta poção para ela. Vamos esperar que funcione."/>
+    <dia pl="1" str="Obrigado." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

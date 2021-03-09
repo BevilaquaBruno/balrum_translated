@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="A coisa mais horrível aconteceu! Fleta bebeu a poção e se transformou em um louva-a-deus gigante!"/>
+    <dia npc="0" str="O que? 'Barnabas dá uma olhada em sua prateleira de poções ..' Oh não, devo ter dado a você a poção errada. Eu sinto muito. Estou com tanta vergonha. Meu querido amor me deixou por causa disso. Porque sou tão esquecido. 'Barnabas fica parado e olha para a frente' Oh, mas pelo menos ela está curada agora. Ela não vai ter uma morte horrível!"/>
+    <dia pl="10" str="Dê-me rapidamente uma poção! Ainda temos uma chance de salvá-la!"  jumpNPCd= "2" jumpPlayerd = '3'/>
+    <dia pl="11" str="É tarde demais. Eu matei ela. Ela me atacou. Eu tive que me proteger."/>
+    <dia npc="1" str="Eu entendo garoto. Você não teve outra escolha. A culpa é minha. Se eu não tivesse dado a você a poção errada, nada disso teria acontecido."/>
+    <dia pl="2" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia npc="2" str="Podemos mudar a história! Eu criei um feitiço da poção. Você poderá usá-lo apenas uma vez, então tome cuidado."/>
+    <dia pl="3" str="Espero que não seja tarde demais." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>
