@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Estou aqui para minhas aulas Brown."/>
+    <dia npc="0" str="Bom, bom, meu querido menino. Agora que você sabe algumas receitas de cor, experimente fazer algumas sozinho. Vá e encontre todos os ingredientes para uma Poção de Cura Menor. Você só precisa de algumas plantas vitais crescidas e uma garrafa simples. Você pode encontrar as plantas por toda parte na floresta, são plantas grandes com folhas verdes escuras volumosas."/>
+    <dia pl="1" str="Eu sei, Brown. Eu voltarei com as poções."/>
+    <dia npc="1" str="Sinta-se à vontade para usar minha mesa de alquimia. Se Sam começar a resmungar, simplesmente ignore-o. Ele está acordado há mais de cem dias."/>
+    <dia pl="2" str="Espero não fazer uma bagunça como fiz da última vez."/>
+    <dia npc="2" str="A prática leva à perfeição, garoto."/>
+    <dia pl="3" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

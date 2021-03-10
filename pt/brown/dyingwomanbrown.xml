@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Há uma mulher que está terrivelmente doente. Seus olhos estão ficando amarelos. Ela não pode se mover. Ela precisa de uma poção de cura poderosa!"/>
+    <dia npc="0" str="Seus olhos estão ficando amarelos? Isso é um mau sinal. Receio não poder ajudá-la, rapaz."/>
+    <dia pl="1" str="Deve haver algo que possamos fazer para ajudá-la!"/>
+    <dia npc="1" str="Barnabas pode saber como lidar com isso. Vá rapidamente e diga a ele o que você me disse!"/>
+    <dia pl="2" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

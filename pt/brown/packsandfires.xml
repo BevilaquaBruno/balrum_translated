@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="O que você acha dos Packs e dos incêndios Brown?"/>
+    <dia npc="0" str="Não há informações suficientes sobre o que aconteceu, garoto. Não posso dizer que tenho uma opinião sobre o assunto."/>
+    <dia pl="1" str="A única coisa certa é que os Packs estão sumidos."/>
+    <dia npc="1" str="Duvido que eles sejam encontrados. Quando coisas ruins acontecem na vida, sempre há um pouco de boas também. O bom é que seu avô sobreviveu e você não estava em casa quando a tragédia aconteceu."/>
+    <dia pl="20" str="Como você pode dizer que eles não serão encontrados? Eles vão ser encontrados, eu sei disso." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia pl="21" str="Eu sinto o mesmo. Os Packs provavelmente estão perdidos para sempre." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

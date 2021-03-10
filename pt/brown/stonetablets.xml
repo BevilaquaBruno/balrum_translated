@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Você já ouviu falar em tábuas de pedra?"/>
+    <dia npc="0" str="Por que você está curioso sobre essas coisas? As tábuas de pedra são itens mágicos há muito esquecidos."/>
+    <dia pl="10" str="Thurza encontrou uma placa de pedra na casa dos Packs."/>
+    <dia pl="11" str="Encontrei uma placa de pedra na casa dos Packs."/>
+    <dia npc="1" str="Meu conhecimento sobre essas tábuas é bastante limitado. Mas uma coisa eu sei. Eles significam problemas. Se eu fosse você, ficaria longe deles. Onde está a placa de pedra agora?"/>
+    <dia pl="2" str="Está em nossa casa. O vovô está tentando traduzir o que está escrito nele."/>
+    <dia npc="2" str="Seu avô é um homem sábio, mas mesmo na velhice ele é um aventureiro de coração. Aconselho você a deixar a tábua de pedra em paz."/>
+    <dia pl="3" str="Obrigado, Brown. Os escritos nele podem ajudar a encontrar os Packs, então precisamos traduzi-los."/>
+    <dia npc="3" str="Nesse caso, você pode estar certo, mas tenha cuidado."/>
+    <dia pl="4" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>
