@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Você parece chateado. Qual é o problema?"/>
+    <dia npc="0" str="Bem-vindo, viajante. Presumo que você venha em paz. Você está certo. Estou chateado. Há um grande crocodilo matando nosso povo. Nós vivemos em harmonia com as criaturas selvagens por séculos, mas esta besta horrível continua atacando nossos pescadores."/>
+    <dia pl="1" str="Onde posso encontrar a besta?"/>
+    <dia npc="1" str="O que você vai fazer? Não queremos matar a criatura. Isso só vai irritar os outros."/>
+    <dia pl="2" str="Não há outra escolha. A besta é um perigo para sua aldeia. Pense nas crianças."/>
+    <dia npc="2" str="Você é o viajante certo. Obrigado por abrir meus olhos. Se você fizer essa tarefa, vou recompensá-lo com um item especial. Meus ancestrais receberam a chave da cripta perto de nossa aldeia de seus ancestrais há muitos séculos. Eu vou te dar essa chave."/>
+	<dia pl="3" str="Eu vou matar a besta." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

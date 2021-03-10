@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="A besta está morta."/>
+    <dia npc="0" str="Obrigado viajante. Aqui está a chave. Nunca ousamos descer lá."/>
+    <dia pl="1" str="Obrigado chefe."/>
+    <dia npc="1" str="Tenha cuidado ao descer lá. Meu avô me disse que ouviu barulhos estranhos vindo de lá e às vezes podemos sentir pequenos terremotos aparentemente emitindo daquele lugar."/>
+    <dia pl="2" str="Eu irei." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>
