@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="o quê você está fazendo aqui em baixo?"/>
+    <dia npc="0" str="Eu moro aqui. O que você está fazendo aqui?"/>
+    <dia pl="1" str="Por que você mora aqui? Você poderia viver em uma das aldeias. Seria uma vida melhor. Sem mencionar que seria muito mais seguro."/>
+    <dia npc="1" str="Eu não gosto de pessoas. Vivi aqui toda a minha vida. Bem, houve um tempo em que morei com meu marido. Mas isso foi há muito tempo."/>
+    <dia pl="2" str="Os animais selvagens não te assustam? Eu vi uma aranha gigante aqui e algumas larvas."/>
+    <dia npc="2" str="Por que eles me assustariam? Eles são meus filhos."/>
+    <dia pl="3" str="Seus filhos? O que você quer dizer?"/>
+    <dia npc="3" str="'A mulher de preto sorri para você.' Eu disse que eles são meus filhos. Você parece um pouco velho, mas vai servir! "/>
+	<dia pl="4" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>
