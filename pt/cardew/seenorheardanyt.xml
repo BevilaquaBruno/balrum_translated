@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Você viu ou ouviu alguma coisa, Cardew?"/>
+    <dia npc="0" str="Eu sei eu sei."/>
+    <dia pl="1" str="O que você sabe, Cardew? Falar devagar."/>
+    <dia npc="1" str="A linguiça de porco defumada é a minha preferida. Osric nunca me dá um. Onde coloquei a perna de veado? Você viu minha suculenta perna de veado?"/>
+    <dia pl="2" str="Não, Cardew, não vi sua comida. Pense em Cardew, você sabe alguma coisa sobre o desaparecimento dos Packs?"/>
+    <dia npc="2" str="Packs?"/>
+    <dia pl="3" str="Seus vizinhos, Pack, Frieda e Audie."/>
+    <dia npc="3" str="Audie? Às vezes brincamos de esconde-esconde. Ela pode ter minha perna de veado!"/>
+    <dia pl="4" str="Por favor, Cardew, tente se concentrar. Eles estão desaparecidos e sua casa pegou fogo. Você viu algo suspeito?"/>
+    <dia npc="4" str="Você quer brincar de esconde-esconde comigo? Mas onde está minha perna de veado? Por favor, diga a Audie para trazer de volta minha perna de veado."/>
+	<dia pl="5" str="Tome cuidado, Cardew." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

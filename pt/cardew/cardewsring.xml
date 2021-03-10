@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="O que aconteceu com seu anel, Cardew?"/>
+    <dia npc="0" str="Rhys. Ele roubou meu anel! Ele roubou meu anel! Ele roubou meu anel!"/>
+    <dia pl="1" str="Acalme-se, Cardew. Por que você acha que Rhys roubou seu anel?"/>
+    <dia npc="1" str="Eu disse a ele que meu anel é valioso. É azul, você sabe."/>
+    <dia pl="2" str="E ele tirou de você?"/>
+    <dia npc="2" str="Ele roubou meu anel! Ele roubou meu anel! Ele roubou meu anel!"/>
+	<dia pl="3" str="Vou falar com Rhys sobre o seu anel." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>
