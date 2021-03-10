@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Guardiões da luz."/>
+    <dia npc="0" str="Como você conhece essas palavras jovem?"/>
+    <dia pl="1" str="Eu os conheço de Arlo. Ele era membro da sua guilda há muito tempo."/>
+    <dia npc="1" str="Arlo? Faz muito tempo que não ouço falar daquele bastardo desertor. Ele deve estar escondido em algum lugar disfarçado de camponês enquanto lutamos para manter o que sobrou da guilda juntos. Aposto que sua vida fácil o tornava gordo e lento. O que você quer de nós?"/>
+    <dia pl="2" str="Preciso encontrar os restos mortais dos necromantes de Darkwood."/>
+    <dia npc="2" str="Agora, por que um jovem iria querer encontrar esses restos? Não é da minha conta, certo? É justo. Eu não posso te ajudar com isso. Apenas os magos sabem onde Triston escondeu os restos mortais. Vejo que você é membro da guilda dos magos. Eles devem permitir que você dê uma olhada em seus documentos antigos. Te desejo boa sorte."/>
+	<dia pl="3" str="Obrigado." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

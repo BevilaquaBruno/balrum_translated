@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Eu ajudei alguns membros. Posso entrar agora?"/>
+    <dia npc="0" str="Eu sei que você ajudou Ward. Também sei que você derrotou Rider em uma luta. Impressionante! E Lyre gostava muito de você quando perguntei sobre você. Então sim, garoto! Você é um honrado jornaleiro da guilda dos guerreiros. Eu te dou boas-vindas. A partir de agora, se o dever o chamar, você deve estar pronto para atender a todos os pedidos feitos por alguém acima de sua posição. Você é livre para sair do acampamento se não receber ordens para ficar lá dentro. Normalmente temos uma cerimônia de iniciação com o próprio rei, mas não temos um rei no momento. Não temos nem mesmo um lugar para ficar, então, por favor, perdoe nossa simplicidade. Sua primeira ordem é descansar. Você fez bem. Não podemos ajudá-lo com sua missão, mas agora que você é um de nós, você deve falar com Lee da guilda dos magos. Eles devem ser capazes de ajudá-lo. E não se esqueça de falar com os meninos. De agora em diante, eles negociarão com você e o ensinarão."/>
+	<dia pl="1" str="Estou honrado por fazer parte da guilda." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Eu encontrei os ladrões. Eles são todos crianças."/>
+    <dia npc="0" str="Crianças você diz? O que mais você descobriu?"/>
+    <dia pl="1_0" str="As crianças têm um zelador. Ele se chama Morven. Eles apenas roubam o que precisam para sobreviver. Seus pais foram mortos pelos rebeldes e eles vagaram pelas florestas por muito tempo. Morven os acolheu e escondeu no subsolo." jumpNPCd= "1" jumpPlayerd = '3'/>
+    <dia pl="1_1" str="Seus pais foram mortos pelos rebeldes e eles vagaram pelas florestas por muito tempo. Eles apenas roubam o que precisam para sobreviver."  jumpNPCd= "2" jumpPlayerd = '3'/>
+    <dia npc="1" str="Morven! Ele deve estar treinando as crianças para serem ladrões. Morven é membro do clã dos ladrões. Obrigado por nos trazer esta informação. Vamos agir imediatamente. Traremos as crianças aos magos. Eles não serão prejudicados."/>
+    <dia pl="2" str=" "/>
+    <dia npc="2" str="Compreendo. Eles não fazem mal a ninguém lá embaixo. Eles precisam da comida que roubam para viver. Eles são lutadores, os pequenos. Esperamos um dia retomar a capital. Até então, eles estão mais seguros lá."/>
+    <dia pl="3" str="Eu terminei a tarefa que você me deu. Você vai permitir que eu me junte a vocês?" jumpNPCd= "3" jumpPlayerd = '4'/>
+    <dia npc="3" str="Fale com os meninos aqui. Se você ganhar a confiança deles, iremos recebê-lo em nossa guilda!"/>
+    <dia pl="4" str=" Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

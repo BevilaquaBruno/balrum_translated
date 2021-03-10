@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Guardiões da luz."/>
+    <dia npc="0" str="Como você conhece essas palavras, jovem?"/>
+    <dia pl="1" str="Eu os conheço de Arlo. Ele era membro da sua guilda há muito tempo."/>
+    <dia npc="1" str="Arlo? Faz muito tempo que não ouço falar daquele bastardo desertor. Ele deve estar escondido em algum lugar disfarçado de camponês enquanto lutamos para manter o que sobrou da guilda juntos. Aposto que sua vida fácil o tornava gordo e lento. O que você quer de nós?"/>
+    <dia pl="2" str="Eu quero me juntar à sua guilda."/>
+    <dia npc="2" str="Não é um bom começo ser amigo de um traidor. Mas suponho que conhecer Arlo não tem nada a ver com sua lealdade. A base de nossa guilda é a confiança e a honra. Se você puder provar que merece confiança e é honrado, será aceito em nossa sociedade. Eu tenho uma tarefa pra você. Um de nossos membros está desaparecido há um tempo. Ele estava explorando a velha mina de carvão a nordeste daqui, logo acima da pedreira. Dê-me seu mapa e marcarei o local. Por que ele recebeu essa tarefa é confidencial. Saiba o que aconteceu com ele e relate de volta."/>
+	<dia pl="3" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>
