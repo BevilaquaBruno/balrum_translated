@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Você é o responsável por esta fazenda?"/>
+    <dia npc="0" str="Certo! Você está interessado em algum mahoka?"/>
+    <dia pl="1" str="Mahoka?"/>
+    <dia npc="1" str="Erva daninha. Chamamos nossa erva daninha de mahoka. É tão especial que precisa ter um nome próprio. Colhemos as ervas daninhas cedo, quando são jovens. Então, nós os secamos por semanas com fumaça. Não uma fumaça preta comum. Queimamos madeira de pinho. Então, você está interessado?"/>
+    <dia pl="2" str="sim. Eu preciso de um pacote."/>
+    <dia npc="2" str="Bom. Bom. Olhe aqui. Normalmente cobramos muito pelo nosso produto, mas você está com sorte! As pessoas patetas do asilo encomendaram um pacote grande. Meus homens aqui não podem entregar o pacote. Eles fumaram um pouco demais, você vê. Leve este pacote para o asilo e eu lhe darei um pacote para seus problemas."/>
+	<dia pl="3_0" str="Não tenho tempo para ser um entregador."/>
+	<dia pl="3_1" str="Dê-me o pacote. Eu vou entregar para você." jumpNPCd= "4" jumpPlayerd = '5'/>
+    <dia npc="3" str="Bem. Então você pode comprar um pacote de mim sempre que quiser!"/>
+    <dia pl="4" str="Bem. Obrigado." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia npc="4" str="Tudo bem, então pegue. Meus meninos podem estar fora de si agora, mas o efeito vai desaparecer e se você me trair, eles vão encontrar você."/>
+	<dia pl="5" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>
