@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Você tem uma bela casa aqui, Clay."/>
+    <dia npc="0" str="Eu conheço você? Quem é Você?"/>
+    <dia pl="1" str="Sou órfão, assim como você. Meu avô me acolheu quando eu era pequeno."/>
+    <dia npc="1" str="Eu não sabia que havia outro órfão na floresta."/>
+    <dia pl="2" str="Aprendi que o padre Hain criou você. Por que você o deixou?"/>
+    <dia npc="2" str="Não é da sua conta."/>
+    <dia pl="3" str="Me desculpe, você está certo. De alguma forma, me senti conectado a você porque ambos somos órfãos."/>
+    <dia npc="3" str="Não me desculpe. Eu tenho um problema com meu temperamento. Pelo menos foi o que o padre Hain me disse. Eu o deixei porque quando eu era pequeno ele me batia todos os dias. A menor coisa o deixava com raiva. Se eu fizesse algo errado, ele me bateria até que eu parasse de chorar. Eu o odeio."/>
+    <dia pl="4" str="Isso é horrível."/>
+    <dia npc="4" str="E isso não é tudo. Ele me obrigou a fazer tudo ao redor da igreja, mesmo quando eu era pequeno e fraco. Minha infância foi horrível. Ele nunca me deixou brincar com as outras crianças. A seus olhos, eu não passava de um de seus servos. Ele até disse às pessoas que não presto para nada. É por isso que o deixei assim que pude."/>
+    <dia pl="50" str="Como ele pôde fazer isso? Acho que você precisa saber que não é realmente um órfão." jumpNPCd= "5" jumpPlayerd = "6"/>
+    <dia pl="51" str="Eu deveria ir agora. Obrigado por me contar e sinto muito por você ter que suportar tudo isso."  jumpNPCd= "0" jumpPlayerd = "0"/>
+    <dia npc="5" str="O que você está falando?"/>
+    <dia pl="6" str="Seu pai está vivo, e seu tio também."/>
+    <dia npc="7" str="Você está mentindo. Meus pais morreram."/>
+    <dia pl="7" str="É verdade. Eu conheci seu tio. O nome dele é Spike, mas não sei onde seu pai está."/>
+    <dia npc="8" str="Você está me dizendo que meu pai está vivo?"/>
+    <dia pl="8" str="Sim!"/>
+    <dia npc="9" str="Saia daqui. Agora!"/>
+    <dia pl="9" str="Eu sinto Muito..!"/>
+    <dia npc="10" str="Saia agora!"/>
+    <dia pl="10" str="Fim." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>
