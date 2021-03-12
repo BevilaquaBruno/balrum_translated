@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Ouvi dizer que você derrotou um golem uma vez, Fox!"/>
+    <dia npc="0" str="Uma vez recebi ordens para caçar um golem. O golem vagou muito perto de uma aldeia e começou a matar as pessoas que cruzavam seu caminho. Não havia nada de especial na caça, exceto uma coisa."/>
+    <dia pl="1" str="Qual foi a coisa especial?"/>
+    <dia npc="1" str="Não fui capaz de machucar a criatura. Nenhuma das minhas armas poderia machucá-lo."/>
+    <dia pl="2" str="Então, como você o derrotou?"/>
+    <dia npc="2" str="Na época eu era aprendiz de um grande caçador. Ele me disse que há muito tempo um jovem ferreiro descobriu como ferir essas criaturas. Sua arma precisa ter certos cristais forjados nela. É um procedimento muito simples. Tenho a sensação de que você está atrás daqueles golens de pedra que vagam por esta floresta. Seria irresponsável da minha parte não lhe dar uma arma, já que sei quando você coloca alguma coisa na cabeça .. Aqui, pegue isso, mas tenha muito cuidado. É uma arma muito antiga, não vale muito."/>
+	<dia pl="3" str="Você está correto Fox, como sempre. Obrigado pela arma." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>
