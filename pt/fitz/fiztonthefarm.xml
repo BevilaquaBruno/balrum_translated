@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="O que aconteceu aqui?"/>
+    <dia npc="0" str="Por quê você está aqui? Você é amigo do Moulton?"/>
+    <dia pl="1_0" str="Sim." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia pl="1_1" str="Não, sou apenas um cliente. Estou aqui por um pouco de trigo."/>
+    <dia npc="1" str="Bem, você está atrasado, garoto. O velho está morto. Agora eu tenho que cuidar desta fazenda fedorenta."/>
+    <dia pl="2" str="Morto? O que aconteceu?"/>
+    <dia npc="2" str="O velho tentou nos envenenar. Devo dizer que foi muito inteligente e corajoso da parte dele, mas ele não foi tão corajoso quando conversamos um pouco com ele. Ha ha!"/>
+	<dia pl="3" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>
