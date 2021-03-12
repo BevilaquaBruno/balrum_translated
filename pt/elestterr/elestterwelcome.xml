@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Você é um caçador?"/>
+    <dia npc="0" str="O que você acha?"/>
+    <dia pl="1" str="Acho que não."/>
+    <dia npc="1" str="Estou na minha primeira missão."/>
+    <dia pl="2" str="Que tipo de missão?"/>
+    <dia npc="2" str="Do tipo em que é preciso remover algo que causa problemas para outra pessoa."/>
+    <dia pl="3" str="Acho que sei o que você quer dizer. Por que uma jovem como você decidiria fazer uma coisa dessas?"/>
+    <dia npc="3" str="Quando você cresce nas ruas roubando pessoas por alguns táleres, você agarra a primeira oportunidade que pode mudar sua vida. Alguém percebeu minhas habilidades de rua e decidiu aperfeiçoá-las e colocá-las em bom uso."/>
+    <dia pl="4" str="Posso dizer ou fazer algo para fazer você mudar de ideia?"/>
+    <dia npc="4" str="Não há retorno. Venho treinando há anos. O tipo de pessoa que me treinou não permite que eu simplesmente desista. Eu sei que você não vai acreditar em mim, mas eles são boas pessoas. Fazemos grandes favores para o reino. De qualquer maneira, essas coisas precisam ser feitas. Se eu não os fizer, outra pessoa o fará."/>
+    <dia pl="5" str="Compreendo."/>
+    <dia npc="5" str="Eu sinto que posso confiar em você. Estou procurando um homem. Um homem horrível que machucou muitas mulheres. Ele é quem causa problemas para muitas pessoas. Ele dirige uma casa de jogos em algum lugar subterrâneo. Às vezes, ele 'convida' moças para suas festas. Ele é pior do que os rebeldes. Eu tenho que ir agora. Fique de olhos abertos e não confie em ninguém."/>
+	<dia pl="6" str="Espere!" jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>
