@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Ei Dudley. Estou pronto para explorar as ruínas que encontramos."/>
+    <dia npc="0" str="Ah, desculpe, não posso ir com você. Eu tenho que ajudar na casa e é hora de colher nossos campos."/>
+    <dia pl="1" str="Desculpas novamente. Tudo bem, eu irei sozinho. Mas se eu encontrar algo interessante, você se arrependerá."/>
+	<dia npc="1" str="Duvido que você encontre algo que valha a pena mencionar. Existem muitas criptas antigas por aqui, por que esta seria tão especial? Você sabe o que aconteceu da última vez, então tome cuidado. Pode haver larvas lá embaixo."/>
+	<dia pl="2" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>
