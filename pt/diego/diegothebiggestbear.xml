@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Ouvi dizer que você encontrou um urso marrom gigante."/>
+    <dia npc="0" str="Saudações, pequenino. Na verdade, encontrei o maior urso da história. Vou vencer o desafio dos caçadores, tenho certeza disso. Venci o último desafio e se vencer este também seria um novo recorde."/>
+    <dia pl="1" str="Onde fica o covil do urso?"/>
+    <dia npc="1" str="Ha! Boa tentativa! Jilian mandou você? Diga a ela que eu nunca a deixaria saber onde está aquele urso."/>
+    <dia pl="2" str="Estou apenas curioso."/>
+    <dia npc="2" str="Bem, não fique. Esse urso é meu. Agora, se você me der licença, preciso me preparar para a poderosa besta."/>
+	<dia pl="3" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Você ouviu o que aconteceu?"/>
+    <dia npc="0" str="Jilian quase foi banida. Você a ajudou com o urso. No final, vocês dois caíram em si. É realmente difícil admitir que você está errado, especialmente na sombra do sucesso. Ambos ainda são jovens, mas nos mostraram que são pessoas honradas. Teria sido devastador perder Jilian. Ela é uma grande caçadora. Eu que agradeço. Fale comigo sempre que quiser e eu te ensinarei a caçar."/>
+    <dia pl="1" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>
