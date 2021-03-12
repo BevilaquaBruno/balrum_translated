@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Fred! Você se lembra quando Hugo morreu?"/>
+    <dia npc="0" str="Claro que me lembro, garoto. Ele era um dos meus melhores amigos. O que você quer?"/>
+    <dia pl="1" str="Você não acha um pouco suspeito que ele tenha caído no poço que estava cavando e também que tenha caído à noite quando os trabalhadores não deveriam estar trabalhando?"/>
+    <dia npc="1" str="Sim, contei a Arlo sobre isso. Eu disse a ele anos atrás que Hugo nem estava bêbado naquela noite. Mas ele e os outros não quiseram ouvir. Eu acho que posso estar errado. Ele pode ter bebido algumas cervejas. Bebi alguns naquela noite, disso tenho certeza. Como eu sei, você pergunta? Porque toda noite eu tomo algumas .. algumas cervejas. Eu sou o estalajadeiro, então isso não é uma grande surpresa. Certo, garoto?"/>
+    <dia pl="2" str="De alguma forma, não acredito que a morte de Hugo tenha sido um acidente."/>
+    <dia npc="2" str="Foi há muito tempo. Não mexa com o passado, garoto. Que diferença faria se ele pulasse no maldito poço ou fosse empurrado para dentro? Ele está morto e ponto final. Ele era um bom amigo meu. Um amigo com quem você poderia contar. Exceto quando ele estava muito bêbado, ha ha. O bom e velho Hugo."/>
+	<dia pl="3" str="Obrigado Fred. Eu posso estar errado. Você pode estar certo sobre não mexer com o passado."/>
+    <dia npc="3" str="Agora, não desça tão bem! Tome esta cerveja, garoto. Vamos beber em memória de Hugo. 'Você bebe uma cerveja gelada de uma caneca velha e suja. À medida que o frio se espalha pelo seu corpo, a sensação de que a morte de Hugo não foi um acidente fica ainda mais forte em você.'"/>
+	<dia pl="4" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

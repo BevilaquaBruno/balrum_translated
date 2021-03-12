@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="O poço leva a um lugar subterrâneo, Fred! Hugo pode ter morrido porque o encontrou!"/>
+    <dia npc="0" str="O que você está falando? Uma área subterrânea? O que você viu? Eu não posso acreditar, você pode estar certo, garoto!"/>
+    <dia pl="1" str="Não muito. Havia grandes paredes de pedra e algumas portas de ferro. Todos eles estavam trancados; Eu não conseguia ir mais longe. Eu deveria te mostrar!"/>
+    <dia npc="1" str="Não desça lá de novo garoto. Se você estiver certo, ao descer lá também poderá colocar sua vida em perigo. Eu não vou lá embaixo! Alguém te viu?"/>
+    <dia pl="2" str="Acho que não. Quem poderia tê-lo matado e por quê? O que poderia haver lá que ele não deveria ter visto?"/>
+    <dia npc="2" str="Eu não tenho ideia garoto. Você deve parar de bisbilhotar. Isso é demais para mim. Hugo está morto. Ele pode ter sido assassinado por causa do lugar que você encontrou. Mas não consigo pensar em ninguém nesta aldeia ou em toda a floresta que o mataria por isso. Se eu fosse você, deixaria isso em paz."/>
+	<dia pl="3" str="Mas alguém pode tê-lo assassinado. Você não quer saber quem e por quê?"/>
+    <dia npc="3" str="Claro que quero saber. Mas isso vai melhorar alguma coisa? Pode muito bem tornar as coisas ainda piores."/>
+    <dia pl="4" str="Você pode estar certo, Fred. Vou ficar de olho."/>
+    <dia npc="4" str="Cuidado, garoto."/>
+	<dia pl="5" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>
