@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Eu preciso criar uma runa de teletransporte especial. Knox me disse que poderia fazer uma pedra para mim com a sua ajuda."/>
+    <dia npc="0" str="Quem é Você? Você é membro da guilda? Espero, para o seu bem, que você seja."/>
+    <dia pl="1" str="Sou um novo membro da guilda."/>
+    <dia npc="1" str="Tudo bem então. Por que eu iria te ajudar?"/>
+    <dia pl="2" str="Precisas de alguma coisa? Eu poderia trabalhar para você e em troca você ajudaria Knox a criar a runa."/>
+    <dia npc="2" str="Eu gosto da sua atitude. Finalmente alguém que não quer usar minhas habilidades sem pagamento. O que você está pedindo não é algo simples. Ajustar uma runa para teletransportá-lo exatamente para onde deseja ir é um procedimento cansativo e demorado. Terei que pedir a você para completar uma tarefa igualmente difícil para mim."/>
+	<dia pl="3" str="Qual seria essa tarefa?"/>
+    <dia npc="3" str="Você sabe onde fica o antigo asilo? Se não, marcarei seu mapa. Perto do asilo existe um antigo cemitério. Eu preciso que você desenterre algumas sepulturas. Bem, se você está sem sorte, você pode ter que desenterrá-los todos. Atualmente sou o criador de runas desta guilda. Knox encanta as runas com energias mágicas, mas eu as completo. Muitos anos atrás, havia um famoso criador de runas em nossa guilda chamado Lester. Seu corpo foi enterrado naquele cemitério perto do asilo. As lendas dizem que ele foi enterrado com algumas de suas runas inacabadas! Não consigo nem imaginar que tipo de runas poderosas elas podem ser. Sua tarefa é encontrar seu corpo e me trazer de volta suas runas inacabadas."/>
+    <dia pl="4" str="Desenterrando sepulturas. Acho que não tenho escolha. Vou trazer de volta as runas."/>
+    <dia npc="4" str="Excelente! Aguardo ansiosamente seu retorno!"/>
+	<dia pl="5" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

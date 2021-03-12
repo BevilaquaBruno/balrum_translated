@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Estou aqui pela runa de teletransporte, Daralis."/>
+    <dia npc="0" str="Está completo. Tenho certeza de que consegui calibrar perfeitamente a runa. Veja, os grandes buracos na runa estão cheios de energia mágica. A proporção entre o nível de energia mágica determina para onde o usuário será teletransportado. Eu tive que perguntar pela guilda para obter uma imagem precisa de onde a biblioteca dos magos está localizada. Felizmente, alguns de nossos membros já invadiram suas torres algumas vezes. Aconselho você a usá-lo à noite, quando a maioria dos magos está dormindo. Boa sorte com sua missão, sombra."/>
+	<dia pl="1" str="Obrigado." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

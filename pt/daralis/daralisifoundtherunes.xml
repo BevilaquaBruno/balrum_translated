@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Eu encontrei as runas."/>
+    <dia npc="0" str="Excelente! Dê-os para mim."/>
+    <dia pl="1" str="Aqui, pegue-os."/>
+    <dia npc="1" str="Obrigado, jovem sombra! Olhe para essas runas. Incrível! Vou tentar aprender o máximo que puder sobre essas runas. Acho que alguns deles podem ser realmente valiosos!"/>
+    <dia pl="2" str="Você não está esquecendo de nada?"/>
+    <dia npc="2" str="O que? Oh sim, sua runa de teletransporte. Me dê um dia. Ele estará pronto para você amanhã! Irei para Knox e iniciar o processo o mais rápido possível. Agora, por favor, saia. Eu preciso de paz quando trabalho."/>
+	<dia pl="3" str="Obrigado." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>
