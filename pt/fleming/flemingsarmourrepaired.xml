@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+	<dia pl="0" str="Estou de volta, Fleming."/>
+    <dia npc="0" str="Receber! Onde está minha armadura? Espero que seu ferreiro tenha cuidado bem dele!"/>
+    <dia pl="10" str="Sinto muito, Fleming, mas sua armadura está arruinada. Aron não conseguiu salvá-lo da ferrugem." jumpNPCd = "1" jumpPlayerd = "2"/>
+    <dia pl="11" str="Aron fez um bom trabalho! Aqui está sua armadura novinha em folha, Fleming. Seu pai ficaria orgulhoso. Use-a para sempre." jumpNPCd = "2" jumpPlayerd = "3"/>
+    <dia npc="1" str="O que? Você está mentindo! Onde você escondeu minha armadura? Diga-me agora!"/>
+	<dia npc="2" str="Obrigado, companheiro aventureiro. Que nossos caminhos se cruzem novamente algum dia."/>
+	<dia pl="2" str="Não estou mentindo, Fleming. Aron fundiu sua armadura em 10 lingotes." jumpNPCd = "3" jumpPlayerd = "3"/>
+    <dia npc="3" str="Fundiu minha armadura?'Os olhos de Fleming ficam vermelhos, mas não por causa da raiva - ele está lutando contra as lágrimas.' Meu pai me disse que eu nunca seria como ele. Ele estava certo. Não sou nem mesmo um aventureiro adequado. Estou apenas vagando pela floresta como um covarde. Minhas aventuras terminam aqui."/>
+    <dia pl="3" str="Fim." jumpNPCd = "0" jumpPlayerd = "0"/>
+</dialogs>

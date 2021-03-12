@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+	<dia pl="0" str="Estou de volta, Fleming."/>
+    <dia npc="0" str="Receber! Onde está minha armadura? Espero que seu ferreiro tenha cuidado bem dele!"/>
+    <dia pl="1" str="Sinto muito, Fleming, mas não fui capaz de consertar sua armadura no Aron's."/>
+    <dia npc="1" str="Pelo menos tentaste. Isso é o que importa, companheiro aventureiro!"/>
+	<dia pl="2" str="Sinto muito, Fleming. Aqui está sua armadura."/>
+    <dia npc="3" str="Minha boa e velha armadura! Agora de volta à aventura! Obrigado por tentar ajudar. Ande com segurança e às vezes se afaste da estrada!"/>
+    <dia pl="3" str="Fim." jumpNPCd = "0" jumpPlayerd = "0"/>
+</dialogs>

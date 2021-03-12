@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Who are you?"/>
+    <dia npc="0" str="I'm a great adventurer. You must have heard of me. My name is Fleming."/>
+    <dia pl="1" str="I have never heard of you, Fleming. I'm sorry."/>
+    <dia npc="1" str="That can't be. Well then, have you heard of my father Linwood?" />
+    <dia pl="2" str="The knight who single handedly killed a giant bear?"/>
+    <dia npc="2" str="Yes. Yes! You see, you know me after all."/>   
+    <dia pl="3" str="I only know your father. What are you doing here?"/>
+    <dia npc="3" str="I'm from Kyler's village and I'm on a great adventure. Just like my father."/>
+    <dia pl="4" str="Your armour looks a little loose, and it has already started to rust."/>
+    <dia npc="4" str="My father was much larger than me, but I'm feeling bigger every day. Some day I will be even bigger than him. But I don't have time to go to a blacksmith. Maybe you could help me. Do you know a great blacksmith? Because I'd only let a master blacksmith touch my father's armour.."/>
+    <dia pl="5" str="I know one, his name is Aron. He is the best blacksmith you can find here in the woods. He crafted fine weapons and armour before we settled in Darkwood." />
+    <dia npc="5" str="I see. Then he should be fine. So would you take my armour to him?"/>
+    <dia pl="6" str="Yes, but I don't think it will be cheap to repair a suit of armour in such bad condition."/>
+    <dia npc="6" str="Of course. A fine armour like this needs special attention, and that's not cheap. What do you think. How much?"/>
+    <dia pl="70" str="100 thalers would be enough."  jumpNPCd = "7" jumpPlayerd = "8"/> 
+    <dia pl="71" str="200 thalers will be enough."  jumpNPCd = "8" jumpPlayerd = "8"/> 
+    <dia pl="72" str="On second thoughts he might even repair your famous armour for free. " jumpNPCd = "9" jumpPlayerd = "8"/>
+    <dia npc="7" str="Here you are. I'll be around here. Please take special care. This armour means a lot to me."/>
+    <dia npc="8" str="Fine. That blacksmith better be worth it. Please take special care. This armour means a lot to me."/>
+    <dia npc="9" str="That was what I was thinking. Any blacksmith would be happy to work on my famous armour for free. Take it. Please take special care. This armour means a lot to me. And here is 50 thalers for your time, fellow adventurer."/>    
+    <dia pl="8" str="End." jumpNPCd = "0" jumpPlayerd = "0"/>
+</dialogs>
