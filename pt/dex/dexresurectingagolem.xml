@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Você precisa de essência de pedra para o seu golem!"/>
+    <dia npc="0" str="Uma essência de pedra, você diz? Hmm interessante. Isso pode até funcionar!"/>
+    <dia pl="1" str="Você tem um?"/>
+    <dia npc="1" str="Não sei. Acho que não. Os mineiros de Balrum encontraram alguns. A grande mina fica a leste daqui. Você deveria perguntar por aí. Você me dá um! Sim!"/>
+    <dia pl="2" str="Se eu fizer isso por você, você diria a Van que quer que eu seja um membro de sua guilda?"/>
+    <dia npc="2" str="Sim, eu vou. Você tem sido de grande ajuda até agora. Se você me trouxer uma essência de pedra, contarei a Van o quanto você ajudou!"/>
+	<dia pl="3" str="Eu estarei de volta com a essência." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

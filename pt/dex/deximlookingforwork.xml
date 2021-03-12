@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Sou um novato. Estou procurando trabalho."/>
+    <dia npc="0" str="Bom Bom! Eu tenho que fazer isso funcionar! Eu tenho que dar vida a este golem! Você precisa me ajudar. O que eu preciso?"/>
+    <dia pl="1" str="O que você precisa?"/>
+    <dia npc="1" str="Sim! Sim! Essa é a questão! O que eu preciso? Como ressuscitar um velho golem? Não tenho tempo para ler todos os livros por aqui! Faz você! Leia os livros na biblioteca e descubra como ressuscitar golens! Aqui, pegue esta runa, ela permitirá que você use o teletransportador para a biblioteca."/>
+    <dia pl="2" str="Eu retornarei." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

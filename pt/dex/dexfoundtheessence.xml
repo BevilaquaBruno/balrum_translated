@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Encontrei uma essência de pedra!"/>
+    <dia npc="0" str="Bom trabalho! Posso continuar meus experimentos."/>
+    <dia pl="1" str="O que você espera descobrir?"/>
+    <dia npc="1" str="Há muito tempo, um membro de nossa guilda aprendeu a controlar os golens. Eu acho que se eu ressuscitar um golem, a criatura vai me aceitar como seu mestre. Direi a Van que você foi realmente útil. A guilda precisa de mais membros como você."/>
+	<dia pl="2" str="Obrigado Dex. Boa sorte com seus experimentos." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>
