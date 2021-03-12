@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Sou um novato. Estou procurando trabalho."/>
+    <dia npc="0" str="Prazer em conhecê-lo. Meu nome é Fay. Eu sou o alquimista aqui. Então, você quer se tornar um membro de nossa guilda. Lembro-me de quando era novato. Aqueles foram os dias bons. Agora os mortos-vivos estão rastejando cada vez mais perto de nós. Mas estou divagando. Eu tenho um trabalho para você! Há uma caverna perto de nossa torre. Tenho ouvido relatos de que naquela caverna um velho membro nosso está conduzindo experimentos. O velho foi expulso da guilda por causa de seu fascínio por poções transformadoras. Rumores dizem que ele transformou alguns camponeses em monstros. Sua tarefa é descobrir se isso é verdade."/>
+    <dia pl="1" str="Se aquele homem estiver na caverna, ele tentará me machucar?"/>
+    <dia npc="1" str="Quando ele ainda era membro, ele sempre ficava quieto. Você só podia vê-lo com um ou dois livros. Ele nunca fez mal a nenhum de nós, mas transformou alguns dos animais da guilda. É sempre melhor estar preparado para o pior. Aqui, tome essas poções."/>
+    <dia pl="2" str="Obrigada. Estarei à caminho." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

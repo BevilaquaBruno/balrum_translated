@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Eu encontrei o mago."/>
+    <dia npc="0" str="O que aconteceu? Os rumores são verdadeiros? Ele transformou as pessoas em monstros?"/>
+    <dia pl="1" str="Ele está morto. Encontrei seu diário. Ele queria se tornar um mestre da transformação. Os membros da guilda zombaram dele porque suas primeiras tentativas não funcionaram. Ele decidiu morar na caverna para continuar seu trabalho em paz. Havia um besouro gigante perto de seu cadáver. O besouro deve ter sido uma tentativa de transformação."/>
+    <dia npc="1" str="A magia da transformação é complicada. Os outros zombaram dele. Eles não deveriam ter. Eu realmente sinto muito por ele. Obrigado pela ajuda."/>
+	<dia pl="2" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>
