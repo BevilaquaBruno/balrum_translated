@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Como estão as coisas?"/>
+    <dia npc="0" str="Bem jovem, as coisas não estão boas."/>
+    <dia pl="1" str="Qual é o problema?"/>
+    <dia npc="1" str="Os rebeldes. Suas demandas são ultrajantes. Eles precisam de mais e mais trigo. Moulton e eu não conseguimos acompanhar."/>
+    <dia pl="2" str="Como posso ajudar?"/>
+    <dia npc="2" str="Não acho que você possa ajudar, querida. A única maneira de acompanharmos é se, de alguma forma, conseguíssemos fazer as safras crescerem mais rápido."/>
+    <dia pl="3" str="Pode haver uma maneira. Você já ouviu falar sobre fragmentos de floresta? Quando esses Wisps estão perto das plantas, as plantas crescem mais rápido e permanecem saudáveis."/>
+    <dia npc="3" str="Bem, eu serei amaldiçoado. Wisps da floresta na minha fazenda? Essas criaturas são pacíficas? E se eles atacarem a mim ou a um de meus funcionários?"/>
+    <dia pl="4" str="Se você não os irritar, eles não serão nenhum problema. O que você disse? Devo levar um para sua fazenda?"/>
+    <dia npc="4" str="Você tem uma certa aura ao seu redor. Eu confio em você, garoto! Sim, vamos tentar isso!"/>
+	<dia pl="5" str="Eu voltarei com um Wisp." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>
