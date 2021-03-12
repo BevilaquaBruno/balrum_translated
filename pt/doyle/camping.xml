@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Estou procurando trabalho."/>
+    <dia npc="0" str="Bom. Tenho algo que precisa ser feito. Quero explorar a caverna próxima, mas o lugar está lotado de sapos gigantes do pântano. Você parece um sujeito capaz. Se você lidar com essas criaturas, vou ensiná-lo a sobreviver na selva. Não peça dinheiro. Eu não tenho nenhum."/>
+    <dia pl="1" str="Vou tentar lidar com as rãs." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Todos os sapos se foram. Está seguro agora. Você pode explorar a caverna com segurança."/>
+    <dia npc="0" str="Obrigado! Se você quiser aprender como construir uma barraca melhor ou como sobreviver em climas adversos, sinta-se à vontade para me perguntar!"/>
+    <dia pl="1" str="Fim." jumpNPCd= "0" jumpPlayerd = "0"/>
+</dialogs>
