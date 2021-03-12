@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Como você está Dayna? Você se sente melhor? Seus poderes estão voltando?"/>
+    <dia npc="0" str="Sim! Eu me sinto muito melhor. Este lugar está isolado da floresta. Meus poderes estão voltando! Obrigado por me mostrar este lugar. Acho que vou ficar aqui um pouco. Posso até considerar ficar aqui."/>
+	<dia pl="1" str="Você pode me ensinar algo?"/>
+	<dia npc="1" str="Agora que meus poderes estão de volta, posso lhe ensinar se você estiver familiarizado com a magia."/>
+	<dia pl="2" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

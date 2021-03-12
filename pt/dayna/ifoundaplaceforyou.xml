@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Eu encontrei um lugar para você!"/>
+    <dia npc="0" str="O que você está falando?"/>
+	<dia pl="1" str="Encontrei uma caverna cheia de veados. Havia árvores no subsolo! Foi bonito! Eu me senti seguro lá. Eu acho que você deveria visitar aquele lugar."/>
+	<dia npc="1" str="Interessante. Diga-me onde fica esse lugar. - Você mostra a Dayna onde encontrou a caverna em seu mapa. Eu vou lá. Obrigado por me dizer!"/>
+	<dia pl="2" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>
