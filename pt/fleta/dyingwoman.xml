@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Posso ajudar? Você parece terrivelmente doente. Seus olhos são de um amarelo profundo."/>
+    <dia npc="0" str="Querida criança, não se preocupe. Uma doença horrível está me consumindo por dentro. Acho que me restam apenas poucos dias. Estou morrendo."/>
+    <dia pl="1" str="Tem que haver algo que eu possa fazer! Vou perguntar ao meu professor de alquimia, Brown; ele pode saber uma poção que pode salvá-la. Eu voltarei." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>
