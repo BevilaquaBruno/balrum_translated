@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="O que aconteceu?"/>
+    <dia npc="0" str="O que não aconteceu seria uma melhor pergunta idiota."/>
+    <dia pl="1" str="Bebi demais. Não me lembro de nada. Eu tenho que ir agora."/>
+    <dia npc="1" str="Você vai voltar, tenho certeza!"/>
+	<dia pl="2" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>
