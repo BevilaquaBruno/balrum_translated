@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Os Packs deixaram a floresta?"/>
+    <dia npc="0" str="Nesse caso, eles tomaram uma decisão ruim. O mundo lá fora ainda está um caos. Duvido que muita coisa tenha mudado nos vinte anos desde que fugimos para a floresta. Eu não entendo por que eles arriscariam suas vidas dessa maneira."/>
+    <dia pl="1" str="O mundo lá fora é tão ruim assim, vovô?"/>
+    <dia npc="1" str="Há muito tempo, hordas de mortos-vivos estavam enxameando de terras desconhecidas para o mundo das pessoas. Os reis enviaram seus exércitos contra as hordas, mas o poder dos mortos-vivos foi muito subestimado. Ninguém sobreviveu às batalhas. Sem os exércitos dos reis, o caos venceu o mundo. Grandes clãs de bandidos se formaram e passaram a viver de acordo com suas próprias regras. Logo os reis de Balrum haviam caído. Foi nessa época que nossa aldeia e o povo de Kyler decidiram fugir para a floresta em busca de proteção contra a loucura. Como você sabe, filho, ninguém se atreve a entrar na floresta por causa da história sombria que ela tem. Foi uma decisão difícil, mas vivemos em paz por muitos anos aqui. A floresta nos protege do mundo exterior. Temo que seja impossível restaurar a ordem em Balrum. Os homens são capazes de coisas horríveis quando não há ninguém para vingar o mal que cometem. As coisas que vi, meu menino, não vou falar."/>
+    <dia pl="2" str="Já se passaram vinte anos, vovô. O mundo pode ter mudado."/>
+    <dia npc="2" str="Não podemos saber disso. Ninguém saiu da floresta - desde que nos estabelecemos aqui. Temos uma boa vida aqui. Os Packs não disseram a ninguém que estavam partindo. Nem mesmo uma carta. Isso realmente me incomoda."/>
+    <dia pl="3" str="Você nunca me contou a história da floresta, vovô."/>
+    <dia npc="3" str="Agora não meu garoto. Algum dia vou te contar tudo."/>
+	<dia pl="4" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

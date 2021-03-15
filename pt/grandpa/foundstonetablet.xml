@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+	<dia pl="0" str="Preciso da sua ajuda vovô!"/>
+    <dia npc="0" str="Calma filho. Com o que posso ajudar?"/>
+    <dia pl="10" str="Thurza encontrou uma placa de pedra nos escombros da casa dos Packs."/>
+    <dia pl="11" str="Eu encontrei uma placa de pedra na casa dos Packs."/>
+    <dia npc="1" str="Uma placa de pedra? Ponha na mesa, filho!"/>
+    <dia pl="2" str="Eu nunca vi nada parecido. O que pode ser? Você pode ler o que está escrito nele?"/>
+    <dia npc="2" str="Interessante, parece que o fogo não danificou a placa de pedra. Como se alguém o tivesse colocado nos escombros de propósito após o incêndio. É uma placa de pedra antiga, mas a escrita nela é recente. Quem, ou o quê, fez isso? Posso conseguir ler o texto, mas vou precisar de tempo. E como isso acabou na casa dos Packs?"/>
+    <dia pl="3" str="Não sei. Espero que você possa ler, vovô. Isso pode nos ajudar a encontrar os Packs."/>
+    <dia npc="3" str="Dê-me um pouco de tempo, garoto. Vá para a Brown, é hora de suas aulas de alquimia. Pergunte a Brown se ele sabe alguma coisa sobre tábuas de pedra."/>
+	<dia pl="4" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

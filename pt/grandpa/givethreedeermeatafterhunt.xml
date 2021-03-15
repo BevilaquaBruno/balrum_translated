@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Aqui está a carne que recolhi, vovô. Eu esperava mais, mas isso será o suficiente para nós e ainda posso dar um pouco para Edmund e Winnie."/>
+    <dia npc="0" str="Obrigado, filho. Edmund e Winnie ficarão muito felizes. É triste ver pessoas tão boas em perigo. Nunca se esqueça de ajudar pessoas menos afortunadas do que você, garoto!"/>
+	<dia pl="1" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

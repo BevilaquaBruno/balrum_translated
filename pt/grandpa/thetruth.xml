@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Quem é Você? Você mentiu para mim todos esses anos!"/>
+    <dia npc="0" str="Sinto muito, meu garoto! Eu tive que te proteger de tudo isso. Fui seu zelador no castelo. Não sou seu avô de sangue. Você é o filho do rei Edward. Quem te disse isso?"/>
+    <dia pl="1" str="Consegui entrar na antiga cidade subterrânea. Os espíritos dos necromantes de Darkwood estavam lá embaixo. Eles não foram destruídos. Eles me contaram tudo. Eu sei que alguns de nós são do castelo. Eu sei que nossas vidas são todas mentiras."/>
+    <dia npc="1" str="Você tem que entender, filho. Tínhamos que fazer isso. Os rebeldes revoltados teriam matado a todos. Eles mataram seu pai e sua mãe. Mal conseguimos escapar com você. Eles fizeram coisas horríveis. Tivemos que fugir."/>
+    <dia pl="2" str="Eu sei que você tinha que fazer. Eu sinto Muito. Eu não sei o que fazer. Eu deixei os necromantes livres. Eu acho que eles mataram os Packs. Eu ... eu ..."/>
+    <dia npc="2" str="Você tem que se acalmar. Você estava apenas tentando ajudar. Conte-me o que aconteceu lá."/>
+    <dia pl="3" str="Tenho que trazer os restos mortais dos necromantes para Darkwood. Se eu falhar, todo mundo morre. Eles estavam planejando isso há anos. Eu não tenho escolha. Eu tenho que ir."/>
+    <dia npc="3" str="Leonard sabia que algo não estava certo nessa floresta. Ele continuou dizendo que sente uma presença sombria. Nós não o ouvimos. Sinto muito por você ter se metido nisso. A culpa é nossa e agora você e os outros estão em grande perigo. Precisamos manter a calma. Você não pode contar a ninguém sobre isso. Eles não sabem quem somos. Eles pensam que somos aldeões simples como eles. Fale com o Arlo, ele saberá o que deve ser feito. Não importa o sangue que você tenha, você sempre será meu neto."/>
+	<dia pl="4" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

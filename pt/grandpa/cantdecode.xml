@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Você conseguiu traduzir as esculturas vovô?"/>
+    <dia npc="0" str="Infelizmente não, filho. Não consigo traduzir os escritos. Tentei tudo que sei."/>
+    <dia pl="1" str="O que nós vamos fazer agora?"/>
+    <dia npc="1" str="Posso conhecer alguém que pode nos ajudar. Seu professor de magia Leonard. Acho que ele será capaz de decifrar o segredo desta placa de pedra. Leve a placa com você e visite Leonard."/>
+	<dia pl="2" str="Eu estarei de volta o mais rápido possível vovô!" jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

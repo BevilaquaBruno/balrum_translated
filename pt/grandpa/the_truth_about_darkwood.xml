@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Diga-me a verdade sobre Darkwood, vovô."/>
+    <dia npc="0" str="Bem, meu rapaz, eu sabia que chegaria o momento em que teria de lhe contar sobre a floresta. Bruxos do mal fizeram uso deste lugar. A floresta os escondia do mundo para que pudessem fazer o que seus corações desejassem. Eles fizeram inúmeras coisas horríveis aqui. Não sei os detalhes exatos, mas sei que eles sacrificaram inocentes durante seus rituais sombrios aqui. Eles obedecem a Nasrus, o deus que pode ser o próximo Deus Louco."/>
+    <dia pl="1" str="Por que eles escolheram este lugar?"/>
+    <dia npc="1" str="Este lugar foi tocado pelos Deuses séculos atrás. Sua energia flui pela floresta até hoje. Bruxos das trevas podem usar essa energia em seus rituais. Barnabas até diz que as plantas crescem mais rápido aqui."/>
+    <dia pl="2" str="Tocado pelos deuses?"/>
+    <dia npc="2" str="Não sei ao certo, mas as lendas antigas dizem que existem muitos segredos nesta floresta. Deve haver uma boa razão para os deuses virem aqui e interferir com os mortais."/>
+    <dia pl="3" str="Por que ninguém veio atrás de nós?"/>
+    <dia npc="3" str="Rei Triston foi o único que teve coragem de dizer basta. Ele reuniu seu Exército Vermelho e massacrou todos aqui. As lendas dizem que mataram todos na floresta, até as crianças, porque não podiam ter certeza de quem era mau e quem não era. As pessoas ficam longe deste lugar porque pensam que as maldades podem acontecer novamente um dia. Dizem até que o bosque fedia a sangue muito tempo depois do massacre."/>
+    <dia pl="4" str="Acho que já ouvi o suficiente. Agora eu entendo. Este lugar nos dá proteção porque o mundo exterior teme a floresta."/>
+    <dia npc="4" str="Você está certo, meu garoto. É por isso que escolhemos este lugar. E nada de ruim aconteceu por quase vinte anos. Algo grande vai acontecer, eu posso sentir isso."/>
+	<dia pl="5" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

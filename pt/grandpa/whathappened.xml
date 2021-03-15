@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="O que aconteceu aqui, vovô? Você está bem?"/>
+    <dia npc="0" str="Estou bem filho, mas olhe para a nossa casa. A casa inteira quase pegou fogo. Graças aos deuses, pude parar o fogo de queimar tudo. Você nunca chega tarde quando está caçando, isso me impediu de dormir. Acho que podemos dizer que o seu atraso salvou minha vida e nossa casa. Pelo menos o que resta dele. Teria sido meu último lugar de descanso."/>
+	<dia pl="1" str="Como isso pode ter acontecido?"/>
+    <dia npc="1" str="Meu filho, não tenho ideia de como isso pode ter acontecido. Eu apago as velas. Então, eles não poderiam ter causado o incêndio. O fogo começou longe da tocha, então não há mais nada em que eu possa pensar. Estou velho, mas ainda consigo lançar um poderoso feitiço de congelamento. Mal foi o suficiente para parar as chamas."/>
+	<dia pl="2" str="Estou tão feliz que você está bem, vovô. A casa pode ser consertada, mas não sei o que faria sem você. Você é como um pai para mim."/>
+    <dia npc="2" str="Não se preocupe filho, estou aqui para ficar. Chega de falar sobre mim. Estou bem, mas nossos vizinhos desapareceram. Pack, Frieda e sua filha Audie estão desaparecidas. A casa deles foi totalmente destruída pelo fogo. Não pode ser coincidência. As pessoas estão preocupadas com a possibilidade de serem as próximas."/>
+	<dia pl="3" str="O que podemos fazer? Quando começará a busca por eles? O que Arlo diz sobre isso?"/>
+    <dia npc="3" str="Os homens já estão procurando por eles. Quanto ao fogo, Arlo suspeita que podem ser as tochas. Isso é muito constrangedor para o Aron, já que ele os fez, mas como eu disse, o incêndio em nossa casa não começou por causa de uma tocha ruim."/>
+	<dia pl="4" str="O que você está implicando?"/>
+    <dia npc="4" str="Não sei, filho, mas algo está realmente errado. Você deve ir falar com os vizinhos Pack e Frieda, Cardew e Thurza. Eles podem ter visto ou ouvido algo. Antes de você ir, pegue isso. Seus pais me deram. Eles me disseram que eu deveria dar a você quando você precisar de proteção. Acho que chegou a hora. Ele o levará a um lugar onde ninguém poderá encontrá-lo. Construa uma casa lá e sempre que sentir que sua vida está em perigo, use a runa. Por favor, meu menino, não faça perguntas."/>
+	<dia pl="5" str="Você não vai me dizer nada sobre meus pais. Tudo bem, não vou fazer perguntas, mas não vou deixar você vovô!"/>
+    <dia npc="5" str="Está quase amanhecendo e até a fumaça se foi. Eu vou ficar bem. Aquela pobre menina Audie. Como eles podem simplesmente desaparecer? Nenhum corpo foi encontrado. Acho que é melhor se você olhar para isso, filho. Confie em mim, vou ficar bem."/>
+	<dia pl="6" str="Eu volto em breve."/>
+    <dia npc="6" str="Eu quase esqueci. Quando tiver tempo, repare os danos. Vamos torcer para que o pior tenha passado e a família de Pack seja encontrada."/>
+	<dia pl="7" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

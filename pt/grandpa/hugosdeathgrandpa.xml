@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+ 	<dia pl="0" str="Como o Hugo morreu, vovô?"/>
+    <dia npc="0" str="Por que você está perguntando, filho? Foi um acidente horrível há muito tempo."/>
+ 	<dia pl="1" str="Eu estava perto do cemitério e me lembrei que Hugo caiu no poço que ele e os outros trabalhadores estavam cavando. E se bem me lembro, ele caiu no meio da noite. Estou me lembrando das coisas corretamente, vovô?"/>
+    <dia npc="1" str="Sim, filho, sua memória te serve bem. Aquele pobre Hugo morreu à noite. Ele era o único amigo de Cardew. Os dois eram próximos e Cardew estava em um estado muito mais saudável quando Hugo estava vivo."/>
+    <dia pl="2" str="Como ele poderia cair no poço em que estava trabalhando? Agora que penso nisso, é realmente estranho."/>
+    <dia npc="2" str="Na época em que ele morreu, nem pensamos em como isso aconteceu. Todos sabiam que ele gostava de beber e pensaram que estava bêbado quando caiu. Mas você tem razão, é estranho. Acho que nunca saberemos realmente."/>
+    <dia pl="3" str="Acho que devo perguntar por aí sobre Hugo. A quem devo perguntar?"/>
+    <dia npc="3" str="Bem, Hugo era um sujeito popular, mas os únicos amigos verdadeiros que tinha eram Cardew e o estalajadeiro, Fred."/>
+	<dia pl="4" str="Vou perguntar a eles sobre sua morte."/>
+    <dia npc="4" str="Faça o que quiser, filho. Tenha cuidado com Fred, ele pode ser um pouco emotivo, você sabe."/>
+	<dia pl="5" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Alimentei os porcos de Osrick e ele me deu duas linguiças de porco defumadas na hora. Um é para você vovô!"/>
+    <dia npc="0" str="O bom e velho Osric. Ele faz as melhores salsichas. Obrigado, meu filho."/>
+	<dia pl="1" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>
