@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Acho que preciso falar com você."/>
+    <dia npc="0" str="Falar."/>
+    <dia pl="1" str="Onde estou?"/>
+    <dia npc="1" str="Você está em um sonho."/>
+    <dia pl="2" str="Como posso acordar?"/>
+    <dia npc="2" str="Nós apenas temos que conversar."/>
+    <dia pl="3" str="Por que estou tendo esses pesadelos estranhos ultimamente?"/>
+    <dia npc="3" str="O passado está tentando ajudá-lo."/>
+    <dia pl="4" str="O passado?"/>
+    <dia npc="4" str="Não se preocupe. Tudo ficará claro. Você tem que ser paciente."/>
+    <dia pl="5" str="Me diga mais." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>
