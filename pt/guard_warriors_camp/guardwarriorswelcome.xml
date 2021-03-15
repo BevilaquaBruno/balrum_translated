@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Que acampamento é esse?"/>
+    <dia npc="0" str="Quem vai lá? Você não parece um rebelde. Acho que é seu dia de sorte."/>
+    <dia pl="1" str="Guardiões da luz."/>
+    <dia npc="1" str="Você pode entrar no acampamento. Fale com Bolt, ele é nosso chefe. Bem Vindo."/>
+	<dia pl="2" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>
