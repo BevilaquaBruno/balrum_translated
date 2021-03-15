@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Como você pode estar vivo?"/>
+    <dia npc="0" str="Me mata."/>
+    <dia pl="1" str="Eu posso te ajudar!"/>
+    <dia npc="1" str="Estou aqui há incontáveis ​​anos. Por favor me mate."/>
+    <dia pl="2" str="Quem é Você?"/>
+    <dia npc="2" str="Sou um dos soldados do Rei Triston. As coisas monstruosas que fizemos. Nosso comandante nos disse que não podemos ter certeza de quem é o mal e quem é inocente. Nós massacramos todo mundo. Até as crianças. Lembro-me do rosto de uma bela jovem. Ela estava bem onde você está. Ela estava olhando para mim. Eu estava coberto de sangue. A mulher me olhou bem nos olhos e disse: 'Você nunca vai matar todos nós'. Então ela me cortou ao meio. A dor! Eu sinto a dor! Por quantos anos .. Eu ainda sinto a dor. Ela colocou um feitiço em mim para que eu não pudesse me mover. E ela me forçou a beber uma poção. Eu entendo agora. Eu mereço. Éramos exatamente como eles. Tirando vidas inocentes."/>
+	<dia pl="3" str="Como posso ajudá-lo?"/>
+    <dia npc="3" str="Por favor me mate! Esta é a única coisa que você pode fazer por mim."/>
+    <dia pl="40" str="Eu não vou te matar. Você merece apodrecer por toda a eternidade." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia pl="41" str="Eu devo fazer o que você pede." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>
