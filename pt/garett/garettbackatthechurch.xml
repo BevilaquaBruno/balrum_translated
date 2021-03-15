@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Como você está Garett?"/>
+    <dia npc="0" str="Estou bem. Me deixe em paz, tenho muito trabalho a fazer."/>
+    <dia pl="1" str="Lamento que você tenha que voltar para a igreja."/>
+    <dia npc="1" str="É por causa de você. Você disse ao pai."/>
+    <dia pl="2" str="Se você tivesse cuidado das rotações, isso não teria acontecido."/>
+    <dia npc="2" str="Acho que você está certo. Você me faria um favor?"/>
+    <dia pl="3" str="Que favor?"/>
+    <dia npc="3" str="Tem uma garota aqui na igreja. Estou com muito medo de falar com ela. Você poderia dizer a ela para me encontrar na frente da igreja depois do pôr do sol? Vou juntar toda a minha coragem e vou falar com ela! Posso precisar de algumas cervejas antes. Sim, definitivamente preciso de algumas cervejas."/>
+    <dia pl="4" str="O que isso traz para mim, Garett?"/>
+    <dia npc="4" str="Vou te contar um segredo! Eu vejo muitas coisas acontecendo na igreja, você sabe."/>
+    <dia pl="5" str="Combinado. Eu vou falar com ela." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

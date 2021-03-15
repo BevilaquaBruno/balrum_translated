@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Eu disse a Queenie. Ela estava animada. Ela vai encontrá-lo lá ao pôr do sol."/>
+    <dia npc="0" str="Muito obrigado. 'Hic'"/>
+    <dia pl="1" str="E aquele segredo do Garett?"/>
+    <dia npc="1" str="Oh sim. Você deve ter visto os interruptores enferrujados na parede. Eu sei a combinação! Está ligado, ligado, desligado, ligado, ligado. Ou está desligado, desligado, ligado, desligado, desligado. Não tenho certeza. Mas eu sei que há algo interessante por trás dessas paredes. Os padres continuam entrando lá."/>
+    <dia pl="2" str="Obrigado Garett."/>
+    <dia npc="2" str="Estou tão nervoso. 'Hic' eu tenho que beber outra cerveja."/>
+	<dia pl="3" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

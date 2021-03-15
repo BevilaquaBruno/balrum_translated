@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Seu pai me enviou. Você sabe por que o leite que você vende é azedo?"/>
+    <dia npc="0" str="Azedo? Pai? Eu não sei do que você está falando. Este leite aqui está bom."/>
+    <dia pl="1_0" str="Tudo bem filho. Não precisa se alarmar. Tenho certeza de que foi um erro. Vou deixar você com o seu trabalho." jumpNPCd= "0" jumpPlayerd = '0'/>
+    <dia pl="1_1" str="Ouça aqui, garoto. Algo está errado com o leite que você vende. Seu pai parecia muito chateado com isso."/>
+    <dia npc="1" str="Posso ter esquecido de limpar a batedeira algumas vezes."/>
+    <dia pl="2" str="O que devo fazer com você agora? Devo contar a seu pai sobre isso?"/>
+    <dia npc="2" str="Por favor, não diga ao pai! Ele me mandaria de volta para manter a igreja limpa. Essa igreja é enorme. Eu prometo que vou trabalhar mais duro. Vou manter a batedeira limpa!"/>
+	<dia pl="3" str="Mantenha a batedeira limpa e você não terá que voltar para a igreja. Você deve começar agora, antes que seu pai venha aqui." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>
