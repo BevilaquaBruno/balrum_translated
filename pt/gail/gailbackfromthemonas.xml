@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Estou de volta das ruínas."/>
+    <dia npc="0" str="Estou genuinamente surpreso. Você encontrou algum dos outros recrutas?"/>
+    <dia pl="1" str="Encontrei um corpo. A adaga estava com ele. Ele estava vestindo roupas simples. Ele devia ter uns vinte anos."/>
+    <dia npc="1" str="Ahh sim ... Burt. Vou riscar o nome dele da lista. Obrigada. Mostre-me a adaga."/>
+    <dia pl="2" str="... Aqui, pegue."/>
+    <dia npc="2" str="Sim Sim. Esta é a adaga. As pobres almas nem sabiam como isso é inútil. É um punhal simples, você vê, cheio de joias inúteis."/>
+	<dia pl="3" str="..."/>
+    <dia npc="3" str="Por que você está olhando assim para mim? A tarefa era simples. Você só tinha que ficar nas sombras. Os mortos-vivos mal podem ver no escuro. Todo e qualquer recruta poderia facilmente evitá-los. Eu suponho que você descobriu isso. Parabéns!"/>
+    <dia pl="4" str="O que acontece agora? Posso entrar na guilda?"/>
+    <dia npc="4" str="De agora em diante você é um de nós. Você ganhou o título de sombra. Se você falar com nossa guilda para um estranho, iremos caçá-lo."/>
+	<dia pl="5" str="A guilda vai me ajudar a encontrar os restos mortais dos necromantes de Darkwood?"/>
+    <dia npc="5" str="Certamente! Fale com Knox. Agora, se você não se importa, eu tenho outras coisas para atender. E não se esqueça de falar com os outros. De agora em diante, eles vão negociar com você e te ensinarão."/>
+	<dia pl="6" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>

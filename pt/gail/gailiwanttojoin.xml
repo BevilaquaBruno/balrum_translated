@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<dialogs>
+    <dia pl="0" str="Preciso encontrar os restos mortais dos necromantes de Darkwood."/>
+    <dia npc="0" str="Quem te mandou?"/>
+    <dia pl="1" str="Morven."/>
+    <dia npc="1" str="Bem. Você precisa de nossa ajuda para encontrar esses restos?"/>
+    <dia pl="2" str="sim. Um velho mago me disse que eu posso encontrar o que estou procurando na guilda dos magos."/>
+    <dia npc="2" str="Então por que você está aqui? Por que você não está na guilda dos magos implorando por ajuda? Não importa. Podemos ajudá-lo, mas somente se você for um membro."/>
+    <dia pl="3" str="O que devo fazer para me tornar um de vocês?"/>
+    <dia npc="3" str="Faça uma tarefa simples que eu te dou e nós te aceitaremos. Você já provou seu valor para um de nossos membros, é por isso que está aqui."/>
+    <dia pl="4" str="Qual é esta tarefa simples?"/>
+    <dia npc="4" str="Alguns tentaram antes. Infelizmente, não houve um novo recruta em anos. Eles morreram, eu suponho. Você tem que explorar uma velha ruína. Em algum lugar das ruínas existe uma adaga antiga. Traga-me essa adaga."/>
+	<dia pl="5" str="Essa é a sua tarefa simples? Os recrutas morreram e você considera a missão deles uma tarefa simples?"/>
+    <dia npc="5" str="É uma tarefa simples. Não é minha culpa que os recrutas tenham dificultado as coisas para eles próprios. A decisão é tua. Se você está com medo, não há razão para estar aqui."/>
+    <dia pl="6" str="eu não estou assustado."/>
+    <dia npc="6" str="Esse é o espírito! Vou marcar no mapa para você. Aqui, pegue esta chave. Isso abrirá as portas principais das ruínas. A velha ruína é protegida por uma poderosa magia. Você só pode ver se tiver a chave com você. Eu te desejo sorte! Além disso, se você encontrar alguns dos recrutas anteriores, identifique-os. Apenas para registro."/>	
+	<dia pl="7" str="Fim." jumpNPCd= "0" jumpPlayerd = '0'/>
+</dialogs>
